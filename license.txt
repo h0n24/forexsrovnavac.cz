@@ -1,0 +1,9 @@
+Copyright (c) 2014 Jan Šablatura
+Inspired by Singularity, Pico and Stacey
+
+Syntax based on Markdown and Markdown Extra
+
+Tools used
+* Twitter Bootstrap
+* Font Awesome
+* Less
