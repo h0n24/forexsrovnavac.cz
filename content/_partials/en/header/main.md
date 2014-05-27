@@ -13,9 +13,6 @@
         <li>
           <a href="{{url}}#section-1">Brokers list</a>
         </li>
-        <li>
-          <a href="{{url}}#section-2">How to choose</a>
-        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>

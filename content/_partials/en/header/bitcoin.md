@@ -27,7 +27,7 @@ Welcoming bonus 500CZK
           <a href="#section-1">What is about?</a>
         </li>
         <li>
-          <a href="#section-2">Aktualny kurs</a>
+          <a href="#section-2">Update rate</a>
         </li>
         <li>
           <a href="#section-3">Where to trade?</a>

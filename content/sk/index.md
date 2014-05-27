@@ -11,17 +11,17 @@
 
 {{start}}
 
-# Nejlepší Forex Brokeři
+# Najlepšie Forex Brokeri
 
-Najděte si toho svého, protože jen ten pravý vám ušetří peníze.
+Nájdite si toho svojho, pretože len ten pravý vám ušetrí peniaze. 
 
-My vám pomůžeme s výběrem. Srovnání a hodnocení Forex brokerů rychle a jednoduše.
+My vám pomôžeme s výberom. Porovnanie a hodnotenie Forex brokerov rýchlo a jednoducho.
 
 {{/start}}
 
 {{section}}
 
-## Brokers list
+## Zoznam brokerov
 
 {{partial: table-brokeri}}
 
@@ -34,7 +34,7 @@ My vám pomůžeme s výběrem. Srovnání a hodnocení Forex brokerů rychle a 
 
 {{section}}
 
-## Aktuální kurzy měn
+## Aktuálne kurzy mien
 
 {{partial: table-kurzy}}
 

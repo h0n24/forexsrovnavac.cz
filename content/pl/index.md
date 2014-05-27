@@ -21,24 +21,16 @@ Pozwól nam pomóc w wyborze. Porównanie i ocena brokerów Forex szybko i łatw
 
 {{section}}
 
-## Seznam brokerů
+## Lista brokerów
 
 {{partial: table-brokeri}}
 
 {{/section}}
 
-
 {{section}}
 
-{{partial: jak-spravne-vybrat-brokera}}
+## Spróbuj również
 
-{{/section}}
-
-
-{{section}}
-
-## Aktuální kurzy měn
-
-{{partial: table-kurzy}}
+Handel z wirtualnej waluty Bitcoin [Bitcoin]({{url}}bitcoin){.btn .btn-primary} lub przy [Litecoin]({{url}}litecoin){.btn .btn-primary}
 
 {{/section}}

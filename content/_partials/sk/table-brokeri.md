@@ -3,19 +3,19 @@
 <thead>
  <tr class="">
    <th class="span2"></th>
-   <td class="span2 top"><a href="{{url}}hotforex" class="logo"><img src="{{img-url}}loga/hot150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}plus500" class="logo"><img src="{{img-url}}loga/plu150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}xtb" class="logo"><img src="{{img-url}}loga/xtb150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}patria-forex" class="logo"><img src="{{img-url}}loga/pat150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}mayzus" class="logo"><img src="{{img-url}}loga/may150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}hotforex" class="logo"><img src="{{img-url}}loga/hot150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}plus500" class="logo"><img src="{{img-url}}loga/plu150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}xtb" class="logo"><img src="{{img-url}}loga/xtb150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}patria-forex" class="logo"><img src="{{img-url}}loga/pat150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}mayzus" class="logo"><img src="{{img-url}}loga/may150.png"></a></td>
  </tr>
  <tr>
    <th class="span2"></th>
-   <td class="span2"><a href="{{url}}hotforex">Hot Forex</a></td>
-   <td class="span2"><a href="{{url}}plus500">Plus 500. CFD broker.</a></td>
-   <td class="span2"><a href="{{url}}xtb">X-Trade Brokers</a></td>
-   <td class="span2"><a href="{{url}}patria-forex">Patria Forex</a></td>
-   <td class="span2"><a href="{{url}}mayzus">Mayzus</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}hotforex">Hot Forex</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}plus500">Plus 500. CFD broker.</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}xtb">X-Trade Brokers</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}patria-forex">Patria Forex</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}mayzus">Mayzus</a></td>
  </tr>
 </thead>
 <tbody>
@@ -45,11 +45,11 @@
 </tr>
 <tr>
  <th><abbr title="Poplatky, které si účtuje broker za zprostředkování obchodu. Jde o poplatky nad rámec spreadu.">poplatky</abbr></th>
- <td>ne</td>
- <td>ne</td>
- <td>ano</td>
- <td>ne</td>
- <td>ne</td>
+ <td>nie</td>
+ <td>nie</td>
+ <td>áno</td>
+ <td>nie</td>
+ <td>nie</td>
 </tr>
 <tr>
  <th><abbr title="Velikost páky udává, s kolikrát větším účtem můžete disponovat.">páka</abbr></th>
@@ -62,18 +62,18 @@
 <tr>
   <th>platformy</th>
   <td><abbr title="Nejrozšířenější obchodní software pro obchodování Forexu. Umožňuje analyzovat trhy i zadávat obchodní příkazy.">MT4</abbr></td>
-  <td>vlastní</td>
-  <td><abbr title="Nejrozšířenější obchodní software pro obchodování Forexu. Umožňuje analyzovat trhy i zadávat obchodní příkazy.">MT4</abbr>, vlastní</td>
-  <td>vlastní</td>
+  <td>vlastné</td>
+  <td><abbr title="Nejrozšířenější obchodní software pro obchodování Forexu. Umožňuje analyzovat trhy i zadávat obchodní příkazy.">MT4</abbr>, vlastné</td>
+  <td>vlastné</td>
   <td><abbr title="Nejrozšířenější obchodní software pro obchodování Forexu. Umožňuje analyzovat trhy i zadávat obchodní příkazy.">MT4</abbr>, <abbr title="Nová verze nejrozšířenějšího obchodního software pro obchodování Forexu. Vychází z MT4.">MT5</abbr></td>
 </tr>
 <tr>
   <th><abbr title="Pokud broker neumožňuje hedging, nemůžete mít současně otevřenou dlouhou (long) a krátkou (short) pozici na jednom měnovém páru.">hedging</abbr></th>
-  <td>ano</td>
-  <td>ne</td>
-  <td>ano</td>
-  <td>ano</td>
-  <td>ano</td>
+  <td>áno</td>
+  <td>nie</td>
+  <td>áno</td>
+  <td>áno</td>
+  <td>áno</td>
 </tr>
 <tr>
   <th><abbr title="Konkurenční výhoda.">bonus</abbr></th>
@@ -85,11 +85,11 @@
 </tr>
 <tr>
   <th></th>
-  <td class="bot"><a href="{{url}}hotforex" class="btn btn-default">Více<span class="hidden-xs"> informací</span></a></td>
-  <td class="bot"><a href="{{url}}plus500" class="btn btn-default">Více<span class="hidden-xs"> informací</span></a></td>
-  <td class="bot"><a href="{{url}}xtb" class="btn btn-default">Více<span class="hidden-xs"> informací</span></a></td>
-  <td class="bot"><a href="{{url}}patria-forex" class="btn btn-default">Více<span class="hidden-xs"> informací</span></a></td>
-  <td class="bot"><a href="{{url}}mayzus" class="btn btn-default">Více<span class="hidden-xs"> informací</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}hotforex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}plus500" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}xtb" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}patria-forex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}mayzus" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
 </tr>
 </tbody></table>
 </div>

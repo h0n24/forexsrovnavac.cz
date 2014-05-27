@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Obchodování na forexu a Forex strategie",
-    "description": "Srovnání forex brokerů, vyberte si vašeho brokera pro obchodování na forexu. Najděte si svého brokera. Protože jen ten pravý vám ušetří peníze.",
-    "keywords": "Forex, Broker, Forex strategie, Jak vybrat brokera, Forex brokeři, Kurzy měn, srovnání brokerů"
+    "title": "Der Handel in Forex und Forex-Strategie",
+    "description": "Forex-Broker-Vergleich, wählen Sie Ihren Broker für Forex-Handel. Finden Sie Ihren Broker. Denn nur die richtige sparen Sie Geld.",
+    "keywords": "Forex Broker, Forex Strategien, Wie wählen Sie ein Broker Forex Broker, Wechselkurse, verglichen Makler"
   }
 {{/settings}}
 
@@ -27,15 +27,10 @@ Wir helfen Ihnen mit Ihrer Wahl. Vergleichen Sie mit uns Forex Broker schnell un
 
 {{/section}}
 
-
-{{section}}
-{{partial: jak-spravne-vybrat-brokera}}
-{{/section}}
-
 {{section}}
 
-## Aktuální kurzy měn
+## Versuchen Sie auch
 
-{{partial: table-kurzy}}
+Handeln mit virtueller Währung [Bitcoin]({{url}}bitcoin){.btn .btn-primary} oder auch versuchen [Litecoin]({{url}}litecoin){.btn .btn-primary}
 
 {{/section}}

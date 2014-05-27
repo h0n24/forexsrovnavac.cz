@@ -27,15 +27,10 @@ Let us help you with your choice. Compare with us Forex brokers quickly and easi
 
 {{/section}}
 
-
-{{section}}
-{{partial: jak-spravne-vybrat-brokera}}
-{{/section}}
-
 {{section}}
 
-## Aktuální kurzy měn
+## Try also
 
-{{partial: table-kurzy}}
+Trading with virtual currency Bitcoin [Bitcoin]({{url}}bitcoin){.btn .btn-primary} or with [Litecoin]({{url}}litecoin){.btn .btn-primary}
 
 {{/section}}

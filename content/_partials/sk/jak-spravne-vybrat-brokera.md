@@ -2,7 +2,7 @@
 
 <div class="carousel-nadpis" markdown="1">
 
-## Jak správně vybrat brokera
+## Ako správne vybrať brokera
 
 <ol class="carousel-indicators hidden-xs">
   <li data-target="#brokeri-carousel" data-slide-to="0" class="active"></li>
@@ -20,18 +20,18 @@
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-### Reference a bezpečnost
+### Referencie a bezpečnosť 
 
-Jednou z prvních věcí, kterou byste s výběrem brokera neměli opomínat, je otázka bezpečnosti. V ČR musí být každý broker registrován u ČNB, která na tomto trhu provádí regulaci a kontrolu jednotlivých společností. Na národní banku se můžete obracet s případnými stížnostmi či reklamacemi. Je to jedna z mála možností, jak se vyhnout případnému soudu, pokud byste měli s vaším brokerem problémy.
+Jednou z prvých vecí, ktorú by ste s výberom brokera nemali opomínať, je otázka bezpečnosti. V SR musí byť každý broker registrovaný u ČNB, ktorá na tomto trhu vykonáva reguláciu a kontrolu jednotlivých spoločností. Na národnú banku sa môžete obracať s prípadnými sťažnosťami či reklamáciami. Je to jedna z mála možností, ako sa vyhnúť prípadnému súdu, ak by ste mali s vaším brokerom problémami. 
 
-Co se týče zahraničních brokerů, například ve spojených státech existuje FCM a CFTC.
+Čo sa týka zahraničných brokerov, napríklad v spojených štátoch existuje FCM a CFTC.
 
 </div>
 <div class="col-md-6"  markdown="1">
 
-### Na co si dát pozor
+### Na čo si dať pozor 
 
-Většina zahraničních obchodníků má ale svá sídla, mimo tradiční a především kontrolované země. Jsou to tzv. OFFSHORE obchodníci, kteří nepodléhají takřka žádným regulacím, ani žádné standardní bankovní regulaci. Řada těchto „obchodníků“ touží doslova vytáhnout peníze z naivních klientů. Proto pokud se rozhodnete obchodovat s většími částkami, v žádném případě nedoporučujeme využívat podobných neregulovaných firem, nebo dokonce jednotlivců, kteří obchodují například na tzv. PAMM účtech.
+Väčšina zahraničných obchodníkov má ale svoje sídla, mimo tradičného a predovšetkým kontrolovanej krajiny. Sú to tzv OFFSHORE obchodníci, ktorí nepodliehajú takmer žiadnym reguláciám, ani žiadne štandardné bankové regulácii. Rad týchto "obchodníkov" túžia doslova vytiahnuť peniaze z naivných klientov. Preto ak sa rozhodnete obchodovať s väčšími čiastkami, v žiadnom prípade neodporúčame využívať podobných neregulovaných firiem, alebo dokonca jednotlivcov, ktorí obchodujú napríklad na tzv PAMM účtoch.
 
 </div>
 </div>
@@ -42,20 +42,20 @@ Většina zahraničních obchodníků má ale svá sídla, mimo tradiční a př
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-### Obchodní platforma
+### Obchodná platforma 
 
-Součástí služeb každého forex brokera je platforma, na které budete obchodovat a používat svůj účet. Většina brokerů využívá MT4. Existují ale i výjimky, které nabízejí své vlastní. Každá platforma by měla být přehledná a intuitivní a měla by obsahovat všechny informace, které pro obchodování potřebujete (přehled otevřených a uzavřených pozic, výpis z účtu…).
+Súčasťou služieb každého forex brokera je platforma, na ktorej budete obchodovať a používať svoj účet. Väčšina brokerov využíva MT4. Existujú ale aj výnimky, ktoré ponúkajú svoje vlastné. Každá platforma by mala byť prehľadná a intuitívna a mala by obsahovať všetky informácie, ktoré pre obchodovanie potrebujete (prehľad otvorených a uzavretých pozícií, výpis z účtu ...). 
 
-Výběr obchodní platformy, je ve vašich rukou. Ať už se rozhodnete pro ověřený software, nebo dáte přednost novince, vždy si pečlivě vybírejte. Může se zdát, že jde o drobnosti, ale ty v budoucnu, a zejména pak při reálném obchodování, rozhodnou o vaší spokojenosti.
+Výber obchodnej platformy, je vo vašich rukách. Či už sa rozhodnete pre overený softvér, alebo dáte prednosť novinke, vždy si starostlivo vyberajte. Môže sa zdať, že ide o drobnosti, ale tie v budúcnosti, a najmä potom pri reálnom obchodovaní, rozhodnú o vašej spokojnosti.
 
 </div>
 <div class="col-md-6" markdown="1">
 
-### Poplatky a spready
+### Poplatky a spready 
 
-Nic není zadarmo a i brokeři se musí něčím živit. Hlavní zdroj příjmů forex brokerů jsou obchodní poplatky (spready). V současné době je však konkurence tak vysoká, že se většina obchodníků snaží u spreadu poskytovat co nejmenší rozpětí. Když se zaměříme pouze na EUR – USD, výborný a levný poplatek nacházíte v rozmezí 1 – 3 pipů.
+Nič nie je zadarmo a aj brokeri sa musí niečím živiť. Hlavný zdroj príjmov forex brokerov sú obchodné poplatky (spready). V súčasnej dobe je však konkurencia tak vysoká, že sa väčšina obchodníkov snaží u spreadu poskytovať čo najmenšie rozpätie. Keď sa zameriame iba na EUR - USD, výborný a lacný poplatok nachádzate v rozmedzí 1 - 3 pipov. 
 
-> Pro ukázku: je-li spread 3 pipy, aktuální BID cena 1.3126 a ASK cena 1.3129, nakupujete za ASK cenu a prodáváte za BID, kdežto broker to dělá naopak (jeho zisk).
+> Pre ukážku: ak je spread 3 pipy, aktuálny BID cena 1.3126 a ASK cena 1.3129, nakupujete za ASK cenu a predávate za BID, kdežto broker to robí naopak (jeho zisk).
 
 </div>
 </div>
@@ -66,22 +66,21 @@ Nic není zadarmo a i brokeři se musí něčím živit. Hlavní zdroj příjmů
 <div class="row">
 <div class="col-md-6"  markdown="1">
 
-### Minimální částka pro otevření účtu
+### Minimálna suma pre otvorenie účtu 
+Toto je taktiež kľúčová a podstatná časť martýria okolo výberu brokera. Veľkí Brokeri sa snaží držať minimálnu čiastku čo najviac (väčší zisk pre ne). Našťastie tu existuje celá rada brokerov, ktorí sa zameriavajú na klientov, ktorí nevládnu veľkým kapitálom. 
 
-Toto je taktéž klíčová a podstatná část martýria kolem výběru brokera. Velcí Brokeři se snaží držet minimální částku co nejvýše (větší zisk pro ně). Naštěstí zde existuje celá řada brokerů, kteří se zaměřují na klienty, kteří nevládnou velkým kapitálem.
-
-V dnešní době se tak hranice pro otevření účtu může pohybovat kolem $100 - (2000 Kč) na tzv. mini a mikro účtech, kde obchodujete s 0.1 (10%) standardního lotu, nebo s 0.01 (1%) standardního lotu i mini účtů.
+V dnešnej dobe sa tak hranice pre otvorenie účtu môže pohybovať okolo $ 100 - (2000 Kč) na tzv mini a mikro účtoch, kde obchodujete s 0.1 (10%) štandardného lotu, alebo s 0.01 (1%) štandardného lotu aj mini účtov.
 
 </div>
 <div class="col-md-6" markdown="1">
 
-### Velikost nabízené páky
+### Veľkosť ponúkanej páky 
 
-Doporučuje se nepoužívat páku větší než 100:1 pro běžnou operaci a páku 200:1 pro malou operaci. Brokeři, kteří nabízejí mnohem větší páky, nemusí jednat ve vašem nejlepším zájmu.
+Odporúča sa nepoužívať páku väčšie ako 100:1 pre bežnú operáciu a páku 200:1 pre malú operáciu. Brokeri, ktorí ponúkajú oveľa väčšie páky, nemusí jednať vo vašom najlepšom záujme. 
 
-### Obchodní politika
+### Obchodná politika 
 
-Jaká je politika makléře ohledně půjčování na marži a požadovaných úroků, a jak se maržové požadavky mění pod tlakem okolností.
+Aká je politika makléra ohľadom požičiavanie na maržu a požadovaných úrokov, a ako sa maržových požiadaviek mení pod tlakom okolností.
 
 </div>
 </div>
@@ -92,22 +91,22 @@ Jaká je politika makléře ohledně půjčování na marži a požadovaných ú
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-### Poctivost a průhlednost
+### Poctivosť a transparentnosť 
 
-Žádejte průhlednost vašich transakcí a ujistěte, že vám váš broker neúčtuje více, než musíte skutečně platit.
+Žiadajte transparentnosť vašich transakcií a uistite, že vám váš broker neúčtuje viac, než musíte skutočne platiť. 
 
-### Finanční pozadí
+### Finančné pozadie 
 
-Jaké finanční pozadí má váš broker? Jsou vaše vklady v případě bankrotu pojištěny? Na stránkách každého brokera to jednoduše zjistíte. Tady platí známé heslo "Důvěřujte, ale prověřujte."
+Aké finančné pozadie má váš broker? Sú vaše vklady v prípade bankrotu poistené? Na stránkach každého brokera to jednoducho zistíte. Tu platí známe heslo "Dôverujte, ale preverujte."
 
 </div>
 <div class="col-md-6" markdown="1">
 
-### Podpora
+### Podpora 
 
-Měla by být na nejvyšší úrovni a zajištěna jak telefonem, mailem, tak i online formou.
+Mala by byť na najvyššej úrovni a zaistená ako telefónom, mailom, tak aj online formou. 
 
-Nicméně, pokud nezvolíte na poprvé zcela vhodně, podepsání smlouvy s brokerem není sňatek na celý život a je běžné, že obchodníci migrují mezi brokery podle potřeby nebo výhodnější nabídky relativně často. Technicky je to velmi jednoduché.
+Avšak, ak nezvolíte na prvýkrát úplne vhodne, podpísanie zmluvy s brokerom nie je sobáš na celý život a je bežné, že obchodníci migrujú medzi brokermi podľa potreby alebo výhodnejšie ponuky relatívne často. Technicky je to veľmi jednoduché.
 
 </div>
 </div>
