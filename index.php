@@ -194,15 +194,28 @@ $content = str_replace('{{start}}','<div class="start">', $content);
 $content = str_replace('<p>{{/start}}</p>','</div>', $content);
 $content = str_replace('{{/start}}','</div>', $content);
 
+$footer_statement_url = CONTENT_DIR .'_partials/' . $settings['language']. "/" . "footer/". "statement" . $file_format;
+$footer_statement_test = @file_get_contents($footer_statement_url);
 
-$footer_statement = file_get_contents(CONTENT_DIR .'_partials/' . $settings['language']. "/" . "footer/". "statement" . $file_format);
-$footer_statement = str_replace("{{url}}",BASE_URL, $footer_statement);
+if ($footer_statement_test !== false){
+  $footer_statement = file_get_contents($footer_statement_url);
+  $footer_statement = str_replace("{{url}}",BASE_URL, $footer_statement);
+  $footer_statement = "<p class='statement'>".$footer_statement."</p>";
+}else{
+  $footer_statement = "<script>console.log( 'footer_statement not loaded' );</script>";
+}
 
-$footer_right = file_get_contents(CONTENT_DIR .'_partials/' . $settings['language']. "/" . "footer/". "pull-right" . $file_format);
-$footer_right = str_replace("{{url}}",BASE_URL.$lang_nocs, $footer_right);
+$footer_right_url = CONTENT_DIR .'_partials/' . $settings['language']. "/" . "footer/". "pull-right" . $file_format;
+$footer_right_test = @file_get_contents($footer_right_url);
 
-$footer_right = str_replace("{{base-url}}",BASE_URL, $footer_right);
+if ($footer_right_test !== false){
+  $footer_right = file_get_contents($footer_right_url);
 
+  $footer_right = str_replace("{{url}}",BASE_URL.$lang_nocs, $footer_right);
+  $footer_right = str_replace("{{base-url}}",BASE_URL, $footer_right);
+}else{
+  $footer_right = "<script>console.log( 'footer_right not loaded' );</script>";
+}
 
 ?>
 <!DOCTYPE html>
@@ -235,7 +248,6 @@ $footer_right = str_replace("{{base-url}}",BASE_URL, $footer_right);
       echo '<link href="'.BASE_URL.'assets/css/bootstrap-theme2.min.css" rel="stylesheet">';
     }
   ?>
-  
   <link href="<?= BASE_URL ?>assets/css/font-awesome.min.css" rel="stylesheet">
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -250,18 +262,15 @@ $footer_right = str_replace("{{base-url}}",BASE_URL, $footer_right);
 
 </head>
 <body data-spy="scroll" data-offset="100" data-target="#scrollpsy" id="top">
-
 <?php if(isset($header)){echo $header;}; ?>
 
 <div class="container">
-
 <?php echo $content; ?>
-
 </div>
 
 <footer class="footer">
   <div class="container">
-    <p class="statement"><?= $footer_statement ?></p>
+    <?= $footer_statement ?>
     <div class="pull-left">
       © <?= date("Y") ?> · <?= $server_name ?> · <a href="http://www.sablatura.info/" data-original-title="Design&nbsp;navrhl Jan&nbsp;Šablatura" class="created-by">¤</a>
     </div>
@@ -270,7 +279,6 @@ $footer_right = str_replace("{{base-url}}",BASE_URL, $footer_right);
     </div>
   </div>
 </footer>
-
 
 <script src="<?= BASE_URL ?>assets/js/jquery.min.js"></script>
 <script src="<?= BASE_URL ?>assets/js/bootstrap.min.js"></script>
