@@ -221,7 +221,7 @@ if ($footer_right_test !== false){
 <!DOCTYPE html>
 <html lang="<?= $settings['language'] ?>">
 <head>
-  <title><?= $settings['meta']['title']." - ". $server_name ?></title>
+  <title><?= $settings['meta']['title'].($settings['meta']['title'] ? " - ":""). $server_name ?></title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
