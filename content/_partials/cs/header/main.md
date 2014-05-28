@@ -11,10 +11,17 @@
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{url}}#section-1">Seznam brokerů</a>
+          <a href="{{url}}index#section-1">Seznam brokerů</a>
         </li>
         <li>
-          <a href="{{url}}#section-2">Jak správně vybrat</a>
+          <a href="{{url}}index#section-2">Jak správně vybrat</a>
+        </li>
+        <li class="dropdown">
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">Aktuální kurzy <b class="caret"></b></a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}akcie-apple">Akcie Apple</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}akcie-ibm">Akcie IBM</a></li>
+          </ul>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -22,8 +29,8 @@
         <li><a href="{{url}}litecoin/">Litecoiny</a></li>
         <li><a href="{{url}}blog/">Blog</a></li>
         <li class="dropdown">
-          <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown"><img src="{{img-url}}flags/cs.png" class="flag"></a>
-          <ul class="dropdown-menu" role="menu" aria-labelledby="drop">
+          <a href="#" id="drop2" role="button" class="dropdown-toggle" data-toggle="dropdown"><img src="{{img-url}}flags/cs.png" class="flag"></a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{base-url}}en/">English</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{base-url}}">Česky</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{base-url}}pl/">Polski</a></li>
