@@ -2,7 +2,6 @@
 
 define('ROOT_DIR', realpath(dirname(__FILE__)) .'/');
 define('CONTENT_DIR', ROOT_DIR .'content/'); //change this to change which folder you want your content to be stored in
-
 define('BASE_URL', 'http://'.$_SERVER['HTTP_HOST'].'/forexsrovnavac.cz'.'/');
 
 # Install PSR-0-compatible class autoloader
@@ -22,7 +21,7 @@ $url = '';
 $request_url = (isset($_SERVER['REQUEST_URI'])) ? $_SERVER['REQUEST_URI'] : '';
 $base_url  = (isset($_SERVER['PHP_SELF'])) ? $_SERVER['PHP_SELF'] : '';
 
-//
+// uživatelská nastavení
 $server_name = "ForexSrovnávač.cz";
 	
 // Get our url path and trim the / of the left and the right
@@ -225,9 +224,9 @@ if ($footer_right_test !== false){
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta property="og:title" content="<?= $server_name ?>">
-  <meta property="og:description" content="<?= $server_name ?>">
-  <meta property="og:image" content="assets/ico/apple-touch-icon-144-precomposed.png">
+  <meta property="og:title" content="<?= $settings['meta']['title'].($settings['meta']['title'] ? " - ":""). $server_name ?>">
+  <meta property="og:description" content="<?= $settings['meta']['description'] ?>">
+  <meta property="og:image" content="<?= BASE_URL ?>assets/img/apple-touch-icon-144-precomposed.png">
   <meta property="og:type" content="website">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="<?= $settings['meta']['description'] ?>">
@@ -259,7 +258,6 @@ if ($footer_right_test !== false){
   <!-- favicons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?= BASE_URL ?>assets/img/apple-touch-icon-144-precomposed.png">
   <link rel="shortcut icon" href="<?= BASE_URL ?>assets/img/favicon.png">
-
 </head>
 <body data-spy="scroll" data-offset="100" data-target="#scrollpsy" id="top">
 <?php if(isset($header)){echo $header;}; ?>
@@ -283,55 +281,6 @@ if ($footer_right_test !== false){
 <script src="<?= BASE_URL ?>assets/js/jquery.min.js"></script>
 <script src="<?= BASE_URL ?>assets/js/bootstrap.min.js"></script>
 <script src="<?= BASE_URL ?>assets/js/jquery.smooth-scroll.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function () {
-  $('.navbar a').smoothScroll();
-  $('.created-by').tooltip();
-  $('.carousel').carousel({interval: 0});
-  $('.brokeri td').hover(function() {
-    var u = parseInt($(this).index());
-    var t = u + 1;
-    $('.brokeri td:nth-child('+t+')').addClass('highlighted');
-    $('.brokeri td:nth-child('+u+'), .brokeri th:nth-child('+u+')').addClass('highlighted-prev');
-  },
-  function() {
-    var u = parseInt($(this).index());
-    var t = u + 1;
-    $('.brokeri td:nth-child('+t+')').removeClass('highlighted');
-    $('.brokeri td:nth-child('+u+'), .brokeri th:nth-child('+u+')').removeClass('highlighted-prev');
-  });
-
-  var feedsInterval = setInterval(function(){
-    $.getJSON('get.php', function(data) {
-    var items = [];
-      for (var i=0;i<Object.keys(data).length;i++) {
-        $.each(data[i], function(key, val) {
-          if (key == "P") { 
-            var j = '#'+key+i;
-            $(j).html(val + '%'); 
-          }
-          else {
-            var j = '#'+key+i;
-            $("body").find(j).html(val);
-          }
-        });
-      }
-    });
-  },1000);
-
-  $(window).scroll(function () { 
-
-    if ($(window).scrollTop() > 700) {
-      $('.navbar-sticky').addClass('navbar-fixed-top');
-    }
-
-    if ($(window).scrollTop() < 701) {
-      $('.navbar-sticky').removeClass('navbar-fixed-top');
-    }
-  });
-
-});
-</script>
-
+<script src="<?= BASE_URL ?>assets/js/app.min.js"></script>
 </body>
 </html>
