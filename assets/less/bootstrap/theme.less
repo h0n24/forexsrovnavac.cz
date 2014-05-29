@@ -293,7 +293,11 @@ table a.btn {
 .btn-warning { .btn-styles(@btn-warning-bg); }
 .btn-danger  { .btn-styles(@btn-danger-bg); }
 
-
+.btn-default {
+  &:hover {
+    color: #666;
+  }
+}
 
 //
 // Images
@@ -727,5 +731,11 @@ blockquote {
         margin-top: 20px;
       }
     }
+  }
+  .table-responsive {
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }

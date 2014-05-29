@@ -11,13 +11,13 @@
     <nav class="navbar-collapse toggle-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{url}}index#section-1">Seznam brokerů</a>
+          <a href="{{url}}index#section-1"><span class="hidden-sm">Seznam brokerů</span><span class="visible-sm">Brokeři</span></a>
         </li>
         <li>
-          <a href="{{url}}index#section-2">Jak správně vybrat</a>
+          <a href="{{url}}index#section-2">Jak <span class="hidden-sm">správně</span> vybrat</a>
         </li>
         <li class="dropdown">
-          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">Aktuální kurzy <b class="caret"></b></a>
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm">Aktuální kurzy <b class="caret"></b></span><span class="visible-sm">Kurzy</span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}akcie-apple">Akcie Apple</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}akcie-ibm">Akcie IBM</a></li>
@@ -29,7 +29,7 @@
         <li><a href="{{url}}litecoin/">Litecoiny</a></li>
         <li><a href="{{url}}blog/">Blog</a></li>
         <li class="dropdown">
-          <a href="#" id="drop2" role="button" class="dropdown-toggle" data-toggle="dropdown"><img src="{{img-url}}flags/cs.png" class="flag"></a>
+          <a href="#" id="drop2" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="visible-xs">Jazyk &nbsp;</span><img src="{{img-url}}flags/cs.png" class="flag"><span class="visible-xs"> <b class="caret"></b></span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{base-url}}en/">English</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{base-url}}">Česky</a></li>
