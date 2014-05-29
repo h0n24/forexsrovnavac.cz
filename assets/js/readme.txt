@@ -1,0 +1,1 @@
+Uživatelské skripty (jako google analytics a podobné) umisťujte od složky /min/.

@@ -14,7 +14,7 @@
   <meta name="keywords" content="<?= $settings['meta']['keywords'] ?>">
   <meta name="author" content="Jan Šablatura">
   <meta http-equiv="Access-Control-Allow-Origin" content="*">
-  <!--<meta name="google-site-verification" content="l89qOWzX86DJpmFJuEyAAdrpNqhMePOFMZ-WYdHUYjw">-->
+  <meta name="google-site-verification" content="l89qOWzX86DJpmFJuEyAAdrpNqhMePOFMZ-WYdHUYjw">
   
   <link href="<?= BASE_URL ?>assets/css/bootstrap.min.css" rel="stylesheet">
   <?php
