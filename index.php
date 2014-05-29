@@ -47,16 +47,19 @@ $server_name = vars::server_name();
 $content = MarkdownExtra::defaultTransform($content);
 
 // core content modifications
-$settings = core::settings($content)[0];
-$content = core::settings($content)[1];
+$settings = core::settings($content);
+$content = $settings[1];
+$settings = $settings[0];
+
 $content = core::partials($content, $settings);
 
 $content = core::url_img($content);
 $content = core::url_base($content);
 $content = core::url($content, $settings);
 
-$header = core::header($content, $settings)[0];
-$content = core::header($content, $settings)[1];
+$header = core::header($content, $settings);
+$content = $header[1];
+$header = $header[0];
 
 $content = core::corrections($content); //prettify html
 
