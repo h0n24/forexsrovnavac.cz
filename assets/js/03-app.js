@@ -33,7 +33,7 @@ $(document).ready(function () {
     });
   },1000);
 
-  $(window).scroll(function () { 
+  $(window).scroll(function () {
 
     if ($(window).scrollTop() > 700) {
       $('.navbar-sticky').addClass('navbar-fixed-top');
