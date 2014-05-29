@@ -284,9 +284,11 @@ if ($footer_right_test !== false){
   </div>
 </footer>
 
-<script src="<?= BASE_URL ?>assets/js/jquery.min.js"></script>
-<script src="<?= BASE_URL ?>assets/js/bootstrap.min.js"></script>
-<script src="<?= BASE_URL ?>assets/js/jquery.smooth-scroll.min.js"></script>
-<script src="<?= BASE_URL ?>assets/js/app.min.js"></script>
+<?php //automatically adds all scripts
+$files = glob('assets/js/min/*min.js', GLOB_BRACE);
+foreach($files as $file) {
+  echo '<script src="'.BASE_URL.$file.'"></script>'."\n";
+}
+?>
 </body>
 </html>
