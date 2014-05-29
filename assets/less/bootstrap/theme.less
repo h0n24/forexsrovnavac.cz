@@ -7,10 +7,10 @@
 // --------------------------------------------------
 
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
-@import url("http://fonts.googleapis.com/css?family=Caesar+Dressing");
 
 @import "variables.less";
 @import "mixins.less";
+@import "theme-shared.less";
 
 
 // Fixes ======================================================================
@@ -478,34 +478,8 @@ table a.btn {
 
 
 //
-// Additional by Jan Šablatura
+// Additional from redesign
 // --------------------------------------------------
-
-::selection {
-  background: rgba(0, 0, 0, 0.1);
-}
-
-footer {
-  margin-top: 40px;
-  margin-bottom: 20px;
-  color: #CCC;
-  .statement {
-    font-size: 10px;
-    line-height: 10px;
-    border-bottom: 1px solid #EEE;
-    padding-bottom: 8px;
-    margin-bottom: 8px;
-    .badge {
-      float: left;
-      margin-right: 10px;
-      background-color: #CCC;
-      text-shadow: 1px 1px 0 #B3B3B3;
-    }
-  }
-  a {
-    color: #bbb;
-  }
-}
 
 .start {
   margin: 40px 0;
@@ -675,22 +649,6 @@ table .equal th {
 .carousel {
   line-height: inherit;
 }
-
-.created-by {
-  font-family: 'Caesar Dressing', cursive;
-  font-size: 30px;
-  color: #eee;
-  /*text-shadow: 1px 1px 0 #ccc;*/
-  margin-top: -30px;
-  display: inline-block;
-  bottom: -5px;
-  position: relative;
-}
-.created-by:hover {
-  text-decoration: none;
-}
-
-
 
 #brokeri-carousel {
   @media (max-width:@screen-xs-max) {

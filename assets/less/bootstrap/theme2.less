@@ -8,16 +8,15 @@
 
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
 @import url("http://fonts.googleapis.com/css?family=Cantarell:400,700,400italic,700italic");
-@import url("http://fonts.googleapis.com/css?family=Caesar+Dressing");
-
-
 
 @import "variables2.less";
 @import "mixins.less";
+@import "theme-shared.less";
 
 // Fixes ======================================================================
 
 body {
+
 }
 
 
@@ -158,51 +157,10 @@ legend {
   }
 }
 
-// Indicators =================================================================
-
-// Progress bars ==============================================================
-
-// Added by Jan Šablatura =================================================================
-
-::selection {
-  background: rgba(0, 0, 0, 0.1);
-}
+// Added from redesign =================================================================
 
 footer {
-  margin-top: 40px;
-  margin-bottom: 20px;
-  color: #CCC;
   font-size: 14px;
-  .statement {
-    font-size: 10px;
-    line-height: 10px;
-    border-bottom: 1px solid #EEE;
-    padding-bottom: 8px;
-    margin-bottom: 8px;
-    .badge {
-      float: left;
-      margin-right: 10px;
-      background-color: #CCC;
-      text-shadow: 1px 1px 0 #B3B3B3;
-    }
-  }
-  a {
-    color: #bbb;
-  }
-}
-
-.created-by {
-  font-family: 'Caesar Dressing', cursive;
-  font-size: 30px;
-  color: #eee;
-  /*text-shadow: 1px 1px 0 #ccc;*/
-  margin-top: -30px;
-  display: inline-block;
-  bottom: -5px;
-  position: relative;
-}
-.created-by:hover {
-  text-decoration: none;
 }
 
 body {
@@ -333,20 +291,6 @@ h3, .h3 {
 h2, .h2 {
   color: #444;
   margin-bottom: 1em;
-}
-
-.container.kurz {
-  overflow: hidden;
-  margin-bottom: 70px;
-  width: auto;
-  iframe {
-    width: 100%;
-    height: 580px;
-    background-color: #FAFAFA;
-    border-left: 10px solid #FFF;
-    margin-top: -120px;
-    margin-bottom: -70px;
-  }
 }
 
 @media (max-width: @screen-sm-max) {
