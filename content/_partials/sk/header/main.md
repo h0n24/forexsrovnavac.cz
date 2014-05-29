@@ -20,9 +20,9 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoiny</a></li>
         <li><a href="{{url}}litecoin/">Litecoiny</a></li>
-        <li><a href="{{url}}blog/">Blog</a></li>
+        <li><a href="http://blog.forexsrovnavac.cz/">Blog</a></li>
         <li class="dropdown">
-          <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown"><img src="{{img-url}}flags/sk.png" class="flag"></a>
+          <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="visible-xs">Jazyk &nbsp;</span><img src="{{img-url}}flags/sk.png" class="flag"><span class="visible-xs"> <b class="caret"></b></span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop">
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{base-url}}en/">English</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{base-url}}">Česky</a></li>
