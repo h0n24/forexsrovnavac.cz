@@ -2,7 +2,13 @@
 
 define('ROOT_DIR', realpath(dirname(__FILE__)) .'/');
 define('CONTENT_DIR', ROOT_DIR .'content/'); //change this to change which folder you want your content to be stored in
-define('BASE_URL', 'http://'.$_SERVER['HTTP_HOST'].'/forexsrovnavac.cz'.'/');
+
+$localhost = array('127.0.0.1', '::1');
+$localhost_inurl = "";
+if(in_array($_SERVER['REMOTE_ADDR'], $localhost)){
+  $localhost_inurl = "/".basename(__DIR__);
+}
+define('BASE_URL', 'http://'.$_SERVER['HTTP_HOST'].$localhost_inurl.'/');
 
 # Install PSR-0-compatible class autoloader
 set_include_path(ROOT_DIR . 'assets/php/');
