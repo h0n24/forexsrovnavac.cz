@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="<?= $settings['language'] ?>">
 <head>
-  <title><?= $settings['meta']['title'].($settings['meta']['title'] ? " - ":""). $server_name ?></title>
+  <title><?= $settings['meta']['title'].($settings['meta']['title'] ? " · ":""). $server_name ?></title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta property="og:title" content="<?= $settings['meta']['title'].($settings['meta']['title'] ? " - ":""). $server_name ?>">
+  <meta property="og:title" content="<?= $settings['meta']['title'].($settings['meta']['title'] ? " · ":""). $server_name ?>">
   <meta property="og:description" content="<?= $settings['meta']['description'] ?>">
   <meta property="og:image" content="<?= BASE_URL ?>assets/img/apple-touch-icon-144-precomposed.png">
   <meta property="og:type" content="website">

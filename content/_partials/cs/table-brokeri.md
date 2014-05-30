@@ -3,11 +3,11 @@
 <thead>
  <tr class="">
    <th class="span2"></th>
-   <td class="span2 top"><a href="{{url}}hotforex" class="logo"><img src="{{img-url}}loga/hot150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}plus500" class="logo"><img src="{{img-url}}loga/plu150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}xtb" class="logo"><img src="{{img-url}}loga/xtb150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}patria-forex" class="logo"><img src="{{img-url}}loga/pat150.png"></a></td>
-   <td class="span2 top"><a href="{{url}}mayzus" class="logo"><img src="{{img-url}}loga/may150.png"></a></td>
+   <td class="span2 top"><a href="{{url}}hotforex" class="logo"><img src="{{img-url}}loga/hot150.png" width="150"></a></td>
+   <td class="span2 top"><a href="{{url}}plus500" class="logo"><img src="{{img-url}}loga/plu150.png" width="150"></a></td>
+   <td class="span2 top"><a href="{{url}}xtb" class="logo"><img src="{{img-url}}loga/xtb150.png" width="150"></a></td>
+   <td class="span2 top"><a href="{{url}}patria-forex" class="logo"><img src="{{img-url}}loga/pat150.png" width="150"></a></td>
+   <td class="span2 top"><a href="{{url}}mayzus" class="logo"><img src="{{img-url}}loga/may150.png" width="150"></a></td>
  </tr>
  <tr>
    <th class="span2"></th>
