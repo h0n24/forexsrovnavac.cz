@@ -19,12 +19,32 @@
 }
 
 .kurz {
-  width: auto;
+  width: 100%;
   padding-top: 1em;
+  overflow: hidden;
+  position: relative;
   iframe {
-    width: 100%;
-    height: 545px;
-    border: none;
+    width: 102.2%;
+    height: 705px;
+    border: 0;
+    margin-top: -140px;
+    margin-bottom: -200px;
+  }
+  a {
+    display: block;
+    position: absolute;
+  }
+  a:nth-child(1) {
+    width: 50%;
+    height: 100px;
+    right: 0;
+    top: 0;
+  }
+  a:nth-child(2) {
+    width: 25%;
+    height: 100px;
+    left: 0;
+    top: 100px;
   }
 }
 
@@ -53,5 +73,9 @@ footer {
 @media (max-width: @screen-xs-max) {
   .visible-xs {
     display: initial!important;
+  }
+  .navbar-fixed-top.navbar-sticky {
+    position: relative;
+    top: 0;
   }
 }

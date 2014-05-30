@@ -34,6 +34,8 @@ Důvod si myslet, že hodnota LTC poroste je díky komunitě, která za ním sto
 ## Aktuální kurz Litecoin v USD
 
 <div class="container kurz">
+<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=litecoin&pl=2"></a>
+<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=litecoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=cs&cty=CZ&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
 
@@ -43,7 +45,7 @@ Důvod si myslet, že hodnota LTC poroste je díky komunitě, která za ním sto
 
 ## Kde obchodovat s Bitcoiny
 
-S Litecoiny může obchodovat opravdu každý. S aplikací od společnosti plus500 můžete spekulovat na růst i pokles kurzu virtuální měny Bitcoin za pár minut, navíc nepotřebujete žádné velké finanční prostředky, minimální vklad je pouze 2000kč, navíc jako nový zákazník dostanete od společnosti plus500 uvítací bonus 500Kč, můžete si tak obchodování s Litecoiny vyzkoušet tkz.:"Nanečisto". S tím, jak roste poptávka po této měně, roste mezi veřejností zájem i o přímé obchodovaní s virtuální měnou Litecoin, podobně jako je to i u ostatních měn. Pokud tedy uvažujete o obchodování s Litecoin. Tak jedna z prvních společností, která to umožnujě je společnost Plus500. S tímto poměrně ve světě známým brokerem, můžete obchodovat a spekulovat na růst, či pokles této měny již za pár minut. Navíc jako nový zákazník dostanete k vaší registraci bonus 500Kč. Jak tento bonus využijete je jen na Vás. Služba je CFD. Plus500UK Limited je schválena a regulována britským Úřadem pro finanční služby (Authorised and regulated by the Financial Conduct Authority).
+S Litecoiny může obchodovat opravdu každý. S aplikací od společnosti plus500 můžete spekulovat na růst i pokles kurzu virtuální měny Litcoin za pár minut, navíc nepotřebujete žádné velké finanční prostředky, minimální vklad je pouze 2000kč, navíc jako nový zákazník dostanete od společnosti plus500 uvítací bonus 500Kč, můžete si tak obchodování s Litecoiny vyzkoušet tkz.:"Nanečisto". S tím, jak roste poptávka po této měně, roste mezi veřejností zájem i o přímé obchodovaní s virtuální měnou Litecoin, podobně jako je to i u ostatních měn. Pokud tedy uvažujete o obchodování s Litecoin. Tak jedna z prvních společností, která to umožnujě je společnost Plus500. S tímto poměrně ve světě známým brokerem, můžete obchodovat a spekulovat na růst, či pokles této měny již za pár minut. Navíc jako nový zákazník dostanete k vaší registraci bonus 500Kč. Jak tento bonus využijete je jen na Vás. Služba je CFD. Plus500UK Limited je schválena a regulována britským Úřadem pro finanční služby (Authorised and regulated by the Financial Conduct Authority).
 
 [Začít hned teď](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 

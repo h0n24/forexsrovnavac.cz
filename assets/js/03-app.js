@@ -15,46 +15,37 @@ $(document).ready(function () {
     $('.brokeri td:nth-child('+u+'), .brokeri th:nth-child('+u+')').removeClass('highlighted-prev');
   });
 
-  var feedsInterval = setInterval(function(){
-    $.getJSON('./assets/php/get.php', function(data) {
-    var items = [];
-      for (var i=0;i<Object.keys(data).length;i++) {
-        $.each(data[i], function(key, val) {
-          if (key == "P") { 
-            var j = '#'+key+i;
-            $(j).html(val + '%'); 
-          }
-          else {
-            var j = '#'+key+i;
-            $("body").find(j).html(val);
-          }
-        });
-      }
-    });
-  },1000);
+  if ($('.table-kurzy').length) {
+    var feedsInterval = setInterval(function(){
+      $.getJSON('./assets/php/get.php', function(data) {
+      var items = [];
+        for (var i=0;i<Object.keys(data).length;i++) {
+          $.each(data[i], function(key, val) {
+            if (key == "P") { 
+              var j = '#'+key+i;
+              $(j).html(val + '%'); 
+            }
+            else {
+              var j = '#'+key+i;
+              $("body").find(j).html(val);
+            }
+          });
+        }
+      });
+    },1000);
+  };
 
+  
   $(window).scroll(function () {
+    if ($('.navbar-sticky').length) {
+      if ($(window).scrollTop() > 700) {
+        $('.navbar-sticky').addClass('navbar-fixed-top');
+      }
 
-    if ($(window).scrollTop() > 700) {
-      $('.navbar-sticky').addClass('navbar-fixed-top');
-    }
-
-    if ($(window).scrollTop() < 701) {
-      $('.navbar-sticky').removeClass('navbar-fixed-top');
-    }
+      if ($(window).scrollTop() < 701) {
+        $('.navbar-sticky').removeClass('navbar-fixed-top');
+      }
+    };
   });
-
-
-$('iframe').each(function(){
-  function injectCSS(){
-    $iframe.contents().find('head').append("<style>header,.row,footer{display:none}body{background-color:transparent}</style>");
-  }
-
-  var $iframe = $(this);
-  $iframe.on('load',function(){
-    injectCSS();
-  });
-  injectCSS();
-});
 
 });
