@@ -3,8 +3,8 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin rate",
-    "description": "Bitcoin possibilities of its trading on the stock exchange and you can also find here update rate of the virtual currency Bitcoin",
+    "title": "Bitcoin price - BTC/USD",
+    "description": "Bitcoin possibilities of its trading on the stock exchange and you can also find here current rate of the virtual currency Bitcoin",
     "keywords": "bitcoin rate, bitcoin for free, bitcoin cz, bitcoin trading, bitcoin"
   }
 {{/settings}}
@@ -27,7 +27,9 @@ A whole range of experts naturally disputes long time over that, what create the
 
 {{section}}
 
-## Update rate of BITCOIN in USD (LTC/USD)
+[20£ registration bonus](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+
+## Current price of BITCOIN in USD(BTC/USD)
 
 <div class="container kurz">
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
@@ -39,27 +41,15 @@ A whole range of experts naturally disputes long time over that, what create the
 
 ## Where to trade with Bitcoin
 
-How is the demand for this currency growing, so is also growing the interest among the public in direct trading in this currency, similarly to other currencies. So when you are thinking about trading in Bitcoins, one of first companies, which enable it, is the company 500plus. With this relatively well-known broker you can trade and speculate in the growth or decrease of this currency any minute. Moreover as a new customer you will become to your registration a bonus of 500 CZK. How you use this bonus is just up to you. The service is CFD. Plus500UK Limited is authorised and regulated by the British Financial Conduct Authority.
+How is the demand for this currency growing, so is also growing the interest among the public in direct trading in this currency, similarly to other currencies. So when you are thinking about trading in Bitcoins, one of first companies, which enable it, is the company plus500.co.uk. With this relatively well-known broker you can trade and speculate in the growth or decrease of this currency any minute. Moreover as a new customer you will become to your registration a bonus of 20£. How you use this bonus is just up to you. The service is CFD. Plus500UK Limited is authorised and regulated by the British Financial Conduct Authority.
 
-[Start now](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Download Demo account](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ### Trading in Bitcoin
 Service CFD
 
  * Buy or short sale
  * Trade with a lever
- * 500CZK registration bonus
- * Your capital is in danger
-
-### How to get your first deposit bonus
-
- 1. Download the trade software Plus500.
- 2. Click on “really trade”
- 3. Click on “open new account”
- 4. Click on “administration of the financial means” in the left lower corner
- 5. Choose the method of the deposit
- 6. Enter the code of the bonus in the field of the deposit
- 7. The amount of the deposit will be added to your account soon after you will make the required number of trade points
-
+ * 20£ registration bonus
 
 {{/section}}

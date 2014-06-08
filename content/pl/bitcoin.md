@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin aktualny kurs",
+    "title": "Kurs Bitcoin - BTC/USD",
     "description": "Bitcoin rynku opcji na giełdzie, a także znajdziesz aktualną stopę wirtualnej waluty Bitcoin",
-    "keywords": "bitcoin kurs, bitcoin, Bitcoin handlować"
+    "keywords": "bitcoin kurs, Kursy Bitcoin bitcoin, Bitcoin handlować"
   }
 {{/settings}}
 
@@ -23,17 +23,17 @@ Walutę cyfrową Bitcoin stworzył w 2009 roku Satoshi Nakamoto. Wymienię jedyn
 
 Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy wartość waluty wirtualnej. Jednym z najczęstszych nieporozumień jest to, że wartość waluty Bitcoin jest bezpośrednio zależy od liczby użytkowników, którzy korzystają Bitcoin. Teoretycznie byłoby to zatem oznaczać, że więcej użytkowników Bitcoin korzyści, zwiększając tym samym jego wartość. Jednakże, jest wręcz przeciwnie, rosnące koszty zwiększenia liczby Bitcoin Miner, który oznacza, że ​​użytkownicy, którzy są zainteresowani w produkcji tej waluty nie można określić rzeczywistej wartości. Dlatego dziś jest zdania, że wartość tej waluty opartej tylko na podaż i popyt na rynku, a tym samym są objęte jedynie pewność, że będzie można płacić w przyszłości, jak również dzisiaj.
 
-500kč/25€ na Váš reálný účet, pouze za registraci. Vyzkoušejte si reálné obchodování bez nutnosti vkladu.
-
 {{/section}}
 
 {{section}}
 
-## Aktualny kurs BITCOIN w USD
+## Aktualny kurs BITCOIN w USD (BTC/USD)
 
 <div class="container kurz">
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=pl&cty=PL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
+
+<center>[Pobierz bezpłatne konto demo w niecałych 5 minut](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}</center>
 
 {{/section}}
 
@@ -41,6 +41,6 @@ Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy warto
 
 ## Gdzie handlować Bitcoin?
 
-Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem tą walutą, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z bitcoin. Jedną z pierwszych spółek, która to oferuje jest spółka 500plus. Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 500Kč. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
+Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem tą walutą, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z bitcoin. Jedną z pierwszych spółek, która to oferuje jest spółka plus500. Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
 
 {{/section}}

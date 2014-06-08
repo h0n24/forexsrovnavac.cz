@@ -6,7 +6,7 @@
 
 Start trading with virtual currency, that will change the world.
 
-Welcoming bonus 500CZK
+Welcoming bonus 20 £
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -27,7 +27,7 @@ Welcoming bonus 500CZK
           <a href="#section-1">What is about?</a>
         </li>
         <li>
-          <a href="#section-2">Update rate</a>
+          <a href="#section-2">Litecoin price</a>
         </li>
         <li>
           <a href="#section-3">Where to trade?</a>

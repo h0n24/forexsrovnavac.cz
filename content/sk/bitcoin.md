@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin kurz",
-    "description": "Bitcoin - možnosti jeho obchodovania na burze a taktiež tu nájdete aktuálny kurz virtuálnej meny bitcoin",
-    "keywords": "bitcoin kurz, bitcoin zdarma, bitcoin cz, bitcoin obchodovanie, bitcoin"
+    "title": "Bitcoin kurz - BTC/USD",
+    "description": "Bitcoin - možnosti jeho obchodovania na burze a taktiež tu nájdete aktuálny kurz virtuálnej meny bitcoin.",
+    "keywords": "bitcoin kurz, bitcoin cz, bitcoin obchodovanie, bitcoin"
   }
 {{/settings}}
 
@@ -27,10 +27,12 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 
 {{section}}
 
-## Aktuálny kurz BITCOIN v USD 
+[Bonus 25 Euro](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+
+## Aktuálny kurz BITCOIN v USD - (BTC/USD)
 
 <div class="container kurz">
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=sk&cty=SK&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
+<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=sk&cty=SK&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 
 {{/section}}
@@ -39,9 +41,9 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 
 ## Kde obchodovať s bitcoinmi
 
-S tým, ako rastie dopyt po tejto mene, rastie medzi verejnosťou záujem aj o priame obchodovanie s touto menou, podobne ako je to i u ostatných mien. Pokiaľ teda uvažujete o obchodovaní s bitcoinmi, tak jedna z prvých spoločností, ktorá to umožňuje, je spoločnosť 500plus. S týmto pomerne vo svete známym brokerom, môžete obchodovať a špekulovať na rast, či pokles tejto meny už za pár minút. Navyše – ako nový zákazník dostanete k vašej registrácii bonus 500 Kč. Ako tento bonus využijete je len na vás. Služba je CFD. Plus500UK Limited je schválená a regulovaná britským Úradom pre finančné služby (Authorised and regulated by the Financial Conduct Authority).
+S tým, ako rastie dopyt po tejto mene, rastie medzi verejnosťou záujem aj o priame obchodovanie s touto menou, podobne ako je to i u ostatných mien. Pokiaľ teda uvažujete o obchodovaní s bitcoinmi, tak jedna z prvých spoločností, ktorá to umožňuje, je spoločnosť 500plus. S týmto pomerne vo svete známym brokerom, môžete obchodovať a špekulovať na rast, či pokles tejto meny už za pár minút. Navyše – ako nový zákazník dostanete k vašej registrácii bonus 25 Euro. Ako tento bonus využijete je len na vás. Služba je CFD. Plus500UK Limited je schválená a regulovaná britským Úradom pre finančné služby (Authorised and regulated by the Financial Conduct Authority).
 
-[Začať hneď teraz](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Vyskúšajte si demo účet](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 
 ### Ako získať váš prvý vkladový bonus

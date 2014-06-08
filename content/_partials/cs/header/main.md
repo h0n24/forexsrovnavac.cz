@@ -16,16 +16,17 @@
         <li>
           <a href="{{url}}index#section-2">Jak <span class="hidden-sm">správně</span> vybrat</a>
         </li>
-        <!--
+        
         <li class="dropdown">
-          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm">Aktuální kurzy <b class="caret"></b></span><span class="visible-sm">Kurzy</span></a>
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm"> Ostantní brokeři <b class="caret"></b></span><span class="visible-sm">Brokeři</span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}akcie-apple">Akcie Apple</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}Ironfx">IronFX</a></li>
           </ul>
         </li>
-        -->
+        
       </ul>
       <ul class="nav navbar-nav navbar-right">
+        <li><a href="{{url}}Binarni-opce/">Binární opce</a></li>
         <li><a href="{{url}}bitcoin/">Bitcoiny</a></li>
         <li><a href="{{url}}litecoin/">Litecoiny</a></li>
         <li><a href="http://blog.forexsrovnavac.cz/">Blog</a></li>

@@ -4,9 +4,9 @@
 
 # Entdecken Sie die Zukunft
 
-Mit virtueller Währung, die die Welt ändert.
+Bitcoin - mit virtueller Währung, die die Welt ändert.
 
-Begrüßungsbonus 500CZK
+Begrüßungsbonus 25 €
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -27,7 +27,7 @@ Begrüßungsbonus 500CZK
           <a href="#section-1">Worum es geht?</a>
         </li>
         <li>
-          <a href="#section-2">Aktueller Kurs</a>
+          <a href="#section-2">Bitcoin Kurs</a>
         </li>
         <li>
           <a href="#section-3">Wo kann man handeln?</a>

@@ -2,9 +2,9 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Odkryjcie przyszłość
+# Bitcoin kurs
 
-Z wirtualną walutą, która zmieni świat.
+Odkryjcie przyszłość - wirtualną walutą, która zmieni świat.
 
 Bonus powitalny 100 zł
 
@@ -21,13 +21,13 @@ Bonus powitalny 100 zł
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top"> Obchod s Bitcoin</a>
+          <a href="#top">Wirtualną walutą Bitcoin</a>
         </li>
         <li>
           <a href="#section-1">O co chodzi?</a>
         </li>
         <li>
-          <a href="#section-2">Aktualny kurs</a>
+          <a href="#section-2">Bitcoin kurs</a>
         </li>
         <li>
           <a href="#section-3">Gdzie handlować Bitcoin</a>

@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin aktuální kurz",
-    "description": "Litecoin možnosti jeho obchodování na burze a taktéž zde najdete aktuální kurz virtuální měny Bitcoin.",
-    "keywords": "bitcoin kurz, bitcoin zdarma, bitcoin cz, bitcoin obchodování, bitcoin"
+    "title": "Litecoin kurz- LTC/USD",
+    "description": "",
+    "keywords": "Litecoin kurz, litecoin,LTC/USD "
   }
 {{/settings}}
 
@@ -21,7 +21,7 @@ S vzostupom na trhu špecializovaných ASIC pre bitcoin je pravdepodobné, že p
 
 ### Hodnota litecoin  ako meny
 
-Dôvod si myslieť, že hodnota LTC porastie, je vďaka komunite, ktorá za ním stojí. Pre rast hodnoty je dôležité, aby sa začali rozvíjať peňaženky, takže bude jednoduchšie i pre menej skúsených užívateľov kupovať a predávať LTC. Avšak preto je treba viac lokálnych vývojárov, ktorí sa budú snažiť rozvíjať peňaženky. Pre ďalší vývoj litecoin kurzu bude rozhodujúci aj počet rôznych služieb, tovarov, ktoré pôjde za litecoin kúpiť. Avšak všetko je ešte len na začiatku a je treba tejto šance využiť.
+Dôvod si myslieť, že hodnota kurzu LTC porastie, je vďaka komunite, ktorá za ním stojí. Pre rast hodnoty je dôležité, aby sa začali rozvíjať peňaženky, takže bude jednoduchšie i pre menej skúsených užívateľov kupovať a predávať LTC. Avšak preto je treba viac lokálnych vývojárov, ktorí sa budú snažiť rozvíjať peňaženky. Pre ďalší vývoj litecoin kurzu bude rozhodujúci aj počet rôznych služieb, tovarov, ktoré pôjde za litecoin kúpiť. Avšak všetko je ešte len na začiatku a je treba tejto šance využiť.
 
 {{/section}}
 

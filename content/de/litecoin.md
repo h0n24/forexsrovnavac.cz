@@ -3,7 +3,7 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin aktueller Kurs",
+    "title": "Litecoin aktueller Kurs - LTC/USD",
     "description": "Litecoin und die Möglichkeiten seines Handelns an der Börse, wie CFD, Sie finden hier auch den aktuellen Kurs für Litecoin",
     "keywords": "Litecoin Kurs, Kurs Litecoin, Litecoin, Litecoin Handeln, CFD"
   }
@@ -29,7 +29,7 @@ Man kann denken, dass der Wert von LTC steigen wird, nur dank der Kommunität, d
 
 {{section}}
 
-## Aktueller Kurs von Litecoin in USD 
+## Aktueller Kurs von Litecoin in USD (LTC/USD)
 
 <div class="container kurz">
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=de&cty=DE&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>

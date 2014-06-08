@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin update rate",
-    "description": "Litecoin possibilities of trading on the stock exchange and also you will find the current rate of virtual currency Bitcoin.",
-    "keywords": "bitcoin exchange, free bitcoin, bitcoin cz, trading bitcoin, bitcoin"
+    "title": "Litecoin price - LTC/USD",
+    "description": "Current price of litecoin, market price and informations",
+    "keywords": "Litecoin rate, litecoin, litecoin price"
   }
 {{/settings}}
 
@@ -29,7 +29,7 @@ The reason to think, that the value of LTC will grow, is just thanks to the comm
 
 {{section}}
 
-## Update rate of Litecoin in USD 
+## Current price of Litecoin in USD (LTC/USD)
 
 <div class="container kurz">
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
@@ -45,7 +45,7 @@ How is the demand for this currency growing, so is also growing the interest amo
 
 [Start now](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Trading in Litecoin
+### Trading in Bitcoin
 Service CFD
 
  * Buy or short sale

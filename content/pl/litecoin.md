@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Bitcoin aktualny kurs",
-    "description": "Bitcoin rynku opcji na giełdzie, a także znajdziesz aktualną stopę wirtualnej waluty Bitcoin",
-    "keywords": "bitcoin kurs, bitcoin, Bitcoin handlować"
+    "title": "Litecoin kurs - LTC/USD",
+    "description": "Litecoin rynku opcji na giełdzie, a także znajdziesz aktualną stopę wirtualnej waluty litecoin",
+    "keywords": "Litecoin kurs, litecoin, LTC/USD"
   }
 {{/settings}}
 
@@ -27,18 +27,18 @@ Powód twierdzenia że waluta LTC wzrośnie powstał dzięki społeczeństwie, k
 
 {{section}}
 
-## Aktualny kurs BITCOIN w USD
+## Aktualny kurs Litecoin w USD (LTC/USD)
 
 <div class="container kurz">
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=pl&cty=PL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
-
+<center>[Pobierz bezpłatne konto demo w niecałych 5 minut](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}</center>
 {{/section}}
 
 {{section}}
 
 ## Gdzie handlować z Litecoin?
 
-Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem walutą Litecoin, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z Litecoin. Jedną z pierwszych spółek, która to oferuje jest spółka 500plus. Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 500Kč. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
+Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem walutą Litecoin, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z Litecoin. Jedną z pierwszych spółek, która to oferuje jest spółka 500plus. Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
 
 {{/section}}

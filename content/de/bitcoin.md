@@ -3,7 +3,7 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin aktueller Kurs",
+    "title": "Bitcoin aktueller Kurs - BTC/USD",
     "description": "Bitcoin Möglichkeiten seines Handelns an der Börse und auch finden Sie hier den aktuellen Kurs der virtuellen Währung Bitcoin",
     "keywords": "Bitcoin Kurs, Bitcoin kostenlos, Bitcoin de, Bitcoin Handeln, Bitcoin"
   }
@@ -27,7 +27,9 @@ Lange Zeit streitet selbstverständlich die ganze Reihe der Spezialisten darum, 
 
 {{section}}
 
-## Aktueller Kurs von Bitcoin in USD  (LTC/USD)
+[Begrüßungsbonus 25 €](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+
+## Aktueller Kurs von Bitcoin in USD (BTC/USD)
 
 <div class="container kurz">
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=de&cty=DE&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
@@ -39,16 +41,18 @@ Lange Zeit streitet selbstverständlich die ganze Reihe der Spezialisten darum, 
 
 ## Wo kann man mit Bitcoin handeln?
 
-Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit dieser Währung, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Bitcoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft 500plus. Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu bekommen Sie als ein neuer Kunde zu Ihrer Registrierung den Bonus 500CZK. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
+Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit dieser Währung, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Bitcoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft plus500.de. Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu bekommen Sie als ein neuer Kunde zu Ihrer Registrierung den Bonus 25 €. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
 
-[Jetz starten](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Handel mit Demo-Konto](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+
+Um zu verstehen, wie der Handel mit Plus500 funktioniert, laden Sie am besten unsere kostenlose Software herunter, eröffnen ein Demo-Konto und handeln mit Demo-Geld. Lesen Sie außerdem die Online-Hilfe, damit Sie schnell und effizient in das Trading einsteigen können.
 
 ### Handeln mit Litecoin
 Der Dienst von CFD
 
  * Einkauf oder kurzer Verkauf
  * Handeln Sie mit Hebel
- * 500CZK Anmeldungsbonus
+ * Begrüßungsbonus 25 €
  * Ihr Kapital ist bedroht
 
 ### Wie können Sie Ihren ersten Einlagebonus gewinnen

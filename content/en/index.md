@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Obchodování na forexu a Forex strategie",
-    "description": "Srovnání forex brokerů, vyberte si vašeho brokera pro obchodování na forexu. Najděte si svého brokera. Protože jen ten pravý vám ušetří peníze.",
-    "keywords": "Forex, Broker, Forex strategie, Jak vybrat brokera, Forex brokeři, Kurzy měn, srovnání brokerů"
+    "title": "Best Forex Brokers",
+    "description": "",
+    "keywords": ""
   }
 {{/settings}}
 
