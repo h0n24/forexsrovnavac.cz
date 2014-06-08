@@ -6,7 +6,7 @@
 
 Začnite obchodovať s menou, ktorá zmení svet.
 
-Uvítací bonus 500 Kč.
+Uvítací bonus 25 €.
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
