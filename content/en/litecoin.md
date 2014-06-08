@@ -4,8 +4,8 @@
   "header": "litecoin",
   "meta" : {
     "title": "Litecoin update rate",
-    "description": "Litecoin možnosti jeho obchodování na burze a taktéž zde najdete aktuální kurz virtuální měny Bitcoin.",
-    "keywords": "bitcoin kurz, bitcoin zdarma, bitcoin cz, bitcoin obchodování, bitcoin"
+    "description": "Litecoin possibilities of trading on the stock exchange and also you will find the current rate of virtual currency Bitcoin.",
+    "keywords": "bitcoin exchange, free bitcoin, bitcoin cz, trading bitcoin, bitcoin"
   }
 {{/settings}}
 
@@ -45,7 +45,7 @@ How is the demand for this currency growing, so is also growing the interest amo
 
 [Start now](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Trading in Bitcoin
+### Trading in Litecoin
 Service CFD
 
  * Buy or short sale
