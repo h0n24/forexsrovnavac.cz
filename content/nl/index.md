@@ -1,27 +1,27 @@
 {{settings}}
-  "language": "en",
+  "language": "nl",
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Obchodování na forexu a Forex strategie",
-    "description": "Srovnání forex brokerů, vyberte si vašeho brokera pro obchodování na forexu. Najděte si svého brokera. Protože jen ten pravý vám ušetří peníze.",
-    "keywords": "Forex, Broker, Forex strategie, Jak vybrat brokera, Forex brokeři, Kurzy měn, srovnání brokerů"
+    "title": "De handel in forex en forex strategie",
+    "description": "Vergelijking forex broker, kies uw makelaar voor forex trading. Vind uw makelaar. Omdat alleen de juiste is zal u geld besparen.",
+    "keywords": "Forex Broker, Forex strategieën, Hoe te kiezen van een makelaar Forex brokers, valutakoersen, in vergelijking brokers"
   }
 {{/settings}}
 
 {{start}}
 
-# Best Forex Brokers
+# Beste Forex Brokers 
 
-Find the best Forex Broker, because it will save you money.
+Vind de beste Forex Broker, want het zal u geld besparen. 
 
-Let us help you with your choice. Compare with us Forex brokers quickly and easily.
+Laat ons u helpen met uw keuze. Vergelijk met ons Forex brokers snel en gemakkelijk.
 
 {{/start}}
 
 {{section}}
 
-## Brokers list
+## List brokers
 
 {{partial: table-brokeri}}
 
@@ -29,8 +29,8 @@ Let us help you with your choice. Compare with us Forex brokers quickly and easi
 
 {{section}}
 
-## Try also
+## Probeer ook
 
-Trading with virtual currency Bitcoin [Bitcoin]({{url}}bitcoin){.btn .btn-primary} or with [Litecoin]({{url}}litecoin){.btn .btn-primary}
+Handel met virtuele valuta Bitcoin [Bitcoin]({{url}}bitcoin){.btn .btn-primary} of [Litecoin]({{url}}litecoin){.btn .btn-primary}
 
 {{/section}}

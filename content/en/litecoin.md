@@ -17,7 +17,7 @@ LTC is the second important cryptocurrency. Litecoin is an Internet currency pee
 
 ### In short what is Litecoin.
 
-SWith the accession of the specialised ASIC for Bitcoin to the market the likelihood is that after ASIC miners, which should be developed for Litecoin, will be this currency broadly used. Litecoin is free software, which is spread under the licence MIT/X11, which gives you the possibility to adjust and copy the software and the distribution at one's discretion.  You can make modified copies of the software (altcoins, which follow with Litecoin). The software is run in a transparent process, which enables an independent verification of the binary files and its source code.
+With the accession of the specialised ASIC for Bitcoin to the market the likelihood is that after ASIC miners, which should be developed for Litecoin, will be this currency broadly used. Litecoin is free software, which is spread under the licence MIT/X11, which gives you the possibility to adjust and copy the software and the distribution at one's discretion.  You can make modified copies of the software (altcoins, which follow with Litecoin). The software is run in a transparent process, which enables an independent verification of the binary files and its source code.
 
 ### The value of Litecoin as a currency
 
@@ -32,6 +32,8 @@ The reason to think, that the value of LTC will grow, is just thanks to the comm
 ## Current price of Litecoin in USD (LTC/USD)
 
 <div class="container kurz">
+<a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
 
@@ -43,7 +45,7 @@ The reason to think, that the value of LTC will grow, is just thanks to the comm
 
 How is the demand for this currency growing, so is also growing the interest among the public in direct trading in the virtual currency Litecoin, similarly to other currencies. So when you are thinking about trading in Litecoin, one of first companies, which enable it, is the company 500plus. With this relatively well-known broker you can trade and speculate in the growth or decrease of this currency any minute. Moreover as a new customer you will become to your registration a bonus of 500 CZK. How you use this bonus is just up to you. The service is CFD. Plus500UK Limited is authorised and regulated by the British Financial Conduct Authority.
 
-[Start now](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Start now](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ### Trading in Bitcoin
 Service CFD

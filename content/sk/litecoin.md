@@ -30,6 +30,8 @@ Dôvod si myslieť, že hodnota kurzu LTC porastie, je vďaka komunite, ktorá z
 ## Aktuálny kurz litecoinu v USD 
 
 <div class="container kurz">
+<a href="http://www.plus500.com/sk/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/sk/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=sk&cty=SK&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
 

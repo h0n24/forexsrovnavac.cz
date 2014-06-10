@@ -1,0 +1,10 @@
+<i class="fa fa-language"></i>
+ &nbsp; <a href="{{base-url}}en">en</a>
+ · <a href="{{base-url}}de">de</a>
+ · <a href="{{base-url}}pl">pl</a>
+ · <a href="{{base-url}}nl">nl</a>
+ · <a href="{{base-url}}fr">fr</a>
+ · <a href="{{base-url}}es">es</a>
+ · <a href="{{base-url}}it">it</a>
+ · <a href="{{base-url}}sk">sk</a>
+ · <a href="{{base-url}}">cs</a>

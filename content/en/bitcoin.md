@@ -32,6 +32,8 @@ A whole range of experts naturally disputes long time over that, what create the
 ## Current price of BITCOIN in USD(BTC/USD)
 
 <div class="container kurz">
+<a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 

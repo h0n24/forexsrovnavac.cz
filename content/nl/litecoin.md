@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin update rate",
-    "description": "Litecoin možnosti jeho obchodování na burze a taktéž zde najdete aktuální kurz virtuální měny Bitcoin.",
-    "keywords": "bitcoin kurz, bitcoin zdarma, bitcoin cz, bitcoin obchodování, bitcoin"
+    "title": "Litecoin koers",
+    "description": "Litecoin mogelijkheden van de handel op de beurs en ook krijgt u het huidige tempo van de virtuele valuta Bitcoin vinden.",
+    "keywords": "bitcoin exchange, gratis bitcoin, bitcoin nl, handel bitcoin, bitcoin"
   }
 {{/settings}}
 
@@ -23,7 +23,7 @@ Met de toetreding van de gespecialiseerde ASIC voor Bitcoin op de markt is het g
 
 Door de gemeenschap die al gebruik maakt van LTC is de kans enorm groot dat de waarde van LTC steeds groter zal worden. Het is belangrijk voor de groei van de waarde om portefeuilles te creeëren, zodat ook minder ervaren gebruiks het makkelijk zullen vinden om LTC te kopen en te verkopen. Er zijn wel meer ontwikkelaars odig om dit te doen. Voor de volgende ontwikkeling in de koers van Litecoin zal moeten worden beslist welke producten en services gekocht kunnen worden met Litecoin. Alles staat nog maar aan het begin en het is zeker de moeite waard om hier gebruik van te maken. 
 
-[Ik wil het proberen](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Ik wil het proberen](http://www.plus500.com/nl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 {{/section}}
 
@@ -32,7 +32,9 @@ Door de gemeenschap die al gebruik maakt van LTC is de kans enorm groot dat de w
 ## Update van Litecoin koers in USD
 
 <div class="container kurz">
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
+<a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=nl&cty=NL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
 
 {{/section}}
@@ -43,14 +45,14 @@ Door de gemeenschap die al gebruik maakt van LTC is de kans enorm groot dat de w
 
 Nu de vraag voor deze valuta en het handelen hierin aan het groeien is, begint de interesse die het publiek hiervoor heeft ook te groeien. Denk je aan het handelen met Litecoin? Dan moet je bij 500plus zijn. Dit is een redelijk bekende broker waarmee je kan handelen en de koersen kunt voorspellen. Als een nieuwe klant krijg je een gratis registratie bonus van $25. Hoe je deze bonus gebruikt ligt aan jou. Deze service is CFD. Plus500UK Limited is een geauthoriseerde en gereguleerd door de British Financial Conduct Authority. 
 
-[Begin nu](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Begin nu](http://www.plus500.com/nl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ### Handelen in Litecoin
 Service CFD
 
  * Koop of verkort verkoop 
  * Handel met een hefboom 
- * 500CZK registratie bonus 
+ * $25 registratie bonus 
  * Je kapitaal is in gevaar 
 
 ### Hoe krijg je, je eerste stortings bonus

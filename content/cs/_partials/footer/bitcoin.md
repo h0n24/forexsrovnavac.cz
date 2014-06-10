@@ -1,0 +1,10 @@
+<i class="fa fa-language"></i>
+ &nbsp; <a href="{{url}}en/bitcoin/">en</a>
+ · <a href="{{url}}de/bitcoin/">de</a>
+ · <a href="{{url}}pl/bitcoin/">pl</a>
+ · <a href="{{url}}nl/bitcoin/">nl</a>
+ · <a href="{{url}}fr/bitcoin/">fr</a>
+ · <a href="{{url}}es/bitcoin/">es</a>
+ · <a href="{{url}}it/bitcoin/">it</a>
+ · <a href="{{url}}sk/bitcoin/">sk</a>
+ · <a href="{{url}}bitcoin/">cs</a>

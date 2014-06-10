@@ -1,65 +1,68 @@
 {{settings}}
-  "language": "en",
+  "language": "nl",
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin rate",
-    "description": "Bitcoin possibilities of its trading on the stock exchange and you can also find here update rate of the virtual currency Bitcoin",
-    "keywords": "bitcoin rate, bitcoin for free, bitcoin cz, bitcoin trading, bitcoin"
+    "title": "Bitcoin koers",
+    "description": "Bitcoin mogelijkheden van de handel op de beurs en u kunt hier ook updaten snelheid van de virtuele valuta Bitcoin",
+    "keywords": "bitcoin koers, Bitcoin gratis, bitcoin cz, bitcoin handel, bitcoin"
   }
 {{/settings}}
 
 {{section}}
 
-## Trading in virtual currency Bitcoin
+## Handel met virtuele Bitcoins
 
-Surely a whole range of you notice in last month an increased interest in the virtual currency bitcoin.  The purpose of this article isn't to describe the functioning of this virtual currency, we won't occupy with its history or with “bitcoin mining”, we won't give here bitcoins for free. This article is more focused on possibilities of its trading on the stock exchange, as an investment product, that goes currently through boom and its trading offers every day interesting investment opportunities.
+Je zult vast wel gezien hebben dat Botcoin steeds populairder word. In dit artikel zullen we niet beschrijven wat de functie, geschiedenis of wat bitcoin mining is en we zullen je ook geen gratis Bitcoins geven. Dit artikel is gefocust op de mogelijkheid dat je kan handelen met de koersen die nog nooit zo goed zijn geweest als ze nu zijn, waardoor je dagelijks interessante investeerings mogelijkheden hebt. 
 
-### In short what is Bitcoin.
+### Wat is Bitcoin in het kort 
 
-The digital currency Bitcoin created in 2009 Satoshi Nakamoto. I give just his definition, which is in my opinion easy to understand also for laymen. “The main uniqueness of bitcoin is its full decentralization; it's so projected, that nobody, neither the author nor other individuals, groups or governments won't be anyhow able to influence, damage, falsify, confiscate the accounts, control currency flow or cause the inflation. In the network doesn't exist any central point, anybody, who could decide about the network. Bitcoin is a deflationary currency. The total number of money is final and it's known in advance, its release in the circulation is defined just by mathematical laws. The payments in the network are under way for minimum or any costs.”
+Bitcoin is in 2009 gecreeërd door Satoshi Nakamoto. Dit is zijn definitie van wat Bitcoins zijn;
+“Bitcoin is zo uniek omdat het gedecentraliseerde werkt: Het is zo gemaakt dat niemand het kan beïnvloeden. Niet de maker, andere individuelen, groepen of regeringen. Omdat het netwerk niet op een centraal punt bestaat kan niemand het goed of slecht beïnvloeden. Bitcoin is een deflatoire valuta. Het geld is vooraf bepaald en word alleen beïnvloed door wiskunde regels. De betaling op het netwerk zijn minimaal.” 
 
-### The value of Bitcoin as a currency
+### De waarde van Bitcoin als geld 
 
-A whole range of experts naturally disputes long time over that, what create the value of this virtual currency. One of often repeated mistakes is that the value of the currency Bitcoin is directly given by the number of the users, who are Bitcoin mining. According to the theory should it also means, that the more users are Bitcoin mining, the higher is its value. Nevertheless it's just the other way around, the rising value of Bitcoin increases the number of miners, it follows that the users, that participate in the mining of this currency can't assess the real value. That's why they today hold the view, that the value of this currency is based just on the demand and the supply on the market and is so covered only by the confidence, that in the future it will be possible to pay with it just like today.
+Een hele groep experts is al tijden aan het discuseren over hoe je waarde kan creeëren met virtueel geld. Een van de meest gemaakte fouten is dat er word gedacht dat de waarde van Bitcoin aan het aantal gebruikers die Bitcoin mining doen. Als dit echt waar is dan zal dat betekenen dat hoe meer mensen Bitcoin minen hoe meer Bitcoin waard is. Het tegendeel is waar. Hoe minder mensen Bitcoin minen hoe meer het waard is, omdat het moeilijker te zeggen is hoeveel Bitcoin waard is met meer mensen. Wij denken dat over een aantal jaar het mogelijk zal zijn om met Bitcoin te betalen zoals je nu met normaal geld betaald. 
 
 {{/section}}
 
 {{section}}
 
-## Update rate of BITCOIN in USD (LTC/USD)
+## Update koers BITCOIN in USD (LTC/USD) 
 
 <div class="container kurz">
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
+<a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=nl&cty=NL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 
 {{/section}}
 
 
 
-## Where to trade with Bitcoin
+## Waar kan je handelen met Bitcoin 
 
-How is the demand for this currency growing, so is also growing the interest among the public in direct trading in this currency, similarly to other currencies. So when you are thinking about trading in Bitcoins, one of first companies, which enable it, is the company 500plus. With this relatively well-known broker you can trade and speculate in the growth or decrease of this currency any minute. Moreover as a new customer you will become to your registration a bonus of 500 CZK. How you use this bonus is just up to you. The service is CFD. Plus500UK Limited is authorised and regulated by the British Financial Conduct Authority.
+Nu de vraag voor deze valuta en het handelen hierin aan het groeien is, begint de interesse die het publiek hiervoor heeft ook te groeien. Denk je aan het handelen met Bitcoin? Dan moet je bij 500plus zijn. Dit is een redelijk bekende broker waarmee je kan handelen en de koersen kunt voorspellen. Als een nieuwe klant krijg je een gratis registratie bonus van $25. Hoe je deze bonus gebruikt ligt aan jou. Deze service is CFD. Plus500UK Limited is een geautoriseerde en gereguleerd door de British Financial Conduct Authority. 
 
-[Start now](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Begin nu](http://www.plus500.com/nl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Trading in Bitcoin
+### Handelen in Bitcoin
 Service CFD
 
- * Buy or short sale
- * Trade with a lever
- * 500CZK registration bonus
- * Your capital is in danger
+ * Koop of verkort verkoop 
+ * Handel met een hefboom 
+ * $25 registratie bonus 
+ * Je kapitaal is in gevaar 
 
-### How to get your first deposit bonus
+### Hoe krijg je, je eerste stortings bonus
 
- 1. Download the trade software Plus500.
- 2. Click on “really trade”
- 3. Click on “open new account”
- 4. Click on “administration of the financial means” in the left lower corner
- 5. Choose the method of the deposit
- 6. Enter the code of the bonus in the field of the deposit
- 7. The amount of the deposit will be added to your account soon after you will make the required number of trade points
+ 1. Download de handels software Plus500
+ 2. Klik op “echt handelen”
+ 3. Klik op “Open een nieuwe account”
+ 4. Klik op “administratie met financiële midellen” in de onderste linker hoek
+ 5. Kies de betaalmethode 
+ 6. Typ de code in voor de bonus in het veld voor de storting 
+ 7. Het bedrag zal gestort worden op je account zodra je het verplichte aantal handelspunten hebt behaalt 
 
 
 {{/section}}

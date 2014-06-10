@@ -40,7 +40,7 @@ class core {
       $partial_start = strpos($content, "{{partial: ") + strlen("{{partial: ");
       $partial_end = strpos($content, "}}", $partial_start);
       $partial = substr($content, $partial_start, $partial_end - $partial_start);
-      $partial_content = file_get_contents(CONTENT_DIR .'_partials/' . $settings['language']."/". $partial . FILE_FORMAT);
+      $partial_content = file_get_contents(CONTENT_DIR . $settings['language'] . '/_partials/' . $partial . FILE_FORMAT);
       $partial_content = \Michelf\MarkdownExtra::defaultTransform($partial_content);
       $content = str_replace("{{partial: " . $partial . "}}",$partial_content, $content);
     }
@@ -51,7 +51,7 @@ class core {
   public static function header($content, $settings){
     $header = "";
     if (isset($settings['header'])) {
-      $header = file_get_contents(CONTENT_DIR .'_partials/' . $settings['language']. "/" . "header/". $settings['header'] . FILE_FORMAT);
+      $header = file_get_contents(CONTENT_DIR . $settings['language'] . '/_partials/' . "header/". $settings['header'] . FILE_FORMAT);
       $header = MarkdownExtra::defaultTransform($header);
       $header = core::url_img($header);
       $header = core::url_base($header);

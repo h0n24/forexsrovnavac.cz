@@ -82,7 +82,7 @@ class layout extends core {
   public static function footer_statement($settings){
 
     $footer_statement = "";
-    $footer_statement_url = CONTENT_DIR .'_partials/' . $settings['language']. "/" . "footer/". "statement" . FILE_FORMAT;
+    $footer_statement_url = CONTENT_DIR . $settings['language']. "/" . '_partials/'  . "footer/". "statement" . FILE_FORMAT;
     $footer_statement_test = @file_get_contents($footer_statement_url);
 
     if ($footer_statement_test !== false) {
@@ -96,8 +96,18 @@ class layout extends core {
     return $footer_statement;
   }
 
-  public static function footer_right($settings){
-    $footer_right_url = CONTENT_DIR .'_partials/' . $settings['language']. "/" . "footer/". "pull-right" . FILE_FORMAT;
+  public static function footer_right($settings, $url){
+
+    if (strpos($url,'bitcoin') !== false) {
+      $footer_right_url = CONTENT_DIR . $settings['language'] . "/" .'_partials/' . "footer/". "bitcoin" . FILE_FORMAT;
+    }
+    else if(strpos($url,'litecoin') !== false) {
+      $footer_right_url = CONTENT_DIR . $settings['language'] . "/" .'_partials/' . "footer/". "litecoin" . FILE_FORMAT;
+    }
+    else {
+      $footer_right_url = CONTENT_DIR . $settings['language'] . "/" .'_partials/' . "footer/". "main" . FILE_FORMAT;
+    }
+
     $footer_right_test = @file_get_contents($footer_right_url);
 
     if ($footer_right_test !== false){

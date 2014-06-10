@@ -30,6 +30,8 @@ Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy warto
 ## Aktualny kurs BITCOIN w USD (BTC/USD)
 
 <div class="container kurz">
+<a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=pl&cty=PL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 

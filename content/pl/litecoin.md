@@ -30,6 +30,8 @@ Powód twierdzenia że waluta LTC wzrośnie powstał dzięki społeczeństwie, k
 ## Aktualny kurs Litecoin w USD (LTC/USD)
 
 <div class="container kurz">
+<a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=pl&cty=PL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
 <center>[Pobierz bezpłatne konto demo w niecałych 5 minut](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}</center>

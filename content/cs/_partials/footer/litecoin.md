@@ -1,0 +1,10 @@
+<i class="fa fa-language"></i>
+ &nbsp; <a href="{{url}}en/litecoin/">en</a>
+ · <a href="{{url}}de/litecoin/">de</a>
+ · <a href="{{url}}pl/litecoin/">pl</a>
+ · <a href="{{url}}nl/litecoin/">nl</a>
+ · <a href="{{url}}fr/litecoin/">fr</a>
+ · <a href="{{url}}es/litecoin/">es</a>
+ · <a href="{{url}}it/litecoin/">it</a>
+ · <a href="{{url}}sk/litecoin/">sk</a>
+ · <a href="{{url}}litecoin/">cs</a>

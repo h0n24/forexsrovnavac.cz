@@ -32,6 +32,8 @@ Man kann denken, dass der Wert von LTC steigen wird, nur dank der Kommunität, d
 ## Aktueller Kurs von Litecoin in USD (LTC/USD)
 
 <div class="container kurz">
+<a href="http://www.plus500.com/de/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/de/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=de&cty=DE&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
 
