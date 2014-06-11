@@ -1,4 +1,4 @@
-{{settings}}
+﻿{{settings}}
   "language": "cs",
   "template": 1,
   "header": "main",
@@ -17,12 +17,11 @@ Recenze brokerů. Najděte si toho svého, protože jen ten pravý vám ušetř�
 
 My vám pomůžeme s výběrem. Srovnání a hodnocení Forex brokerů rychle a jednoduše.
 
-[Tip: 500kč/25€ na Váš reálný účet, pouze za registraci. Vyzkoušejte si reálné obchodování, bez nutnosti vkladu.](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2)
-
 {{/start}}
 
-{{section}}
+<a href="https://record.ironaffiliates.com/_N42kyjjNyOmS41-1FGOtYZRmpuyl6pta/1/" title="" target="_new"><img src="http://s30.postimg.org/fe7nr9xbl/iron.jpg" width="959" height="353" alt="" class="img-responsive img-thumbnail"/></a>
 
+{{section}}
 ## Seznam brokerů
 {{partial: table-brokeri}}
 
