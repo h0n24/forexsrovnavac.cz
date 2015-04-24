@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="<?= $settings['language'] ?>">
 <head>
-  <title><?= $settings['meta']['title'].($settings['meta']['title'] ? " · ":""). $server_name ?></title>
+  <title><?= $settings['meta']['title'].($settings['meta']['title'] ? "":""); ?></title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +15,6 @@
   <meta name="author" content="Jan Šablatura">
   <meta http-equiv="Access-Control-Allow-Origin" content="*">
   <meta name="google-site-verification" content="l89qOWzX86DJpmFJuEyAAdrpNqhMePOFMZ-WYdHUYjw">
-  
   <link href="<?= BASE_URL ?>assets/css/bootstrap.min.css" rel="stylesheet">
   <?php
     if (!isset($settings['template'])) {
@@ -27,7 +26,24 @@
     if ($settings['template'] == 2) {
       echo '<link href="'.BASE_URL.'assets/css/bootstrap-theme2.min.css" rel="stylesheet">';
     }
+    
+    $url_za_jazykem = substr($_SERVER["REQUEST_URI"],1);
+    $url_za_jazykem_zacatek = substr($url_za_jazykem,0,2);
+    $jazyky = array("en","cs","pl","de","sk","nl","fr","es","it");
+    if(in_array($url_za_jazykem_zacatek,$jazyky)==true) $url_za_jazykem = substr($url_za_jazykem,3);
   ?>
+
+  <?php
+  if($url_za_jazykem=="bitcoin" || $url_za_jazykem=="bitcoin/" || $url_za_jazykem=="litecoin" || $url_za_jazykem=="litecoin/" || $url_za_jazykem=="" || $url_za_jazykem=="/")
+  {
+		foreach($jazyky as $j)
+		{
+			$url_link = BASE_URL.$j.'/'.$url_za_jazykem;
+			echo '<link rel="alternate" hreflang="'.$j.'" href="'.$url_link.'" />'."\n";
+		}
+  }
+  ?>
+  
   <link href="<?= BASE_URL ?>assets/css/font-awesome.min.css" rel="stylesheet">
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->

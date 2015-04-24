@@ -3,13 +3,18 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin kurs - LTC/USD",
-    "description": "Litecoin rynku opcji na giełdzie, a także znajdziesz aktualną stopę wirtualnej waluty litecoin",
+    "title": "Litecoin kurs - Aktualny wykres i zmiany cen w LTC/USD",
+    "description": "",
     "keywords": "Litecoin kurs, litecoin, LTC/USD"
   }
 {{/settings}}
 
 {{section}}
+
+
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
 
 ## Transakcje z wirtualną walutą Litecoin
 
@@ -27,7 +32,10 @@ Powód twierdzenia że waluta LTC wzrośnie powstał dzięki społeczeństwie, k
 
 {{section}}
 
-## Aktualny kurs Litecoin w USD (LTC/USD)
+[Mój bonus 100 zł](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+
+
+## Litecoin kurs -(LTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -41,6 +49,6 @@ Powód twierdzenia że waluta LTC wzrośnie powstał dzięki społeczeństwie, k
 
 ## Gdzie handlować z Litecoin?
 
-Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem walutą Litecoin, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z Litecoin. Jedną z pierwszych spółek, która to oferuje jest spółka 500plus. Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
+Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem walutą Litecoin, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z Litecoin. Jedną z pierwszych spółek, która to oferuje jest spółka [plus500](http://www.forexsrovnavac.cz/pl/plus500). Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
 
 {{/section}}

@@ -86,7 +86,7 @@
 <tr>
   <th></th>
   <td class="bot"><a href="https://www.hotforex.com/de/?refid=26283" class="btn btn-default">Demo-Konto</a></td>
-  <td class="bot"><a href="http://www.plus500.com/de/StartTrading.aspx?id=66349&tags=bitcoin&pl=2" class="btn btn-default">Demo-Konto</a></td>
+  <td class="bot"><a href="{{url}}plus500" class="btn btn-default">Plus500</a></td>
   <td class="bot"></td>
   <td class="bot"></td>
   <td class="bot"></td>

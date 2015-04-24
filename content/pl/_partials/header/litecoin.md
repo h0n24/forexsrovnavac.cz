@@ -2,9 +2,9 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Odkryjcie przyszłość
+# Litecoin kurs
 
-Litecoin - wirtualną walutą, która zmieni świat.
+Litecoin - wirtualną walutą.
 
 Bonus powitalny 100 zł
 

@@ -6,7 +6,7 @@
 
 Con la valuta virtuale che cambierà il mondo.
 
-Bonus benvenuto di $25
+Bonus benvenuto di 25 EURO
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

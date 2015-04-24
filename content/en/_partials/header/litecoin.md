@@ -2,9 +2,9 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Litecoin
+# Litecoin price
 
-Start trading with virtual currency, that will change the world.
+Virtual currency, charts and price graph.
 
 Welcoming bonus 20 £
 

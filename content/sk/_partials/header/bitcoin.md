@@ -2,11 +2,11 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Objavte budúcnosť
+# Bitcoin kurz
 
-S virtuálnou menou, ktorá zmení svet.
+Virtuálna mena ktorá zmení svet.
 
-Uvítací bonus 25 €
+Bonus 25 €
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

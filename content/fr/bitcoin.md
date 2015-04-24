@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin price - BTC/USD",
-    "description": "Bitcoin possibilities of its trading on the stock exchange and you can also find here current rate of the virtual currency Bitcoin",
-    "keywords": "bitcoin rate, bitcoin for free, bitcoin cz, bitcoin trading, bitcoin"
+    "title": "Le cours du bitcoin - BTC/USD",
+    "description": "",
+    "keywords": ""
   }
 {{/settings}}
 
@@ -29,7 +29,7 @@ Toute une série d'experts discutent à ce sujet depuis longtemps, ce qui crée 
 
 [25$ bonus d'inscription](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Taux d'actualisation du Bitcoin en USD (LTC/USD)
+## Le cours du bitcoin (BTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/fr/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -42,7 +42,7 @@ Toute une série d'experts discutent à ce sujet depuis longtemps, ce qui crée 
 
 ## Où trader avec du Bitcoin?
 
-Etant donné la demande pour cette monnaie grandissante, elle intéresse de plus en plus de public voulant trader dans cette monnaie de la même façon qu'avec d'autres devises. Alors, quand vous pensez au trading en Bitcoins, pensez à la société 500plus. Une des premières sociétés qui permet de le faire. Avec ce broker relativement bien connu, vous pouvez trader et spéculer sur la croissance de cette monnaie à chaque minute. En outre, en tant que nouveau client, vous recevrez un bonus de 500 CZK lors de votre inscription. C'est vous qui choisissez comment utiliser ce bonus. Le service est CFD. Plus500UK Limited est autorisée et réglementée par l'Autorité britannique des services financiers.
+Etant donné la demande pour cette monnaie grandissante, elle intéresse de plus en plus de public voulant trader dans cette monnaie de la même façon qu'avec d'autres devises. Alors, quand vous pensez au trading en Bitcoins, pensez à la société [plus500](http://www.forexsrovnavac.cz/fr/plus500). Une des premières sociétés qui permet de le faire. Avec ce broker relativement bien connu, vous pouvez trader et spéculer sur la croissance de cette monnaie à chaque minute. En outre, en tant que nouveau client, vous recevrez un bonus de 500 CZK lors de votre inscription. C'est vous qui choisissez comment utiliser ce bonus. Le service est CFD. Plus500UK Limited est autorisée et réglementée par l'Autorité britannique des services financiers.
 
 [Commencer maintenant](http://www.plus500.com/fr/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 

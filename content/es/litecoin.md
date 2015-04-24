@@ -3,13 +3,15 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Precio Litecoin - LTC / USD",
-    "description": "Precio actual de litecoin, precio de mercado y la información de",
+    "title": "Cotizacion de Litcoin - gráfico actual en la evolución de los precios LTC/USD",
+    "description": "",
     "keywords": "Litecoin tasa, litecoin, precio litecoin"
   }
 {{/settings}}
 
 {{section}}
+
+[Mi 25 Euro registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary} [Abra una cuenta de demostración en menos de 5 minutos](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ## Operar con la moneda virtual Litecoin
 
@@ -43,26 +45,9 @@ La razón para pensar que el valor de LTC crecerá, es sólo gracias a la comuni
 
 ## Dónde operar con Litecoin
 
-A medida que crece la demanda de esta moneda también lo hace el interés entre el público por operar directamente con esta moneda, de manera similar a otras monedas. Si estás pensando en operar con Litecoins, una de las primeras compañías que lo permite es la compañía 500plus. Con este relativamente conocido agente de bolsa puedes operar y especular sobre la subida o la bajada del valor de esta moneda en cualquier momento. Además, como nuevo cliente, recibirás una bonificación de 500 CZK al registrarte. Cómo uses esta bonificación es cosa tuya. El servicio es CFD. Plus500UK Limited está autorizada y regulada  por la Autoridad Británica de Conducta Financiera.
+A medida que crece la demanda de esta moneda también lo hace el interés entre el público por operar directamente con esta moneda, de manera similar a otras monedas. Si estás pensando en operar con Litecoins, una de las primeras compañías que lo permite es la compañía [plus500](http://www.forexsrovnavac.cz/es/plus500). Con este relativamente conocido agente de bolsa puedes operar y especular sobre la subida o la bajada del valor de esta moneda en cualquier momento. Además, como nuevo cliente, recibirás una bonificación de 500 CZK al registrarte. Cómo uses esta bonificación es cosa tuya. El servicio es CFD. Plus500UK Limited está autorizada y regulada  por la Autoridad Británica de Conducta Financiera.
 
 [Comience ahora](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Operar con Litecoin
-Servicio CFD
-
- * Compra o venta al descubierto
- * Operar con una palanca
- * Bonificación de registro de 500CZK 
- * Tu capital está en peligro
-
-
-### Cómo conseguir tu bonificación de primer depósito
-  1.  Descarga el software de trading Plus500.
-  2.  Haz clic en “operar en serio”
-  3.  Haz clic en “abrir nueva cuenta ”
-  4.  Haz clic en “administración de los medios financieros” en la esquina inferior izquierda
-  5.  Elige el método de depósito
-  6.  Introduce el código de la bonificación en el campo del depósito
-  7.  La cantidad del depósito será añadida a tu cuenta poco después de que alcances el número requerido de puntos de trading
 
 {{/section}}

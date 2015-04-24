@@ -3,7 +3,7 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin kurz- LTC/USD",
+    "title": "Litecoin kurz, aktuálny graf a vývoj ceny - LTC/USD",
     "description": "",
     "keywords": "Litecoin kurz, litecoin,LTC/USD "
   }
@@ -41,17 +41,9 @@ Dôvod si myslieť, že hodnota kurzu LTC porastie, je vďaka komunite, ktorá z
 
 ## Kde obchodovať s litecoinmi
 
-S tým, ako rastie dopyt po tejto mene, rastie medzi verejnosťou záujem aj o priame obchodovanie s virtuálnou menou litecoin, podobne ako je to i u ostatných mien. Pokiaľ teda uvažujete o obchodovaní s litecoinmi, tak jedna z prvých spoločností, ktorá to umožňuje je spoločnosť 500plus. S týmto pomerne vo svete známym brokerom môžete obchodovať a špekulovať na rast či pokles tejto meny už za pár minút. Navyše - ako nový zákazník dostanete k vašej registrácii bonus 500 Kč. Ako tento bonus využijete je len na vás. Služba je CFD. Plus500UK Limited je schválená a regulovaná britským Úradom pre finančne služby (Authorised and regulated by the Financial Conduct Authority).
+S tým, ako rastie dopyt po tejto mene, rastie medzi verejnosťou záujem aj o priame obchodovanie s virtuálnou menou litecoin, podobne ako je to i u ostatných mien. Pokiaľ teda uvažujete o obchodovaní s litecoinmi, tak jedna z prvých spoločností, ktorá to umožňuje je spoločnosť [plus500](http://www.forexsrovnavac.cz/sk/plus500). S týmto pomerne vo svete známym brokerom môžete obchodovať a špekulovať na rast či pokles tejto meny už za pár minút. Navyše - ako nový zákazník dostanete k vašej registrácii bonus 500 Kč. Ako tento bonus využijete je len na vás. Služba je CFD. Plus500UK Limited je schválená a regulovaná britským Úradom pre finančne služby (Authorised and regulated by the Financial Conduct Authority).
 
 [Začať hneď teraz](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Ako získať váš prvý vkladový bonus
-1.  Stiahnite si obchodný software Plus 500
-2.  Kliknite na „Obchodovať naozaj“
-3.  Kliknite na „Otvoriť nový účet“
-4.  Kliknite na „Správa finančných prostriedkov v ľavom dolnom rohu
-5.  Vyberte metódu vkladu
-6.  Zadajte kód bonusu do políčka vkladu
-7.  Čiastka bonusu bude pridaná na váš účet hneď, čo ste zobchodovali požadovaný počet obchodných bodov
 
 {{section}}

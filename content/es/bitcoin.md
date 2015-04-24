@@ -3,13 +3,15 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Precio Bitcoin - BTC / USD",
-    "description": "Bitcoin posibilidades de su cotización en la bolsa de valores y también se puede encontrar aquí la tasa actual de la moneda virtual Bitcoin",
+    "title": "Cotizacion de Bitcoin - gráfico actual en la evolución de los precios BTC/USD",
+    "description": "",
     "keywords": "bitcoin tasa, Bitcoin gratis, bitcoin cz, bitcoin negociación, bitcoin"
   }
 {{/settings}}
 
 {{section}}
+
+[Mi 25 Euro registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary} [Abra una cuenta de demostración en menos de 5 minutos](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ## Operar con la moneda virtual Bitcoin
 
@@ -27,9 +29,9 @@ Naturalmente, muchos expertos llevan discutiendo desde hace tiempo sobre qué es
 
 {{section}}
 
-[20£ registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Mi 25 Euro registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Tasa de actualización de BITCOIN en USD (LTC/USD)
+## Cotizacion de Bitcoin / Dolar [ BTCUSD ]
 
 <div class="container kurz">
 <a href="http://www.plus500.com/es/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -43,16 +45,16 @@ Naturalmente, muchos expertos llevan discutiendo desde hace tiempo sobre qué es
 
 ## Dónde operar con Bitcoin
 
-A medida que crece la demanda de esta moneda también lo hace el interés entre el público por operar directamente con esta moneda, de manera similar a otras monedas. Si estás pensando en operar con Bitcoins, una de las primeras compañías que lo permite es la compañía 500plus. Con este relativamente conocido agente de bolsa puedes operar y especular sobre la subida o la bajada del valor de esta moneda en cualquier momento. Además, como nuevo cliente, recibirás una bonificación de 500 CZK al registrarte. Cómo uses esta bonificación es cosa tuya. El servicio es CFD. Plus500UK Limited está autorizada y regulada  por la Autoridad Británica de Conducta Financiera.
+A medida que crece la demanda de esta moneda también lo hace el interés entre el público por operar directamente con esta moneda, de manera similar a otras monedas. Si estás pensando en operar con Bitcoins, una de las primeras compañías que lo permite es la compañía [plus500](http://www.forexsrovnavac.cz/es/plus500). Con este relativamente conocido agente de bolsa puedes operar y especular sobre la subida o la bajada del valor de esta moneda en cualquier momento. Además, como nuevo cliente, recibirás una bonificación de 25 Euro al registrarte. Cómo uses esta bonificación es cosa tuya. El servicio es CFD. Plus500UK Limited está autorizada y regulada  por la Autoridad Británica de Conducta Financiera.
 
-[Download Demo account](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Abra una cuenta de demostración en menos de 5 minutos](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ### Operar con Bitcoin
 Servicio CFD
 
  * Compra o venta al descubierto
  * Operar con una palanca
- * Bonificación de registro de 500CZK 
+ * Bonificación de registro de 25 Euro
  * Tu capital está en peligro
 
 

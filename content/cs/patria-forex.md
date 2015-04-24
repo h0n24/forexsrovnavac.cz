@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Patria-forex recenze",
-    "description": "Srovnání forex brokerů, vyberte si vašeho brokera pro obchodování na forexu. Najděte si svého brokera. Protože jen ten pravý vám ušetří peníze.",
-    "keywords": "Forex, srovnání, broker, Patria-forex"
+    "title": "Patria Forex recenze",
+    "description": "",
+    "keywords": "Patria Forex, Patria Forex recenze"
   }
 {{/settings}}
 

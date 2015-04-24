@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin price - LTC/USD",
-    "description": "Current price of litecoin, market price and informations",
-    "keywords": "Litecoin rate, litecoin, litecoin price"
+    "title": "Le cours du Litecoin - LTC/USD",
+    "description": "",
+    "keywords": ""
   }
 {{/settings}}
 
@@ -43,26 +43,8 @@ On peut penser que la valeur de Litecoin va croître est grâce à la communaut�
 
 ## Où trader avec du Litecoin?
 
-Etant donné la demande pour cette monnaie grandissante, elle intéresse de plus en plus de public voulant trader dans cette monnaie de la même façon qu'avec d'autres devises. Alors, quand vous pensez au trading en Bitcoins, pensez à la société 500plus. Une des premières sociétés qui permet de le faire. Avec ce broker relativement bien connu, vous pouvez trader et spéculer sur la croissance de cette monnaie à chaque minute. En outre, en tant que nouveau client, vous recevrez un bonus de 500 CZK lors de votre inscription. C'est vous qui choisissez comment utiliser ce bonus. Le service est CFD. Plus500UK Limited est autorisée et réglementée par l'Autorité britannique des services financiers.
+Etant donné la demande pour cette monnaie grandissante, elle intéresse de plus en plus de public voulant trader dans cette monnaie de la même façon qu'avec d'autres devises. Alors, quand vous pensez au trading en Bitcoins, pensez à la société 500plus. Une des premières sociétés qui permet de le faire. Avec ce broker relativement bien connu, vous pouvez trader et spéculer sur la croissance de cette monnaie à chaque minute. En outre, en tant que nouveau client, vous recevrez un bonus de 25 EURO lors de votre inscription. C'est vous qui choisissez comment utiliser ce bonus. Le service est CFD. [plus500](http://www.forexsrovnavac.cz/fr/plus500) UK Limited est autorisée et réglementée par l'Autorité britannique des services financiers.
 
 [Commencer maintenant](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
-
-### Trader en Litecoin
-Service CFD
-
- * Acheter ou vendre à découvert
- * Trader avec un levier
- * Bonus d'inscription de $25
- * Votre capital est en danger
-
-Comment obtenir votre bonus de premier dépôt
-
-1. Télécharger le logiciel de trading Plus500.
-2. Cliquer sur « Trader avec de l'argent réel »
-3. Cliquer sur « Créer un nouveau compte »
-4. Cliquer sur « Administration des moyens financiers » dans le coin inférieur gauche
-5. Choisir la méthode de dépôt
-6. Entrer le code de bonus dans le champ du dépôt
-7. Le montant du dépôt sera ajouté à votre compte dès que vous ferez le nombre requis de points de trading.
 
 {{/section}}

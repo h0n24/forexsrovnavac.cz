@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin koers",
-    "description": "Litecoin mogelijkheden van de handel op de beurs en ook krijgt u het huidige tempo van de virtuele valuta Bitcoin vinden.",
-    "keywords": "bitcoin exchange, gratis bitcoin, bitcoin nl, handel bitcoin, bitcoin"
+    "title": "Litecoin wisselkoers - Huidige charts LTC/USD",
+    "description": "",
+    "keywords": "Litecoin, Litecoin koers"
   }
 {{/settings}}
 
@@ -29,7 +29,7 @@ Door de gemeenschap die al gebruik maakt van LTC is de kans enorm groot dat de w
 
 {{section}}
 
-## Update van Litecoin koers in USD
+## Litecoin wisselkoers in USD (LTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -47,22 +47,5 @@ Nu de vraag voor deze valuta en het handelen hierin aan het groeien is, begint d
 
 [Begin nu](http://www.plus500.com/nl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Handelen in Litecoin
-Service CFD
-
- * Koop of verkort verkoop 
- * Handel met een hefboom 
- * $25 registratie bonus 
- * Je kapitaal is in gevaar 
-
-### Hoe krijg je, je eerste stortings bonus
-
- 1. Download de handels software Plus500
- 2. Klik op “echt handelen”
- 3. Klik op “Open een nieuwe account”
- 4. Klik op “administratie met financiële midellen” in de onderste linker hoek
- 5. Kies de betaalmethode
- 6. Typ de code in voor de bonus in het veld voor de storting 
- 7. Het bedrag zal gestort worden op je account zodra je het verplichte aantal handelspunten hebt behaalt
 
 {{/section}}

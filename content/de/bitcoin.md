@@ -3,8 +3,8 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin aktueller Kurs - BTC/USD",
-    "description": "Bitcoin Möglichkeiten seines Handelns an der Börse und auch finden Sie hier den aktuellen Kurs der virtuellen Währung Bitcoin",
+    "title": "Bitcoin Kurs - Aktuelle Chart und Preisentwicklung in BTC/USD",
+    "description": "",
     "keywords": "Bitcoin Kurs, Bitcoin kostenlos, Bitcoin de, Bitcoin Handeln, Bitcoin"
   }
 {{/settings}}
@@ -43,7 +43,7 @@ Lange Zeit streitet selbstverständlich die ganze Reihe der Spezialisten darum, 
 
 ## Wo kann man mit Bitcoin handeln?
 
-Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit dieser Währung, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Bitcoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft plus500.de. Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu bekommen Sie als ein neuer Kunde zu Ihrer Registrierung den Bonus 25 €. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
+Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit dieser Währung, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Bitcoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft [plus500](http://www.forexsrovnavac.cz/de/plus500). Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu bekommen Sie als ein neuer Kunde zu Ihrer Registrierung den Bonus 25 €. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
 
 [Handel mit Demo-Konto](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 

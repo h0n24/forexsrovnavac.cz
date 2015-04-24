@@ -3,13 +3,17 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin kurz - BTC/USD",
+    "title": "Bitcoin kurz, aktuálny graf a vývoj ceny v BTC/USD",
     "description": "Bitcoin - možnosti jeho obchodovania na burze a taktiež tu nájdete aktuálny kurz virtuálnej meny bitcoin.",
     "keywords": "bitcoin kurz, bitcoin cz, bitcoin obchodovanie, bitcoin"
   }
 {{/settings}}
 
 {{section}}
+
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
 
 ## Obchodovanie s virtuálnou menou bitcoin
 
@@ -27,7 +31,7 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 
 {{section}}
 
-[Bonus 25 Euro](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Moj Bonus 25 Euro](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ## Aktuálny kurz BITCOIN v USD - (BTC/USD)
 
@@ -37,13 +41,15 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=sk&cty=SK&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 
+Vyskúšajte obchodovanie Bitcoin pomocou [Binárne opcie](http://www.forexsrovnavac.cz/binarni-opce)
+
 {{/section}}
 
 {{section}}
 
 ## Kde obchodovať s bitcoinmi
 
-S tým, ako rastie dopyt po tejto mene, rastie medzi verejnosťou záujem aj o priame obchodovanie s touto menou, podobne ako je to i u ostatných mien. Pokiaľ teda uvažujete o obchodovaní s bitcoinmi, tak jedna z prvých spoločností, ktorá to umožňuje, je spoločnosť 500plus. S týmto pomerne vo svete známym brokerom, môžete obchodovať a špekulovať na rast, či pokles tejto meny už za pár minút. Navyše – ako nový zákazník dostanete k vašej registrácii bonus 25 Euro. Ako tento bonus využijete je len na vás. Služba je CFD. Plus500UK Limited je schválená a regulovaná britským Úradom pre finančné služby (Authorised and regulated by the Financial Conduct Authority).
+S tým, ako rastie dopyt po tejto mene, rastie medzi verejnosťou záujem aj o priame obchodovanie s touto menou, podobne ako je to i u ostatných mien. Pokiaľ teda uvažujete o obchodovaní s bitcoinmi, tak jedna z prvých spoločností, ktorá to umožňuje, je spoločnosť [plus500](http://www.forexsrovnavac.cz/sk/plus500). S týmto pomerne vo svete známym brokerom, môžete obchodovať a špekulovať na rast, či pokles tejto meny už za pár minút. Navyše – ako nový zákazník dostanete k vašej registrácii bonus 25 Euro. Ako tento bonus využijete je len na vás. Služba je CFD. Plus500UK Limited je schválená a regulovaná britským Úradom pre finančné služby (Authorised and regulated by the Financial Conduct Authority).
 
 [Vyskúšajte si demo účet](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 

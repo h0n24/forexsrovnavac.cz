@@ -1,0 +1,125 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic&subset=latin,latin-ext);
+
+#brokeri-box
+{
+  width: 263px;
+  height: auto;
+}
+
+.brokeri-nadpis 
+{
+  display: block;
+  width: 248px;
+  height: 27px;
+  background: #446cb3;
+  color: #fff;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 8px 0px 0px 15px;
+  margin: 0px;
+}
+
+.broker 
+{
+  width: 261px;
+  height: 195px;
+  border: 1px solid #cfcecd;
+  margin-bottom: 6px;
+}
+
+.broker-top 
+{
+  width: 250px;
+  height: 47px;
+  border-bottom: 1px solid #c7c6c5;
+  background: url(img/broker-top-bg.png);
+  padding: 11px 0px 0px 11px;
+}
+
+.broker-top-odkaz  
+{
+  display: block;
+  color: #5ea910;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Open Sans;
+  font-weight: 700;
+  float: left;
+  margin: 6px 8px 0px 5px;
+}
+
+.broker-top img 
+{
+  float: left;
+  margin: 0px 4px 0px 0px;
+  
+}
+
+.hodnoceni
+{
+  width: 143px;
+  height: 52px;
+  background-color: #fcfbfb;
+  background-image: url(img/hodnoceni-bg.png);
+  background-repeat: no-repeat;
+  background-position: 30px 11px;
+  border: 1px solid #e6e6e6;
+  border-radius: 4px;
+  margin: 12px auto 12px auto;
+  padding: 13px 0px 0px 95px;
+  font-family: Open Sans;
+  font-size: 14px;
+  color: #555;
+    
+}
+
+.recenze
+{
+  display: block;
+  float: left;
+  width: 115px;
+  height: 27px;
+  background: url(img/recenze_bg.png); 
+  color: #fff;
+  text-decoration: none;
+  font-family: Open Sans;
+  font-size: 14px;
+  padding: 8px 0px 0px 0px;    
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.ucet
+{
+  display: block;
+  float: left;
+  width: 115px;
+  height: 27px;
+  background: url(img/ucet_bg.png); 
+  color: #fff;
+  text-decoration: none;
+  font-family: Open Sans;
+  font-size: 14px;
+  padding: 8px 0px 0px 0px;    
+  text-align: center;
+}
+
+.recenze:hover
+{
+  background: url(img/recenze_bg-hover.png); 
+}
+
+.ucet:hover
+{
+  background: url(img/ucet_bg-hover.png);
+}
+
+img.ikona
+{
+  margin-top: 10px;
+  
+}
+

@@ -86,7 +86,7 @@
 <tr>
   <th></th>
   <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}hotforex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
-  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}plus500" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}sk/plus500" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
   <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}xtb" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
   <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}patria-forex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
   <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}mayzus" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>

@@ -2,7 +2,7 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Bitcoin
+# Bitcoin kurz
 
 Začněte obchodovat s měnou, která mění svět.
 
@@ -21,17 +21,30 @@ Uvítací bonus 500 Kč pro každého.
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top"> Obchod s Bitcoiny</a>
+          <a href="#top">Obchodování s Bitcoiny</a>
         </li>
         <li>
           <a href="#section-1">O co jde</a>
         </li>
         <li>
-          <a href="#section-2">Aktuální kurz</a>
+          <a href="#section-2">Aktuální kurz Bitcoin</a>
         </li>
         <li>
           <a href="#section-3">Kde obchodovat</a>
         </li>
+		
+          <ul class="vlajky" role="menu" aria-labelledby="drop">
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="../cs/bitcoin/" href="{{base-url}}en/"><img src="{{img-url}}flags/cs.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../en/bitcoin/" href="{{base-url}}en/"><img src="{{img-url}}flags/en.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../pl/bitcoin/" href="{{base-url}}pl/"><img src="{{img-url}}flags/pl.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../de/bitcoin/" href="{{base-url}}de/"><img src="{{img-url}}flags/de.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../sk/bitcoin/" href="{{base-url}}sk/"><img src="{{img-url}}flags/sk.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../nl/bitcoin/" href="{{base-url}}nl/"><img src="{{img-url}}flags/nl.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../fr/bitcoin/" href="{{base-url}}fr/"><img src="{{img-url}}flags/fr.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../es/bitcoin/" href="{{base-url}}es/"><img src="{{img-url}}flags/es.png" class="flag"> </a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="../it/bitcoin/" href="{{base-url}}it/"><img src="{{img-url}}flags/it.png" class="flag"> </a></li>
+          </ul>
+       
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>

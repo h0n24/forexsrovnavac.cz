@@ -2,9 +2,9 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Entdecken Sie die Zukunft
+# Bitcoin Kurs
 
-Bitcoin - mit virtueller Währung, die die Welt ändert.
+Bitcoin - mit virtueller Währung.
 
 Begrüßungsbonus 25 €
 

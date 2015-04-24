@@ -3,8 +3,8 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin price - LTC/USD",
-    "description": "Current price of litecoin, market price and informations",
+    "title": "Litecoin price - Current chart and price graph LTC/USD",
+    "description": "",
     "keywords": "Litecoin rate, litecoin, litecoin price"
   }
 {{/settings}}
@@ -29,7 +29,7 @@ The reason to think, that the value of LTC will grow, is just thanks to the comm
 
 {{section}}
 
-## Current price of Litecoin in USD (LTC/USD)
+## Current price of Litecoin, USD graph (LTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -43,26 +43,9 @@ The reason to think, that the value of LTC will grow, is just thanks to the comm
 
 ## Where to trade with Litecoin
 
-How is the demand for this currency growing, so is also growing the interest among the public in direct trading in the virtual currency Litecoin, similarly to other currencies. So when you are thinking about trading in Litecoin, one of first companies, which enable it, is the company 500plus. With this relatively well-known broker you can trade and speculate in the growth or decrease of this currency any minute. Moreover as a new customer you will become to your registration a bonus of 500 CZK. How you use this bonus is just up to you. The service is CFD. Plus500UK Limited is authorised and regulated by the British Financial Conduct Authority.
+How is the demand for this currency growing, so is also growing the interest among the public in direct trading in the virtual currency Litecoin, similarly to other currencies. So when you are thinking about trading in Litecoin, one of first companies, which enable it, is the company [plus500](http://www.forexsrovnavac.cz/en/plus500). With this relatively well-known broker you can trade and speculate in the growth or decrease of this currency any minute. Moreover as a new customer you will become to your registration a bonus of 500 CZK. How you use this bonus is just up to you. The service is CFD. Plus500UK Limited is authorised and regulated by the British Financial Conduct Authority.
 
 [Start now](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Trading in Bitcoin
-Service CFD
-
- * Buy or short sale
- * Trade with a lever
- * 500CZK registration bonus
- * Your capital is in danger
-
-### How to get your first deposit bonus
-
- 1. Download the trade software Plus500.
- 2. Click on “really trade”
- 3. Click on “open new account”
- 4. Click on “administration of the financial means” in the left lower corner
- 5. Choose the method of the deposit
- 6. Enter the code of the bonus in the field of the deposit
- 7. The amount of the deposit will be added to your account soon after you will make the required number of trade points
 
 {{/section}}

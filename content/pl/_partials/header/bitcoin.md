@@ -4,7 +4,7 @@
 
 # Bitcoin kurs
 
-Odkryjcie przyszłość - wirtualną walutą, która zmieni świat.
+Bitcoin - wirtualną walutą, która zmieni świat.
 
 Bonus powitalny 100 zł
 

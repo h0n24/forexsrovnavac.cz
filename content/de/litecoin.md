@@ -3,8 +3,8 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin aktueller Kurs - LTC/USD",
-    "description": "Litecoin und die Möglichkeiten seines Handelns an der Börse, wie CFD, Sie finden hier auch den aktuellen Kurs für Litecoin",
+    "title": "Litecoin Kurs - Aktuelle Chart und Preisentwicklung in LTC/USD",
+    "description": "",
     "keywords": "Litecoin Kurs, Kurs Litecoin, Litecoin, Litecoin Handeln, CFD"
   }
 {{/settings}}
@@ -43,26 +43,10 @@ Man kann denken, dass der Wert von LTC steigen wird, nur dank der Kommunität, d
 
 ## Wo kann man mit Litecoin handeln?
 
-Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit der virtuellen Währung Litecoin, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Litecoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft 500plus. Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu als ein neuer Kunde bekommen Sie zu Ihrer Registrierung den Bonus 500CZK. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
+Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit der virtuellen Währung Litecoin, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Litecoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft [plus500](http://www.forexsrovnavac.cz/de/plus500). Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu als ein neuer Kunde bekommen Sie zu Ihrer Registrierung den Bonus 500CZK. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
 
 [Jetzt starten](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Handeln mit Litecoin
-Der Dienst von CFD
 
- * Einkauf oder kurzer Verkauf
- * Handeln Sie mit Hebel
- * 500CZK Anmeldungsbonus
- * Ihr Kapital ist bedroht
-
-### Wie können Sie Ihren ersten Einlagebonus gewinnen
-
- 1. Laden Sie die Handelssoftware Plus500 herunter.
- 2. Klicken Sie auf „wirklich handlen“.
- 3. Klicken Sie auf „neues Konto öffnen“.
- 4. Klicken Sie auf „Verwaltung der Finanzmittel“ in der linken unteren Ecke.
- 5. Wählen Sie die Methode der Einlage.
- 6. Geben Sie den Kode des Bonus (von der Tabelle unten)ins Feld der Einlage ein.
- 7. Die Summe des Bonus wird auf Ihr Konto danach zugefügt, wenn Sie die geforderte Zahl der Handelspunkte handeln.
 
 {{/section}}

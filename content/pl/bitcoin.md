@@ -3,13 +3,18 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Kurs Bitcoin - BTC/USD",
-    "description": "Bitcoin rynku opcji na giełdzie, a także znajdziesz aktualną stopę wirtualnej waluty Bitcoin",
-    "keywords": "bitcoin kurs, Kursy Bitcoin bitcoin, Bitcoin handlować"
+    "title": "Bitcoin kurs, Aktualny wykres i zmiany cen w BTC/USD",
+    "description": "",
+    "keywords": "bitcoin kurs, Kursy Bitcoin, bitcoin, Bitcoin handlować"
   }
 {{/settings}}
 
 {{section}}
+
+
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
 
 ## Transakcje z wirtualną walutą Bitcoin
 
@@ -27,7 +32,7 @@ Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy warto
 
 {{section}}
 
-## Aktualny kurs BITCOIN w USD (BTC/USD)
+## Bitcoin kurs w USD (BTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -43,6 +48,6 @@ Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy warto
 
 ## Gdzie handlować Bitcoin?
 
-Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem tą walutą, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z bitcoin. Jedną z pierwszych spółek, która to oferuje jest spółka plus500. Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
+Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem tą walutą, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z bitcoin. Jedną z pierwszych spółek, która to oferuje jest spółka [plus500](http://www.forexsrovnavac.cz/pl/plus500). Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
 
 {{/section}}

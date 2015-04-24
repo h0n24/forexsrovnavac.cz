@@ -6,7 +6,7 @@
 
 Empieza a operar con la moneda virtual que cambiará el mundo.
 
-Bono de bienvenida de $25
+Bono de bienvenida de 25 €
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -27,7 +27,7 @@ Bono de bienvenida de $25
           <a href="#section-1">¿Qué es?</a>
         </li>
         <li>
-          <a href="#section-2">Cotización actual</a>
+          <a href="#section-2">Cotizacion de Bitcoin </a>
         </li>
         <li>
           <a href="#section-3">Donde el comercio?</a>

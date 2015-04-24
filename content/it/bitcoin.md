@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin price - BTC/USD",
-    "description": "Bitcoin possibilities of its trading on the stock exchange and you can also find here current rate of the virtual currency Bitcoin",
-    "keywords": "bitcoin rate, bitcoin for free, bitcoin cz, bitcoin trading, bitcoin"
+    "title": "Tasso di cambio BITCOIN - BTC/USD",
+    "description": "",
+    "keywords": ""
   }
 {{/settings}}
 
@@ -27,9 +27,9 @@ Un'intera gamma di esperti naturalmente discute da molto tempo su questo argomen
 
 {{section}}
 
-[$25 bonus di registrazione](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[25 EURO bonus di registrazione](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Aggiorna lo scambio BITCOIN - USD (LTC/USD)
+##  l’attuale tasso di cambio BITCOIN - (BTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/it/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -43,7 +43,7 @@ Un'intera gamma di esperti naturalmente discute da molto tempo su questo argomen
 
 ## Dove fare trading con Bitcoin
 
-Proprio come sta crescendo la richiesta per questa valuta, così che riesce anche l'interesse fra il pubblico nel trading diretto su questa valuta, in maniera simile alle altre valute. Quindi se state pensando di fare trading con Bitcoin, una delle prime aziende che lo permette è la compagnia 500plus. Con questo broker relativamente ben conosciuto poter fare trading e speculare sulla crescita o sulla decrescita di questa valuta in qualsiasi momento. Inoltre come nuovo cliente quando vi registrerete avrete diritto ad un bonus di 500 CZK. Come utilizzare questo bonus sta soltanto a voi. Il servizio è CFD. Plus500UK Limited è autorizzata e regolamentata dalla British Financial Conduct Authority.
+Proprio come sta crescendo la richiesta per questa valuta, così che riesce anche l'interesse fra il pubblico nel trading diretto su questa valuta, in maniera simile alle altre valute. Quindi se state pensando di fare trading con Bitcoin, una delle prime aziende che lo permette è la compagnia [plus500](http://www.forexsrovnavac.cz/it/plus500). Con questo broker relativamente ben conosciuto poter fare trading e speculare sulla crescita o sulla decrescita di questa valuta in qualsiasi momento. Inoltre come nuovo cliente quando vi registrerete avrete diritto ad un bonus di 500 CZK. Come utilizzare questo bonus sta soltanto a voi. Il servizio è CFD. Plus500UK Limited è autorizzata e regolamentata dalla British Financial Conduct Authority.
 
 [Scarica conto Demo](http://www.plus500.com/it/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
@@ -52,7 +52,7 @@ Servizio CFD
 
  * Acquista o vendi
  * Scambia con leva
- * Bonus di registrazione di 500CZK 
+ * Bonus di registrazione di 25 EURO
  * Il tuo capitale è il pericolo
 
 

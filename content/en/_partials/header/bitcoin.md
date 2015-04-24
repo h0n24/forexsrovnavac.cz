@@ -2,9 +2,9 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Discover the future
+# Bitcoin Price
 
-With virtual currency, that will change the world.
+Virtual currency - Charts and price graph.
 
 Welcoming bonus 20 £
 

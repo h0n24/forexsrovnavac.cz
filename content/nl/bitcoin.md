@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin koers",
-    "description": "Bitcoin mogelijkheden van de handel op de beurs en u kunt hier ook updaten snelheid van de virtuele valuta Bitcoin",
-    "keywords": "bitcoin koers, Bitcoin gratis, bitcoin cz, bitcoin handel, bitcoin"
+    "title": "Bitcoin wisselkoers - Huidige charts BTC/USD",
+    "description": "",
+    "keywords": "bitcoin wisselkoers, Bitcoin gratis, bitcoin cz, bitcoin handel, bitcoin"
   }
 {{/settings}}
 
@@ -28,14 +28,14 @@ Een hele groep experts is al tijden aan het discuseren over hoe je waarde kan cr
 
 {{section}}
 
-## Update koers BITCOIN in USD (LTC/USD) 
+## BITCOIN koers in USD (BTC/USD) 
 
 <div class="container kurz">
 <a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=nl&cty=NL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
-
+Bekijk hier de live Bitcoin koers in Dollars. De 48-uurs koers ververst zich elke 5 minuten
 {{/section}}
 
 

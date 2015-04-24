@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin price - LTC/USD",
-    "description": "Current price of litecoin, market price and informations",
-    "keywords": "Litecoin rate, litecoin, litecoin price"
+    "title": "Tasso di cambio Litecoin - LTC/USD",
+    "description": "",
+    "keywords": "Tasso di cambio Litecoin"
   }
 {{/settings}}
 
@@ -29,7 +29,7 @@ bisogna pensare al fatto che il valore di LTC crescerà, e solo grazie alla comu
 
 {{section}}
 
-## Aggiorna tasso Litecoin in USD
+## l’attuale tasso di cambio Litecoin in USD
 
 <div class="container kurz">
 <a href="http://www.plus500.com/it/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -43,27 +43,9 @@ bisogna pensare al fatto che il valore di LTC crescerà, e solo grazie alla comu
 
 ## Dove fare trading con Litecoin
 
-Al crescere della richiesta per questa valuta, cresce anche l'interesse fra il pubblico nel trading diretto utilizzando la valuta virtuale Litecoin, in modo simile alle altre valute. Quindi se pensate di fare trading con Litecoin, una delle prime aziende che permette di farlo è l'azienda 500plus. Con questo broker relativamente ben conosciuto poter fare trading e speculare sulla crescita o sulla decrescita di questa valuta in qualsiasi momento. Inoltre come nuovo cliente quando vi registrerete avrete diritto ad un bonus di 500 CZK. Come utilizzare questo bonus sta soltanto a voi. Il servizio è CFD. Plus500UK Limited è autorizzata e regolamentata dalla British Financial Conduct Authority.
+Al crescere della richiesta per questa valuta, cresce anche l'interesse fra il pubblico nel trading diretto utilizzando la valuta virtuale Litecoin, in modo simile alle altre valute. Quindi se pensate di fare trading con Litecoin, una delle prime aziende che permette di farlo è l'azienda [plus500](http://www.forexsrovnavac.cz/it/plus500). Con questo broker relativamente ben conosciuto poter fare trading e speculare sulla crescita o sulla decrescita di questa valuta in qualsiasi momento. Inoltre come nuovo cliente quando vi registrerete avrete diritto ad un bonus di 500 CZK. Come utilizzare questo bonus sta soltanto a voi. Il servizio è CFD. Plus500UK Limited è autorizzata e regolamentata dalla British Financial Conduct Authority.
 
 [Inizia ora](http://www.plus500.com/it/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-### Trading con Litecoin
-Servizio CFD
-
- * Acquista o vendi
- * Scambia con leva
- * Bonus di registrazione di 500CZK 
- * Il tuo capitale è il pericolo
-
-
-### Come ottenere il tuo primo bonus deposito 
-
- 1. Scarica il software per trading Plus500.
- 2. Fai clic su “really trade”
- 3. Fai clic su “open new account”
- 4. Fai clic su “administration of the financial means” in the left lower corner
- 5. Seleziona il metodo di deposito
- 6. Inserisci il codice del bonus nel campo del deposito
- 1. L’ammontare del deposito sarà aggiunto al tuo account non appena avrai accumulato l'ammontare richiesto di punti trade
 
 {{/section}}

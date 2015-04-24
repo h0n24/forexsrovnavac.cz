@@ -6,7 +6,7 @@
 
 Begin met het handelen in de virtuele valuta die de wereld zal veranderen. 
 
-Welkom bonus van $25
+Welkom bonus van 25€
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -27,7 +27,7 @@ Welkom bonus van $25
           <a href="#section-1">Waar gaat het over?</a>
         </li>
         <li>
-          <a href="#section-2">Huidige koers</a>
+          <a href="#section-2">Bitcoin koers</a>
         </li>
         <li>
           <a href="#section-3">Waar kan je handelen?</a>
