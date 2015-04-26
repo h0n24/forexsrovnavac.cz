@@ -1,164 +1,186 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://www.forexsrovnavac.cz/</loc>
-  <changefreq>daily</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/index</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/bitcoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/litecoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/en/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/pl/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/de/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/sk/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/hotforex</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/plus500</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/xtb</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/patria-forex</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/mayzus</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/en</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/de</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/pl</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/sk</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/en/bitcoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/en/litecoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/en/bitcoin</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/en/litecoin</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/pl/bitcoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/pl/litecoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/pl/bitcoin</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/pl/litecoin</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/de/bitcoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/de/litecoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/de/bitcoin</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/de/litecoin</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/sk/bitcoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.forexsrovnavac.cz/sk/litecoin/</loc>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.forexsrovnavac.cz/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.forexsrovnavac.cz/en/" />
+  <xhtml:link rel="alternate" hreflang="de" href="http://www.forexsrovnavac.cz/de/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="http://www.forexsrovnavac.cz/pl/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="http://www.forexsrovnavac.cz/nl/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="http://www.forexsrovnavac.cz/fr/" />
+  <xhtml:link rel="alternate" hreflang="es" href="http://www.forexsrovnavac.cz/es/" />
+  <xhtml:link rel="alternate" hreflang="it" href="http://www.forexsrovnavac.cz/it/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="http://www.forexsrovnavac.cz/sk/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="http://www.forexsrovnavac.cz/cs/" />
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/Ironfx</loc>
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/topoption</loc>
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/binarni-opce/</loc>
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/bitcoin/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.forexsrovnavac.cz/en/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="de" href="http://www.forexsrovnavac.cz/de/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="http://www.forexsrovnavac.cz/pl/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="http://www.forexsrovnavac.cz/nl/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="http://www.forexsrovnavac.cz/fr/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="es" href="http://www.forexsrovnavac.cz/es/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="it" href="http://www.forexsrovnavac.cz/it/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="http://www.forexsrovnavac.cz/sk/bitcoin/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="http://www.forexsrovnavac.cz/cs/bitcoin/" />
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/litecoin/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.forexsrovnavac.cz/en/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="de" href="http://www.forexsrovnavac.cz/de/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="http://www.forexsrovnavac.cz/pl/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="http://www.forexsrovnavac.cz/nl/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="http://www.forexsrovnavac.cz/fr/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="es" href="http://www.forexsrovnavac.cz/es/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="it" href="http://www.forexsrovnavac.cz/it/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="http://www.forexsrovnavac.cz/sk/litecoin/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="http://www.forexsrovnavac.cz/cs/litecoin/" />
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/hotforex</loc>
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/plus500</loc>
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/xtb</loc>
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/patria-forex</loc>
+</url>
+<url>
+  <loc>http://www.forexsrovnavac.cz/mayzus</loc>
+</url>
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/topoption</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/zoomtrader</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/binarni-opce</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/druhy-binarnich-opci</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/jak-obchodovat-binarni-opce</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/jak-vybrat-binarniho-brokera</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/High-Low-opce</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/minutove-opce</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/knihy-na-binarni-opce</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/forex-vs-binarni-opce</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/binarni-opce-a-dane</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+
+
+-<url>
+
+<loc>http://www.forexsrovnavac.cz/binarni-opce-podvod</loc>
+
+<changefreq>daily</changefreq>
+
+</url>
+</urlset>

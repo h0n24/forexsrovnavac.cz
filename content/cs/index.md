@@ -22,8 +22,11 @@ Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#se
 
 {{/start}}
 
-<iframe width="380" height="150" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=MostPopular&isNT=False&ly=Wide&th=Light&isRF=True"></iframe><iframe width="380" height="147" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Forex&isNT=False&ly=Wide&th=Light&isRF=False"></iframe><iframe width="370" height="147" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Commodities&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
-*Zobrazované ceny jsou cenami rozdílových smluv (CFD), které nabízí Plus500, a NEJSOU tedy tržními cenami. Kurzy se zobrazují s cca 5 minutovým zpožděním*
+<iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=MostPopular&isNT=False&ly=Wide&th=Light&isRF=True"></iframe>
+<iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Forex&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
+<iframe width="370" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Commodities&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
+<br>&nbsp;
+Zobrazované ceny jsou cenami rozdílových smluv (CFD), které nabízí Plus500, a NEJSOU tedy tržními cenami. Kurzy se zobrazují s cca 5 minutovým zpožděním
 
 
 
@@ -80,11 +83,14 @@ Recenze Brokerů:
 {{section}}
 ##Kurz EUR/USD
 Aktuální kurzy měn. Stáhněte si aplikaci a vyhledejte si měnu, která vás zajímá.
-: <div class="container kurz">
+
+<br>&nbsp;
+<div class="container kurz">
 <a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=cs&cty=CZ&id=66349&tags=widg+chart+bitcoin&pl=2&instSymb=EURUSD"></iframe>
 </div>
+
 {{/section}}
 - - - 
 {{section}}

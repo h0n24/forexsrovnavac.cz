@@ -8,6 +8,13 @@
     "keywords": "Markets"
   }
 {{/settings}}
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  <meta itemprop="worstRating" content="1"/>
+  <meta itemprop="ratingValue" content="85"/>
+  <meta itemprop="bestRating" content="100"/>
+</span>
+<meta itemprop="itemreviewed" content="Markets.com">
+<meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">

@@ -293,7 +293,163 @@ h2, .h2 {
   margin-bottom: 1em;
 }
 
+/* zkopírováno z webu 26.4.2015 */
+
+#brokeri-box {
+  width: 263px;
+  height: auto;
+}
+
+.brokeri-nadpis {
+  display: block;
+  width: 261px;
+  height: 37px;
+  background: #446cb3;
+  color: #fff;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 12px 0px 0px 15px;
+  margin: 0px;
+}
+
+.broker {
+  width: 261px;
+  height: 195px;
+  border: 1px solid #cfcecd;
+  margin-bottom: 6px;
+}
+
+.broker-top {
+  width: 259px;
+  height: 59px;
+  border-bottom: 1px solid #c7c6c5;
+  background: url(../img/brokeri/broker-top-bg.png);
+  padding: 11px 0px 0px 11px;
+}
+
+.broker-top-odkaz {
+  display: block;
+  color: #5ea910;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Open Sans;
+  font-weight: 700;
+  float: left;
+  margin: 6px 8px 0px 5px;
+}
+
+.broker-top img {
+  float: left;
+  margin: 0px 4px 0px 0px;
+}
+
+.hodnoceni{
+  width: 230px;
+  height: 60px;
+  background-color: #fcfbfb;
+  background-image: url(../img/brokeri/hodnoceni-bg.png);
+  background-repeat: no-repeat;
+  background-position: 30px 11px;
+  border: 1px solid #e6e6e6;
+  border-radius: 4px;
+  margin: 12px auto 12px auto;
+  padding: 13px 0px 0px 95px;
+  font-family: Open Sans;
+  font-size: 14px;
+  color: #555;   
+}
+
+.broker a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.broker-top a:hover {
+  color: #5ea910;
+  text-decoration: none;
+}
+
+.recenze {
+  display: block;
+  float: left;
+  width: 115px;
+  height: 35px;
+  background: url(../img/brokeri/recenze_bg.png); 
+  color: #fff;
+  text-decoration: none;
+  font-family: Open Sans;
+  font-size: 14px;
+  padding: 8px 0px 0px 0px;    
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.ucet {
+  display: block;
+  float: left;
+  width: 115px;
+  height: 35px;
+  background: url(../img/brokeri/ucet_bg.png); 
+  color: #fff;
+  text-decoration: none;
+  font-family: Open Sans;
+  font-size: 14px;
+  padding: 8px 0px 0px 0px;    
+  text-align: center;
+}
+
+.recenze:hover {
+  background: url(../img/brokeri/recenze_bg-hover.png); 
+}
+
+.ucet:hover {
+  background: url(../img/brokeri/ucet_bg-hover.png);
+}
+
+img.ikona {
+  margin-top: 10px;
+}
+
+.flag { 
+  height:14px !important;
+}
+
+.vlajky ul li { 
+  display: inline !important;
+  list-style: none;
+}
+
+.vlajky li {
+  display: inline !important;
+  list-style: none;
+}
+
+.vlajky {
+  display: inline !important;
+  list-style: none;
+  float: left;
+  margin-top: 10px;
+}
+
+.footer-mid {
+  position: absolute;
+  margin-left: -460px;
+}
+
+
+@media (max-width: 1200px) {
+  .vlajky {
+    display: none !important;
+  }
+}
+
 @media (max-width: @screen-sm-max) {
+  .footer-mid {
+    display: none;
+  }
   .jumbotron {
     h1 {
       font-size: 50px;

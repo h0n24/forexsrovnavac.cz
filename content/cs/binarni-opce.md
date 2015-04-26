@@ -231,213 +231,68 @@ Topoption je zatím nejkomplexnější společnost
 - - -
 Dejte si pozor na podvodné systémy na binární opce
 
-:   *Binární opce jsou určitě zajímavou možností vedlejší výdělku, nicméně v návaznosti na jejich popularitu, vzniká mnoho podvodných systémů, které slibují placené 100% signály, nebo neomylné indikátory vstupů do pozice a výdělek tkz. bez práce a jakéhokoliv vzdělávání. Tohle určitě není správný směr, čím by měl začátečník začít. Za všechny bych uvedl například [BinaryBotPro](http://www.forexsrovnavac.cz/binary-bot-pro ""), nebo [Optionavigator](http://www.forexsrovnavac.cz/optionavigator-recenze "")*
+:   *Binární opce jsou určitě zajímavou možností vedlejší výdělku, nicméně v návaznosti na jejich popularitu, vzniká mnoho podvodných systémů, které slibují placené 100% signály, nebo neomylné indikátory vstupů do pozice a výdělek tkz. bez práce a jakéhokoliv vzdělávání. Tohle určitě není správný směr, čím by měl začátečník začít. Za všechny bych uvedl například [BinaryBotPro](http://www.forexsrovnavac.cz/binary-bot-pro), nebo [Optionavigator](http://www.forexsrovnavac.cz/optionavigator-recenze)*
 
 
 </div>
 <div class="col-md-3" markdown="10">
 
-
-
 - - -
 
-
-
 <div id="brokeri-box">
-
-
-   <h3 class="brokeri-nadpis">TOP 3 - Nejlepší brokeři</h3> 
-
-       <div class="broker">
-
-
-
-     <div class="broker-top">
-
-
-
-      <a href="#"  title="TopOption">
-
-
-
-        <img src="./content/brokeri/img/topoption-logo.png" alt="logo TopOption">
-
-
-
-      </a>
-
-
-
-      <a class="broker-top-odkaz" target="_parent"  href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
-
-
-
-      <img class="ikona" src="./content/brokeri/img/cz.png" alt="cz">
-
-
-
-      <img class="ikona" src="./content/brokeri/img/cnb.png" alt="ČNB">
-
-
-
-     </div>
-
-
-
-     <div class="hodnoceni">
-
-
-
-      <img src="./content/brokeri/img/hodnoceni.png" alt="hodnoceni">
-
-
-
-      Hodnocení: <b>97%</b>
-
-
-
-     </div>
-
-
-
-     <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Číst recenzi">Číst recenzi</a>
-
-
-
-     <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otevřít účet">WEB</a>
-
-
+<h3 class="brokeri-nadpis">TOP 3 - Nejlepší brokeři</h3> 
+<div class="broker">
+  <div class="broker-top">
+  <a href="#"  title="TopOption">
+    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
+  </a>
+  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
+  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
+  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
+  </div>
+  <div class="hodnoceni">
+  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
+  Hodnocení: <b>97%</b>
+  </div>
+  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Číst recenzi">Číst recenzi</a>
+  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otevřít účet">WEB</a>
 </div>
-
-
-
-    <div class="broker">
-
-
-
-     <div class="broker-top">
-
-
-
-      <a href="#" title="ETX Binary">
-
-
-
-        <img src="./content/brokeri/img/etxcapital-logo.png" alt="logo ETX Capital">
-
-
-
-      </a>
-
-
-
-       <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-
-
-
-      <img class="ikona" src="./content/brokeri/img/cz.png" alt="cz">
-
-
-
-      <img class="ikona" src="./content/brokeri/img/cnb.png" alt="ČNB">
-
-
-
-     </div>
-
-
-
-     <div class="hodnoceni">
-
-
-
-      <img src="./content/brokeri/img/hodnoceni.png" alt="hodnoceni">
-
-
-
-      Hodnocení: <b>95%</b>
-
-
-
-     </div>
-
-
-
-     <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Číst recenzi">Číst recenzi</a>
-
-
-
-     <a  class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otevřít účet">WEB</a>
-
-
-
-   </div> 
-
-
-
-    <div class="broker">
-
-
-
-     <div class="broker-top">
-
-
-
-      <a href="#" title="Stockpair">
-
-
-
-        <img src="./content/brokeri/img/stockpair-logo.png" alt="logo StockPair">
-
-
-
-      </a>
-
-
-
-      <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-
-
-
-      <img class="ikona" src="./content/brokeri/img/cnb.png" alt="ČNB">
-
-
-
-     </div>
-
-
-
-     <div class="hodnoceni">
-
-
-
-      <img src="./content/brokeri/img/hodnoceni.png" alt="hodnoceni">
-
-
-
-      Hodnocení: <b>92%</b>
-
-
-
-     </div>
-
-
-
-     <a  class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Číst recenzi">Číst recenzi</a>
-
-
-
-     <a   class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otevřít účet">WEB</a>
-
-
-
-   </div> 
+<div class="broker">
+ <div class="broker-top">
+  <a href="#" title="ETX Binary">
+    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
+  </a>
+   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
+  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
+  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
+ </div>
+ <div class="hodnoceni">
+  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
+  Hodnocení: <b>95%</b>
+ </div>
+ <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Číst recenzi">Číst recenzi</a>
+ <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otevřít účet">WEB</a>
+</div> 
+<div class="broker">
+ <div class="broker-top">
+  <a href="#" title="Stockpair">
+    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
+  </a>
+  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
+  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
+ </div>
+ <div class="hodnoceni">
+  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
+  Hodnocení: <b>92%</b>
+ </div>
+ <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Číst recenzi">Číst recenzi</a>
+ <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otevřít účet">WEB</a>
+</div> 
 
 <hr />
 
 <a href="http://blog.forexsrovnavac.cz/topoption" alt="Demo účet"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/2015-02-17-22_43_03-Plus500-_-Akcie-Plus500_-Online-obchodování-s-akciemi-_-Obchodování-s-podíly_kme.png" width="" height=""/>
-
 </a>
 
 <hr />
@@ -445,12 +300,6 @@ Dejte si pozor na podvodné systémy na binární opce
  <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
 </a>
 
-
-
-
-
-
-</a>
 </div>
 </div>
 </div>

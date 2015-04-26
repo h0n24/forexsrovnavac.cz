@@ -59,7 +59,7 @@
 <body data-spy="scroll" data-offset="100" data-target="#scrollpsy" id="top">
 <?= $header; ?>
 
-<div class="container"><?= $content; ?></div>
+<div class="container" itemprop="review" itemscope itemtype="http://schema.org/Review"><?= $content; ?></div>
 
 <footer class="footer">
   <div class="container">
