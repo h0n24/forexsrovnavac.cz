@@ -30,6 +30,9 @@ Jak již bylo uvedeno, obchodování binárních opcí podléhá 15% dani, výpo
 
 Zisk z obchodování binárních opcí patří podle paragrafu §10 mezi „Ostatní příjmy“, které se daní 15% sazbou. Zdravotní ani sociální pojištění se z těchto příjmů neplatí, takže je výpočet poměrně jednoduchý, dopředu víte, že ze zisku zaplatíte 15 procent. Daňové přiznání se podává vždy za uplynulý kalendářní rok, pokud jste tedy v roce 2014 v zisku 100 000 Kč. Odevzdáte daňové přiznání na začátku roku 2015 a zaplatíte cca 15 000 Kč na dani z ostatních příjmů.
 
+U jakého brokera obchodovat binární opce?
+:   Mezi elitu určitě patří [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption"), [ETX Capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital") nebo [Stockpair](http://www.forexsrovnavac.cz/stockpair "Stockpair")
+
 
 
 </div>

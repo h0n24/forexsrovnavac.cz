@@ -13,8 +13,9 @@
 {{section}}
 
 <a href="http://serv.markets.com/promoRedirect?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90"/>
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90" class="img-responsive" />
 </a>
+
 ## Obchodování s virtuální měnou Bitcoin
 
 Určitě celá řada z vás v posledních měsících registruje zvýšený zájem o **virtuální měnu bitcoin**. Tento článek nemá za účel popsat fungování této virtuální měny, ani se zde nebudeme zabývat její historií, případně „bitcoin mining“ (její těžbou), ani tu nebudeme rozdávat bitcoiny zdarma. Tento článek je spíše zaměřen na možnosti jeho obchodování na burze, jako investičním produktem, který zažívá v současné době boom a jeho obchodování každý den poskytuje zajímavé investiční příležitosti. Pro nás je podstatné, že ze zájmu o bitcoiny můžeme těžit prostřednictvím obchodování a spekulací na vývoje jeho kurzu, aniž bysme ho museli vlastnit. Nemusíme vědět, jak tato měna přesně vzniká a funguje, nebo jaká jsou pravidla pro její držení a transakce s ní. Podstatné je jen to, že stejně jako u všech ostatních měn lze spekulovat na vývoj kurzu **Bitcoin**.

@@ -439,6 +439,27 @@ img.ikona {
   margin-left: -460px;
 }
 
+.jumbotron img.img-responsive {
+  display: inline;
+}
+
+@media (max-width: @screen-sm-max) {
+  .btn {
+    max-width: 85vw;
+    overflow: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  @-moz-document url-prefix() {
+    .btn {
+      overflow: hidden;
+    }
+  }
+}
 
 @media (max-width: 1200px) {
   .vlajky {

@@ -73,7 +73,6 @@ Provozovatelem brokera [**StockPair**](http://blog.forexsrovnavac.cz/stockpair "
 | ---------------- | ------------- |
 | **Druhy binárních opcí**  | Párové opce (fixed/floating), Klasické binární (minutové i dlouhodobé) |
 | **Výnosy z binárních opcí**  | 80% měny, 80% komodity, 80% akcie, Minutové opce: 82% na vše - Párové opce: 82% fixed, 15%-200% floating |
-| **Páka**  |  1:15 až 1:200 |
 | **Zajímavost**  | 100% Bonus na vklad |
 | **Demo účet**  | Ano, k účtům od 1000 USD |
 | **Čeština**  | Zatím jen EN |

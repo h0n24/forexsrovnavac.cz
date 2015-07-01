@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "ETX Capital, recenze a zkušenosti, platforma ETX Binary",
+    "title": "ETX Capital recenze a zkušenosti, platforma ETX Binary",
     "description": "Naše recenze a zkušenosti s binárním brokerem ETX Capital a obchodní platformou ETX Binary s licencí od ČNB. S ETX Binary obchudejte binární opce.",
     "keywords": "ETX Binary, ETX Capital"
   }
@@ -173,5 +173,3 @@ Společnost ETX capital nabízí pro každého nového klienta bonus na první v
 </div>
 </div>
 </div>
-
-{{partial: ostatni-brokeri}}

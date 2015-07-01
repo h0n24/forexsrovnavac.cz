@@ -22,9 +22,15 @@ Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#se
 
 {{/start}}
 
-<iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=MostPopular&isNT=False&ly=Wide&th=Light&isRF=True"></iframe>
-<iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Forex&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
-<iframe width="370" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Commodities&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
+<div class="embed-responsive embed-responsive-16by9 embed-index-third">
+  <iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=MostPopular&isNT=False&ly=Wide&th=Light&isRF=True"></iframe>
+</div>
+<div class="embed-responsive embed-responsive-16by9 embed-index-third">
+  <iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Forex&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
+</div>
+<div class="embed-responsive embed-responsive-16by9 embed-index-third">
+  <iframe width="370" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Commodities&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
+</div>
 <br>&nbsp;
 Zobrazované ceny jsou cenami rozdílových smluv (CFD), které nabízí Plus500, a NEJSOU tedy tržními cenami. Kurzy se zobrazují s cca 5 minutovým zpožděním
 
@@ -63,19 +69,33 @@ Další Články o Binárních opcích:
 [Binární opce a daně](http://www.forexsrovnavac.cz/binarni-opce-a-dane) 
 
 [Binární opce - strategie](http://www.forexsrovnavac.cz/binarni-opce-strategie)
+
+[Jak vydělat peníze na internetu](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu)
+
+Články o Forexu
+
+[Forex strategie](http://www.forexsrovnavac.cz/forex-strategie)
+
   </div>
   <div class="col-md-6" markdown="1">
 Recenze Brokerů:
 
-[Topoption recenze - nejlepší Binární broker?](http://www.forexsrovnavac.cz/topoption)
+[Topoption recenze - nejlepší Binární broker?](http://www.forexsrovnavac.cz/topoption "TopOption")
 
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair)
+[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair")
 
-[Plus500 - bonus pro nováčky](http://www.forexsrovnavac.cz/plus500)
+[Plus500 - bonus pro nováčky](http://www.forexsrovnavac.cz/plus500 "Plus500")
 
 [Zoomtrader - podvod?](http://www.forexsrovnavac.cz/zoomtrader)
 
-[ETX Capital - nejlepší broker?](http://www.forexsrovnavac.cz/etx-capital-zkusenosti)
+[ETX Capital - nejlepší broker?](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital")
+
+[Onlyoption recenze](http://www.forexsrovnavac.cz/onlyoption "Onlyoption")
+
+Internetové peněženky:
+
+[Skrill recenze](http://www.forexsrovnavac.cz/skrill "Skrill")
+
 
 </div>
 </div>
@@ -86,8 +106,6 @@ Aktuální kurzy měn. Stáhněte si aplikaci a vyhledejte si měnu, která vás
 
 <br>&nbsp;
 <div class="container kurz">
-<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=cs&cty=CZ&id=66349&tags=widg+chart+bitcoin&pl=2&instSymb=EURUSD"></iframe>
 </div>
 
@@ -147,9 +165,5 @@ Přehled ověřených brokerů
 Vyzkoušejte i [demo účet na binární opce](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce)
 
 {{/section}}
-## Aktuální kurzy měn
 
-{{partial: table-kurzy}}
-
-{{/section}}
 

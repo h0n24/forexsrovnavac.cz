@@ -26,17 +26,27 @@
   <div class="col-md-6" markdown="1">
 O Markets.com
 :    
-V této recenzi vám představíme dalších kvalitního brokera Markets.com. Broker Markets.com představuje jednoho z nejrychleji rostoucích brokerů. Zaměřují se na obchodování na devizovém trhu, přesněji řečeno na obchodování Forex a CFD. Markets.com se řadí pod skupinu Afecap Investments Limited sídlící na Kypru. Mezi obchodní instrumenty brokera patří CFD, Forex, komodity, indexy a akcie. Při svém obchodování můžete používat až čtyři různé platformy nabízené Markets.com. Jednou z platforem je dokonce celosvětově velmi oblíbená platforma MetaTrader4.
-  </div>
+V této recenzi vám představíme dalších kvalitního brokera Markets.com. Broker Markets.com představuje jednoho z nejrychleji rostoucích brokerů. Zaměřují se na obchodování na devizovém trhu, přesněji řečeno na obchodování Forex a CFD. Markets.com se řadí pod skupinu Afecap Investments Limited sídlící na Kypru. Mezi obchodní instrumenty brokera patří CFD, Forex, komodity, indexy a akcie. 
+
+Při svém obchodování můžete používat až čtyři různé platformy nabízené Markets.com. Jednou z platforem je dokonce celosvětově velmi oblíbená platforma MetaTrader4.
+[Získejte 25 USD bonus zdarma od Markets.com](http://blog.forexsrovnavac.cz/markets.com "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+  
+
+</div>
   <div class="col-md-6" markdown="1">
 Provozovatel
 :    
-Provozovatelem brokera [www.markets.com](http://blog.forexsrovnavac.cz/markets.com) je společnost Afecap Investments Limited sídlící jako většina brokerských společností na Kypru. Broker je řádně licencovaným makléřem podléhající regulaci Kyperské komisi pro cenné papíry (CySEC). Markets.com také podléhá regulaci úřadu FSA (Financial Conduct Authority) a MiFID. Povolení k obchodování má i od dalších evropských úřadů, například Banque De France, BaFIN a dalších. Broker působí ve více než 100 zemích světa.
+Provozovatelem brokera [www.markets.com](http://blog.forexsrovnavac.cz/markets.com) je společnost Afecap Investments Limited sídlící jako většina brokerských společností na Kypru. Broker je řádně licencovaným makléřem podléhající regulaci Kyperské komisi pro cenné papíry (CySEC). Markets.com také podléhá regulaci úřadu FSA (Financial Conduct Authority) a MiFID. 
+
+Povolení k obchodování má i od dalších evropských úřadů, například Banque De France, BaFIN a dalších. Broker působí ve více než 100 zemích světa.
 [Podívejte se na obchodní aplikaci Markets.com](http://blog.forexsrovnavac.cz/markets.com "Registrace")
 
 </div>
 </div>
+
+
 {{/section}}
+
 
 *Proč obchodovat s markets?*
 :    

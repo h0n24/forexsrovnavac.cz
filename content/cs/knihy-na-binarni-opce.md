@@ -13,12 +13,14 @@
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
-# Knihy o binárních opcích
 
-Zdokonalte své znalosti obchodování pomocí rozsáhlé knihovny videoprůvodců TopOption. Bezplatní průvodci TopOption nabízejí obchodníkům na všech úrovních cenné poznatky s praktickými tipy a triky od profesionálů. 
+# Knihy o binárních opcích
+{{start}}
+
+*Zdokonalte své znalosti obchodování pomocí rozsáhlé knihovny videoprůvodců TopOption. Bezplatní průvodci TopOption nabízejí obchodníkům na všech úrovních cenné poznatky s praktickými tipy a triky od profesionálů.* 
 
 Poznejte svět binárních opcí a naučte se úspěšně obchodovat. Brokeři na bínární opce, vám nabízejí Živé webové semináře a průvodce strategie obchodování, nicméně pokud vám chybí širší pohled na online obchodování s binárními opcemi a investování obecně, můžete být obětí špatných obchodních rozhodnutí. Proto by dobrá kniha měla být startem k úspěšné zvolené strategii! Kniha o binárních opcích je tím lepším způsobem, jak skutečně porozumět dané problematice.  
-
+{{/start}}
 
 ![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/tenTips_cz.png)  [Číst knihu](http://blog.forexsrovnavac.cz/topoption "") {.btn .bnt-lg .btn-primary} ![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/fiveSteps_cz.png)  [Číst knihu](http://blog.forexsrovnavac.cz/topoption "Registrace") {.btn .bnt-lg .btn-primary} 
 

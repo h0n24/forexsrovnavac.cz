@@ -5,7 +5,7 @@
   "meta" : {
     "title": "Binární opce - recenze a zkušenosti, demo účet",
     "description": "",
-    "keywords": "Binární opce, Binární opce recenze, demo účet, Binárních obchodování"
+    "keywords": "Binární opce, Binární opce recenze, Binární opce demo účet, Binárních obchodování"
   }
 {{/settings}}
 
@@ -16,25 +16,26 @@
 
 {{section}}
 
-# Binární opce, obchodování a zkušenosti 
+# Binární opce
 
 *Binární opce se v poslední době velmi populární, proto jsme sepsali základní informace, aby jste se dozvěděli vše důležité, co vás zajímá. Binární opce  (z angličtině výraz Binary options, digital options). Pomocí binárních opcí můžete vydělávat na obchodovaní komodit, akcií, forexu (měnové páry) i virtuální měny jako Bitcoin. Pomocí binárních opcí můžete obchodovat i tak populární komodity, jako je zlato nebo ropa.*
 - - -
-Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#section-1) - [Co jsou to binární opce](http://forexsrovnavac.cz/binarni-opce#section-2) - [Demo účet](http://forexsrovnavac.cz/binarni-opce#section-3) - [Jak obchodovat binární opce](http://forexsrovnavac.cz/binarni-opce#section-3) - [Zkušenosti s binárními opcemi](http://forexsrovnavac.cz/binarni-opce#section-4) - [Kde obchodovat binární opce?](http://forexsrovnavac.cz/binarni-opce#section-5)
+Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#section-1) - [Co jsou to binární opce](http://forexsrovnavac.cz/binarni-opce#section-2) - [Demo účet](http://forexsrovnavac.cz/binarni-opce#section-6) - [Jak obchodovat binární opce](http://forexsrovnavac.cz/binarni-opce#section-3) - [Zkušenosti s binárními opcemi](http://forexsrovnavac.cz/binarni-opce#section-4) - [Kde obchodovat binární opce?](http://forexsrovnavac.cz/binarni-opce#section-5)
 
 
 
-**Binární opce** jsou další z mnoha možností, jak zhodnotit své finance, ze zkušenosti ze zahraničí se ukazuje, že obchodovat binární opce může každý. S binárními opcemi obchoduje i početná česká a slovenská komunita, proto i binární brokeři mají své aplikace a stránky v Češtině. Výdělek pomocí binárních opcí je díky tomu přístupný široké veřejnosti. Minimální vklad na k brokerovi binární opce se totiž pohybuje od 100 USD (cca 2000 Kč).
+**Binární opce** jsou další z mnoha možností, jak zhodnotit své finance, ze zkušenosti ze zahraničí se ukazuje, že obchodovat binární opce může každý. S binárními opcemi obchoduje i početná česká a slovenská komunita, proto i binární brokeři mají své aplikace a stránky v Češtině. Výdělek pomocí binárních opcí je díky tomu přístupný široké veřejnosti. **Minimální vklad na k brokerovi binární opce se totiž pohybuje od 100 USD (cca 2000 Kč)**.
 
-[Podívejte se na obchodní aplikaci od TopOption](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} Pokud tedy přemýšlíte o vytváření nějaké typu pasivního příjmu nebo jednorázové přivýdělku a nechcete investovat velké částky, jsou pro Vás binární opce možností, jak z poměrně malé investice v řádu stovek korun, vytvořit pravidelný pasivní příjem a vydělat nějaké finance navíc. 
+[Získejte Demo účet na binární opce u TopOption](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} Pokud tedy přemýšlíte o vytváření nějaké typu pasivního příjmu nebo jednorázové přivýdělku a nechcete investovat velké částky, jsou pro Vás binární opce možností, jak z poměrně malé investice v řádu stovek korun, vytvořit pravidelný pasivní příjem a vydělat nějaké finance navíc. 
 
     Pokud přemýšlíte o investovaní, ale nemáte tedy zrovna statisíce k nakoupení akcií nebo nemovitostí, nemusíte zoufat, začít můžete i s binárními opcemi, jelikož tyto opce jsou natolik specifické, že k nakoupení vaší první binární opce, vám vystačí kapitál v řádech stokorun. 
 
-**U binárních opcí, Vám postačí úspěšnost pouze 56 % = Téměř polovina obchodů se nemusí podařit a pořád jste v zisku!**
+*U binárních opcí, Vám postačí úspěšnost pouze 56 % = Téměř polovina obchodů se nemusí podařit a pořád jste v zisku!*
 {{/section}}
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-####Průvodce binárními opcemi, jak začít?: 
+Průvodce binárními opcemi, jak začít?
+
 :   
 [Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci)
 
@@ -55,14 +56,17 @@ Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#s
 [Plus500 - CFD broker s bonusem](http://www.forexsrovnavac.cz/plus500)
   </div>
   <div class="col-md-6" markdown="1">
-####Vyberte si toho správného brokera:
+Vyberte si toho správného brokera
+
 :  Na našich stránkách recenzujeme pouze brokery, kteří jsou řádně kontrolování a regulování [ČNB](http://www.cnb.cz/cs/dohled_financni_trh/). Obchodujte pouze u kvalitních a prověřených binárních brokerů s největší možnou mírou výnosů.
 
-[Topoption - Nejlepší broker na binární opce? (CZ)](http://www.forexsrovnavac.cz/topoption)
+[Topoption - Nejlepší broker na binární opce? (CZ)](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
 
-[ETX Binary - Největší výnosy na trhu  (CZ)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti)
+[ETX capital - Největší výnosy na trhu  (CZ)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenze")
 
-[Stockpair - Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair-recenze)
+[Stockpair - Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
+
+[OnlyOption - Nový broker 2015 (CZ)](http://www.forexsrovnavac.cz/onlyoption "OnlyOption recenze")
 
 [Podívejte se na demo účet na binární opce](http://blog.forexsrovnavac.cz/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 
@@ -78,7 +82,7 @@ Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#s
 
 ##Zhodnocení a Výhody binárních opcí
 
-Binární opce mají vysoké potencionální zhodnocení a to okolo **80 - 85% z investované částky** na jednu opci. Rozhodujete pouze o 2 variantách, a to o tom, jstli poroste v daném čase (CALL) akcie, komodita - nebo bude klesat (PUT), tak jak to vidíte dole na obrázku. Toto pochopí opravdu každý!
+Binární opce mají **vysoké potencionální zhodnocení a to okolo **80 - 85% z investované částky** na jednu opci. Rozhodujete pouze o 2 variantách, a to o tom, jstli poroste v daném čase (CALL) akcie, komodita - nebo bude klesat (PUT), tak jak to vidíte dole na obrázku. Toto pochopí opravdu každý!
 
 
 Výhody binárních opcí oproti klasickému obchodování na akciovém trhu.
@@ -136,6 +140,19 @@ V našem případě, v 15:00 se pár zvýšil na 1,2695. Obchodník číslo 1 sk
 
 ![Binární opce](http://i.imgur.com/YV4yWi6.png)
 - - -
+
+{{/section}}
+
+
+{{section}}
+## Jak obchodovat binární opce
+
+Každá binární opce má svoji dobu expirace (vypršení), obchodování binárních opcí je tak omezeno časem. Doba za jakou opce vyprší, může být různá, od jedné minuty, až po několik hodin. **Obchodníka** tolik nezajímá vývoj ceny v průběhu obchodu, ale až stav na jeho konci. Jakmile opce vyprší, dozvíme se uzavírací cenu a pokud je taková, jako jsme přepokládali, inkasujeme zisk. 
+
+Například koupíme binární opce Microsoftu při hodnotě 31,4 a spekulujeme, že se jejich hodnota za 30 minut zvýší. Za 30 minut cena opce uzavře na 32,5 = cena se opravdu zvýší a my tak inkasujeme fixní zisk 80% investice! Cílem obchodníka s binárními opcemi je správně odhadnout směr, kterým opce půjde, či určit nad jakou hranicí se cena bude pohybovat při vypršení obchodu.
+
+Stačí pouze zvolit směr, ve kterém opce skončí. Kolik chcete investovat a už jen čekáte, než opce vyprší. Pokud jste na konci takzvaně In The Money (česky: v penězích) inkasujete zisk 80%.
+
 Minimální vklad pro obchodování
 
 :   Tímto se dostáváme k první velké výhodě kterou, kterou binární opce přinášejí a tím je minimální v klad pro investici, k nákupu základní opce vám postačí 10 USD (cca 200kč), zkuste zapřemýšlet například nad tím, kolik prokouříte za měsíc a tyto peníze vám již další peníze nevydělají, ba co víc
@@ -158,20 +175,6 @@ Co mohu pomocí binárních opcí obchodovat?
 | **Forex (Měnové páry):**   | EUR/USD, GBP/USD, USD/JPY, USD/CAD, EUR/GBP  |
 
 
-- - -
-
-
-{{/section}}
-
-
-{{section}}
-## Jak obchodovat binární opce
-
-Každá binární opce má svoji dobu expirace (vypršení), obchodování binárních opcí je tak omezeno časem. Doba za jakou opce vyprší, může být různá, od jedné minuty, až po několik hodin. **Obchodníka** tolik nezajímá vývoj ceny v průběhu obchodu, ale až stav na jeho konci. Jakmile opce vyprší, dozvíme se uzavírací cenu a pokud je taková, jako jsme přepokládali, inkasujeme zisk. 
-
-Například koupíme binární opce Microsoftu při hodnotě 31,4 a spekulujeme, že se jejich hodnota za 30 minut zvýší. Za 30 minut cena opce uzavře na 32,5 = cena se opravdu zvýší a my tak inkasujeme fixní zisk 80% investice! Cílem obchodníka s binárními opcemi je správně odhadnout směr, kterým opce půjde, či určit nad jakou hranicí se cena bude pohybovat při vypršení obchodu.
-
-Stačí pouze zvolit směr, ve kterém opce skončí. Kolik chcete investovat a už jen čekáte, než opce vyprší. Pokud jste na konci takzvaně In The Money (česky: v penězích) inkasujete zisk 80%.
 
 - - -
 
@@ -188,18 +191,24 @@ Stačí pouze zvolit směr, ve kterém opce skončí. Kolik chcete investovat a 
 ## Zkušenosti našeho čtenáře s binárními opcemi
 
 S binárními opcemi jsem začínal asi před půl rokem. Nejdříve mi o nich řekl kamarád, který mě přesvědčoval ať to taky zkusím. Když jsem začínal, mé zkušenosti s binárními opcemi byly dá se říct na bodu nula, nejdříve jsem si tedy pročetl něco na internetů a posléze jsem využil zázemí mého brokera na binární opce o kterém napíšu v dalších řádcích.
-### Důležitý je výběr brokera
-Ze všeho nejdříve jsem se začal ohlížet po opravdu kvalitním brokerovi, se kterým bych při obchodování neměl žádné problémy. Co jsem se dočetl na internetu a po zkušenostech od kamaráda, zaměřil jsem se hlavně na regulaci samostatného brokera, na bezproblémový chod jeho aplikace a v neposlední řadě na **ziskovost u binárních opcí**, která se u jednotlivých brokerů pohybuje v rozmezí od 70 - 85 %. Ze všech nejlépe mi vyšel [TopOption](http://www.forexsrovnavac.cz/topoption "TopOption").
-#### První investice cca 100 USD
-Dobyl jsem tedy přes bankovní účet svou první investici 100 USD, k tomu jsem dostal i demo účet a vrhl jsem se na obchodování. Nejdříve jsem obchodoval na demo účtu akcie Facebook, nebo apple, jelikož jsem si myslel, že ty dobře znám a budu na nich ziskový. Nicméně pravdu jsem neměl, na demo účtu jsem pořád ziskový nebyl, proto jsem změnil strategii a zaměřil jsem se na komodity a měnové páry, kde je mnohem více příležitostí a tyto instrumenty mají vyšší volatilitu. 
+
+Důležitý je výběr brokera
+
+:     Ze všeho nejdříve jsem se začal ohlížet po opravdu kvalitním brokerovi, se kterým bych při obchodování neměl žádné problémy. Co jsem se dočetl na internetu a po zkušenostech od kamaráda, zaměřil jsem se hlavně na regulaci samostatného brokera, na bezproblémový chod jeho aplikace a v neposlední řadě na **ziskovost u binárních opcí**, která se u jednotlivých brokerů pohybuje v rozmezí od 70 - 85 %. Ze všech nejlépe mi vyšel [TopOption](http://www.forexsrovnavac.cz/topoption "TopOption") nebo [Stockpair - Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair)
+.
+
+První investice cca 100 USD
+
+:    Dobyl jsem tedy přes bankovní účet svou první investici 100 USD, k tomu jsem dostal i demo účet a vrhl jsem se na obchodování. Nejdříve jsem obchodoval na demo účtu akcie Facebook, nebo apple, jelikož jsem si myslel, že ty dobře znám a budu na nich ziskový. Nicméně pravdu jsem neměl, na demo účtu jsem pořád ziskový nebyl, proto jsem změnil strategii a zaměřil jsem se na komodity a měnové páry, kde je mnohem více příležitostí a tyto instrumenty mají vyšší volatilitu. 
 
 Přestal jsem obchodovat minutové opce, které jsou vysoce spekulativní a jejich obchodování rozhodně nedoporučuji, zaměřil jsem se na ostatní [Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci), zejména na **High & Low opce** s expirací 10 - 60 minut. 
-#### Výběr vhodné strategie na binární opce
-Najednou to přišlo, začalo se postupně dařit na demo účtů už jsem dosahoval cca **60% úspěšných obchodů**, pročetl jsem si na internetu ještě nějaké další strategie a vrhnul se na obchodování v reálném účtu. V současné době obchoduji již na reálném účtu. Snažím se obchodovat spíše méně obchodů cca 2 - 5 denně za vyšší vklad, aktuálně na jednu opci vsázím 20 USD. 
 
-Tohle je dle mého lepší, než hledat 10 obchodů a vložit jen 10 USD, opticky to sice vypadá dobře, nicméně je lepší hledat opravdu potencionálně ziskové obchody a udělat jich méně za vyšší vklad a to i z hlediska úspory vašeho času. Moje obchody mají úspěšnost cca 65%, což bohatě stačí na dlouhodobý profit. 
+Výběr vhodné strategie na binární opce
+:    Najednou to přišlo, začalo se postupně dařit na demo účtů už jsem dosahoval cca **60% úspěšných obchodů**, pročetl jsem si na internetu ještě nějaké další strategie a vrhnul se na obchodování v reálném účtu. V současné době obchoduji již na reálném účtu. Snažím se obchodovat spíše méně obchodů cca 2 - 5 denně za vyšší vklad, aktuálně na jednu opci vsázím 20 USD. 
 
-Ať se daří, Pavel Kohout
+*Tohle je dle mého lepší, než hledat 10 obchodů a vložit jen 10 USD, opticky to sice vypadá dobře, nicméně je lepší hledat opravdu potencionálně ziskové obchody a udělat jich méně za vyšší vklad a to i z hlediska úspory vašeho času. Moje obchody mají úspěšnost cca 65%, což bohatě stačí na dlouhodobý profit.* 
+
+Ať se daří, Pavel
 {{/section}}
 
 {{section}}
@@ -208,13 +217,17 @@ Ať se daří, Pavel Kohout
 
 [Stáhněte si Demo účet zdarma](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 **Demo účet** je důležitý hlavně pro nováčky v obchodování binárních opcí. Slouží v prvé řadě k zorientování se v obchodní aplikaci. Demo účet z větší část funguje jako reálný účet, hlavní rozdíl je v tom, že pomocí demo účtu obchodujete pouze za virtuální peníze, tedy případné zisky, nebo ztráty jsou pouze virtuální. 
-###Demo účet je vhodný hlavně pro začátečníky
-Na demo účtu se doporučuje obchodovat maximálně měsíc, jelikož u obchodování hraje důležitou roli psychika a pokud si zvyknete na to, že ztráty nebo zisky na demo účtu jsou pouze virtuální, nemusí se vám to při přechodu na reálný účet vyplatit.
+
+Demo účet je vhodný hlavně pro začátečníky
+
+:    Na demo účtu se doporučuje obchodovat maximálně měsíc, jelikož u obchodování hraje důležitou roli psychika a pokud si zvyknete na to, že ztráty nebo zisky na demo účtu jsou pouze virtuální, nemusí se vám to při přechodu na reálný účet vyplatit.
 
 Proč využít nejdříve demo účet?
+
 :   Demo účet je velmi důležitá část začátku obchodování hlavně pro úplné nováčky, pokud si navyknete na ty správné obchodní návyky na demo účtu, bude pro vás účinnější vaše skutečné obchodování na realné účtu v dlouhodobém horizontu. Nespěchejte proto zbytečně za reálným obchodováním s penězi. Pokud jste nováčci a chcete brát binární obchodování vážně, osvojte si obchodní nástroje a finanční instrumenty nejdříve na demo účtu.
 
 Seznámení s binarními opcemi a trhy, daty, grafy
+
 :    Dalším cílem a rolí tréningu na demo účtech je možnost opravdu se dobře seznámit s trhy jako takovými. Tady bych to nazval jakýmsi "naladěním se" na vlnu toho kterého trhu ještě před vstupem do reálného světa. Výhodou tohoto naladění se, je to, že člověk zjistí, který trh mu sedí lépe a který naopak obchodovat nebude případně který bude obchodovat nejdříve a který si nechá do zálohy. Temperamenti dají přednost živým trhů, rozvážnější zase jiným trhům.
 {{/section}}
 
@@ -240,7 +253,7 @@ Dejte si pozor na podvodné systémy na binární opce
 - - -
 
 <div id="brokeri-box">
-<h3 class="brokeri-nadpis">TOP 3 - Nejlepší brokeři</h3> 
+<H3 class="brokeri-nadpis">Hodnocení brokerů na opce</H3>
 <div class="broker">
   <div class="broker-top">
   <a href="#"  title="TopOption">

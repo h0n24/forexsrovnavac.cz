@@ -4,8 +4,8 @@
   "header": "main",
   "meta" : {
     "title": "TopOption recenze a zkušenosti, demo účet ",
-    "description": "Topoption je v součastnosti asi nejlepší broker pro binární opce. Nabízí kvalitní platformu a je v Češtině. Je vhodný, jak pro začínající, tak pokročilé obchodníky, jelikož poskytuje demo účet.",
-    "keywords": "TopOption, TopOption recenze, TopOption  zkušenosti, TopOption demo účet"
+    "description": "",
+    "keywords": "TopOption, TopOption recenze"
   }
 {{/settings}}
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -23,18 +23,31 @@
 
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-O TopOption
+TopOption recenze
 :    
-U TopOption můžete obchodovat binární opce na akcie, forex i komodity, nechybí ani virtuální měny jako bitcoin. Recenze bude tentokrát zaměřena jak na brokera [**TopOption**](http://blog.forexsrovnavac.cz/topoption "Registrace"), který je prověřený broker. Zaměříme se na demo účet a recenzi binárních opcí, které je možné obchodovat u TopOption.
+Topoption nabízí obchodování **binárních opcí na akcie, forex i komodity, nechybí ani virtuální měny jako bitcoin**. Recenze bude zaměřená hlavně na platformu TopOption. Zaměříme se na demo účet a investiční nástroje, které je možné u TopOption obchodovat .
 
-Top Option Je využíván hlavě na obchodování binárních opcí. Sídlo má na Kypru, kde je pod dohledem **Kyperské komise pro cenné papíry a burzu (CySEC)**. 
+Top Option je obchodníky využíván hlavě na obchodování binárních opcí. Sídlo má na Kypru, kde je pod dohledem **Kyperské komise pro cenné papíry a burzu (CySEC)**. Z toho vyplývá jedna zásadní skutečnost, vaše vklady na obchodní účet jsou pojištěny až do výše 20 tisíc Eur.
+
 
 [Více o Topoption](http://blog.forexsrovnavac.cz/topoption "TopOption") {.btn .bnt-lg .btn-primary}
 </div>
   <div class="col-md-6" markdown="1">
-Nejlepší broker pro české obchodníky
+o TopOption.com
 :    
-Pro české obchodníky je [**www.TopOption.com**](http://blog.forexsrovnavac.cz/topoption) zajímavý především proto, že nabízí platformu v českém jazyce, což je mezi makléři binárních opcí výjimečný jev. Nulovou jazykovou bariéru potvrzuje i možnost komunikovat s českým manažerem, na kterého se můžete obracet se svými dotazy i požadavky. TopOption je regulovaný v EU (včetně licencí České národní banky a Slovenské národní banky), má obchodní platformu v češtině a také českého manažera. Z toho vyplývá jedna zásadní skutečnost, vaše vklady na obchodní účet jsou pojištěny do výše 20 tisíc Eur.
+Pro české obchodníky je TopOption zajímavý především proto, že nabízí **platformu v českém jazyce**, což je mezi makléři binárních opcí výjimečný jev. Nulovou jazykovou bariéru potvrzuje i možnost komunikovat s českým manažerem, který vám určitě odpoví na vaše dotazy i požadavky.** TopOption je regulovaný v EU** (včetně licencí ČNB a SNB), má obchodní platformu v češtině a také českého manažera. 
+
+**Obsah recenze TopOption**: 
+
+[TopOption recenze](http://forexsrovnavac.cz/topoption#section-1) 
+
+[Základní informace](http://forexsrovnavac.cz/topoption#section-2) 
+
+[Jak začít obchodovat](http://forexsrovnavac.cz/topoption#section-3)  
+
+[Obchodní platforma TopOption](http://forexsrovnavac.cz/topoption#section-4)
+
+[Demo účet](http://forexsrovnavac.cz/topoption#section-5)
 
 </div>
 </div>
@@ -43,7 +56,7 @@ Pro české obchodníky je [**www.TopOption.com**](http://blog.forexsrovnavac.cz
 {{section}}
 *Proč obchodovat binární opce u TopOption?*
 :    
-    1. Obchodní účet si založíte již od 100 $, minimální částka pro obchod je 10 $. Obchodovat můžete všechny druhy opcí High/Low i 60-sekundové, Pair a One Touch.
+    1. Obchodní účet si založíte již od 100 $, minimální částka pro obchod je 10 $. Topoption nabízí téměř všechny druhy opcí High/Low i 60-sekundové, Pair a One Touch.
 
     2. Obchodní platforma kompletně v češtině, česká zákaznická podpora. TopOption podléhá regulaci České národní banky [ČNB](https://apl.cnb.cz/apljerrsdad/JERRS.WEB10.VIZITKA?p_lang=cz&p_SEQ_ID=373603&p_VER_ID=1000&p_DATUM=22.12.2011&p_ROL_KOD=35 "CNB").
     
@@ -77,37 +90,39 @@ Pro české obchodníky je [**www.TopOption.com**](http://blog.forexsrovnavac.cz
 </div>
 {{/section}}
 
+![TopOption platforma](http://i.imgur.com/YV4yWi6.png)
+
 {{section}}
 
-## Jak začít obchodovat u TopOption 
+## Jak začít obchodovat u Topoption 
 
-Začít obchodovat můžete přes webovou platformu TopOption, díky které není třeba stahovat žádný software na stránkách [www.topoption.com](http://blog.forexsrovnavac.cz/topoption) najdete více informací.[Binární opce](http://www.forexsrovnavac.cz/binarni-opce) můžete obchodovat už od nízkého vkladu $100, který lze vložit všemi běžnými typy platebních karet. Nicméně i prostřednictvím internetových peněženek Skrill, Webmoney nebo Neteller. Tento minimální vklad (100 USD) je podmínkou i pro komunikaci s manažerem a založení demo účtu u TopOption. 
+U Topoption obchodujte přes webovou platformu, díky které není třeba stahovat žádný software na stránkách [www.topoption.com](http://blog.forexsrovnavac.cz/topoption) najdete více informací.[Binární opce](http://www.forexsrovnavac.cz/binarni-opce) obchodujte od nízkého vkladu $100, který lze vložit všemi běžnými typy platebních karet, bankovním převodem i prostřednictvím internetových peněženek Skrill, Webmoney nebo Neteller. Tento minimální vklad (100 USD) je podmínkou i pro komunikaci s manažerem a založení demo účtu u TopOption. 
 
-    O bezpečí vašich prostředků můžete být ujištěni tím, že TopOption je broker podléhající regulacím EU a to včetně regulace České národní banky. Samozřejmostí je v dnešní době podpora mobilní platformy, která je kompatibilní s iPhonem a Androidem.
+    O bezpečí vašich finančních prostředků se nemusíte bát, **TopOption je broker podléhající regulacím EU** a to včetně regulace České národní banky. Samozřejmostí je v dnešní době podpora mobilní platformy (Anroid, IOS), která je kompatibilní s iPhonem a Androidem.
 
 ###Druhy binárních opcí u TopOption
 
-:   U TopOption můžete vybírat mezi několika typy binárních opcí a minimální investice do jedné opce je $10. Základními druhy binárních opcí [druhy binárních opcí](http://www.forexsrovnavac.cz/druhy-binarnich-opci) jsou pochopitelně známý Call a Put někdy označovaný také jako High a Low. Při tomto druhu obchodování váš zisk záleží na tom, zda cena vybraného aktiva bude ve chvíli exspirace vyšší (Call) nebo nižší (Put) než při nákupu opce. 
+:   U TopOption najdete několik typů binárních opcí a **minimální investice do jedné opce je $10**. Základními druhy binárních opcí jsou pochopitelně známý Call a Put někdy označovaný také jako High a Low. Při tomto druhu obchodování váš zisk záleží na tom, zda cena vybraného aktiva bude ve chvíli exspirace vyšší (Call) nebo nižší (Put) než při nákupu opce. 
 
 Vedle těchto tradičních opcí TopOption nabízí možnost adrenalinového obchodování s opcemi 60 sekund, kde obchodník předvídá pohyb aktiva v horizontu pouhé minuty, nebo opcemi One Touch, při které k zisku stačí, když se cena aktiva dotkne cílové hranice. Nicméně tady je potřeba zkušeností,  investování do binárních opcí na základě chvilkového přesvědčení je chybné, binární opce nejsou hazardní hra.
 {{/section}}
 
-{{/section}}
+{{section}}
 
 ###Obchodní nástroje a binární platforma TopOption 
 
-Při obchodování lze využít i některých pokročilých nástrojů, které vám umožní mít vaše obchody pod mnohem větší kontrolou. S nástroje Roll Over tak například můžete prodloužit exspiraci vašich opcí. Nástroj na zdvojnásobení vám zas dává možnost vytěžit maximum z vašich dobře načatých obchodů. Sell Option naopak minimalizuje riziko tím, že až hodinu před exspirací vám umožní odprodat svá aktiva.
+Při obchodování lze využít i některých pokročilých nástrojů, které vám umožní mít vaše obchody pod mnohem větší kontrolou. S nástroje Roll Over tak například prodloužíte exspiraci vašich opcí. Nástroj na zdvojnásobení vám zas dává možnost vytěžit maximum z vašich dobře načatých obchodů. Sell Option naopak minimalizuje riziko tím, že až hodinu před exspirací vám umožní odprodat svá aktiva.
 
-Naleznete zde Inteligentní, uživatelsky příjemné nástroje, které vám pomohou zlepšit vaši strategii a díky nimž můžete posílit své obchodní dovednosti. Prohlížejte si historii trendu aktiva, zdvojnásobujte částku během obchodu, odkládejte termín vystoupení z obchodu, prodávejte aktiva předčasně nebo si vyberte dvě oblíbená aktiva, která budete konfrontovat proti sobě. 
+Naleznete zde Inteligentní, uživatelsky příjemné nástroje, které vám pomohou zlepšit vaši strategii a díky nimž posílíte své obchodní dovednosti. Prohlížejte si historii trendu aktiva, zdvojnásobujte částku během obchodu, odkládejte termín vystoupení z obchodu, prodávejte aktiva předčasně nebo si vyberte dvě oblíbená aktiva, která budete konfrontovat proti sobě. 
 
 Pro České a Slovenské zákazníky je důležitá regulace a povolení o České národní banky [zde](https://apl.cnb.cz/apljerrsdad/JERRS.WEB10.VIZITKA?p_lang=cz&p_SEQ_ID=373603&p_VER_ID=1000&p_DATUM=22.12.2011&p_ROL_KOD=35 "CNB") a Národní banky Slovenska [zde](http://www.nbs.sk/_img/Documents/_Dohlad/Mifid.pdf "NBS")
 
 
 ###Unikátní funkce u TopOption
 
-Navzdory tomu, že může aplikace TopOption vypadat zdánlivě jednodušší, nabízí pro obchodníky některé unikátní funkce. Například v režimu ProOption, si mohou obchodníci zvolit obchod opce proti další opci sobě pomocí "Stock pair" a sledovat jejich vývoj. Dva další prvky, které by mohly být užitečné pro obchodníky v rámci režimu ProOption jsou "Double Up" a "Roll Over" funkce. Funkce Double Up umožňují obchodníkům zdvojnásobit objem investic, když si myslí, že se obchod zdaří, jak se očekávalo. Roll Over funkce je užitečná, pokud chcete rozšířit váš obchod za původní výběr expirovaného času.
+Navzdory tomu, že obchodní platforma Topoption nevypadá nikterak složitě, nabízí pro obchodníky některé unikátní funkce. V režimu ProOption, si mohou obchodníci zvolit obchod opce proti další opci sobě pomocí "Stock pair" a sledovat jejich vývoj. Dva další prvky, které by mohly být užitečné pro obchodníky v rámci režimu ProOption jsou "Double Up" a "Roll Over" funkce. Funkce Double Up umožňují obchodníkům zdvojnásobit objem investic, když si myslí, že se obchod zdaří, jak se očekávalo. Roll Over funkce je užitečná, pokud chcete rozšířit váš obchod za původní výběr expirovaného času.
 
-Bonusy na TopOption pro rok 2014
+Bonusy na Topoption pro rok 2014
 :   
 Aktuální benefity: 3 e-knihy česky zdarma, výuková videa
 
@@ -118,11 +133,13 @@ Bonus za vklad: Ano, 50% až 100%, na vyžádání.
 Regulace v ČR: Ano. Podléhá regulaci České národní banky.
 
 {{/section}}
+
 {{section}}
 ## TopOption demo účet 
 
 [Stáhnnout demo účet zdarma](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index}  
-TopOption je jedním z nejvíce propojených brokerů na světě. Jsou součástí větší společnosti, Markets.com. Tímto způsobem mohou využít velké množství odborných znalostí přicházející z mateřské společnosti. Ve skutečnosti, jejich hlavní ekonom může být často viděn na profesionální televizních kanálech. Kromě toho, [TopOption](http://blog.forexsrovnavac.cz/topoption "Registrace") nabízí i demo účet zdarma.
+
+TopOption je jedním z nejvíce propojených brokerů na světě. Jsou součástí větší společnosti, Markets.com. Tímto způsobem mohou využít velké množství odborných znalostí přicházející z mateřské společnosti. Ve skutečnosti, jejich hlavní ekonom je často viděn na profesionální televizních kanálech. Kromě toho, [TopOption](http://blog.forexsrovnavac.cz/topoption "Registrace") nabízí i demo účet zdarma.
 
 Charakteristiky bezplatného demo účtu u TopOption: 
 
@@ -132,23 +149,16 @@ Charakteristiky bezplatného demo účtu u TopOption:
 4. Nastavení, kontrola a simulace obchodních strategií s binárními opcemi
 5. On-line pomoc a asistence podpůrného týmu
 
-V průběhu obchodování na demo účtu poznáte totiž specifické vlastnosti každého trhu. Vyzkoušejte si při něm každý trh. Každému totiž vyhovuje jiný. Délka obchodování na demo účtu je opět velmi individuální. V průměru se pohybuje cca. 5 - 30 dnů.
+V průběhu obchodování na TopOption demo účtu poznáte totiž specifické vlastnosti každého trhu. Vyzkoušejte si při něm každý trh, kterému se chcete věnovat. Každému totiž vyhovuje jiný. Délka obchodování na demo účtu je opět velmi individuální. V průměru se pohybuje cca. 5 - 30 dnů.
 - - -
 ![TopOption](http://bopce.cz/wp-content/uploads/2014/06/Topoption.png)
 - - -
 ### Škola obchodování a zkušenosti s TopOption
 [Škola obchodování](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
-TopOption je vhodným brokerem i pro začínající obchodníky. V multimediálním výukovém centru [TopOption Academy](http://blog.forexsrovnavac.cz/topoption) lze načerpat množství kvalitních informací a stát se tak dobrým obchodníkem. Vzdělávat se lze pomocí individuálních výukových lekcí, webových seminářů, elektronických knih nebo video-průvodců. Samozřejmostí jsou i pravidelné aktuality z dění na trhu, iformace o akciích, komoditách i forexu. Nabyté znalosti lze prověřit na demo účtu, který si můžete nechat zpřístupnit prostřednictvím vašeho manažera po vložení minimálního vkladu.
+TopOption je vhodným brokerem i pro začínající obchodníky. V multimediálním výukovém centru [TopOption Academy](http://blog.forexsrovnavac.cz/topoption) lze načerpat množství kvalitních informací a stát se tak dobrým obchodníkem. Vzdělávat se lze pomocí individuálních výukových lekcí, webových seminářů, elektronických knih nebo video-průvodců. Samozřejmostí jsou i pravidelné aktuality z dění na trhu, iformace o akciích, komoditách i forexu. Nabyté znalosti lze prověřit na demo účtu, který si zpřístupníte prostřednictvím vašeho manažera po vložení minimálního vkladu.
 
 *Co se týká šíře nabídky podkladových aktiv, tak ta sice nepatří mezi nejbohatší, ale výběr je dostačující k nárokům každého běžného obchodníka. Proto pro již zmíněné široké možnosti obchodování a hlavně podporu našeho mateřského jazyka je TopOption velmi atraktivní volbou na poli brokerů s binárními opcemi.*
 {{/section}}
-
-
-
-
-
-
-
 
 
 </div>
@@ -162,19 +172,6 @@ Prověřeny broker
 </div>
 - - -
 
-#### Obsah recenze TopOption
-
-[TopOption recenze](http://forexsrovnavac.cz/topoption#section-1)
-
-[Základní informace](http://forexsrovnavac.cz/topoption#section-2)
-
-[Jak začít obchodovat](http://forexsrovnavac.cz/topoption#section-2)
-
-[Obchodní platforma TopOption](http://forexsrovnavac.cz/topoption#section-3)
-
-[Demo účet](http://forexsrovnavac.cz/topoption#section-4)
-
-- - -
 <a href="http://serv.markets.com/promoRedirect?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D"  target="_blank">
  <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" width="270" height="250"/>
 </a>

@@ -12,7 +12,7 @@
 {{section}}
 
 <a href="http://serv.markets.com/promoRedirect?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90"/>
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90" class="img-responsive"/>
 </a>
 
 ## Obchodování s virtuální měnou Litecoin

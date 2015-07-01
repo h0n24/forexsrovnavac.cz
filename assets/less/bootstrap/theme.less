@@ -870,6 +870,11 @@ noscript {
   background: url(../img/brokeri/ucet_bg-hover.png);
 }
 
+
+div[role=main]>section:first-child {
+  padding-top: 0;
+}
+
 img.ikona {
   margin-top: 10px;
 }
@@ -922,5 +927,39 @@ img.ikona {
   .navbar-fixed-top {
     position: absolute;
     top: 0;
+  }
+}
+
+.embed-responsive.embed-index-third {
+  padding-bottom: 135px;
+  margin-bottom: 15px;
+  max-width: 400px;
+}
+
+@media (max-width: @screen-sm-max) {
+  .btn {
+    max-width: 85vw;
+    overflow: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  @-moz-document url-prefix() {
+    .btn {
+      overflow: hidden;
+    }
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  .embed-responsive.embed-index-third {
+    padding-bottom: 135px;
+    margin-bottom: 15px;
+    width: 30%;
+    float: left;
+    margin-right: 1%;
   }
 }

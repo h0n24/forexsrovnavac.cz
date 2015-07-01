@@ -12,7 +12,6 @@
 #
 namespace Michelf;
 
-
 #
 # Markdown Parser Class
 #
@@ -600,6 +599,9 @@ class Markdown implements MarkdownInterface {
 				$title = $this->titles[$link_id];
 				$title = $this->encodeAttribute($title);
 				$result .=  " title=\"$title\"";
+				if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
+				  $result .=  " rel=\"nofollow\"";
+				}
 			}
 		
 			$link_text = $this->runSpanGamut($link_text);
@@ -629,6 +631,9 @@ class Markdown implements MarkdownInterface {
 		if (isset($title)) {
 			$title = $this->encodeAttribute($title);
 			$result .=  " title=\"$title\"";
+			if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
+			  $result .=  " rel=\"nofollow\"";
+			}
 		}
 		
 		$link_text = $this->runSpanGamut($link_text);
@@ -705,7 +710,7 @@ class Markdown implements MarkdownInterface {
 		$alt_text = $this->encodeAttribute($alt_text);
 		if (isset($this->urls[$link_id])) {
 			$url = $this->encodeAttribute($this->urls[$link_id]);
-			$result = "<img src=\"$url\" alt=\"$alt_text\"";
+			$result = "<img src=\"$url\" alt=\"$alt_text\" class=\"img-responsive\"";
 			if (isset($this->titles[$link_id])) {
 				$title = $this->titles[$link_id];
 				$title = $this->encodeAttribute($title);
@@ -729,7 +734,7 @@ class Markdown implements MarkdownInterface {
 
 		$alt_text = $this->encodeAttribute($alt_text);
 		$url = $this->encodeAttribute($url);
-		$result = "<img src=\"$url\" alt=\"$alt_text\"";
+		$result = "<img src=\"$url\" alt=\"$alt_text\" class=\"img-responsive\"";
 		if (isset($title)) {
 			$title = $this->encodeAttribute($title);
 			$result .=  " title=\"$title\""; # $title already quoted
@@ -1320,6 +1325,9 @@ class Markdown implements MarkdownInterface {
 	protected function _doAutoLinks_url_callback($matches) {
 		$url = $this->encodeAttribute($matches[1]);
 		$link = "<a href=\"$url\">$url</a>";
+		if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
+			$result .=  " rel=\"nofollow\"";
+		}
 		return $this->hashPart($link);
 	}
 	protected function _doAutoLinks_email_callback($matches) {
@@ -2303,9 +2311,16 @@ abstract class _MarkdownExtra_TmpImpl extends \Michelf\Markdown {
 				$title = $this->titles[$link_id];
 				$title = $this->encodeAttribute($title);
 				$result .=  " title=\"$title\"";
+				/*if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
+				  $result .=  " rel=\"nofollow\"";
+				}*/
 			}
 			if (isset($this->ref_attr[$link_id]))
 				$result .= $this->ref_attr[$link_id];
+
+			if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
+			  $result .=  " rel=\"nofollow\"";
+			}
 		
 			$link_text = $this->runSpanGamut($link_text);
 			$result .= ">$link_text</a>";
@@ -2335,6 +2350,9 @@ abstract class _MarkdownExtra_TmpImpl extends \Michelf\Markdown {
 		if (isset($title)) {
 			$title = $this->encodeAttribute($title);
 			$result .=  " title=\"$title\"";
+			if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
+			  $result .=  " rel=\"nofollow\"";
+			}
 		}
 		$result .= $attr;
 		
@@ -2413,7 +2431,7 @@ abstract class _MarkdownExtra_TmpImpl extends \Michelf\Markdown {
 		$alt_text = $this->encodeAttribute($alt_text);
 		if (isset($this->urls[$link_id])) {
 			$url = $this->encodeAttribute($this->urls[$link_id]);
-			$result = "<img src=\"$url\" alt=\"$alt_text\"";
+			$result = "<img src=\"$url\" alt=\"$alt_text\" class=\"img-responsive\"";
 			if (isset($this->titles[$link_id])) {
 				$title = $this->titles[$link_id];
 				$title = $this->encodeAttribute($title);
@@ -2440,7 +2458,7 @@ abstract class _MarkdownExtra_TmpImpl extends \Michelf\Markdown {
 
 		$alt_text = $this->encodeAttribute($alt_text);
 		$url = $this->encodeAttribute($url);
-		$result = "<img src=\"$url\" alt=\"$alt_text\"";
+		$result = "<img src=\"$url\" alt=\"$alt_text\" class=\"img-responsive\"";
 		if (isset($title)) {
 			$title = $this->encodeAttribute($title);
 			$result .=  " title=\"$title\""; # $title already quoted

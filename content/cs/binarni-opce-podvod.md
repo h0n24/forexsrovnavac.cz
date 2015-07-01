@@ -13,10 +13,10 @@
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
+
 # Binární opce - podvod?
 
-Proč si lidé myslí, že jsou binární opce podvod?
-:   Existují tři hlavní důvody, proč lidé říkají, že jsou binární opce podvod :
+*Proč si lidé myslí, že jsou binární opce podvod? Existují tři hlavní důvody, proč lidé říkají, že jsou binární opce podvod.*
 
 1. Mnoho lidí se snaží binární opce obchodovat, bez porozumění jejich principům, takže se cítí podvedeni, když obchody, které obchodují nejdou v jejich prospěch.
 
@@ -32,7 +32,9 @@ Pokud se pustíte do obchodování binární opci - jednoduché tipy a rady, jak
 Pokud jde o obchodování binárních opcí, zde jsou některé užitečné způsoby, jak odlišit podvodníky od skutečných solidních společností:
 
 1. Především musíte vědět, jak binární opce fungují. Neměli byste nikdy investovat v oblastech, kterým nerozumíte. Jelikož téměř vždy přijdete o peníze.
+
 2. Vyzkoušejte uživatelskou podporu. Zeptejte se na některé otázky týkající se platformy, regulace dané společností atd.
+
 3. Podívejte se na jejich webové stránky. Pokud mají všechny potřebné regulace - je nepravděpodobné, že by to byl podvod.
 
 Sepsali jsme pro Vás seznam brokerů s binárními opcemi, kterým se raději vyhněte - [Podvodní binární brokeři](http://bopce.cz/brokeri-binarnich-opci-kterym-se-radeji-vyhnete/). A přinášíme stručný přehled o dalších pochybných stránkách.
@@ -56,7 +58,6 @@ Zase pravděpodobně smyšlené jméno. Láká způsobem dojemného příběhu, 
 *Varování: Free Diamond App*
 
 *OptioNavigator*
-
 
 
 

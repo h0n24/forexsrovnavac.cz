@@ -3,8 +3,8 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Etoro recenze a zkušenosti - Copytrading na forexu",
-    "description": "Naše recenze a zkušenosti s cfd brokerem Etoro a obchodní platformou Etoro webtrader a copytrading. Etoro je Sociální obchodní síť a Forex broker v jednom.",
+    "title": "Etoro Copy Trading - recenze a zkušenosti",
+    "description": "",
     "keywords": "Etoro, Etoro recenze, Etoro zkušenosti"
   }
 {{/settings}}
@@ -12,15 +12,16 @@
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
-# Recenze brokera etoro
+# Etoro recenze
 
-Broker eToro je jedním z nejoblíbenějších a největších globálních brokerů na světě (působí až ve 140 zemích). Možným důvodem jeho velké obliby může být kombinace nabídky brokerských služeb i možnost využití obchodní sociální sítě eToro, díky které můžete navázat kontakty s úspěšnými obchodníky, sledovat jejich profily a získávat tak aktuální informace o obchodování druhých. Dalším důvodem jeho oblíbenosti je také přístupnost a spolehlivost brokera. 
+*Broker eToro je jedním z nejoblíbenějších a největších globálních brokerů na světě (působí až ve 140 zemích). Možným důvodem jeho velké obliby může být kombinace nabídky brokerských služeb i možnost využití obchodní sociální sítě eToro, díky které můžete navázat kontakty s úspěšnými obchodníky, sledovat jejich profily a získávat tak aktuální informace o obchodování druhých. Dalším důvodem jeho oblíbenosti je také přístupnost a spolehlivost brokera.* 
 
 V neposlední řadě je eToro výjimečný svou propracovanou webovou platformou pro obchodování CFD (Forex, akcie, komodity, indexy) s pákou 1:2 až 1:400. Platforma je lehce ovladatelná a svoje přednosti nabízí začátečníkům i profesionálním obchodníkům, kteří zajisté ocení propracované grafy a technické analýzy.
 
 Platforma, která vznikla roku 2004, je výtvorem a vlastnictvím společnosti Tradonomi. Provozovatelem brokera eToro je společnost RetailFX Ltd., sídlící ve druhém největším městě Kypru. Svým kyperským sídlem tak nevystupuje z klasické řady brokerských sídel. Broker eToro podléhá díky kyperskému sídlu poskytovatele regulaci Kyperské Komise pro cenné papíry. Broker je mimo jiné regulován i dalšími úřady NFA, ASIC, CFTC a MiFID.
-
-
+- - -
+**Etoro má bohužel vysoké poplatky a to i za výběr vydělaných prostředků (až 25 USD za jeden výběr). Proto tohoto brokera nemůžeme doporučit, když ostatní takové poplatky ani zdaleka nemají. Vyzkoušejte jiné brokery, například [Plus500](http://blog.forexsrovnavac.cz/topoption "Plus500"), nebo [XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM"). Pro začátečníky jsou tu i [binární opce](http://www.forexsrovnavac.cz/binarni-opce "opce")**
+- - -
 ## Etoro, platformy, typy účtu a Copy Trading!
 
 Broker eToro nenabízí jen své brokerské služby, ale také služby obchodní sociální sítě eToro OpenBook. K obchodování máte k dispozici několik platforem, které jsou určené pro PC i chytré telefony - Web trader, Android & iOS mobilní aplikace. 
@@ -107,4 +108,3 @@ Společnost Topoption nabízí pro každého nového klienta **100%** bonus na p
 </div>
 </div>
 
-{{partial: ostatni-brokeri}}

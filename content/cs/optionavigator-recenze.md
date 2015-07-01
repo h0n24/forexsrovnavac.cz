@@ -28,7 +28,7 @@ A právě toho mnozí využívají a podvodné systémy vytvářejí. Jedním z 
   <div class="col-md-6" markdown="1">
 O Optionavigator
 :     
-Systém OptioNavigator je podobný jinému podvodnému systému na obchodování s binárními opcemi, a to BinaryBotPro, o kterém jste již možná slyšeli (také jste o něm mohli číst v naší recenzi BinaryBotPro). Než se začneme s OptioNavigator seznamovat blíže, je nutné znovu zdůraznit (a možná mnohé z vás zklamat), že jde o podvod. Více o tom, co to jsou a jak se obchodují [binární opce](http://www.forexsrovnavac.cz/binarni-opce "Binární opce").
+Systém OptioNavigator je podobný jinému podvodnému systému na obchodování s binárními opcemi, a to [Binary Bot Pro](http://www.forexsrovnavac.cz/binary-bot-pro ""), o kterém jste již možná slyšeli (také jste o něm mohli číst v naší recenzi BinaryBotPro). Než se začneme s OptioNavigator seznamovat blíže, je nutné znovu zdůraznit (a možná mnohé z vás zklamat), že jde o podvod. Více o tom, co to jsou a jak se obchodují [binární opce](http://www.forexsrovnavac.cz/binarni-opce "Binární opce").
 
 
 </div>

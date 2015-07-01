@@ -17,10 +17,7 @@
 <meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
-<div class="col-md-9" role="main" markdown="1">
-
-<div class="row">
-<div class="col-md-9" role="main" markdown="1">
+  <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
 
@@ -46,14 +43,11 @@ InstaTrade Investment Company poskytuje přístup na akciové burzy MYCEX a RTS.
 {{/section}}
 
 *Proč obchodovat s Instaforex.com?*
-:    
-    1. Obchodní podmínky společnosti InstaForex jsou právem považovány jako jedny z nejlepších na trhu. 
-    
-    2. InstaForex Group má komplexní škálu finančních nástrojů umožňujících jednotlivcům ale i institucím investování na měnové a akciové burze.
-    
-    3. Společnost InstaForex nabízí nejvíce konkurenceschopné swapy, broker odmítá standartní praxi u ostatních společností a neobchoduje proti klientovi.
-
-    4. Společnost získala vícenásobné ocenění i od jiných předních médií jako jsou např. CNBC Business Magazine a European CEO (Ocenění nejlepší retailový broker). Úspěchy společnosti byly opakovaně prokázány na mezinárodních finančních výstavách ShowFx World a ShowFx Asia
+  
+  1. Obchodní podmínky společnosti InstaForex jsou právem považovány jako jedny z nejlepších na trhu. 
+  2. InstaForex Group má komplexní škálu finančních nástrojů umožňujících jednotlivcům ale i institucím investování na měnové a akciové burze.
+  3. Společnost InstaForex nabízí nejvíce konkurenceschopné swapy, broker odmítá standartní praxi u ostatních společností a neobchoduje proti klientovi.
+  4. Společnost získala vícenásobné ocenění i od jiných předních médií jako jsou např. CNBC Business Magazine a European CEO (Ocenění nejlepší retailový broker). Úspěchy společnosti byly opakovaně prokázány na mezinárodních finančních výstavách ShowFx World a ShowFx Asia
 
 {{section}}
 *Základní informace o Instaforex.com*
@@ -135,17 +129,14 @@ InstaForex na svých webových stránkách nabízí i možnost vzdělávání sk
 {{/section}}
 
 
-
 </div>
 <div class="col-md-3" markdown="1">
-<div class="well" markdown="1" style="margin-top: 2.5em">
+<!--<div class="well" markdown="1" style="margin-top: 2.5em">
   
-
-
-</div>
+</div>-->
 <div class="container-fluid" markdown="1">
-- - -
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D"  target="_blank">
+
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" rel="nofollow" target="_blank">
  <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" width="270" height="250"/>
 </a>
 - - -
@@ -181,10 +172,6 @@ Výhody
 Nevýhody
 :   
 ![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Část webu, není plně přeložená
-- - -
-
-
-- - -
 
 </div>
 </div>

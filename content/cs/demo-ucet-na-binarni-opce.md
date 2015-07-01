@@ -79,7 +79,7 @@ Pojďme si to trochu shrnout. Demo účet na binární opce, Vám nabídne přes
 
 5. Dojdete k osobnímu sebepoznání
 
-
+*V naší [recenzi TopOption](http://www.forexsrovnavac.cz/topoption) si můžete přečíst více informací o samotném brokerovi*
 
 </div>
 <div class="col-md-3" markdown="1">
