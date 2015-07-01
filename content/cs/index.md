@@ -76,6 +76,10 @@ Další Články o Binárních opcích:
 
 [Forex strategie](http://www.forexsrovnavac.cz/forex-strategie)
 
+[Money management](http://www.forexsrovnavac.cz/money-management)
+
+[Forex roboti](http://www.forexsrovnavac.cz/forex-roboti-aos)
+
   </div>
   <div class="col-md-6" markdown="1">
 Recenze Brokerů:

@@ -11,8 +11,16 @@
     <nav class="navbar-collapse toggle-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{url}}index#section-1" class="hidden-sm">Forex</a>
-        </li>
+           <li class="dropdown">
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
+            <span class="hidden-sm hidden-md">Forex <b class="caret"></b></span><span class="visible-sm visible-md">Forex</span>
+          </a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-strategie">Forex Strategie</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}money-management">Money Management</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti</a></li>
+</li>
+</ul>
         <li><a href="{{url}}forex-bonus-no-deposit-bez-vkladu" class="hidden-sm">Bonus</a></li>
         <li class="dropdown">
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
@@ -26,11 +34,14 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}Ironfx">IronFX</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}instaforex">Instaforex</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}xm-xemarkets-com">Xemarkets (XM.com)</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bossa">Bossa</a></li>
             <li class="divider"></li>
             <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární brokeři</strong></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}topoption">Topoption</a></li>                
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}topoption">TopOption</a></li> 
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}onlyoption">OnlyOption</a></li>               
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}etx-capital-zkusenosti">ETX Capital</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}stockpair-recenze">Stockpair</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}24winner">24Winner</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}zoomtrader">Zoomtrader</a></li>
           </ul>
         </li>

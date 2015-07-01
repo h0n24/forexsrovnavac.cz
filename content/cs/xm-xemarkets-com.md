@@ -50,7 +50,7 @@ Mimo regulaci **CySEC** podléhá regulaci i několika dalších úřadů, např
     
     3. Minimální vklad pouze 5 USD, což je asi 100 Kč.
 
-    4.  Regulace Cysec (další regulace Evropské regulace) - **prověřený broker** - [Cysec licence](http://www.cysec.gov.cy/licence_members_1_en.aspx)
+    4.  Regulace Cysec (další regulace Evropské regulace) - **prověřený broker** - [ČNB notifikace](https://apl.cnb.cz/apljerrsdad/JERRS.WEB10.VIZITKA?p_lang=cz&p_SEQ_ID=1295054&p_VER_ID=1001&p_DATUM=18.05.2015&p_ROL_KOD=)
 
 *Základní informace o XM.com*
 <div class="row" style="width:92%">

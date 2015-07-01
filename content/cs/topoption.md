@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "TopOption recenze a zkušenosti, demo účet ",
+    "title": "TopOption recenze a zkušenosti - Demo účet ",
     "description": "",
     "keywords": "TopOption, TopOption recenze"
   }

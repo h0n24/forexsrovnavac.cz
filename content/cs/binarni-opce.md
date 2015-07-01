@@ -26,7 +26,7 @@ Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#s
 
 **Binární opce** jsou další z mnoha možností, jak zhodnotit své finance, ze zkušenosti ze zahraničí se ukazuje, že obchodovat binární opce může každý. S binárními opcemi obchoduje i početná česká a slovenská komunita, proto i binární brokeři mají své aplikace a stránky v Češtině. Výdělek pomocí binárních opcí je díky tomu přístupný široké veřejnosti. **Minimální vklad na k brokerovi binární opce se totiž pohybuje od 100 USD (cca 2000 Kč)**.
 
-[Získejte Demo účet na binární opce u TopOption](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} Pokud tedy přemýšlíte o vytváření nějaké typu pasivního příjmu nebo jednorázové přivýdělku a nechcete investovat velké částky, jsou pro Vás binární opce možností, jak z poměrně malé investice v řádu stovek korun, vytvořit pravidelný pasivní příjem a vydělat nějaké finance navíc. 
+[Podívejte se na platformu na binární opce](http://blog.forexsrovnavac.cz/topoption){.btn .btn-lg .pull-left .btn-primary .btn-index} Pokud tedy přemýšlíte o vytváření nějaké typu pasivního příjmu nebo jednorázové přivýdělku a nechcete investovat velké částky, jsou pro Vás binární opce možností, jak z poměrně malé investice v řádu stovek korun, vytvořit pravidelný pasivní příjem a vydělat nějaké finance navíc. 
 
     Pokud přemýšlíte o investovaní, ale nemáte tedy zrovna statisíce k nakoupení akcií nebo nemovitostí, nemusíte zoufat, začít můžete i s binárními opcemi, jelikož tyto opce jsou natolik specifické, že k nakoupení vaší první binární opce, vám vystačí kapitál v řádech stokorun. 
 
@@ -80,7 +80,7 @@ Vyberte si toho správného brokera
 {{section}}
 
 
-##Zhodnocení a Výhody binárních opcí
+##Co jsou to binární opce
 
 Binární opce mají **vysoké potencionální zhodnocení a to okolo **80 - 85% z investované částky** na jednu opci. Rozhodujete pouze o 2 variantách, a to o tom, jstli poroste v daném čase (CALL) akcie, komodita - nebo bude klesat (PUT), tak jak to vidíte dole na obrázku. Toto pochopí opravdu každý!
 
@@ -229,6 +229,8 @@ Proč využít nejdříve demo účet?
 Seznámení s binarními opcemi a trhy, daty, grafy
 
 :    Dalším cílem a rolí tréningu na demo účtech je možnost opravdu se dobře seznámit s trhy jako takovými. Tady bych to nazval jakýmsi "naladěním se" na vlnu toho kterého trhu ještě před vstupem do reálného světa. Výhodou tohoto naladění se, je to, že člověk zjistí, který trh mu sedí lépe a který naopak obchodovat nebude případně který bude obchodovat nejdříve a který si nechá do zálohy. Temperamenti dají přednost živým trhů, rozvážnější zase jiným trhům.
+
+Více o demoúčtech v našem článku [Binární opce - demo verze účtů](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce)
 {{/section}}
 
 {{section}}

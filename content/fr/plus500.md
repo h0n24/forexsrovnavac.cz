@@ -3,18 +3,26 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Avis Plus500 - CFD trading online revue",
+    "title": "Avis sur Plus500 - CFD trading online revue",
     "description": "",
     "keywords": "Revue Plus500, Avis Plus500, Plus500, Plus500"
   }
 {{/settings}}
+
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  <meta itemprop="worstRating" content="1"/>
+  <meta itemprop="ratingValue" content="91"/>
+  <meta itemprop="bestRating" content="100"/>
+</span>
+<meta itemprop="itemreviewed" content="/fr/plus500">
+<meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
 
-# Avis Plus500
+# Avis sur Plus500
 *Propre plate-forme en tchèque, plus de 1500 instruments d´investissement. Parler de Plus500 à vos amis. Plus500 est sur la liste du London Stock Exchange.  A noter que Plus500 est aussi enregistré auprès de la Banque de France et de l'AMF*
 
 Dans l´article d´aujourd´hui, nous vous apportons un compte rendu sur la Société **[**www.plus500.fr**](http://www.plus500.com/fr/StartTrading.aspx?id=66349&pl=2), qui a été fondée en 2008** et laquelle est actuellement un des principaux marchands et un des  fournisseurs principaux des contrats sur la différence (CFD)  dans notre marché.  Elle offre les conditions incomparables non seulement dans le commerce au Forex trading, mais vous pouvez l´utiliser aussi pour coomercialiser des produits tels que le pétrole brut, l´or ou l´argent, des indices ou des échanges mondiaux, et, par exemple, même de la monnaie virtuelle [Bitcoin](http://www.forexsrovnavac.cz/bitcoin/). 

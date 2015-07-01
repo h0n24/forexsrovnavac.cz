@@ -3,18 +3,26 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 Review - Demo account and CFD Trading online",
+    "title": "Plus500 review and experience",
     "description": "",
     "keywords": "Plus500 Review, Plus 500, Plus500, Plus500 Bonus"
   }
 {{/settings}}
+
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  <meta itemprop="worstRating" content="1"/>
+  <meta itemprop="ratingValue" content="91"/>
+  <meta itemprop="bestRating" content="100"/>
+</span>
+<meta itemprop="itemreviewed" content="/en/plus500">
+<meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
 
-# Plus500 Review 
+# Plus500 review 
 
 *Individual Forex platform in English language, a broker fully regulated by the FCA, more than 1,500 investment instruments.*
 

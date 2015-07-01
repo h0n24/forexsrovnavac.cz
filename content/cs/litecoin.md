@@ -45,7 +45,7 @@ Důvod si myslet, že hodnota LTC poroste je díky komunitě, která za ním sto
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=cs&cty=CZ&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
 - - -
-Vyzkoušejte obchodování Litecoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce)
+Vyzkoušejte obchodování Litecoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce) u brokera [TopOption](http://www.forexsrovnavac.cz/topoption "Topoption recenze")
 - - -
 {{/section}}
 

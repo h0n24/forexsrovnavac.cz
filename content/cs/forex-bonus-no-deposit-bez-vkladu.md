@@ -20,7 +20,7 @@ S bonusem můžete obchodovat nejen na Forexu, k obchodování můžete využít
 Pokud si chce člověk vyzkoušet, jak se obchoduje na forexovém trhu skrze daného brokera, pak může využít dvě možnosti jak získat bonus při registraci od brokera. První z nich je demo účet a druhou z nich je Forex bonus no deposit, tedy bonus připsaný na váš účet i bez vašeho vkladu.
 
 - - -
-[500 Kč Bonus k účtu u plus500.com](http://blog.forexsrovnavac.cz/plus500cz "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[500 Kč Bonus k účtu u plus500.cz](http://blog.forexsrovnavac.cz/plus500cz "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 Bonus 500 Kč u brokera Plus500
 

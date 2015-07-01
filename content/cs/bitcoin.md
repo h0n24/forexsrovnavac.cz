@@ -45,7 +45,7 @@ Digitální měnu Bitcoin vytvořil v roce 2009 Satoshi Nakamoto. Uvedu pouze je
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=cs&cty=CZ&id=66349&tags=widg+chart+bitcoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 - - -
-Vyzkoušejte obchodování bitcoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce)
+Vyzkoušejte obchodování bitcoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce) u brokera [TopOption](http://www.forexsrovnavac.cz/topoption "Topoption recenze")
 - - -
 Cena Bitcoinu, Kurz za 1 Bitcoin (zkr. BTC) je zobrazena v měně konkrétní burzy, tj. USD (americké dolary) v případě burzy, Btc-e a bitStamp. Najdete zde vývoj kurzu Bitcoinu z období cca 2 let. Jednotlivé "svíčky" (candlesticks) označují aktuální cenu za Bitcoin. Stopka označuje minimální a maximální kurz. Vývoj kurzu si můžete prohlédnout na cca 5 minutových grafech, až po roční grafy. Kurz bitcoin se zobrazuje s cca 5 minutovým zpožděním.
 - - -

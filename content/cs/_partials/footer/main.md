@@ -16,6 +16,7 @@ document.write("<scr" + "ipt src=\"http://cnt2.pocitadlo.cz/counter.php?poc=9122
 <img src="http://cnt2.pocitadlo.cz/counter.php?poc=91221&amp;ns=1" width="1" height="1" alt="" border="0" />
 </noscript>
 
+
 <i class="fa fa-language"></i>
  &nbsp; <a href="{{base-url}}en/">en</a>
  · <a href="{{base-url}}de/">de</a>

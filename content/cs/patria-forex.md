@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Patria Forex recenze",
+    "title": "RECENZE: Patria (Direct) Forex online",
     "description": "",
     "keywords": "Patria Forex, Patria Forex recenze"
   }
@@ -12,7 +12,7 @@
 {{start}}
 # Patria Forex
 
-Společnost Patria Forex je vytvořena ve spolupráci se společností FXCM Holdings LLC, a je držitelem ceny časopisu FX Week za nejlepší retailovou platformu. V obchodní platformě Patria Forex je v současné době možné obchodovat se 56 měnovými páry a to i například s českou korunou. Patria Forex má také silné zázemí společnosti Patria Direct, která je součástí skupiny Patria Finance, jedno z největších obchodníků s cennými papíry v České republice.
+Společnost Patria Direct - Forex je vytvořena ve spolupráci se společností FXCM Holdings LLC, a je držitelem ceny časopisu FX Week za nejlepší retailovou platformu. V obchodní platformě Patria Forex je v současné době možné obchodovat se 56 měnovými páry a to i například s českou korunou. Patria Forex má také silné zázemí společnosti Patria Direct, která je součástí skupiny Patria Finance, jedno z největších obchodníků s cennými papíry v České republice.
 
 Tip: 500kč/25€ na Váš reálný účet, pouze za registraci. [Vyzkoušejte si reálné obchodování](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2), bez nutnosti vkladu.
 {{/start}}

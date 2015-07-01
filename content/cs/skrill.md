@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Skrill (Moneybookers) recenze a zkušenosti",
+    "title": "Recenze Skrill CZ - Elektronická Online peněženka (Moneybookers)",
     "description": "",
     "keywords": "Skrill, Moneybookers "
   }
@@ -23,31 +23,34 @@
 
 {{section}}
 
-#Skrill recenze
-
+#Skrill recenze 
 
 <div class="row" style="width:92%">
-  <div class="col-md-6" markdown="1">
-O skill.com
-:    
-Online svět se v současnosti čím dál více prolíná naším skutečným světem. Nejenže se v dnešní době na internetu seznamujeme, komunikujeme, čteme zprávy, koukáme na filmy, kromě v současnosti nakupujeme převážně právě prostřednictvím internetových obchodů. K online světu, internetovému nakupování či investování patří i internetové peněženky, jako je například Skrill/Moneybookers. 
-
-[Web společnosti skrill.com](http://www.bossa.cz) {.btn .bnt-lg .btn-primary}
-</div>
   <div class="col-md-6" markdown="1">
 Obsah recenze skrill
 :    
 [Základní informace O skrill](http://forexsrovnavac.cz/skrill#section-1) 
  
-[Výhody skrill účtu](http://forexsrovnavac.cz/skrill#section-2) 
+[Založení skrill účtu](http://forexsrovnavac.cz/skrill#section-2)  
 
-[Založení skrill účtu ](http://forexsrovnavac.cz/skrill#section-3)  
+[Jaku funguje skrill](http://forexsrovnavac.cz/skrill#section-3) 
 
-[Jaku funguje skrill](http://forexsrovnavac.cz/skrill#section-4) 
+[Skrill poplatky](http://forexsrovnavac.cz/skrill#section-4) 
 
-[Skrill poplatky](http://forexsrovnavac.cz/skrill#section-5) 
+[Limity v skrill peněžence](http://forexsrovnavac.cz/skrill#section-5) 
 
-[Limity v skrill](http://forexsrovnavac.cz/skrill#section-6) 
+[Výhody skrill účtu](http://forexsrovnavac.cz/skrill#section-6)
+
+
+</div>
+  <div class="col-md-6" markdown="1">
+Proč používat skrill.com
+:    
+
+Online svět se v současnosti čím dál více prolíná naším skutečným světem. Nejenže se v dnešní době na internetu seznamujeme, komunikujeme, čteme zprávy, koukáme na filmy. Kromě toho v současnosti nakupujeme převážně právě prostřednictvím internetových obchodů. K online světu, internetovému nakupování či investování patří i internetové peněženky, jako je například Skrill/Moneybookers. 
+
+[Web společnosti skrill.com]( https://account.skrill.com/signup?rid=4578719) {.btn .btn-lg .btn-primary}
+
 
 
 </div>
@@ -55,24 +58,30 @@ Obsah recenze skrill
 {{/section}}
 
 {{section}}
-##Výhody internetové peněženky Skrill
 
-Mezi výhody internetové peněženky Skrill patří například jednoduché ovládání. K posílání peněz vám postačí pouze vaše e-mailová adresa a také heslo k vašemu Skrill účtu, které získáte při registraci a založení vlastního účtu.
-Platby prostřednictvím peněženky Skrill jsou navíc velmi rychlé (peníze posíláte a přijímáte v reálném čase) a bezpečné (peněženka splňuje veškeré bezpečnostní finanční standardy). Další výhodou je například volnost, neboť svoje platby můžete směřovat do celého světa.
-{{/section}}¨
-{{section}}
 ##Založení účtu na internetové peněžence Skrill
 
 Založení vlastního účtu na internetové peněžence Skrill je zdarma. Bezplatně se můžete registrovat na webových stránkách Skrill.com. Pokud angličtině příliš nerozumíte, pak si po otevření stránky vyberte jeden z podporovaných jazyků, mezi které patří i čeština. Následně klikněte na tlačítko zaregistrovat a v registračním formuláři vyplňte alespoň povinné údaje (označené hvězdičkou, při registraci zadávejte pouze pravdivé informace). Poté opište bezpečnostní číslo a klikněte na tlačítko „Registrace osobního účtu“.
 
 Po **registraci dojde k rozdělení e-mailů na primární a sekundární**. Primární účet, který zadáváte při registraci, budete následně používat jako přihlašovací e-mail na osobní stránku Skrill. Často bývá peněženka Skrill využívána k sázení v online sázkových kancelářích, nebo u brokerů. Nedoporučuje se však používat jako primární e-mail stejný e-mail, který zadáváte na vašem hráčském účtu. Na druhou stranu by měl být e-mail používaný na stránkách stejný jako e-maily uvedené na vašem hráčském účtu. Veškeré tyto e-maily uveďte jako sekundární.
+
+[Založte si zdarma účet na skrill.com]( https://account.skrill.com/signup?rid=4578719) {.btn .btn-lg .btn-primary}
+
+
+![skrill](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/05/skrill-recenze-e1431101852302.png)
+
+
+{{/section}}
+
+
+
 {{section}}
+
 ##Jak funguje peněženka Skrill/Moneybookers?
 
 Internetová peněženka **Skrill funguje jako virtuální peněženka**, jejímž prostřednictvím můžete platit účty u společností obchodujících na internetu, které Skrill akceptují. V první řadě je však potřeba, abyste se zaregistrovali na internetových stránkách společnosti a následně vytvořili vlastní účet, na který posléze pošlete svoje peníze. Ty budete potom posílat jiným osobám či online sázkovým kancelářím, jež mají zřízeny účet Skrill/Moneybookers.
 
 Peníze posílejte na e-mailové adresy, na které jsou zřízeny Skrill účty, i na e-mailové adresy, ne které Skrill účty zřízeny nejsou. V druhém uvedeném případě je však potřeba, aby v zápětí po odeslání peněz došlo k založení účtu (nejpozději však do 14 dní od odeslání peněz). Pokud k založení účtu nedojde, budou peníze navráceny zpět odesílateli.
-
 
 
 ###Jak na Skrill vkládat peníze?
@@ -114,6 +123,31 @@ Platební kartou můžete platit v restauracích a obchodech. Denní limit onlin
 
 ###Mobilní aplikace Skrill
 Skrill můžete využívat i prostřednictvím chytrých telefonů/smartphonů s operačním systémem Android a iOS.
+
+
+
+{{/section}}
+
+{{section}}
+
+##Výhody internetové peněženky Skrill
+
+<div class="row" style="width:92%">
+  <div class="col-md-6" markdown="1">
+Jednoduché ovládání
+:    
+Mezi výhody internetové peněženky Skrill patří například jednoduché ovládání. K posílání peněz vám postačí pouze vaše e-mailová adresa a také heslo k vašemu Skrill účtu, které získáte při registraci a založení vlastního účtu.
+
+
+</div>
+  <div class="col-md-6" markdown="1">
+Rychlé platby
+:    
+
+Platby prostřednictvím peněženky Skrill jsou navíc velmi rychlé (peníze posíláte a přijímáte v reálném čase) a bezpečné (peněženka splňuje veškeré bezpečnostní finanční standardy). Další výhodou je například volnost, neboť svoje platby můžete směřovat do celého světa.
+
+</div>
+</div>
 
 {{/section}}
 

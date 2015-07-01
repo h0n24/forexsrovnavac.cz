@@ -41,7 +41,7 @@ Zkušenosti s brokerem Zoomtrader jsou tudíž velice rozporuplné, proto nemů�
 Varování na Zoomtrader zde: [Zoomtrader varování](http://www.cnb.cz/cs/spotrebitel/ochrana_spotrebitele/upozorneni/upozorneni_zoompartners.html)
 
 Kterého brokera doporučujete na binární opce?
-:   Určitě doporučujeme brokera [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption")
+:   Určitě doporučujeme brokera [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption"), [ETX Capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital") nebo [Stockpair](http://www.forexsrovnavac.cz/stockpair "Stockpair")
 
 Základní informace o zoomtrader:
 | Web:     |   [www.zoomtrader.com]|
