@@ -1,4 +1,4 @@
-<div style="position: absolute; margin-left: -460px;">
+<div class="pull-center">
 	<a href="https://www.facebook.com/pages/Forexsrovnavaccz/1415896768627764" target="_blank"><img src="assets/img/social/fb.jpg" alt="Facebook" width="32" height="32" /></a>
 	<a href="https://plus.google.com/b/102399851706317478440/102399851706317478440/about" target="_blank"><img src="assets/img/social/gplus.png" alt="Google+" width="32" height="32" /></a>
 	<a href="https://www.youtube.com/channel/UC7QDVYExySk78S41Gg0Pc6A/feed" target="_blank"><img src="assets/img/social/youtube.png" alt="Youtube" width="32" height="32" /></a>
@@ -11,6 +11,8 @@
  · <a href="{{base-url}}nl/plus500">nl</a>
  · <a href="{{base-url}}fr/plus500">fr</a>
  · <a href="{{base-url}}es/plus500">es</a>
+ · <a href="{{base-url}}pt/plus500">pt</a>
+ · <a href="{{base-url}}hu/plus500">hu</a>
  · <a href="{{base-url}}it/plus500">it</a>
  · <a href="{{base-url}}sk/plus500">sk</a>
  · <a href="{{base-url}}plus500">cs</a>

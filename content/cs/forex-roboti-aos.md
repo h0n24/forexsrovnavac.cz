@@ -91,11 +91,13 @@ Forex robot průběžně sám optimalizuje a upravuje své nastavení tak, aby d
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Výdělek na forexu:
+Bonusy na forexu:
 :    
 [500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
 
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+
+[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
 
 Binární opce:
 :    

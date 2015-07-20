@@ -19,8 +19,7 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-strategie">Forex Strategie</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}money-management">Money Management</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti</a></li>
-</li>
-</ul>
+          </ul>
         <li><a href="{{url}}forex-bonus-no-deposit-bez-vkladu" class="hidden-sm">Bonus</a></li>
         <li class="dropdown">
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
@@ -48,7 +47,6 @@
         <li><a href="{{url}}binarni-opce">Binární opce</a></li>
         </li>
       </ul>
-
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm hidden-md">Opce<b class="caret"></b></span><span class="visible-sm visible-md">Další</span></a>
@@ -65,15 +63,15 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-podvod">Binární opce podvod</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binary-bot-pro">BinaryBotPro</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}optionavigator-recenze">Optionavigator</a></li>
-  </ul>
+          </ul>
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>
         <li><a href="{{url}}litecoin/">Litecoin</a></li>
         <li><a href="http://blog.forexsrovnavac.cz/">Blog</a></li>
         <li class="dropdown">
           <a href="#" id="drop2" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="visible-xs">Jazyk &nbsp;</span><img src="{{img-url}}flags/cs.png" class="flag"><span class="visible-xs"> <b class="caret"></b></span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop">
-<li role="presentation"><a role="menuitem" tabindex="-1" hreflang="cs" href="{{base-url}}plus500"><img src="{{img-url}}flags/cs.png" class="flag"> Česky</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="en" href="{{base-url}}en/plus500"><img src="{{img-url}}flags/en.png" class="flag"> English</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="cs" href="{{base-url}}plus500"><img src="{{img-url}}flags/cs.png" class="flag"> Česky</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="pl" href="{{base-url}}pl/plus500"><img src="{{img-url}}flags/pl.png" class="flag"> Polski</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="de" href="{{base-url}}de/plus500"><img src="{{img-url}}flags/de.png" class="flag"> Deutsche</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="sk" href="{{base-url}}sk/plus500"><img src="{{img-url}}flags/sk.png" class="flag"> Slovensky</a></li>
@@ -81,6 +79,8 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="fr" href="{{base-url}}fr/plus500"><img src="{{img-url}}flags/fr.png" class="flag"> Français</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="es" href="{{base-url}}es/plus500"><img src="{{img-url}}flags/es.png" class="flag"> Spagnolo</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="it" href="{{base-url}}it/plus500"><img src="{{img-url}}flags/it.png" class="flag"> Italiano</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="pt" href="{{base-url}}pt/plus500"><img src="{{img-url}}flags/pt.png" class="flag"> Português</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="hu" href="{{base-url}}hu/plus500"><img src="{{img-url}}flags/hu.png" class="flag"> Magyarul</a></li>
           </ul>
         </li>
       </ul>

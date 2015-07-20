@@ -6,8 +6,8 @@
 // Load core variables and mixins
 // --------------------------------------------------
 
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
-@import url("http://fonts.googleapis.com/css?family=Cantarell:400,700,400italic,700italic");
+// používá se v hlavním template @import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
+@import url("http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin,latin-ext");
 
 @import "variables2.less";
 @import "mixins.less";
@@ -165,7 +165,7 @@ footer {
 
 body {
   margin: 0;
-  font-family: 'Cantarell', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 14pt;
   line-height: 1.8em;
   color: #666;
@@ -443,7 +443,18 @@ img.ikona {
   display: inline;
 }
 
+.pull-center {
+  position: absolute;
+  left: 50%;
+  width: 300px;
+  text-align: center;
+  margin-left: -150px;
+}
+
 @media (max-width: @screen-sm-max) {
+  .footer-mid {
+    display: none;
+  }
   .btn {
     max-width: 85vw;
     overflow: hidden;

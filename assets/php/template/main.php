@@ -15,6 +15,7 @@
   <meta name="author" content="Jan Šablatura">
   <meta http-equiv="Access-Control-Allow-Origin" content="*">
   <meta name="google-site-verification" content="l89qOWzX86DJpmFJuEyAAdrpNqhMePOFMZ-WYdHUYjw">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext" rel="stylesheet">
   <link href="<?= BASE_URL ?>assets/css/bootstrap.min.css" rel="stylesheet">
   <?php
     if (!isset($settings['template'])) {
@@ -29,7 +30,7 @@
     
     $url_za_jazykem = substr($_SERVER["REQUEST_URI"],1);
     $url_za_jazykem_zacatek = substr($url_za_jazykem,0,2);
-    $jazyky = array("en","cs","pl","de","sk","nl","fr","es","it");
+    $jazyky = array("en","cs","pl","de","sk","nl","fr","es","it","pt","hu");
     if(in_array($url_za_jazykem_zacatek,$jazyky)==true) $url_za_jazykem = substr($url_za_jazykem,3);
   ?>
 
@@ -44,7 +45,8 @@
   }
   ?>
   
-  <link href="<?= BASE_URL ?>assets/css/font-awesome.min.css" rel="stylesheet">
+  <!--<link href="<?= BASE_URL ?>assets/css/font-awesome.min.css" rel="stylesheet">-->
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -74,10 +76,19 @@
 </footer>
 
 <?php //automatically adds all scripts
+/* solution before
 $files = glob('assets/js/min/*min.js', GLOB_BRACE);
 foreach($files as $file) {
-  echo '<script src="'.BASE_URL.$file.'"></script>'."\n";
+  echo '<script src="'.BASE_URL.$file.'" async></script>'."\n";
 }
+*/
+// manually added scripts
 ?>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js" data-no-instant></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/1.5.5/jquery.smooth-scroll.min.js" data-no-instant></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" data-no-instant></script>
+<script src="http://www.forexsrovnavac.cz/assets/js/min/03-app.min.js" data-no-instant></script>
+<script src="http://www.forexsrovnavac.cz/assets/js/min/04-user-scripts.min.js" data-no-instant></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/instantclick/3.0.1/instantclick.min.js" async></script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-$(document).ready(function () {
+window.onload = function() { //$(document).ready(function () {
   $('.navbar a').smoothScroll();
   $('.created-by').tooltip();
   $('.carousel').carousel({interval: 0});
@@ -48,4 +48,4 @@ $(document).ready(function () {
     };
   });
 
-});
+}; //);

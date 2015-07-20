@@ -26,9 +26,9 @@
   <div class="col-md-6" markdown="1">
 O Markets.com
 :    
-V této recenzi vám představíme dalších kvalitního brokera Markets.com. Broker Markets.com představuje jednoho z nejrychleji rostoucích brokerů. Zaměřují se na obchodování na devizovém trhu, přesněji řečeno na obchodování Forex a CFD. Markets.com se řadí pod skupinu Afecap Investments Limited sídlící na Kypru. Mezi obchodní instrumenty brokera patří CFD, Forex, komodity, indexy a akcie. 
+V této recenzi vám představíme dalšího poměrně kvalitního brokera Markets.com. Broker Markets.com představuje jednoho z nejrychleji rostoucích brokerů. Zaměřují se na obchodování na devizovém trhu, přesněji řečeno na obchodování Forex a CFD. Markets.com se řadí pod skupinu Afecap Investments Limited sídlící na Kypru. Mezi obchodní instrumenty brokera patří CFD, Forex, komodity, indexy a akcie. 
 
-Při svém obchodování můžete používat až čtyři různé platformy nabízené Markets.com. Jednou z platforem je dokonce celosvětově velmi oblíbená platforma MetaTrader4.
+Při svém obchodování můžete používat až čtyři různé platformy nabízené Markets.com. Jednou z platforem je dokonce celosvětově velmi oblíbená platforma MetaTrader4, která má celosvětově nejlepší reference.
 [Získejte 25 USD bonus zdarma od Markets.com](http://blog.forexsrovnavac.cz/markets.com "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
   
 
@@ -188,4 +188,3 @@ Markets nabízí až 2500 USD bonus k novému vkladu [Více informací o Bonusu]
 </div>
 </div>
 
-{{partial: ostatni-brokeri}}

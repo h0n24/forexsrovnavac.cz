@@ -46,7 +46,7 @@ Nejnižší spready na trhu, od 0.1 pips a dále široká paleta investiční n�
 
 ##Základní informace o online brokerovi Hotforex:
 
-| Web:     | [www.hotforex.com ](https://www.hotforex.com)  |
+| Web:     | [www.hotforex.com ](https://www.hotforex.com/?refid=26283)  |
 | ---------------- | ------------- |
 | **Typ brokera:**   | ECN, STP  |
 | **Minimální velikost pozice:** | Mikro loty od 0,01 lotu|
@@ -98,7 +98,7 @@ Také tyto společnosti **neumožňují skalping**, protože pokud se nepodaří
 **Takový broker je potom přímo vysazený na to aby jste ztráceli**,protože vaše ztráta,je jeho zisk.
 **Hotforex takto nefunguje** a proto je rád když klient vydělává protože tím vydělává i on.
 
-[Více o Hotforex](https://www.hotforex.com/cz/ "Demo účet"){.btn .bnt-lg .btn-primary}
+[Více o Hotforex](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-primary}
 - - -
 ## Obchodní účty u hotforexu
 Minimální deposit pro Micro a Islamic účet - pouze $5
@@ -186,7 +186,7 @@ PAMM účty
 ##Demo účet
 Hotforex nabízí všem svým zákazník demo účet zdarma, který není omezen žádným časovým limitem. V demo účtu máte skutečné tržní podmínky -  všechno je stejné jako za skutečných obchodních podmínek. Naučíte se tak všechny funkce platformy mt4, bez toho abyste museli riskovat svůj kapitál
 
-[Stáhněte si demo účet zdarma](https://www.hotforex.com/cz/ "Demo účet"){.btn .bnt-lg .btn-primary}
+[Stáhněte si demo účet zdarma](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-primary}
 - - -
 ### Ukázka Platformy
 
@@ -199,7 +199,7 @@ Hotforex nabízí všem svým zákazník demo účet zdarma, který není omezen
 
 ![hotforex](http://s9.postimg.org/nxqx2apjf/hpt.jpg)  
 
-[Otevřít účet](https://www.hotforex.com/cz/ "Registrace") {.btn .bnt-lg .btn-primary} [Demo](https://www.hotforex.com/ "Demo účet"){.btn .bnt-lg .btn-default}
+[Otevřít účet](https://www.hotforex.com/?refid=26283 "Registrace") {.btn .bnt-lg .btn-primary} [Demo](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">
@@ -232,9 +232,9 @@ Hotforex nabízí všem svým zákazník demo účet zdarma, který není omezen
 </div>
 <div class="container-fluid" markdown="1">
 ####Náš Tip
-Začít můžete již s $5 a 50% bonusem na každý vklad. Společnost Hotforex nabízí pro každého nového klienta **100%** bonus na první vklad. Stačí pouze potvrdit telefon a dokumenty. [Více informací o Bonusu](https://www.hotforex.com/)
+Začít můžete již s $5 a 50% bonusem na každý vklad. Společnost Hotforex nabízí pro každého nového klienta **100%** bonus na první vklad. Stačí pouze potvrdit telefon a dokumenty. [Více informací o Bonusu](https://www.hotforex.com/?refid=26283)
 - - -
-<a href="https://www.hotforex.com/cz/"  target="_blank">
+<a href="https://www.hotforex.com/?refid=26283"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 </a>
 </div>

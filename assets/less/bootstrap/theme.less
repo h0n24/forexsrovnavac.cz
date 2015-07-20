@@ -6,7 +6,7 @@
 // Load core variables and mixins
 // --------------------------------------------------
 
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
+// používá se v hlavním template @import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
 
 @import "variables.less";
 @import "mixins.less";
@@ -900,8 +900,19 @@ img.ikona {
   margin-top: 10px;
 }
 
+.pull-center {
+  position: absolute;
+  left: 50%;
+  width: 300px;
+  text-align: center;
+  margin-left: -150px;
+}
+
 @media (max-width: @screen-sm-max) {
   .footer-mid {
+    display: none;
+  }
+  .pull-center {
     display: none;
   }
   .start p {

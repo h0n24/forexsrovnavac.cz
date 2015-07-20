@@ -37,7 +37,7 @@ V demo verzi aplikace budete binární opce moci obchodovat za reálné tržní 
 
 </div>
 </div>
-[Podívejte se na demo aplikaci u TopOption](http://blog.forexsrovnavac.cz/topoption "Registrace") {.btn .bnt-lg .btn-primary}
+[Podívejte se na demo aplikaci u TopOption](http://blog.forexsrovnavac.cz/topoption "Registrace") {.btn .btn-lg .btn-primary}
 
 Proč si nejdříve vyzkoušet demo verzi?
 :    Binární opce jsou riskatní, nikdo vám profit nezaručí. Nejlepší způsob, jak se stát odborníkem na tento typ obchodování, a začít dlouhodobě zhodnocovat své prostředky je určitě cesta zkoušení různých strategií právě na demo účtech.  To je důvod, je je demo účet pro binární opce, tak důležitý. Stručně řečeno, demo účet je účet zdarma. 

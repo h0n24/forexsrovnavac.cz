@@ -29,6 +29,8 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="fr" href="{{base-url}}fr/"><img src="{{img-url}}flags/fr.png" class="flag"> Français</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="es" href="{{base-url}}es/"><img src="{{img-url}}flags/es.png" class="flag"> Spagnolo</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="it" href="{{base-url}}it/"><img src="{{img-url}}flags/it.png" class="flag"> Italiano</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="pt" href="{{base-url}}pt/"><img src="{{img-url}}flags/pt.png" class="flag"> Português</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="hu" href="{{base-url}}hu/"><img src="{{img-url}}flags/hu.png" class="flag"> Magyarul</a></li>
           </ul>
         </li>
       </ul>
