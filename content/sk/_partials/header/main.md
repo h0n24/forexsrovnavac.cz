@@ -10,12 +10,9 @@
     </div>
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
-        <li>
-          <a href="{{url}}#section-1">Zoznam brokerov</a>
-        </li>
-        <li>
-          <a href="{{url}}#section-2">Ako správne vybrať</a>
-        </li>
+        <li><a href="{{url}}#section-1">Zoznam brokerov</a></li>
+        <li><a href="{{url}}#section-2">Ako správne vybrať</a></li>
+        <li><a href="{{url}}binarne-opcie">Binárne opcie</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoiny</a></li>
