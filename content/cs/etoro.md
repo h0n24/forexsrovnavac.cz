@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Etoro Copy Trading - recenze a zkušenosti",
+    "title": "Etoro - recenze a zkušenosti - kopírování obchodů",
     "description": "",
     "keywords": "Etoro, Etoro recenze, Etoro zkušenosti"
   }

@@ -3,7 +3,7 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Avis sur Plus500 - CFD trading online revue",
+    "title": "Avis Plus500 - Test et revue du broker CFD régulé",
     "description": "",
     "keywords": "Revue Plus500, Avis Plus500, Plus500, Plus500"
   }

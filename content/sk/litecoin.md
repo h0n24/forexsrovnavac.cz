@@ -11,6 +11,10 @@
 
 {{section}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
 ## Obchodovanie s virtuálnou menou litecoin
 
 LTC je druhou významnou kryptomenou. Litecoin je internetová mena peer-to-peer, ktorá umožňuje posielať okamžité platby komukoľvek na svete. Litecoin je založený na protokole bitcoin, ale líši sa od bitcoinu v tom, že môže byť účinne ťažený s lacnejším hardwarom, takže jeho ťažba je dostupná pre viac ľudí, stačí im len CPU (litecoin sa nevyplatí ťažiť na ASIC mineroch). Litecoin tiež poskytuje rýchlejšie potvrdenie transakcie (2,5 minúty v priemere) a využíva pamäť a script na báze ťažobného proof-of-work algoritmu. Sieť litecoin je naplánovaná na maximálny počet 84 miliónov jednotiek meny. Jedným z cieľov je poskytnúť litecoin ťažobný algoritmus, ktorý by mohol bežať v rovnakej dobe na rovnakom hardware, ako používa bitcoin.

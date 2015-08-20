@@ -63,3 +63,4 @@ Všeobecné podmínky pro používání webu http://www.forexsrovnavac.cz/
 5) Vzájemný vztah Provozovatele a Uživatelů se vždy řídí těmito VP a platným právním řádem České republiky.
 6) V případě, že kterékoliv ustanovení VP je nebo se stane či bude shledáno neplatným nebo nevymahatelným, neovlivní to (v nejvyšším rozsahu povoleném právními předpisy) platnost a vymahatelnost zbývajících ustanovení VP.
 7) Provozovatel není odpovědný za jakékoliv škody vzniklé v důsledku dočasné nefunkčnosti Portálu, nebo i v důsledku jeho úplného zrušení.
+8) Tyto webové stránky používají k analýze návštěvnosti soubory cookie. Informace o tom, jak tyto webové stránky používáte, jsou sdíleny se společností Google. Používáním těchto webových stránek souhlasíte s použitím souborů cookie.

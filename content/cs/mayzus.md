@@ -4,7 +4,7 @@
   "header": "main",
   "meta" : {
     "title": "Mayzus recenze",
-    "description": "Srovnání forex brokerů, vyberte si vašeho brokera pro obchodování na forexu. Najděte si svého brokera. Protože jen ten pravý vám ušetří peníze.",
+    "description": "",
     "keywords": "Forex, srovnání, broker, Mayzus"
   }
 {{/settings}}

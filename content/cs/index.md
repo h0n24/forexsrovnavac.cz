@@ -80,6 +80,12 @@ Další Články o Binárních opcích:
 
 [Forex roboti](http://www.forexsrovnavac.cz/forex-roboti-aos)
 
+[Obchodování na forexu](http://www.forexsrovnavac.cz/jak-zacit-obchodovat-na-forexu)
+
+[CFD obchodování](http://www.forexsrovnavac.cz/cfd-contract-for-difference)
+
+[Obchodní hodiny na burze](http://www.forexsrovnavac.cz/obchodni-hodiny-na-burze-a-forexu)
+
   </div>
   <div class="col-md-6" markdown="1">
 Recenze Brokerů:
@@ -99,6 +105,8 @@ Recenze Brokerů:
 Internetové peněženky:
 
 [Skrill recenze](http://www.forexsrovnavac.cz/skrill "Skrill")
+
+[Paypal recenze](http://www.forexsrovnavac.cz/paypal "Paypal ")
 
 
 </div>

@@ -11,8 +11,9 @@
 
 {{section}}
 
-[Mi 25 Euro registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary} [Abra una cuenta de demostración en menos de 5 minutos](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
-
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
 ## Operar con la moneda virtual Bitcoin
 
 Seguramente muchos de vosotros notásteis, el mes pasado, un mayor interés en la moneda virtual Bitcoin. El propósito de este artículo no es describir el funcionamiento de esta moneda virtual, no nos vamos a ocupar de su historia ni de la “minería de bitcoins”, aquí no te vamos a dar bitcoins gratis. Este artículo está más centrado en las posibilidades de operar con esta moneda en la bolsa de valores, como producto de inversión que está atravesando un boom en la actualidad y cuyo comercio ofrece interesantes oportunidades de inversión. 

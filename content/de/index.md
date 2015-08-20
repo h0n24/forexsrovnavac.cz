@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Der Handel in Forex und Forex-Strategie",
+    "title": "Bester online broker vergleich",
     "description": "Forex-Broker-Vergleich, wählen Sie Ihren Broker für Forex-Handel. Finden Sie Ihren Broker. Denn nur die richtige sparen Sie Geld.",
     "keywords": "Forex Broker, Forex Strategien, Wie wählen Sie ein Broker Forex Broker, Wechselkurse, verglichen Makler"
   }

@@ -3,9 +3,9 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 Recenzje, opinie i wypłata",
+    "title": "Plus500 opinie, recenzja i wypłata 2015",
     "description": "",
-    "keywords": "Plus500 Recenzje, Plus 500 opinie, Plus500, Plus500 demo"
+    "keywords": "Plus500 Recenzja, Plus500 opinie, Plus500, Plus500 demo"
   }
 {{/settings}}
 

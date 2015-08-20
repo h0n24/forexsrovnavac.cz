@@ -3,7 +3,7 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 comentários e experiências",
+    "title": "Plus500 revisão e experiências",
     "description": "",
     "keywords": "Plus500 Review, 500 Plus, 500 Plus Review, Plus500, experiência Plus500"
   }
@@ -131,7 +131,7 @@ Depois de fechar a transação, fazer a sua própria avaliação, decidir se est
 Você recebe 20 € simplesmente pelo seu registo e verificação de conta.
 O bônus, claro, tem certas condições, no final nem todas as pessoas podem obter o bônus de conta. Mas quando se trabalha bem que vale a pena.
 
-**Primeiro você precisa de se registrar**
+**Primeiro você precisa de se registrar.**
 
 É preferível usar em vez software a interface web, porque via software você é capaz de estar monitorando gráficos logo após a [transferência e aplicação de arranque](http://blog.forexsrovnavac.cz/plus500cz "Registrace"). 
 

@@ -3,7 +3,7 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 tapasztalatok",
+    "title": "Plus500 vélemények - tapasztalatok",
     "description": "",
     "keywords": "Plus500 tapasztalatok, Plus 500, Plus 500 tapasztalatok, Plus500, Plus500 tapasztalat"
   }

@@ -3,19 +3,19 @@
 <thead>
  <tr class="">
    <th class="span2"></th>
-   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}hotforex" class="logo"><img src="{{img-url}}loga/hot150.png"></a></td>
-   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}plus500" class="logo"><img src="{{img-url}}loga/plu150.png"></a></td>
-   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}xtb" class="logo"><img src="{{img-url}}loga/xtb150.png"></a></td>
-   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}patria-forex" class="logo"><img src="{{img-url}}loga/pat150.png"></a></td>
-   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}mayzus" class="logo"><img src="{{img-url}}loga/may150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}sk/hotforex" class="logo"><img src="{{img-url}}loga/hot150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}sk/plus500" class="logo"><img src="{{img-url}}loga/plu150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}sk/xtb" class="logo"><img src="{{img-url}}loga/xtb150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}sk/patria-forex" class="logo"><img src="{{img-url}}loga/pat150.png"></a></td>
+   <td class="span2 top"><a title="odkaz vede na české stránky" href="{{base-url}}sk/mayzus" class="logo"><img src="{{img-url}}loga/may150.png"></a></td>
  </tr>
  <tr>
    <th class="span2"></th>
-   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}hotforex">Hot Forex</a></td>
-   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}plus500">Plus 500. CFD broker.</a></td>
-   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}xtb">X-Trade Brokers</a></td>
-   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}patria-forex">Patria Forex</a></td>
-   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}mayzus">Mayzus</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}sk/hotforex">Hot Forex</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}sk/plus500">Plus 500. CFD broker.</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}sk/xtb">X-Trade Brokers</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}sk/patria-forex">Patria Forex</a></td>
+   <td class="span2"><a title="odkaz vede na české stránky" href="{{base-url}}sk/mayzus">Mayzus</a></td>
  </tr>
 </thead>
 <tbody>
@@ -85,11 +85,11 @@
 </tr>
 <tr>
   <th></th>
-  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}hotforex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}sk/hotforex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
   <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}sk/plus500" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
-  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}xtb" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
-  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}patria-forex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
-  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}mayzus" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}sk/xtb" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}sk/patria-forex" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
+  <td class="bot"><a title="odkaz vede na české stránky" href="{{base-url}}sk/mayzus" class="btn btn-default">Viac<span class="hidden-xs"> informácií</span></a></td>
 </tr>
 </tbody></table>
 </div>

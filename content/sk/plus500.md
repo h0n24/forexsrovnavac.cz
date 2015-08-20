@@ -3,7 +3,7 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 recenzia a skúsenosti",
+    "title": "Plus500 recenzia a skúsenosti - Forex 500",
     "description": "",
     "keywords": "Plus500 recenzia, Plus 500, Plus500, Plus500 Skúsenosti"
   }
@@ -14,10 +14,11 @@
 
 {{section}}
 
-# Plus500 Skúsenosti
-*Vlastná platforma v slovenčine, plne regulovaný broker Slovenskou národnou bankou, viac ako 1 500 investičných nástrojov.*
+# Plus500 recenzia
 
-V dnešnom článku vám prinášame recenziu spoločnosti Plus500. Podľa našich skúsenosti je Plus500 spoľahlivá platforma. Bola založená v roku 2008. V súčasnosti je Plus500 popredným obchodníkom a poskytovateľom zmlúv o rozdiele (CFD) na našom trhu. Ponúka bezkonkurenčné podmienky nielen pri obchodovaní na Forexe, ale môžete ju využiť aj pri **obchodovaní s komoditami, ako sú ropa, zlato alebo striebro, indexmi svetových búrz a napríklad aj virtuálnou menou  [Bitcoin](http://www.forexsrovnavac.cz/sk/bitcoin/). 
+*Vlastná platforma v slovenčine, plne regulovaný broker Českou národnou bankou, viac ako 1 500 investičných nástrojov.*
+
+V dnešnom článku vám prinášame **recenziu spoločnosti Plus500**. Podľa našich skúsenosti je Plus500 spoľahlivá platforma. Bola založená v roku 2008. V súčasnosti je Plus500 popredným obchodníkom a poskytovateľom zmlúv o rozdiele (CFD) na našom trhu. Ponúka bezkonkurenčné podmienky nielen pri obchodovaní na Forexe, ale môžete ju využiť aj pri **obchodovaní s komoditami, ako sú ropa, zlato alebo striebro, indexmi svetových búrz a napríklad aj virtuálnou menou  [Bitcoin](http://www.forexsrovnavac.cz/sk/bitcoin/). 
 
 Plus500 vyvinula a prevádzkuje on-line obchodnú platformu pre maloobchodných zákazníkov, vďaka ktorej tak môžu jednoducho obchodovať prostredníctvom CFD na medzinárodnej úrovni, a ponúka im viac ako 1 700 rôznych podkladových globálnych finančných nástrojov zahrňujúcich akcie, ETF, devízový trh, indexy a komodity. Skupina umožňuje investorom obchodovať vo viac ako 50 krajinách sveta. Obchodná platforma je prístupná z viacerých operačných systémov Windows, chytrých telefónov (iOS a Android) a tabletov (iOS a Android) a taktiež umožňuje obchodovať pomocou internetovej aplikácie.
 

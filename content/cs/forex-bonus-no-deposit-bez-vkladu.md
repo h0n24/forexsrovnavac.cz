@@ -27,13 +27,13 @@ Bonus 500 Kč u brokera Plus500
 :   U českých začínajících obchodníků je nejoblíbenějším brokerem s politikou Forex bonus no deposit broker Plus500. U Plus500 si založíte účet zdarma. Potřebujete k tomu jen věk 18 let a více a telefon či telefonní číslo, na kterém si SMS zprávou ověří správné údaje. Na účet nemusíte vložit ani korunu a přesto se po jeho založení na váš účet připíše bonus. Pro jeho výběr stačí dodržet obchodní podmínky. Tento bonus však není využivatelný pouze v rámci Forexu, ale také v rámci obchodování skrze jakékoli jiné instrumenty (akcie SFD, komodity, indexy a ETF).
 
 - - -
+[25 USD Bonus k účtu u ironfx.com](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Registrace"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
-Broker eToro a bonus 20 dolarů
+Broker Ironfx a bonus 25 dolarů
 
-:   I u dalšího velmi známého brokera získáte bonus i bez vložení vkladu. Tímto brokerem je Forexový broker se zajímavou nabídkou obchodní sociální sítě, na které mohou obchodníci vytvářet svoje profily, sledovat profily jiných obchodníků a také kopírovat jejich obchodní strategie.
-Bonus ve výši 20 dolarů, který u eToro získáte, můžete využít na obchodování na reálném účtu či ke kopírování jednotlivých obchodních kroků úspěšných obchodníků, které můžete automaticky kopírovat pomocí systému CopyTrader.
+:   I u dalšího velmi známého brokera získáte bonus i bez vložení vkladu a to rovnou 25 USD. Tímto brokerem je Forexový broker Ironfx. Bonus ve výši 25 dolarů, který u Ironfx získáte, můžete využít na obchodování na reálném účtu. S bonusovou částkou 25 USD je možné obchodovat po dobu nejdéle 12 měsíců. Samotný bonus nejde vybrat, nicméně veškeré vaše zisky, které díky bonusu vyděláte je  možné libovolně z účtu vybrat. 
 - - -
-[30 USD Bonus k účtu u xe.com](http://clicks.pipaffiliates.com/afs/come.php?cid=46271&ctgid=17&atype=1&langcode=en&brandid=3 "Registrace"){.btn .bnt-lg .btn-primary .pull-left .btn-index} XM (XeMarkets) a bonus 20 dolarů
+[30 USD Bonus k účtu u xe.com](http://clicks.pipaffiliates.com/afs/come.php?cid=46271&ctgid=17&atype=1&langcode=en&brandid=3 "Registrace"){.btn .bnt-lg .btn-primary .pull-left .btn-index} XM.com (XeMarkets) a bonus 20 dolarů
 
 :   Dalším brokerem, který vám nabídne Forex bonus no deposit, je broker XM.com. bonus u tohoto brokera činí 20 dolarů, které získáte v podobě turnajových vstupenek do forexové arény.
 Za bonus si můžete nakoupit libovolné vstupenky do arény XeMartkers.com, jejichž turnaje fungují na principu velmi podobném pokerovým turnajům. Stejně tak jako u pokeru jde o velmi zajímavou a adrenalinovou hru.
@@ -45,7 +45,7 @@ Jakmile se zaregistrujete, vaše peníze se objeví na vašem účtu. Nepožaduj
 
 ##Forex bonus
 
-*Forex bonus no deposit představuje vedle zakládání demo účtu druhou možnost, jak začít obchodovat s finančními instrumenty.*
+*Forex bonus no deposit představuje vedle zakládání demo účtu druhou možnost, jak začít obchodovat s finančními instrumenty. Největší vyhoda Forex bonusu je, že si můžete začít obchodovat s reálnými penězi na skutečném trhu, vyhnete se tak přechodu z demo účtu na reálný účet, který bývá pro velkou část obchodníků ztrátový.*
 
 
 

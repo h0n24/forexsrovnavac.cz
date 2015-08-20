@@ -11,6 +11,11 @@
 
 {{section}}
 
+<a href="http://blog.forexsrovnavac.cz/topoption.de"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzcwMTg5NSZsPTEzNzAxODYwJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
+
 ## Handeln mit virtueller Währung Bitcoin
 
 Sicher registriert in letzten Monaten ganze Reihe von euch ein erhöhtes Interesse an die virtuelle Währung Bitcoin. Der Zweck dieses Artikels ist weder das Funktionieren dieser virtuellen Währung zu beschreiben, noch werden wir uns hier mit deren Geschichte, eventuell mit „bitcoin mining“ (mit der Gewinnung) beschäftigen, noch werden wir hier Bitcoin kostenlos verschenken. Dieser Artikel ist eher auf die Möglichkeiten des Handels an der Börse gezielt, wie mit einem Investitionsprodukt, das in der Gegenwart Boom erlebt und dessen Handel jeden Tag interessante Investitionsgelegenheiten bietet.
@@ -27,7 +32,7 @@ Lange Zeit streitet selbstverständlich die ganze Reihe der Spezialisten darum, 
 
 {{section}}
 
-[Begrüßungsbonus 25 €](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
+[Bonus von 25 € Keine Einzahlung erforderlich!](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ## Aktueller Kurs von Bitcoin in USD (BTC/USD)
 
@@ -39,7 +44,9 @@ Lange Zeit streitet selbstverständlich die ganze Reihe der Spezialisten darum, 
 
 {{/section}}
 
-
+- - -
+Versuchen Sie es mit Bitcoin-Handel mit [binäre Optionen](http://www.forexsrovnavac.cz/de/binareoptionen/) mit einem Makler [TopOption](http://blog.forexsrovnavac.cz/topoption.de "Topoption")
+- - - 
 
 ## Wo kann man mit Bitcoin handeln?
 
@@ -49,7 +56,8 @@ Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öff
 
 Um zu verstehen, wie der Handel mit Plus500 funktioniert, laden Sie am besten unsere kostenlose Software herunter, eröffnen ein Demo-Konto und handeln mit Demo-Geld. Lesen Sie außerdem die Online-Hilfe, damit Sie schnell und effizient in das Trading einsteigen können.
 
-### Handeln mit Litecoin
+### Handeln mit Bitcoin
+
 Der Dienst von CFD
 
  * Einkauf oder kurzer Verkauf
@@ -66,5 +74,7 @@ Der Dienst von CFD
  5. Wählen Sie die Methode der Einlage.
  6. Geben Sie den Kode des Bonus (von der Tabelle unten)ins Feld der Einlage ein.
  7. Die Summe des Bonus wird auf Ihr Konto danach zugefügt, wenn Sie die geforderte Zahl der Handelspunkte handeln.
+
+[Bonus von 25 € Keine Einzahlung erforderlich!](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 {{/section}}

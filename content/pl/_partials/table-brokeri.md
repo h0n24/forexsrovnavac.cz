@@ -12,7 +12,7 @@
  <tr>
    <th class="span2"></th>
    <td class="span2"><a href="{{base-url}}hotforex" title="Link leads to Czech website">Hot Forex</a></td>
-   <td class="span2"><a href="{{base-url}}plus500" title="Link leads to Czech website">Plus 500</a></td>
+   <td class="span2"><a href="{{base-url}}pl/plus500" title="Link leads to Czech website">Plus 500</a></td>
    <td class="span2"><a href="{{base-url}}xtb" title="Link leads to Czech website">X-Trade Brokers</a></td>
    <td class="span2"><a href="{{base-url}}patria-forex" title="Link leads to Czech website">Patria Forex</a></td>
    <td class="span2"><a href="{{base-url}}mayzus" title="Link leads to Czech website">Mayzus</a></td>

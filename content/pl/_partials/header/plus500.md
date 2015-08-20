@@ -12,6 +12,8 @@
       <ul class="nav navbar-nav">
         <li>
           <a href="{{url}}#section-1">Lista brokerów </a>
+         <li><a href="{{url}}opcje-binarne">Opcje binarne</a></li>
+         <li><a href="{{url}}plus500">Plus500</a></li>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

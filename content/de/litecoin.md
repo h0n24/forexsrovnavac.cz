@@ -11,6 +11,10 @@
 
 {{section}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzcwMTg5NSZsPTEzNzAxODYwJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzcwMTg5NSZsPTEzNzAxODYwJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
 ## Handeln mit virtueller Währung Litecoin
 
 LTC ist die zweite bedeutende Kryptowährung. Litecoin ist eine Internetwährung peer-to-peer, die ermöglicht sofortige Zahlungen wem auch immer in der Welt zu schicken. Litecoin ist auf dem Protokoll Bitcoin gegründet, aber es unterscheidet sich von Bitcoin darin, dass es effektiv mit einer billigeren Hardware gewonnen sein kann, also ist seine Gewinnung für mehr Leute zugänglich, es genügt ihnen nur CPU (es lohnt sich nicht Litecoin auf ASIC Miner zu gewinnen). Litecoin gewährt auch  schnellere Transaktionsbestätigung (2,5 Minuten im Durchsnitt) und nutzt den Speicher und Scripts auf der Basis des Gewinnungs- proof-of-work-Algorithmus. Das Litecoin-Netz ist auf maximale Zahl 84 Millionen der Währungseinheiten geplant. Ein der Ziele ist einen Gewinnungsalgorithmus dem Litecoin zu gewähren, der in gleicher Zeit und auf der gleichen Hardware laufen könnte, wie Bitcoin verwendet.

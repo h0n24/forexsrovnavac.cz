@@ -3,7 +3,7 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 Erfahrungen - Bewertungen, Tipps - 2015",
+    "title": "Plus500 Erfahrungen - Bewertungen + tipps und test 2015",
     "description": "",
     "keywords": "plus500 erfahrungen, plus500 auszahlung, Plus500 Tipps, Plus500, Plus500 bonus"
   }
@@ -14,24 +14,39 @@
 
 {{section}}
 
+{{section}}
+
 # Plus500 Erfahrungen
 
 *Eigene Plattform in Deutsch, vollregulierter Broker (Makler), mehr als 1500 von Investitionsinstrumenten. Anderen von Plus500 erzählen*
 
+<div class="row" style="width:92%">
+  <div class="col-md-6" markdown="1">
+Erfahrungen mit Plus500
+:    
 In heutigen Artikel stellen wir Ihnen eine Rezension der Gesellschaft **Plus500**, die im Jahr 2008 gegründet würde und ist zurzeit führender Händler und Anbieter von Differenzkontrakten (CFD) auf dem tschechischen Markt. Es bietet konkurrenzlose Bedingungen für handeln auf Devisenmarkt (Forex), aber man kann es auch bei **Handel mit Warenartikel wie Erdöl, Gold oder Silber**, Aktienindexen von Weltbörsen und z.B. auch mit [virtuellen Geldeinheit Bitcoin benutzen.](http://www.forexsrovnavac.cz/de/bitcoin/). 
 
-Plus500 hat entwickelt und betreibt eine on-line Handelsplattform für Einzelhändler, dank der können sie mit Differenzkontrakten (CFD) auf internationale Ebene handeln und es bietet mehr als 1700 unterschiedliche grundlegende, globale Finanzinstrumente die Aktien, ETF, Devisenmarkt, Aktienindex und Handelsartikeln einschließen. Die Gruppe ermöglicht den Investoren in mehr als 50 Staaten der Welt zu handeln. Die Handelsplattform ist von unterschiedlichen Windows-Operationssystemen zugänglich, Smartphones (iOS und Android) und Tablets (iOS und Android) und es ermöglicht Handeln mit Hilfe von Internetapplikationen.
+[Jetzt handeln! Kostenloses Demo-Konto - Bonus von 25 € Keine Einzahlung erforderlich!](http://www.plus500.com/de/Promotions/Bonus.aspx?id=66349&pl=2) {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+</div>
+  <div class="col-md-6" markdown="1">
 
+Die besten Broker für deutsche Einzelhändler
+:    
 Plus500 bietet 25€ Einlage auf Ihr reales Konto, nur für Registration. [Probieren Sie reales Handeln](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2), ohne notwendige Einlagen.
 
 Plus500 ist ein führender Anbieter von Contracts for Difference (CFDs) am Markt und bietet herausragende Bedingungen für den Handel mit Aktien, Währungen, Rohstoffen und Indizes mit einer innovativen Tradingtechnik.
 
-Dieser Bonus betrifft wirklich absolut jeden – kein Haken, keine Falle, keine Betrüge. Sie kriegen einfach zu Ihre erste Registration diesen Betrag ganz um sonst und ohne jede Konditionen. Es ist keine Ersteinlage nötig, den Bonus bekommen Sie wirklich nur für die Registration. Sie können alles kostenfrei und einfach probieren und anfangen Geschäfte zu machen innerhalb von 5 Minuten.
-[Ganze Einleitung finden Sie hier!](http://www.plus500.com/cs/Promotions/Bonus.aspx?id=66349&pl=2)
+</div>
+</div>
 
-Plus500 möchte Nummer Eins zwischen CFD-Plattformen werden. Hier sind die Gründe:
-[Sehen Sie in der Business-Anwendung Plus500](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2 "Anmeldung") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-Marktspannweite (spread) von Werkzeugen wie: Deutschland 30 - 0,81 Punkte - Ropa - 3 Punkte - EUR/USD - 1 Punkt - Zemní plyn - 3 Punkte - UK 100 - 0,88 Punkte - GBP/USD - 1 Punkt
+Plus500 hat entwickelt und betreibt eine on-line Handelsplattform für Einzelhändler, dank der können sie mit Differenzkontrakten (CFD) auf internationale Ebene handeln und es bietet mehr als 1700 unterschiedliche grundlegende, globale Finanzinstrumente die Aktien, ETF, Devisenmarkt, Aktienindex und Handelsartikeln einschließen. Die Gruppe ermöglicht den Investoren in mehr als 50 Staaten der Welt zu handeln. Die Handelsplattform ist von unterschiedlichen Windows-Operationssystemen zugänglich, Smartphones (iOS und Android) und Tablets (iOS und Android) und es ermöglicht Handeln mit Hilfe von Internetapplikationen.
+
+
+Dieser Bonus betrifft wirklich absolut jeden – kein Haken, keine Falle, keine Betrüge. Sie kriegen einfach zu Ihre erste Registration diesen Betrag ganz um sonst und ohne jede Konditionen. Es ist keine Ersteinlage nötig, den Bonus bekommen Sie wirklich nur für die Registration. Sie können alles kostenfrei und einfach probieren und anfangen Geschäfte zu machen innerhalb von 5 Minuten.
+
+Menu
+
+[Über Plus500](http://forexsrovnavac.cz/de/plus500#section-1) - [Handeln mit Plus500](http://forexsrovnavac.cz/de/plus500#section-2) - [Rezensionen über Plus500](http://forexsrovnavac.cz/de/plus500#section-3) - [Plus500 demo](http://forexsrovnavac.cz/de/plus500#section-4) - [Plus500 Gebühren](http://forexsrovnavac.cz/de/plus500#section-5) - [Erfahrungen mit Plus500](http://forexsrovnavac.cz/de/plus500#section-6) - [Grundinformationen](http://forexsrovnavac.cz/de/plus500#section-1) - [Handelsapplikation Plus500](http://forexsrovnavac.cz/de/plus500#section-8)
 
 1. Plus500 garantiert Stop loss
 
@@ -170,34 +185,7 @@ Einfach und übersichtlich bleibt auch selbst die Bedienung von Ihrem Konto. **P
 
 ![Beispiel Handel](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
 
-[Zum Anbieter](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2 "Anmeldung") {.btn .bnt-lg .btn-primary} [Demo](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2 "Demo-Konto"){.btn .bnt-lg .btn-default}
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/03/2015-03-05-14_28_07-Plus500-_-Devisenhandel-_-W%C3%A4hrungshandel_-Devisenhandel-mit-Hebel-von-bis-zu-1_2.png" width="" height=""/>
-- - -
-#### Menu
-
-[Über Plus500](http://forexsrovnavac.cz/de/plus500#section-1)
-
-[Handeln mit Plus500](http://forexsrovnavac.cz/de/plus500#section-2)
-
-[Rezensionen über Plus500](http://forexsrovnavac.cz/de/plus500#section-3)
-
-[Plus500 demo](http://forexsrovnavac.cz/de/plus500#section-4)
-
-[Plus500 Gebühren](http://forexsrovnavac.cz/de/plus500#section-5)
-
-[Zkušenosti s plus500](http://forexsrovnavac.cz/de/plus500#section-6)
-
-[Grundinformationen](http://forexsrovnavac.cz/de/plus500#section-1)
-
-[Handelsapplikation Plus500](http://forexsrovnavac.cz/de/plus500#section-8)
-
-</div>
-<div class="container-fluid" markdown="1">
-
+[Jetzt handeln!](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2 "Anmeldung") {.btn .bnt-lg .btn-primary} [Demo](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2 "Demo-Konto"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -
@@ -216,7 +204,13 @@ Einfach und übersichtlich bleibt auch selbst die Bedienung von Ihrem Konto. **P
 #### Nachteil
 
 ![Beispiel Handel](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Für Professionalen kann die Applikation limitierend sein
+
 - - -
+
+<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
+ <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/03/2015-03-05-14_28_07-Plus500-_-Devisenhandel-_-W%C3%A4hrungshandel_-Devisenhandel-mit-Hebel-von-bis-zu-1_2.png" width="" height=""/>
+
+
 </div>
 <div class="container-fluid" markdown="1">
 
