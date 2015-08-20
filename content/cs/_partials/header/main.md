@@ -10,8 +10,7 @@
     </div>
     <nav class="navbar-collapse toggle-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
-        <li>
-           <li class="dropdown">
+        <li class="dropdown">
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
             <span class="hidden-sm hidden-md">Forex <b class="caret"></b></span><span class="visible-sm visible-md">Forex</span>
           </a>
@@ -22,9 +21,8 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}cfd-contract-for-difference">CFD obchodování</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-hodiny-na-burze-a-forexu">Obchodní hodiny</a></li>
-
-</li>
-</ul>
+          </ul>
+        </li>
         <li><a href="{{url}}forex-bonus-no-deposit-bez-vkladu" class="hidden-sm">Bonus</a></li>
         <li class="dropdown">
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
@@ -55,7 +53,6 @@
         <li class="dropdown">
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm hidden-md">Opce<b class="caret"></b></span><span class="visible-sm visible-md">Opce</span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-
             <li role="presentation" class="visible-sm"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce">Binární opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}druhy-binarnich-opci">Druhy Binárních opcí</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-strategie">Strategie pro Binární opce</a></li>

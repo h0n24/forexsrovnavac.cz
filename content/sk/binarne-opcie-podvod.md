@@ -65,7 +65,7 @@ Zase pravdepodobne vymyslené meno. Láka spôsobom dojemného príbehu, kedy u�
 Preverený broker
 ![Topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 
 - - -
 

@@ -1,7 +1,7 @@
 {{settings}}
   "language": "sk",
   "template": 1,
-  "header": "plus500",
+  "header": "main",
   "meta" : {
     "title": "Plus500 recenzia a skúsenosti - Forex 500",
     "description": "",
@@ -27,7 +27,7 @@ Plus500 ponúka **25 €** na váš reálny účet, iba za registráciu. [**Vysk
 Tento bonus sa týka naozaj každého – žiadny háčik, žiadny chyták, žiadne podvody. K svojej prvej registrácii jednoducho získate túto sumu úplne zadarmo a bez akýchkoľvek podmienok. Nie je nutný žiadny prvotný vklad, bonus získate naozaj len za registráciu. Všetko si môžete jednoducho vyskúšať a môžete začať obchodovať už za 5 minút. [**Celý návod vám prikladáme tu!**](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2)
 
 Plus500 chce byť jednotkou medzi platformami CFD a tu uvádza svoje dôvody:
-[Pozrite sa na obchodnú aplikáciu Plus500](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Pozrite sa na obchodnú aplikáciu Plus500](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrace"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 trhové rozpätie (spread) nástrojov, ako sú : Nemecko 30 - 0,81 bodu - Ropa - 3 body - EUR/USD - 1 bod - zemný plyn - 3 body - UK 100 - 0,88 bodu - GBP/USD - 1 bod
 
 1. Plus500 garantuje stop loss
@@ -58,7 +58,7 @@ trhové rozpätie (spread) nástrojov, ako sú : Nemecko 30 - 0,81 bodu - Ropa -
 </div>
 </div>
 
-[25 € Bonus k účtu](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[25 € Bonus k účtu](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 - - -
 
 {{section}}
@@ -174,7 +174,7 @@ Jednoduché a prehľadné zostáva aj samotné ovládanie vášho účtu. **PLUS
 
 ![Ukázka obchodu](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
 
-[Otvoriť účet](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -

@@ -33,7 +33,7 @@ Recenzie Stockpair.com
 :    
 Prevádzkovateľom brokera [**StockPair**](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia") je spoločnosť Nextrade Worldwide Ltd. so sídlom na Cypre. StockPair podlieha riadnej regulácii cyperského úradu CySEC. Regulovaný je aj organizácií FAC. Českého obchodníka bude viac zaujímať, že od **júna 2014 má aj licenciu od ČNB na poskytovanie služieb v ČR**.
 
-[Pozrite sa na obchodnú aplikáciu Stockpair](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Pozrite sa na obchodnú aplikáciu Stockpair](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 </div>
 </div>
@@ -65,7 +65,7 @@ Prevádzkovateľom brokera [**StockPair**](http://blog.forexsrovnavac.cz/sk/stoc
 | **Minimálna obchod**  | 20|
 | **Zákaznícky servis:**  | Email, Chat, Telefón|
 
-[www.stockpair.com](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[www.stockpair.com](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
   </div>
   <div class="col-md-6" markdown="1">
@@ -109,7 +109,7 @@ StockPair ponúka niekoľko rôznych metód obchodu (Call / Put, One Touch, Pár
 
 ## Ponuka binárnych opcií u Stockpair
 
-[Kompletná ponuka opcií u Stockapair](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}U StockPair máte pri obchodovaní široké možnosti . Stretnúť sa môžete s binárnymi opciami klasickými aj párovými. Medzi klasické opcie patrí High / Low opcie a opcie členené podľa expiračnej doby (krátkodobé a dlhodobé - 60 sekúnd, 90 sekúnd, 5 minút, 10 minút, 15 minút, 30 minút, 1 hodina, 24 hodín a dokonca na týždne).
+[Kompletná ponuka opcií u Stockapair](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}U StockPair máte pri obchodovaní široké možnosti . Stretnúť sa môžete s binárnymi opciami klasickými aj párovými. Medzi klasické opcie patrí High / Low opcie a opcie členené podľa expiračnej doby (krátkodobé a dlhodobé - 60 sekúnd, 90 sekúnd, 5 minút, 10 minút, 15 minút, 30 minút, 1 hodina, 24 hodín a dokonca na týždne).
 U párových opcií, u ktorých proti sebe postavíte konkurenčné dvojicu a špekulujete, ktorá z nich bude mať vyšší výnos, môžete obchodovať akcie McDonald 'proti Starbucks, Google proti Apple, Shell proti BP, ropu proti zemnému plynu a ďalších niekoľko desiatok párov európskych, amerických i austrálskych akcií plus niektoré páry komodít.
 
 Výnosy z opcií
@@ -120,7 +120,7 @@ Výnosy z opcií
 {{section}}
 Recenzie binárne Platformy od Stockpair
 :   
-[Pozrite sa na obchodnú platformu u Stockpair](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index} StockPair využíva veľmi prehľadnú a jednoduchú platformu. Registrácia na webových stránkach StockPair, ktoré sú dostupné v niekoľkých svetových jazykoch, je zadarmo. Českého obchodníka bude zaujímať, že StockPair bohužiaľ neposkytujú českú platformu. Ich zákaznícka podpora je však tak široká, že ani cudzojazyčné platforma nemusí byť problémom. Zákaznícka podpora je k dispozícii po telefóne, mailu či chatu.
+[Pozrite sa na obchodnú platformu u Stockpair](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index} StockPair využíva veľmi prehľadnú a jednoduchú platformu. Registrácia na webových stránkach StockPair, ktoré sú dostupné v niekoľkých svetových jazykoch, je zadarmo. Českého obchodníka bude zaujímať, že StockPair bohužiaľ neposkytujú českú platformu. Ich zákaznícka podpora je však tak široká, že ani cudzojazyčné platforma nemusí byť problémom. Zákaznícka podpora je k dispozícii po telefóne, mailu či chatu.
 Na stránkach si môžete stiahnuť aplikáciu pre chytré telefóny s operačným systémom Android alebo iOS.
 {{/section}}
 
@@ -144,7 +144,7 @@ Platforma vám poradí, ako obchodovať a ako obchod uzavrieť. Okrem iného sú
 
 ![Stockpari.com](http://bopce.cz/wp-content/uploads/2014/11/stockpair-bordered-logo-banner_200x80_zps2799aaee.png) 
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/stockpair "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/stockpair "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 

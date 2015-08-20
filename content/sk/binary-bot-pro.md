@@ -7,24 +7,24 @@
     "description": "",
     "keywords": "Atutomatický obchodný systém na binárne opcie"
   }
-{{/ settings}}
+{{/settings}}
 
-<div class = "row">
-<div class = "col-md-9" role = "main" markdown = "1">
+<div class="row">
+<div class="col-md-9" role="main" markdown="1">
 
 {{section}}
 # BinaryBotPro recenzie systému
 
-<div class = "row" style = "width: 92%">
-  <div class = "col-md-6" markdown = "1">
+<div class="row" style="width: 92%">
+  <div class="col-md-6" markdown="1">
 Automatický systém na Binárne opcie
 :
 Skúsení a profesionálne obchodníci, ale aj začiatočníci majú dnes, čo sa týka obchodovania na trhu s binárnymi opciami, široké možnosti. A jednou z možností je obchodovanie so systémom BinaryBotPro vytvoreným Pavlom Kováčom. Ak však chcete začať s binárnymi opciami obchodovať alebo chcete iba prejsť k inému brokerovi, odporúčali by sme vám, aby ste sa BinaryBotPro vyhli širokým oblúkom. Tie z vás, ktorí sa systémom Pavla Kováča, nemajú skúsenosť, musíme varovať, lebo po analýze systému BinaryBotPro musíme konštatovať, že ide o podvod.
 
 V tejto recenzii o BinaryBotPro, podvodnom systému na binárne opcie, vás bližšie zoznámime s obchodným systémom samotným, ale aj s jeho údajným autorom.
 :
- </ div>
-  <div class = "col-md-6" markdown = "1">
+ </div>
+  <div class="col-md-6" markdown="1">
 Obchodník z Wall Street - Pavel Kováč
 :
 Naši recenziu začneme údajným autorom systému BinaryBotPro. Je ním už niekoľkokrát menovaný Pavel Kováč. Webové stránky ho predstavujú ako veľmi úspešného obchodníka z Wall Street, ktorý sa zmorení stresom z obchodovania na najznámejšom investičnom trhu rozhodol ukončiť svoju kariéru na Wall Street a vytvoriť vlastný obchodný systém.
@@ -32,8 +32,8 @@ Naši recenziu začneme údajným autorom systému BinaryBotPro. Je ním už nie
 Cieľom bolo dať reálnu podobu systému, ktorý by v podstate obchodoval za vás. To znamená, že by ste sa len registrovali a on by vám zarábal peniaze. Tento systém potom vznikol pod menom BinaryBotPro, o ktorom sa na prvý pohľad môže zdať, že ide o veľmi lákavú ponuku. Viac o tom, čo to sú [binárne opcie](http://www.forexsrovnavac.cz/sk/binarne-opcie "Binárne opcie").
 
 
-</ div>
-</ div>
+</div>
+</div>
 
 ## BinaryBotPro údajný robot na binárne opcie
 
@@ -62,24 +62,24 @@ Na stránkach nájdete dokonca aj videá a ďalšie učebný materiál, v ktorom
 Odporúčame obchodovať samostatne, žiadne zázračné automatické obchodné systémy dlhodobo nefungujú
 : [TopOption - naše recenzie brokera - >>](http://www.forexsrovnavac.cz/sk/topoption "TopOption - recenzia brokera").
 
-</ div>
-<div class = "col-md-3" markdown = "1">
-<div class = "well" markdown = "1" style = "margin-top: 2.5e">
+</div>
+<div class="col-md-3" markdown="1">
+<div class="well" markdown="1" style="margin-top: 2.5e">
 Preverený broker
-! [Topoption](http://s21.postimg.org/www8bsipf/images.jpg)
+![Topoption](http://s21.postimg.org/www8bsipf/images.jpg)
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/topoption "Demo účet ") {. btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/topoption "Demo účet "){. btn .bnt-lg .btn-default}
 
-</ div>
-<div class = "container-fluid" markdown = "1">
-<div class = "container-fluid" markdown = "1">
-</ div>
+</div>
+<div class="container-fluid" markdown="1">
+<div class="container-fluid" markdown="1">
+</div>
 - - -
 
 <a href="http://blog.forexsrovnavac.cz/sk/topoption" target="_blank">
  <img src = "http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width = "" height = "" />
 
 </a>
-</ div>
-</ div>
-</ div>
+</div>
+</div>
+</div>

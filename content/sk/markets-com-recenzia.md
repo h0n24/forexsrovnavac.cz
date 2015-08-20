@@ -29,7 +29,7 @@ O Markets.com
 V tejto recenzii vám predstavíme ďalšieho pomerne kvalitného brokera Markets.com. Broker Markets.com predstavuje jedného z najrýchlejšie rastúcich brokerov. Zameriavajú sa na obchodovanie na devízovom trhu, presnejšie povedané na obchodovanie Forex a CFD. Markets.com sa radí pod skupinu Afecap Investments Limited sídliaca na Cypre. Medzi obchodné inštrumenty brokera patrí CFD, Forex, komodity, indexy a akcie.
 
 Pri svojom obchodovaní môžete používať až štyri rôzne platformy ponúkané Markets.com. Jednou z platforiem je dokonca celosvetovo veľmi obľúbená platforma MetaTrader4, ktorá má celosvetovo najlepšie referencie.
-[Získajte 25 USD bonus zadarmo od Markets.com](http://blog.forexsrovnavac.cz/sk/markets.com "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Získajte 25 USD bonus zadarmo od Markets.com](http://blog.forexsrovnavac.cz/sk/markets.com "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
   
 
 </div>
@@ -87,7 +87,7 @@ Povolenie na obchodovanie má aj od ďalších európskych úradov, napríklad B
 
 {{section}}
 ##Ako začať obchodovať u Markets.com?
-[Demo účet Markets.com](http://blog.forexsrovnavac.cz/sk/markets.com "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Demo účet Markets.com](http://blog.forexsrovnavac.cz/sk/markets.com "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 Broker [Markets](http://blog.forexsrovnavac.cz/sk/markets.com) ponúka možnosť obchodovať pomocou 4 rôznych platforiem. Založiť si môžete buď cvičný, či reálny účet. Účet je prístupný aj bez vkladu a za jeho založenie získate bonus až do výšky 2000 dolárov. Demo účet potom môžete získať iba na 1 mesiac. Z druhej strany si len môžete založiť niekoľkokrát po sebe. Markets.com pri obchodovaní využíva niekoľko metód vkladov a výberov. Podporuje platby kreditnými kartami, bankové prevody a Moneybookers.
 
 Markets.com umožňuje špekulovať s veľmi nízkym kapitálom, a to vďaka možnosti obchodovať s vysokou pákou, ktorá pre hlavné menové páry predstavuje pomer 200: 1. Minimálny vklad je 100 USD a za vklad môžete získať bonus vo výške 10% vkladu, a to až do výšky 2 500 dolárov.
@@ -97,7 +97,7 @@ Majetnejší klienti majú na účtoch Standard a VIP Markets.com mnoho rôznych
 
 {{section}}
 ##S čím sa dá obchodovať u Markets.com
-[Pozrite sa na obchodnú aplikáciu Markets.com](http://blog.forexsrovnavac.cz/sk/markets.com "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Pozrite sa na obchodnú aplikáciu Markets.com](http://blog.forexsrovnavac.cz/sk/markets.com "Registrace"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 Markets.com ponúka obchodovanie CFD a Forex. Obchodovať môžete s komoditami (ropa, zlato, striebro, kukurica, pšenica, káva, cukor, sójové bôby, bavlna, zemný plyn, ryža, meď, paládium, platina alebo kakao), trhové indexy s pákou 100: 1, akciami (niekoľko 10 akcií z celého sveta, napríklad Apple, eBay, Twitter a mnoho ďalších) alebo dlhopisy.
 S Forexom môžete nakupovať a predávať jednu zahraničnú menu za druhou, pričom ponuka forexového obchodovania Markets.com zahŕňa na 50 menových párov.
 {{/section}}
@@ -140,7 +140,7 @@ Broker Markets.com je skvelou alternatívou brokera s českou podporou, ktorý j
 
 ![Markets.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/markets-logo.jpg) 
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/markets.com "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/markets.com "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/markets.com "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/markets.com "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -

@@ -58,7 +58,7 @@ Základné informácie o zoomtrader:
 Preverený broker
 ![topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otvoriť účet](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">

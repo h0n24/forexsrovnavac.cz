@@ -7,23 +7,23 @@
     "description": "",
     "keywords": "bossa"
   }
-{{/ settings}}
+{{/settings}}
 
-<div class = "row">
-<div class = "col-md-9" role = "main" markdown = "1">
+<div class="row">
+<div class="col-md-9" role="main" markdown="1">
 
 
 
 # Bossa recenzie a skúsenosti
-<div class = "row" style = "width: 92%">
-  <div class = "col-md-6" markdown = "1">
+<div class="row" style="width: 92%">
+  <div class="col-md-6" markdown="1">
 Bossa recenzia
 :
 Roku 2012 vstúpil na slovenský trh nový broker, ktorého meno znie BOSSA. Názov BOSSA však nie je celým jeho mene. V skutočnosti ide o skratku poľského názvu Bank Ochrony Środowiska Spółka Akcyjna, ktorej preklad znie Banka ochrany životného prostredia. Ako ste už mohli pochopiť z poľského názvu tohto brokera, ide skutočne o brokera poľského pôvodu, ktorý sa na svojom domácom, poľskom trhu objavil v roku 1995. Od tej doby si BOSSA vybudovala postavenie medzi prednými brokermi poskytujúcimi služby pre individuálnych investorov.
 
-[Web spoločnosti bossa.cz](http://www.bossa.cz) {.btn .bnt-lg .btn-primary}
-</ div>
-  <div class = "col-md-6" markdown = "1">
+[Web spoločnosti bossa.cz](http://www.bossa.cz){.btn .bnt-lg .btn-primary}
+</div>
+  <div class="col-md-6" markdown="1">
 O brokerovi Bossa.cz
 :
 Na úvod je ešte nutné povedať, že BOSSA ponúka možnosť obchodovať s 85 finančnými inštrumentmi CFD. Užívateľsky obľúbenými inštrumenty sú menové páry a menovej indexy. Ponuka BOSSA však zahŕňa aj komodity či burzové indexy.
@@ -31,8 +31,8 @@ Na úvod je ešte nutné povedať, že BOSSA ponúka možnosť obchodovať s 85 
 S BOSSA môžete obchodovať prostredníctvom ich platformy BossaFX, ktorá umožňuje obchodníkom používať automatické obchodné systémy, ktoré obchodujú samy podľa vami vopred nastavených podmienok.
 
 
-</ div>
-</ div>
+</div>
+</div>
 
 ## Spoločnosť bossa.cz
 
@@ -52,9 +52,9 @@ Tieto svoje služby potom spoločnosť preniesla roku 2012 do Českej republiky 
     4. Bossa podlieha dohľadu Českej národnej banky. [ČNB](http://www.cnb.cz/cs/index.html)
 
 * Základné informácie o Bossa.cz *
-<div class = "row" style = "width: 92%">
-  <div class = "col-md-6" markdown = "1">
-| Web: | [www.bossa.cz] (http://www.bossa.cz) |
+<div class="row" style="width: 92%">
+  <div class="col-md-6" markdown="1">
+| Web: | [www.bossa.cz](http://www.bossa.cz) |
 | ---------------- | ------------- |
 | ** Typ brokera: ** | Market Maker a DD |
 | ** Mikro účet ** | Mikro loty od 0,01 lotu |
@@ -62,10 +62,10 @@ Tieto svoje služby potom spoločnosť preniesla roku 2012 do Českej republiky 
 | ** Podporované platformy: ** | MetaTrader 4, MT4 pre Android, Iphone, Ipad |
 | ** Zákaznícky servis: ** | Email, Chat, Telefón |
 
-[Viac o bossa.cz] (http://www.bossa.cz) {.btn .bnt-lg .btn-primary}
+[Viac o bossa.cz](http://www.bossa.cz){.btn .bnt-lg .btn-primary}
 
-  </ div>
-  <div class = "col-md-6" markdown = "1">
+  </div>
+  <div class="col-md-6" markdown="1">
 | ** Regulácia: ** | ČNB, FCA a ďalšie úrady v EÚ |
 | ---------------- | ------------- |
 | ** Minimálny vklad ** | 10 000 CZK alebo 500 USD |
@@ -75,8 +75,8 @@ Tieto svoje služby potom spoločnosť preniesla roku 2012 do Českej republiky 
 | ** Demo účet ** | Áno, neobmedzene |
 | ** Čeština ** | Áno |
 
-</ div>
-</ div>
+</div>
+</div>
 
 
 
@@ -126,17 +126,17 @@ Broker je vhodný aj pre začiatočníkov, pretože poskytuje možnosť vzdeláv
 
 
 
-</ div>
-<div class = "col-md-3" markdown = "1">
-<div class = "well" markdown = "1" style = "margin-top: 2.5e">
+</div>
+<div class="col-md-3" markdown="1">
+<div class="well" markdown="1" style="margin-top: 2.5e">
 Preverené broker
 
 ! [bossa.cz](http://i.imgur.com/Ovf3rUQ.png)
 
-[Otvoriť účet](http://www.bossa.cz "Registrácia") {.btn .bnt-lg .btn-primary} [Demo] (http://www.bossa.cz "Demo účet") {. btn .bnt-lg .btn-default}
+[Otvoriť účet](http://www.bossa.cz "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://www.bossa.cz "Demo účet"){. btn .bnt-lg .btn-default}
 
-</ div>
-<div class = "container-fluid" markdown = "1">
+</div>
+<div class="container-fluid" markdown="1">
 
 Výhody
 
@@ -145,14 +145,14 @@ Výhody
 ! [Vhodný aj pre profesionálov](http://s28.postimg.org/lj87xfcyh/1402286470_1.png) **Vhodný aj pre profesionálov**
 
 - - -
-</ div>
-<div class = "container-fluid" markdown = "1">
+</div>
+<div class="container-fluid" markdown="1">
 Nevýhody
 
-! [Len Anglický] (http://s16.postimg.org/kwlkxzd75/1402286495_2.png) **Vyšší minimálny vklad**
+! [Len Anglický](http://s16.postimg.org/kwlkxzd75/1402286495_2.png) **Vyšší minimálny vklad**
 
-</ div>
-<div class = "container-fluid" markdown = "1">
+</div>
+<div class="container-fluid" markdown="1">
 
 - - -
 <a href="http://blog.forexsrovnavac.cz/sk/xm.com" alt="Demo účet" target="_blank">
@@ -160,8 +160,8 @@ Nevýhody
 
 </a>
 
-</ div>
-</ div>
-</ div>
+</div>
+</div>
+</div>
 
-{{partial: ostatne-Broker}}
+{{partial: ostatni-brokeri}}

@@ -49,7 +49,7 @@ Prečo používať skrill.com
 
 Online svet sa v súčasnosti čím ďalej viac prelína naším skutočným svetom. Nielenže sa v dnešnej dobe na internete zoznamujeme, komunikujeme, čítame správy, pozeráme filmy. Okrem toho v súčasnosti nakupujeme prevažne práve prostredníctvom internetových obchodov. K online svetu, internetovému nakupovanie či investovania patrí aj internetové peňaženky, ako je napríklad Skrill / Moneybookers.
 
-[Web spoločnosti skrill.com]( https://account.skrill.com/signup?rid=4578719) {.btn .btn-lg .btn-primary}
+[Web spoločnosti skrill.com]( https://account.skrill.com/signup?rid=4578719){.btn .btn-lg .btn-primary}
 
 
 
@@ -65,7 +65,7 @@ Založenie vlastného účtu na internetovej peňaženke Skrill je zadarmo. Bezp
 
 Po **registrácii dôjde k rozdeleniu e-mailov na primárnu a sekundárnu**. Primárny účet, ktorý zadávate pri registrácii, budete následne používať ako prihlasovacie e-mail na osobnú stránku Skrill. Často býva peňaženka Skrill využívaná na stávkovanie v online stávkových kanceláriách, alebo u brokerov. Neodporúča sa však používať ako primárny e-mail rovnaký e-mail, ktorý zadávate na vašom hráčskom účte. Na druhej strane by mal byť e-mail používaný na stránkach rovnaký ako e-maily uvedené na vašom hráčskom účte. Všetky tieto e-maily uveďte ako sekundárny.
 
-[Založte si zadarmo účet na skrill.com]( https://account.skrill.com/signup?rid=4578719) {.btn .btn-lg .btn-primary}
+[Založte si zadarmo účet na skrill.com]( https://account.skrill.com/signup?rid=4578719){.btn .btn-lg .btn-primary}
 
 
 ![skrill](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/05/skrill-recenze-e1431101852302.png)

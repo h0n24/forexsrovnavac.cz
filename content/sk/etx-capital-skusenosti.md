@@ -29,7 +29,7 @@ ETX Binary recenzia
 V roku 2014 sa na slovenskom trhu objavil nový regulovaný broker s českou zákazníckou podporou. Je ním britský broker ETX Capital, ktorý licenciu na obchodovanie na slovenskom trhu získal v máji 2014 a ktorý tak podlieha regulácii ČNB. ETX Capital obchoduje skrze novú binárne obchodnú platformu, ETX Binary, na ktorej dochádza k obchodovaniu binárnych opcií. Vďaka webovým stránkam v slovenskom jazyku a tiež profesionálnej českej zákazníckej podpore predstavuje alternatívu namiesto brokera TopOption.
 U [**ETX capital**](http://blog.forexsrovnavac.cz/sk/etxbinary.cz) môžete obchodovať binárne opcie na akcie, forex aj komodity.  
 
-[Pozrite sa na obchodnú aplikáciu ETX Binary](http://blog.forexsrovnavac.cz/sk/etxbinary.cz) {.btn .bnt-lg .btn-primary}
+[Pozrite sa na obchodnú aplikáciu ETX Binary](http://blog.forexsrovnavac.cz/sk/etxbinary.cz){.btn .bnt-lg .btn-primary}
 </div>
   <div class="col-md-6" markdown="1">
 Platformy ETX capital
@@ -125,7 +125,7 @@ Vzdelávanie a nástroje
 
 ![ETX Capital](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/2015-04-24-16_48_09-Trading-Platform-_-Best-CFD-trading-Platform-_-ETX-Capital.png) 
 
-[Pozrite sa na obchodnú aplikáciu ETX Binary](http://blog.forexsrovnavac.cz/sk/etxbinary.cz) {.btn .bnt-lg .btn-primary}
+[Pozrite sa na obchodnú aplikáciu ETX Binary](http://blog.forexsrovnavac.cz/sk/etxbinary.cz){.btn .bnt-lg .btn-primary}
 
 
 
@@ -136,7 +136,7 @@ Prověřeny broker
 
 ![ETX Binary](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/ETXCapital_Stacked_Logo_Black_on_White-11.jpg)  
 
-[Otevřít účet](http://blog.forexsrovnavac.cz/etxbinary.cz "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/etxbinary.cz "Demo účet"){.btn .bnt-lg .btn-default}
+[Otevřít účet](http://blog.forexsrovnavac.cz/etxbinary.cz "Registrace"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/etxbinary.cz "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">

@@ -30,7 +30,7 @@ Topoption ponúka obchodovanie **binárnych opcií na akcie, forex aj komodity, 
 Top Option je obchodníkmi využívaný hlave na obchodovanie binárnych opcií. Sídlo má na Cypre, kde je pod dohľadom **Cyperskej komisie pre cenné papiere a burzu (CySEC)**. Z toho vyplýva jedna zásadná skutočnosť, vaše vklady na obchodný účet sú poistené až do výšky 20 tisíc Eur.
 
 
-[Viac o Topoption](http://blog.forexsrovnavac.cz/sk/topoption "TopOption") {.btn .bnt-lg .btn-primary}
+[Viac o Topoption](http://blog.forexsrovnavac.cz/sk/topoption "TopOption"){.btn .bnt-lg .btn-primary}
 </div>
   <div class="col-md-6" markdown="1">
 o TopOption.com

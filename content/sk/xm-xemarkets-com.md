@@ -30,7 +30,7 @@ Medzi skupinu kvalitných a užívateľsky obľúbených brokerov sa radí aj br
 **Broker XeMarkets obchoduje na Forexe** (ponuka zahŕňa až 53 párov), CFD, komodity (drahé kovy, energia, atď.) A akcie. Vrátane bežného obchodovania vám XeMarkets ponúka aj veľmi výnimočnú službu **tzv. forexových turnajov**, ktoré si v našom článku, rovnako ako brokera samotného, ​​predstavíme bližšie.
 
 
-[Pozrite sa na obchodné arénu a aplikáciu XM.com](http://blog.forexsrovnavac.cz/sk/xm.com) {.btn .bnt-lg .btn-primary}
+[Pozrite sa na obchodné arénu a aplikáciu XM.com](http://blog.forexsrovnavac.cz/sk/xm.com){.btn .bnt-lg .btn-primary}
 </div>
   <div class="col-md-6" markdown="1">
 O brokerovi XM.com
@@ -63,7 +63,7 @@ Mimo reguláciu **CySEC** podlieha regulácii aj niekoľkých ďalších úradov
 | **Podporované platformy:**  | MetaTrader 4, XM Webtrader 4, XM iPhone / iPad Trader, XM Droid Trader, XM MAM (pre investorov)|
 | **Zákaznícky servis:**  | Email, Chat, Telefón|
 
-[Získajte 30 USD na turnajovej vstupenky](http://blog.forexsrovnavac.cz/sk/xm.com) {.btn .bnt-lg .btn-primary}
+[Získajte 30 USD na turnajovej vstupenky](http://blog.forexsrovnavac.cz/sk/xm.com){.btn .bnt-lg .btn-primary}
 
   </div>
   <div class="col-md-6" markdown="1">
@@ -87,7 +87,7 @@ Ako začať obchodovať u XeMarkets?
 Účty sa od seba líšia hlavne pákou a výškou minimálneho vkladu. U MICRO účtu je minimálny vklad pouhých **päť dolárov a maximálna činí až 100 000 dolárov**. Páka sa líšia aj v rámci MICRO účtu. Pri vklade do 20 000 je páka 1: 1 na 1: 888, pri vklade nad 20 000 potom 1: 1 na 1: 200. Štandard účet je potom jednoduchým rozšírením MICRO účtu. Výkonný účet začína na 100 000 dolároch a páka je 1: 1 na 1: 100. Vrátane týchto troch typov účtov môžete získať aj **demo účet**, ktorý môžete využívať neobmedzene dlho.
 Na výber máte samozrejme aj v rámci platforiem a metód vkladov / výberov. 
 
-[Získajte demo účet zdarma](http://blog.forexsrovnavac.cz/sk/xm.com) {.btn .bnt-lg .btn-primary}.
+[Získajte demo účet zdarma](http://blog.forexsrovnavac.cz/sk/xm.com){.btn .bnt-lg .btn-primary}.
 
 U XeMarkets môžete k peňažným transakciám používať kreditné karty, bankové prevody aj elektronickej peňaženky (Skrill (Moneybookers), Neteller, WebMoney, PaySafeCard, Cash, Western Union, MoneyGram). Broker má pre vás prichystané aj bonusy, ktorých rad začína vstupným bonusom. **Ten predstavuje 30% vloženej čiastky**.
 
@@ -105,7 +105,7 @@ XeMarkets samozrejme ponúka aj špeciálne platformy, ktoré sú určené pre o
 Pre telefón iPhone poskytuje platformu XM iPhoneTrader, pre iPad XM iPadTrader a pre Android XM DroidTrader. České obchodníkov možno sklame fakt, že platformy nie sú poskytované v českom jazyku.
 
 
-[Pozrite sa na obchodné arénu a aplikáciu XM.com](http://blog.forexsrovnavac.cz/sk/xm.com) {.btn .bnt-lg .btn-primary}
+[Pozrite sa na obchodné arénu a aplikáciu XM.com](http://blog.forexsrovnavac.cz/sk/xm.com){.btn .bnt-lg .btn-primary}
 
 ###Vzdelávanie a nástroje u Xemarkets
 
@@ -123,7 +123,7 @@ Preverené broker
 
 ![XM.com](http://i.imgur.com/Ovf3rUQ.png)
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/xm.com "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/xm.com "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/xm.com "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/xm.com "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">

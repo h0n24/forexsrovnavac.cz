@@ -198,7 +198,7 @@ HotForex ponúka všetkým svojim zákazník demo účet zdarma, ktorý nie je o
 
 ![hotforex](http://s9.postimg.org/nxqx2apjf/hpt.jpg)  
 
-[Otvoriť účet](https://www.hotforex.com/?refid=26283 "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](https://www.hotforex.com/?refid=26283 "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">

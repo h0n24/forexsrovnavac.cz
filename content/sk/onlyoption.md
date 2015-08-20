@@ -28,7 +28,7 @@ O onlyoption.com
 :    
 Na konci roka 2014 bol predstavený nový broker nesúci názov OnlyOption, ktorého prevádzkovateľom je Safecap Investments Ltd., ktorý vrátane OnlyOption vedie aj niekoľko ďalších maklérskych spoločností (FINEX, Markets.com, TopOption, OptionTime, 24winner a ďalšie). Broker OnlyOption podlieha regulácii cyperského úradu CySEC, anglického úradu FCA aj Českej národnej banky.
 
-[Pozrite sa na obchodnú aplikáciu OnlyOption](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Pozrite sa na obchodnú aplikáciu OnlyOption](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 </div>
   <div class="col-md-6" markdown="1">
@@ -81,7 +81,7 @@ OnlyOption sa na základe uvedených informácií veľmi podobá brokerovi [TopO
 | **Demo účet**  | Áno |
 | **Čeština**  | Áno |
 
-[www.OnlyOption.com](http://blog.forexsrovnavac.cz/sk/onlyoption "registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[www.OnlyOption.com](http://blog.forexsrovnavac.cz/sk/onlyoption "registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 </div>
 </div>
@@ -127,7 +127,7 @@ Broker OnlyOption ponúka možnosť využiť demo účet, ktorý je však časov
 Presne povedané je demo účet možné založiť pri vklade 250 dolárov, a to na dobu 3 až 4 dní. Ak budete mať záujem, môžete si demo účet predĺžiť.
 
 
-[Pozrite sa na demo účet u OnlyOption](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Pozrite sa na demo účet u OnlyOption](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 
 {{/section}}
@@ -153,7 +153,7 @@ Broker poskytuje svojim obchodníkom možnosť vzdelávania a neustáleho rastu.
 
 ![onlyoption.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/onlyoption-logo.jpg) 
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/onlyoption "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/onlyoption "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 

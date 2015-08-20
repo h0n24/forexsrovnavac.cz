@@ -149,7 +149,7 @@ Pre všetkých obchodníkov je k dispozícii aj vzdelávanie v podobe akadémie,
 
 ![Ironfx.com](http://media.ironaffiliates.com/uploads/IronFX_logo99.jpg) 
 
-[Otvoriť účet](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Registrace") {.btn .bnt-lg .btn-primary} [Demo](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Registrace"){.btn .bnt-lg .btn-primary} [Demo](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">

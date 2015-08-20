@@ -22,9 +22,9 @@
 Spoznajte svet binárnych opcií a naučte sa úspešne obchodovať. Brokeri na Binárne opcie, vám ponúkajú Živé webové semináre a sprievodca stratégie obchodovania, však ak vám chýba širší pohľad na online obchodovanie s binárnymi opciami a investovania všeobecne, môžete byť obeťou zlých obchodných rozhodnutí. Preto by dobrá kniha mala byť štartom k úspešnej zvolenej stratégii! Kniha o binárnych opciách je tým lepším spôsobom, ako skutočne porozumieť danej problematike.  
 {{/start}}
 
-![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/tenTips_cz.png)  [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption "") {.btn .bnt-lg .btn-primary} ![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/fiveSteps_cz.png)  [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary} 
+![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/tenTips_cz.png)  [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption ""){.btn .bnt-lg .btn-primary} ![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/fiveSteps_cz.png)  [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary} 
 
-![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/goldGuru_cz.png) [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption "") {.btn .bnt-lg .btn-primary}  ![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/masterTheArt_cz.png) [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary}   
+![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/goldGuru_cz.png) [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption ""){.btn .bnt-lg .btn-primary}  ![Topoption](http://www.topoption.com/appProxy/site/topOptEbook/masterTheArt_cz.png) [Čítať knihu](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary}   
 
 
 
@@ -40,7 +40,7 @@ Spoznajte svet binárnych opcií a naučte sa úspešne obchodovať. Brokeri na 
 Preverený broker
 ![Topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">

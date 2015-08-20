@@ -50,7 +50,7 @@ Obsah recenzia Paypal
 
 Veľmi obľúbeným spôsobom vykonávanie platieb predstavujú v dnešnej dobe bezhotovostné prevody. Väčšina z nás si pod týmto pojmom predstaví bankové prevody a internetové bankovníctvo. Vrátane toho k online platbám patrí aj internetové peňaženky, medzi ktoré patrí aj peňaženka PayPal. Poďme sa teraz spoločne pozrieť na všetko, čo o elektronickej peňaženke PayPal potrebujete vedieť.
 
-[Web spoločnosti paypal.com]( https://www.paypal.com) {.btn .btn-lg .btn-primary}
+[Web spoločnosti paypal.com]( https://www.paypal.com){.btn .btn-lg .btn-primary}
 
 
 </div>

@@ -39,7 +39,7 @@ V demo verziu aplikácie budete binárne opcie môcť obchodovať za reálne trh
 
 </div>
 </div>
-[Pozrite sa na demo aplikáciu u TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .btn-lg .btn-primary}
+[Pozrite sa na demo aplikáciu u TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .btn-lg .btn-primary}
 
 Prečo si najskôr vyskúšať demo verziu?
 :    Binárne opcie sú riskatní, nikto vám profit nezaručí. Najlepší spôsob, ako sa stať odborníkom na tento typ obchodovania, a začať dlhodobo zhodnocovať svoje prostriedky je určite cesta skúšanie rôznych stratégií práve na demo účtoch. To je dôvod, je ich demo účet pre binárne opcie, tak dôležitý. Stručne povedané, demo účet je účet zadarmo.
@@ -61,7 +61,7 @@ V podstate máte k dispozícii určitú sumu peňazí, sú to virtuálne peniaze
 4. Demo účet je kompletne zadarmo na obdobie 30 dní
 
 
-[Získať demo účet u TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary}
+[Získať demo účet u TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary}
 
 Zaregistrujte sa na [stránkách TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") Po následnej registrácii vám väčšinou zavolá, alebo napíše email váš pridelený manažér, ktorý vám následne všetko vysvetlí, pýtajte sa ho na to čomu nerozumiete , ma osobne odpovedal na niekoľko otázok, hlavne som sa teda pýtal na overenie u Českej národnej banky, ktoré naozaj majú. Nasledne ho požiadajte o váš Demo účet.
 
@@ -91,7 +91,7 @@ Poďme si to trochu zhrnúť. Demo účet na binárne opcie, Vám ponúkne presn
 Preverený broker
 ![Topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otvoriť úče](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť úče](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">

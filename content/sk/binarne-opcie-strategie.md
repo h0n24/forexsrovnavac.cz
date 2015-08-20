@@ -13,7 +13,7 @@
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
-#Strategie pre binárne opcie
+# Strategie pre binárne opcie
  
 *V tomto článku si rozoberieme základné možnosti obchodovania binárnych opcií a jednotlivé stratégie, ktoré sú určené skôr pre začiatočníkov. Vo väčšine prípadov obchodníci s opciami využívajú 2 základné stratégie a to technickú a fundamentálnu analýzu a následné určenie price action pri jednotlivých obchodných nástrojov. U binárnych opcií existujú 4 základné druhy aktív na ktoré môžete tieto stratégie využiť. U väčšiny brokerov sú k dispozícii akcie, komodity, forex (menové páry) a indexy búrz.*
 
@@ -76,7 +76,7 @@ Tutu stratégiu môžete obchodovať u brokera stockpair, ktorý ponúka prehľa
 Preverený broker
 ![Topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
+[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">
