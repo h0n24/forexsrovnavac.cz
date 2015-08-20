@@ -1,4 +1,4 @@
-<header class="navbar navbar-fixed-top navbar-inverse" id="top" role="banner">
+﻿<header class="navbar navbar-fixed-top navbar-inverse" id="top" role="banner">
   <div class="container">
     <div class="navbar-header">
       <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".toggle-navbar-collapse">
@@ -16,9 +16,13 @@
             <span class="hidden-sm hidden-md">Forex <b class="caret"></b></span><span class="visible-sm visible-md">Forex</span>
           </a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-zacit-obchodovat-na-forexu">Obchodování na forexu</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-strategie">Forex Strategie</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}money-management">Money Management</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}cfd-contract-for-difference">CFD obchodování</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-hodiny-na-burze-a-forexu">Obchodní hodiny</a></li>
+
 </li>
 </ul>
         <li><a href="{{url}}forex-bonus-no-deposit-bez-vkladu" class="hidden-sm">Bonus</a></li>
@@ -45,12 +49,14 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}zoomtrader">Zoomtrader</a></li>
           </ul>
         </li>
-        <li><a href="{{url}}binarni-opce">Binární opce</a></li>
+        <li><a href="{{url}}binarni-opce" class="hidden-sm">Binární opce</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm hidden-md">Opce<b class="caret"></b></span><span class="visible-sm visible-md">Opce</span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+
+            <li role="presentation" class="visible-sm"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce">Binární opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}druhy-binarnich-opci">Druhy Binárních opcí</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-strategie">Strategie pro Binární opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-vybrat-binarniho-brokera">Jak vybrat binárního brokera</a></li>
