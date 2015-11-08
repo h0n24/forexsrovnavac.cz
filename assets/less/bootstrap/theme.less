@@ -6,7 +6,7 @@
 // Load core variables and mixins
 // --------------------------------------------------
 
-// používá se v hlavním template @import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,latin-ext");
 
 @import "variables.less";
 @import "mixins.less";
@@ -870,11 +870,6 @@ noscript {
   background: url(../img/brokeri/ucet_bg-hover.png);
 }
 
-
-div[role=main]>section:first-child {
-  padding-top: 0;
-}
-
 img.ikona {
   margin-top: 10px;
 }
@@ -900,19 +895,8 @@ img.ikona {
   margin-top: 10px;
 }
 
-.pull-center {
-  position: absolute;
-  left: 50%;
-  width: 300px;
-  text-align: center;
-  margin-left: -150px;
-}
-
 @media (max-width: @screen-sm-max) {
   .footer-mid {
-    display: none;
-  }
-  .pull-center {
     display: none;
   }
   .start p {
@@ -938,39 +922,5 @@ img.ikona {
   .navbar-fixed-top {
     position: absolute;
     top: 0;
-  }
-}
-
-.embed-responsive.embed-index-third {
-  padding-bottom: 135px;
-  margin-bottom: 15px;
-  max-width: 400px;
-}
-
-@media (max-width: @screen-sm-max) {
-  .btn {
-    max-width: 85vw;
-    overflow: hidden;
-    overflow-x: scroll;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-    &::-webkit-scrollbar {
-      display: none;
-    }
-  }
-
-  @-moz-document url-prefix() {
-    .btn {
-      overflow: hidden;
-    }
-  }
-}
-
-@media (min-width: @screen-lg-min) {
-  .embed-responsive.embed-index-third {
-    padding-bottom: 135px;
-    margin-bottom: 15px;
-    width: 30%;
-    float: left;
-    margin-right: 1%;
   }
 }

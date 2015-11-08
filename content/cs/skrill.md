@@ -169,7 +169,7 @@ Binární opce:
 
 [ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
 
-[Onlyoption recenze](http://www.forexsrovnavac.cz/onlyoption "Onlyoption recenze")
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
 
 
 </div>

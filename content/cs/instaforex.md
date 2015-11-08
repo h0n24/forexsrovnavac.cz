@@ -157,8 +157,8 @@ InstaForex na svých webových stránkách nabízí i možnost vzdělávání sk
 </div>
 <div class="container-fluid" markdown="1">
 - - -
-Výhody
-:   
+#### Výhody
+
 ![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vhondé pro začátečníky
 
 ![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vklad od 1 USD
@@ -169,11 +169,15 @@ Výhody
 
 </div>
 <div class="container-fluid" markdown="1">
-Nevýhody
-:   
+#### Nevýhody
+
 ![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Část webu, není plně přeložená
 
+- - -
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 </div>
 </div>
 

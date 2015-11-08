@@ -11,7 +11,8 @@
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{url}}#section-1">Liste des courtiers</a>
+          <a href="{{url}}#section-1">Liste des courtiers</a></li>
+          <li><a href="{{url}}plus500">Avis plus500</a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

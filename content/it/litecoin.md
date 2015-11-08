@@ -11,6 +11,10 @@
 
 {{section}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
 ## Trading con la valuta virtuale Litecoin
 
 LTC è la seconda cripto valuta più importante. Litecoin è una valuta Internet peer to peer, che permette di inviare pagamenti istantanei a chiunque nel mondo. Litecoin si basa sul protocollo di Bitcoin, ma la differenza con Bitcoin è che su Litecoin si può fare efficacemente mining con un hardware più economico, il mining è più accessibile per le persone, basterà solo la CPU (non pagherà fare mining di Litecoin con miner ASIC). Litecoin inoltre fornisce una conferma più rapida della transazione (2,5 minuti in media) e utilizza la memoria e gli script sulla base dell'algoritmo mining proof-of-work. Il network di Litecoin è pianificato per il numero massimo di 84 milioni di unità di valuta. Uno degli obiettivi è quello di dare a Litecoin un algoritmo di mining, che possa andare in esecuzione allo stesso tempo, sullo stesso hardware come Bitcoin.

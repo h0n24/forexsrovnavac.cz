@@ -45,7 +45,7 @@ Lange Zeit streitet selbstverständlich die ganze Reihe der Spezialisten darum, 
 {{/section}}
 
 - - -
-Versuchen Sie es mit Bitcoin-Handel mit [binäre Optionen](http://www.forexsrovnavac.cz/de/binareoptionen/) mit einem Makler [TopOption](http://blog.forexsrovnavac.cz/topoption.de "Topoption")
+Versuchen Sie es mit Bitcoin-Handel mit [Binäre optionen](http://www.forexsrovnavac.cz/de/binareoptionen/) mit einem Makler [TopOption](http://blog.forexsrovnavac.cz/topoption.de "Topoption")
 - - - 
 
 ## Wo kann man mit Bitcoin handeln?

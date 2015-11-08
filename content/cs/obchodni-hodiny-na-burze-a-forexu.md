@@ -19,9 +19,10 @@
 Jelikož ceny na měnových trzích jsou tvořeny nabídkami bank a finančních institucí, kteří vystupují jako tvůrci trhu, mohou se skutečné obchodní hodiny od oficiálních časů mírně lišit. Pokud je trh uzavřený, není možné zadávat žádné obchodní pokyny.
 <div>
 <div>* Všechny zobrazené časové údaje jsou uvedeny v GMT, což je čas v Londýně. (V ČR a SR používaný SEČ je o hodinu více, se zohledněním další hodiny v případě letního času).</div>
-<h2>FOREX</h2>
-  
 
+<h2>FOREX</h2>
+ 
+<div markdown="1">
 SYDNEY – otevírá 23:00 SEČ a zavírá 8:00 SEČ
 
 TOKIO – otevírá 1:00 SEČ a zavírá 10:00 SEČ
@@ -29,6 +30,8 @@ TOKIO – otevírá 1:00 SEČ a zavírá 10:00 SEČ
 LONDON – otevírá 9:00 SEČ a zavírá 18:00 SEČ
 
 NEW YORK – otevírá 14:00 SEČ a zavírá 23:00 SEČ
+
+</div>
 
 
 <h2>Akciové Indexy</h2>
@@ -40,8 +43,12 @@ NEW YORK – otevírá 14:00 SEČ a zavírá 23:00 SEČ
 S futures na<strong> indexy</strong> se neobchoduje ve dnech, kdy jsou tyto trhy uzavřeny, ať z důvodů svátků nebo neobchodních dnů. Z důvodu vypořádání obchodů je stanovena přestávka v rámci kontinuálního obchodování s futures indexy.
 
 Obchodní hodiny i přestávky se pro každý index liší:
-<div>
-<table cellspacing="0" cellpadding="0"><colgroup> <col /> <col /> <col /> <col /></colgroup>
+
+<br><br>
+<br>
+
+<div class="table-responsive">
+<table class="table" cellspacing="0" cellpadding="0"><colgroup> <col /> <col /> <col /> <col /></colgroup>
 <tbody>
 <tr>
 <td><strong>Index</strong></td>
@@ -150,8 +157,12 @@ Obchodní hodiny i přestávky se pro každý index liší:
 Neobchoduje se ve dnech, kdy je trh daného instrumentu uzavřen, ať z důvodů svátků nebo neobchodních dnů. Z důvodů vypořádání obchodů je stanovena přestávka v rámci kontinuálního obchodování.
 
 Obchodní hodiny, včetně přestávky:
-<div>
-<table cellspacing="0" cellpadding="0"><colgroup> <col /> <col /> <col /> <col /></colgroup>
+
+<br><br>
+
+
+<div class="table-responsive">
+<table class="table" cellspacing="0" cellpadding="0"><colgroup> <col /> <col /> <col /> <col /></colgroup>
 <tbody>
 <tr>
 <td><strong>Komodita</strong></td>
@@ -221,8 +232,11 @@ Obchodní hodiny, včetně přestávky:
 Neobchoduje se ve dnech, kdy je trh daného instrumentu uzavřen, ať z důvodů svátků nebo neobchodních dnů.
 
 Obchodní hodiny, včetně přestávky:
-<div>
-<table cellspacing="0" cellpadding="0"><colgroup> <col /> <col /> <col /> <col /></colgroup>
+
+<br><br>
+
+<div class="table-responsive">
+<table class="table" cellspacing="0" cellpadding="0"><colgroup> <col /> <col /> <col /> <col /></colgroup>
 <tbody>
 <tr>
 <td><strong>Dluhopis</strong></td>
@@ -249,48 +263,39 @@ Obchodní hodiny, včetně přestávky:
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Výdělek na forexu:
-:    
+#### Bonusy na forexu
+
 [500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
 
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
 
-Binární opce:
-:    
+[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
+
+<br>
+
+#### Binární opce
+
 [Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
 
 [Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
 
 [ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
 
-[Onlyoption recenze](http://www.forexsrovnavac.cz/onlyoption "Onlyoption recenze")
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
 
 
 </div>
-<div class="container-fluid" markdown="1">
+
+
 - - -
 
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
 
-</div>
-<div class="container-fluid" markdown="1">
+- - -
 
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
 </a>
 
-</div>
 </div>
 </div>

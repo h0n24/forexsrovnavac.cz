@@ -12,6 +12,8 @@
       <ul class="nav navbar-nav">
         <li>
           <a href="{{url}}#section-1">Liste des courtiers</a>
+<li><a href="{{url}}plus500">Avis plus500</a>
+        </li>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

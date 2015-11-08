@@ -11,6 +11,10 @@
 
 {{section}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
 ## Handel met virtuele Bitcoins
 
 Je zult vast wel gezien hebben dat Botcoin steeds populairder word. In dit artikel zullen we niet beschrijven wat de functie, geschiedenis of wat bitcoin mining is en we zullen je ook geen gratis Bitcoins geven. Dit artikel is gefocust op de mogelijkheid dat je kan handelen met de koersen die nog nooit zo goed zijn geweest als ze nu zijn, waardoor je dagelijks interessante investeerings mogelijkheden hebt. 

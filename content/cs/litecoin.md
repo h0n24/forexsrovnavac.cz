@@ -37,14 +37,78 @@ Důvod si myslet, že hodnota LTC poroste je díky komunitě, která za ním sto
 
 {{section}}
 
-## Aktuální kurz Litecoin v (LTC/USD), graf kurzu
+## Aktuální kurz Litecoin v USD v (LTC/USD), graf kurzu
 
-<div class="container kurz">
-<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=litecoin&pl=2"></a>
-<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=litecoin&pl=2"></a>
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=cs&cty=CZ&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BITFINEX:LTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+
+
+- - -
+
+<div class="row">
+<div class="col-md-8 hidden-sm hidden-xs">
+  <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?">
+  </SCRIPT>
+  <NOSCRIPT>
+  <A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?">
+  <IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement" /></A>
+  </NOSCRIPT>
+</div>
+<div class="col-sm-6 col-xs-12 hidden-md hidden-lg">
+  <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?">
+  </SCRIPT>
+  <NOSCRIPT>
+  <A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?">
+  <IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A>
+  </NOSCRIPT>
+</div>
 </div>
 - - -
+## Aktuální kurz Litecoin v EUR (LTC/EUR), graf kurzu
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "KRAKEN:LTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+<br>
+
 Vyzkoušejte obchodování Litecoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce) u brokera [TopOption](http://www.forexsrovnavac.cz/topoption "Topoption recenze")
 - - -
 {{/section}}

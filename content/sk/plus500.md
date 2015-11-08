@@ -177,6 +177,8 @@ Jednoduché a prehľadné zostáva aj samotné ovládanie vášho účtu. **PLUS
 [Otvoriť účet](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
+
+<a href="http://www.plus500.com/sk/?id=66349&pl=2" target="_blank" title="Plus500"><img src="http://cdn.plus500.com/Media/Banners/250x250/11542.gif" width="250" height="250" border="0" alt="Plus500" /></a>
 - - -
 #### Menu
 
@@ -222,12 +224,13 @@ Jednoduché a prehľadné zostáva aj samotné ovládanie vášho účtu. **PLUS
 ![Ukázka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)      Pre profesionálov môže byť aplikácia limitujúca
 - - -
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 <div class="container-fluid" markdown="1">
+- - -
 
-
-</a>
-
-####Náš Tip
+#### Náš Tip
 Spoločnosť Plus500 ponúka uvítací bonus 500 Kč  na reálny účet každého nového klienta. Stačí iba telefonické potvrdenie. Potom je potrebné nazbierať aspoň 60 obchodných bodov a bonus + váš zárobok si môžete nechať vyplatiť. [Viac informácií o Bonuse](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2)
 - - -
 

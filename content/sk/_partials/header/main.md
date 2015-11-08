@@ -15,12 +15,21 @@
             <span class="hidden-sm hidden-md">Forex <b class="caret"></b></span><span class="visible-sm visible-md">Forex</span>
           </a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}uvod-do-forexu">Čo je to Forex?</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ako-zacat-obchodovat-na-forexu">Ako začať obchodovať na forexu</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-obchodovanie">Forex obchodovanie</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}technicka-analyza">Technická analýza</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-strategie">Forex Strategie</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodne-prikazy-na-forexu">Obchodné príkazy na forexu</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}money-management">Money Management</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}cfd-obchodovanie">CFD obchodovanie</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodne-hodiny-na-burze-a-forexu">Obchodné hodiny na burze</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet">Forex Demo účet</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}hedging">Co je to Hedging</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}money-management">Money management</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodne-hodiny-na-burze-a-forexu">Obchodné hodiny na burze</a></li>	
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}rizika-obchodovanie-na-forexu">Riziká obchodovanie na forexe</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}10-pravidiel-pre-uspesne-obchodovanie-na-forexu">10 pravidiel pre Forex</a></li>
           </ul>
         </li>
         <li><a href="{{url}}forex-bonus-no-deposit-bez-vkladu" class="hidden-sm">Bonus</a></li>
@@ -67,8 +76,8 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}optionavigator-recenzia">Optionavigator recenzia</a></li>
           </ul>
         </li>
-        <li><a href="{{url}}bitcoin/">Bitcoiny</a></li>
-        <li><a href="{{url}}litecoin/">Litecoiny</a></li>
+        <li><a href="{{url}}bitcoin/">Bitcoin</a></li>
+        <li><a href="{{url}}litecoin/">Litecoin</a></li>
         <li><a href="http://blog.forexsrovnavac.cz/">Blog</a></li>
         <li class="dropdown">
           <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="visible-xs">Jazyk &nbsp;</span><img src="{{img-url}}flags/sk.png" class="flag"><span class="visible-xs"> <b class="caret"></b></span></a>

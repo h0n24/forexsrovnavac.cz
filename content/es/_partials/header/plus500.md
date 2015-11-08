@@ -13,6 +13,7 @@
         <li>
           <a href="{{url}}#section-1">Lista de Brokers</a>
         </li>
+<li><a href="{{url}}plus500">Plus500 opiniones</a>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>

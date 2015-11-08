@@ -1,7 +1,7 @@
 {{settings}}
   "language": "cs",
   "template": 1,
-  "header": "plus500",
+  "header": "main",
   "meta" : {
     "title": "Plus500 recenze a zkušenosti",
     "description": "",
@@ -43,10 +43,10 @@ Tento bonus se skutečně týká naprosto každého – žádný háček, žádn
 </div>
 </div>
 
-**Obsah recenze plus500**:[Základní informace O plus500](http://forexsrovnavac.cz/plus500#section-1) - [Jak obchodovat u plus500](http://forexsrovnavac.cz/plus500#section-2) - [Recenze Plus500](http://forexsrovnavac.cz/plus500#section-3) - [Plus500 demo](http://forexsrovnavac.cz/plus500#section-4) - [Plus500 poplatky](http://forexsrovnavac.cz/plus500#section-5) - [Zkušenosti s plus500](http://forexsrovnavac.cz/plus500#section-6) - [Obchodní aplikace plus500](http://forexsrovnavac.cz/plus500#section-7)
+**Obsah recenze plus500**: [Základní informace O plus500](http://forexsrovnavac.cz/plus500#section-1) - [Jak obchodovat u plus500](http://forexsrovnavac.cz/plus500#section-2) - [Recenze Plus500](http://forexsrovnavac.cz/plus500#section-3) - [Plus500 demo](http://forexsrovnavac.cz/plus500#section-4) - [Plus500 poplatky](http://forexsrovnavac.cz/plus500#section-5) - [Zkušenosti s plus500](http://forexsrovnavac.cz/plus500#section-6) - [Obchodní aplikace plus500](http://forexsrovnavac.cz/plus500#section-7)
 
-##Obchodování na plus500
-![plus500](http://recenzeplus500.cz/wp-content/uploads/2014/08/plsssss5001.png)
+*Obchodní aplikace na plus500*
+![plus500](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/09/Plus500-obchodn%C3%AD-aplikace.png)
 
 
 *Proč začít obchodovat u brokera plus500?*
@@ -270,13 +270,7 @@ snadnějšího, než rovnou přejít „k věci“, a začít obchodovat co nejr
 
 *Služba je CFD, spekulace a obchodování na burze je rizikové. Minulé výnosy, nejsou zárukou budoucích výnosů.
 </div>
-<div class="container-fluid" markdown="1">
 
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
 <div class="container-fluid" markdown="1">
 - - -
 #### Výhody
@@ -294,8 +288,15 @@ snadnějšího, než rovnou přejít „k věci“, a začít obchodovat co nejr
 #### Nevýhody
 
 ![Ukázka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Pro profesionály může být aplikace limitující
-- - -
+
 </div>
+
+- - -
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
+- - -
+
 <div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>

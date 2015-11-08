@@ -131,33 +131,36 @@ Broker je vhodný aj pre začiatočníkov, pretože poskytuje možnosť vzdeláv
 <div class="well" markdown="1" style="margin-top: 2.5e">
 Preverené broker
 
-! [bossa.cz](http://i.imgur.com/Ovf3rUQ.png)
+![bossa.cz](http://i.imgur.com/Ovf3rUQ.png)
 
-[Otvoriť účet](http://www.bossa.cz "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://www.bossa.cz "Demo účet"){. btn .bnt-lg .btn-default}
+[Otvoriť účet](http://www.bossa.cz "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://www.bossa.cz "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">
 
 Výhody
 
-! [Kompletne v Češtine](http://s28.postimg.org/lj87xfcyh/1402286470_1.png) **MT4 platforma**
+![Kompletne v Češtine](http://s28.postimg.org/lj87xfcyh/1402286470_1.png) **MT4 platforma**
 
-! [Vhodný aj pre profesionálov](http://s28.postimg.org/lj87xfcyh/1402286470_1.png) **Vhodný aj pre profesionálov**
+![Vhodný aj pre profesionálov](http://s28.postimg.org/lj87xfcyh/1402286470_1.png) **Vhodný aj pre profesionálov**
 
 - - -
 </div>
 <div class="container-fluid" markdown="1">
 Nevýhody
 
-! [Len Anglický](http://s16.postimg.org/kwlkxzd75/1402286495_2.png) **Vyšší minimálny vklad**
+![Len Anglický](http://s16.postimg.org/kwlkxzd75/1402286495_2.png) **Vyšší minimálny vklad**
 
+- - -
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 <div class="container-fluid" markdown="1">
 
 - - -
 <a href="http://blog.forexsrovnavac.cz/sk/xm.com" alt="Demo účet" target="_blank">
- <img src = "http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width = "" height = "" />
-
+ <img src = "http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png">
 </a>
 
 </div>

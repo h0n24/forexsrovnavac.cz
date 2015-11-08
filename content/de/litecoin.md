@@ -43,6 +43,10 @@ Man kann denken, dass der Wert von LTC steigen wird, nur dank der Kommunität, d
 
 {{/section}}
 
+- - -
+Versuchen Sie es mit Bitcoin-Handel mit [Binäre optionen](http://www.forexsrovnavac.cz/de/binareoptionen/) mit einem Makler [TopOption](http://blog.forexsrovnavac.cz/topoption.de "Topoption")
+- - - 
+
 {{section}}
 
 ## Wo kann man mit Litecoin handeln?

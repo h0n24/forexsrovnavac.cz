@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Ironfx recenzie a skúsenosti",
+    "title": "Ironfx recenzia a skúsenosti",
     "description": "",
     "keywords": "Ironfx"
   }
@@ -164,15 +164,9 @@ Pre všetkých obchodníkov je k dispozícii aj vzdelávanie v podobe akadémie,
 
 [Obchodné aplikácie](http://forexsrovnavac.cz/sk/Ironfx#section-4)
 
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
 - - -
-Výhody
-:   
+#### Výhody
+
 ![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vlastné český manažér
 
 ![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Až 3000 USD bonus ku vkladu
@@ -181,14 +175,18 @@ Výhody
 
 ![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     CFD Broker, Metatrader 4
 
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
+#### Nevýhody
+
 ![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Vhondý skôr pre profesionálov
 - - -
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
+
 <div class="container-fluid" markdown="1">
+- - -
+
 <a href="" alt="Demo účet" target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 

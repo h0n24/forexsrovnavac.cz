@@ -22,25 +22,47 @@ Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#se
 
 {{/start}}
 
-<div class="embed-responsive embed-responsive-16by9 embed-index-third">
+{{section}}
+<div class="row">
+<div class="col-md-4">
+<div class="embed-responsive embed-responsive-16by9 embed-index-third" style="width:100%">
   <iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=MostPopular&isNT=False&ly=Wide&th=Light&isRF=True"></iframe>
+
+
 </div>
-<div class="embed-responsive embed-responsive-16by9 embed-index-third">
-  <iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Forex&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
-</div>
-<div class="embed-responsive embed-responsive-16by9 embed-index-third">
+<div class="embed-responsive embed-responsive-16by9 embed-index-third" style="width:100%">
   <iframe width="370" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Commodities&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
 </div>
-<br>&nbsp;
-Zobrazované ceny jsou cenami rozdílových smluv (CFD), které nabízí Plus500, a NEJSOU tedy tržními cenami. Kurzy se zobrazují s cca 5 minutovým zpožděním
 
+<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
+ <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/10/plus500-forex-banner3.png" width="360
+" height="122"/>
+</a>
 
+<p>Zobrazované ceny jsou cenami rozdílových smluv (CFD), které nabízí Plus500 a FXpro, a NEJSOU tedy tržními cenami. Kurzy u plus500 se zobrazují s cca 5 minutovým zpožděním.</p>
+</div>
 
+<div class="col-md-4">
+  <iframe src="http://widgets.fxdevpro.com/en/Quotes/Live2" height="522px" width="365px" border="0" scrolling="no"></iframe>
+</div>
+<div class="col-md-4">
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?">
+<IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A>
+</NOSCRIPT>
+
+</div>
+</div>
 {{/section}}
-- - - 
-## Seznam forex Brokerů 
+
 {{section}}
-{{partial: table-brokeri}}
+
+## Seznam forex Brokerů 
+<br>
+{{partial: table-brokeri-horizontal}}
 
 {{/section}}
 {{section}}
@@ -48,66 +70,113 @@ Zobrazované ceny jsou cenami rozdílových smluv (CFD), které nabízí Plus500
 {{/section}}
 {{section}}
 - - -
-Nejnovější články na forexsrovnávač.cz
-:   
-<div class="row" style="width:92%">
-  <div class="col-md-6" markdown="1">
-Další Články o Binárních opcích: 
+### Nejnovější články na forexsrovnávač.cz
 
-[Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci)
-  
-[High/Low Binární opce](http://forexsrovnavac.cz/High-Low-opce)  
+<br>
 
-[Minutové opce](http://www.forexsrovnavac.cz/minutove-opce) 
+<div class="row">
+<div class="col-md-3" markdown="1">
 
-[Demo účty na bínarní opce](http://forexsrovnavac.cz/demo-ucet-na-binarni-opce)
+#### Články o forexu
 
-[Knihy o binárních opcích](http://forexsrovnavac.cz/knihy-na-binarni-opce)
+[Co je to forex](http://www.forexsrovnavac.cz/uvod-do-forexu)
 
-[Forex vs Binární opce](http://www.forexsrovnavac.cz/forex-vs-binarni-opce)
+[Jak začít obchodovat na forexu](http://www.forexsrovnavac.cz/jak-zacit-obchodovat-na-forexu)
 
-[Binární opce a daně](http://www.forexsrovnavac.cz/binarni-opce-a-dane) 
+[Forex obchodování online](http://www.forexsrovnavac.cz/forex-obchodovavani)
 
-[Binární opce - strategie](http://www.forexsrovnavac.cz/binarni-opce-strategie)
+[Demo účet](http://www.forexsrovnavac.cz/demo-ucet)
 
-[Jak vydělat peníze na internetu](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu)
-
-Články o Forexu
+<br>
 
 [Forex strategie](http://www.forexsrovnavac.cz/forex-strategie)
 
+[Technická analýza](http://www.forexsrovnavac.cz/technicka-analyza)
+
 [Money management](http://www.forexsrovnavac.cz/money-management)
 
-[Forex roboti](http://www.forexsrovnavac.cz/forex-roboti-aos)
+[Hedging](http://www.forexsrovnavac.cz/hedging)
 
-[Obchodování na forexu](http://www.forexsrovnavac.cz/jak-zacit-obchodovat-na-forexu)
+<br>
+
+[Forex roboti](http://www.forexsrovnavac.cz/forex-roboti-aos)
 
 [CFD obchodování](http://www.forexsrovnavac.cz/cfd-contract-for-difference)
 
 [Obchodní hodiny na burze](http://www.forexsrovnavac.cz/obchodni-hodiny-na-burze-a-forexu)
 
-  </div>
-  <div class="col-md-6" markdown="1">
-Recenze Brokerů:
+</div>
+  <div class="col-md-3" markdown="1">
+#### Články o binárních opcích
 
-[Topoption recenze - nejlepší Binární broker?](http://www.forexsrovnavac.cz/topoption "TopOption")
+[Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci "Druhy binárních opcí")
+  
+[High/Low binární opce](http://forexsrovnavac.cz/High-Low-opce "High Low opce")  
+
+[Minutové opce](http://www.forexsrovnavac.cz/minutove-opce "Minutové opce") 
+
+[Demo účty na bínarní opce](http://forexsrovnavac.cz/demo-ucet-na-binarni-opce "Binární opce demo účet")
+
+<br>
+
+[Knihy o binárních opcích](http://forexsrovnavac.cz/knihy-na-binarni-opce "Knihy na binární opce")
+
+[Forex vs Binární opce](http://www.forexsrovnavac.cz/forex-vs-binarni-opce "Forex vs binární opce")
+
+[Binární opce a daně](http://www.forexsrovnavac.cz/binarni-opce-a-dane "binární opce a daně")
+
+[Binární opce - strategie](http://www.forexsrovnavac.cz/binarni-opce-strategie "binární opce strategie")
+
+<br>
+
+[Jak vydělat peníze na internetu](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu)
+
+
+</div>
+<div class="col-md-3" markdown="1">
+
+#### Recenze binárních brokerů
+
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "Optiontime")
 
 [Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair")
 
-[Plus500 - bonus pro nováčky](http://www.forexsrovnavac.cz/plus500 "Plus500")
-
-[Zoomtrader - podvod?](http://www.forexsrovnavac.cz/zoomtrader)
-
-[ETX Capital - nejlepší broker?](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital")
+[Zoomtrader - podvod?](http://www.forexsrovnavac.cz/zoomtrader "Zoomtrader")
 
 [Onlyoption recenze](http://www.forexsrovnavac.cz/onlyoption "Onlyoption")
 
-Internetové peněženky:
+<br>
+
+[Topoption recenze - nejlepší Binární broker?](http://www.forexsrovnavac.cz/topoption "TopOption")
+
+[ETX Capital - nejlepší broker?](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital")
+
+
+
+</div>
+<div class="col-md-3" markdown="1">
+
+#### Recenze forex brokerů
+
+[Plus500 recenze](http://www.forexsrovnavac.cz/plus500 "plus500")
+
+[XM.com recenze](http://www.forexsrovnavac.cz/xm-xemarkets-com "xm.com")
+
+[Markets.com recenze](http://www.forexsrovnavac.cz/markets-com-recenze "Markets.com")
+
+[Ironfx recenze](http://www.forexsrovnavac.cz/Ironfx "Ironfx")
+
+<br>
+
+[Fxpro recenze](http://www.forexsrovnavac.cz/fxpro "Fxpro")
+
+<br>
+
+#### Internetové peněženky
 
 [Skrill recenze](http://www.forexsrovnavac.cz/skrill "Skrill")
 
-[Paypal recenze](http://www.forexsrovnavac.cz/paypal "Paypal ")
-
+[Paypal recenze](http://www.forexsrovnavac.cz/paypal "Paypal")
 
 </div>
 </div>

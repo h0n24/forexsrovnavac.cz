@@ -12,7 +12,7 @@
  <tr>
    <th class="span2"></th>
    <td class="span2"><a href="{{base-url}}hotforex" title="Link führt zur Website der Tschechischen">Hot Forex</a></td>
-   <td class="span2"><a href="{{base-url}}plus500" title="Link führt zur Website der Tschechischen">Plus 500</a></td>
+   <td class="span2"><a href="{{base-url}}de/plus500" title="Link führt zur Website der Tschechischen">Plus 500</a></td>
    <td class="span2"><a href="{{base-url}}xtb" title="Link führt zur Website der Tschechischen">X-Trade Brokers</a></td>
    <td class="span2"><a href="{{base-url}}patria-forex" title="Link führt zur Website der Tschechischen">Patria Forex</a></td>
    <td class="span2"><a href="{{base-url}}mayzus" title="Link führt zur Website der Tschechischen">Mayzus</a></td>
@@ -78,7 +78,7 @@
 <tr>
   <th>Bonus</th>
   <td>-</td>
-  <td><strong>Begrüßungsbonus 500 CZK</strong></td>
+  <td><strong>Begrüßungsbonus 25 Euro</strong></td>
   <td>-</td>
   <td>-</td>
   <td>-</td>

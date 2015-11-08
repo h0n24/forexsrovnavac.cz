@@ -52,27 +52,51 @@ Základní informace o zoomtrader:
 
 
 
+{{/section}}
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-Prověřený broker
-![topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otevřít účet](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Demo účet"){.btn .bnt-lg .btn-default}
+Bonusy na forexu:
+:    
+[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
+
+[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+
+[Demo účty](http://www.forexsrovnavac.cz/demo-ucet "Demo účet")
+
+Binární opce:
+:    
+[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
+
+[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
+
+[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
+
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
+
 
 </div>
 <div class="container-fluid" markdown="1">
-
 - - -
-</div>
-<div class="container-fluid" markdown="1">
 
-![Ukázka obchodu](http://s16.postimg.org/kwlkxzd75/1402286495_2.png)     **Vyšší minimální vklad**
 
 </div>
 <div class="container-fluid" markdown="1">
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D"  target="_blank">
+</div>
+<div class="container-fluid" markdown="1">
+
+
+
+</div>
+<div class="container-fluid" markdown="1">
+
+
+
+</div>
+<div class="container-fluid" markdown="1">
+<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 
 </a>
@@ -80,5 +104,3 @@ Prověřený broker
 </div>
 </div>
 </div>
-
-{{partial: ostatni-brokeri}}

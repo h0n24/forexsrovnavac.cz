@@ -13,6 +13,14 @@
         <li>
           <a href="{{url}}#section-1">Brokers Liste</a>
         </li>
+
+<li><a href="{{url}}forex-bonus-no-deposit">Forex Bonus</a></li>
+  <li>
+          <a href="{{url}}binareoptionen/">Binäre Optionen</a>
+        </li>
+ <li>
+          <a href="{{url}}plus500/">Plus500</a>
+        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>

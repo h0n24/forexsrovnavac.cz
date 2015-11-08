@@ -22,7 +22,7 @@
 
 {{section}}
 
-# Avis sur Plus500
+# Avis Plus500
 *Propre plate-forme en tchèque, plus de 1500 instruments d´investissement. Parler de Plus500 à vos amis. Plus500 est sur la liste du London Stock Exchange.  A noter que Plus500 est aussi enregistré auprès de la Banque de France et de l'AMF*
 
 Dans l´article d´aujourd´hui, nous vous apportons un compte rendu sur la Société **[**www.plus500.fr**](http://www.plus500.com/fr/StartTrading.aspx?id=66349&pl=2), qui a été fondée en 2008** et laquelle est actuellement un des principaux marchands et un des  fournisseurs principaux des contrats sur la différence (CFD)  dans notre marché.  Elle offre les conditions incomparables non seulement dans le commerce au Forex trading, mais vous pouvez l´utiliser aussi pour coomercialiser des produits tels que le pétrole brut, l´or ou l´argent, des indices ou des échanges mondiaux, et, par exemple, même de la monnaie virtuelle [Bitcoin](http://www.forexsrovnavac.cz/bitcoin/). 

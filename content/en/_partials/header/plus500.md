@@ -12,6 +12,8 @@
       <ul class="nav navbar-nav">
         <li>
           <a href="{{url}}#section-1">Brokers list</a>
+          <li><a href="{{url}}binary-options">Binary options</a></li>
+          <li><a href="{{url}}plus500">Plus500 review</a></li>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

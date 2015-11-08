@@ -28,11 +28,16 @@ V našem článku se proto podíváme na co nejširší škálu možností a zp�
 
 Další možností, jak vydělávat na internetu, je využívání vlastních webových stránek. Využít samozřejmě můžete svoje stávající stránky, či si za tímto účelem založit stránky nové. Vždy je samozřejmě lepší mít nějakou tu návštěvnost, a čím víc lidí na váš web chodí, tím lépe pro vás. Nezáleží však jen na množství návštěvníků, ale také na jejich věku, pohlaví a mnohých dalších aspektech.
 
-###Výdělek pomocí webových stránek
+<a href="http://www.plus500.com/cs/Promotions/Bonus.aspx?id=66349&tags=Vydélek&pl=2" target="_blank" title="Plus500"><img src="http://cdn.plus500.com/Media/Banners/728x90/12921.gif" width="728" height="90" border="0" alt="Plus500" /></a>
+
+
+##Výdělek pomocí webových stránek
 
 tento rychlý výdělek je samozřejmě založen na umístění reklamy, tedy pokud nevlastníte e-shop. Reklamu, která by byla umístěná na váš web, si samozřejmě můžete shánět mnohými způsoby. Asi nejtěžší způsob je shánět si inzerenty sám, pak jde v podstatě o běžné obchodování a hledání někoho, kdo by měl zájem u vás inzerovat. Existují však i jednodušší způsoby, jak si sehnat inzerenty.
 
 Nejjednodušším způsobem je systém [Google AdSense](https://www.google.com/adsense). U něj vám stačí umístit si na svých stránkách skript, který bude automaticky vyhledávat a zobrazovat relevantní reklamy. Jak již bylo řečeno, Google AdSense funguje automaticky, sám tedy analyzuje obsah vašich stránek a podle své vlastní analýzy zobrazuje reklamy partnerů. 
+
+
 
 ###Jak to funguje?
 
@@ -145,49 +150,39 @@ Každý z nás by si měl hlavně zapamatovat, že štěstí přeje připravený
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Výdělek na forexu:
-:    
+#### Bonusy na forexu
+
 [500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
 
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
 
-Binární opce:
-:    
+[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
+
+<br>
+
+#### Binární opce
+
 [Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
 
 [Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
 
 [ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
 
-[Onlyoption recenze](http://www.forexsrovnavac.cz/onlyoption "Onlyoption recenze")
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
 
 
 </div>
-<div class="container-fluid" markdown="1">
+
+
 - - -
 
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
 
-</div>
-<div class="container-fluid" markdown="1">
+- - -
 
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
 </a>
 
 </div>
 </div>
-</div>
-

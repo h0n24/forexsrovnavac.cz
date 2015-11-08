@@ -48,6 +48,8 @@
   <!--<link href="<?= BASE_URL ?>assets/css/font-awesome.min.css" rel="stylesheet">-->
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
+  <link href="<?= BASE_URL ?>assets/css/table-brokeri.min.css" rel="stylesheet">
+
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -88,6 +90,7 @@ foreach($files as $file) {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-smooth-scroll/1.5.5/jquery.smooth-scroll.min.js" data-no-instant></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" data-no-instant></script>
 <script src="http://www.forexsrovnavac.cz/assets/js/min/03-app.min.js" data-no-instant></script>
+<script src="http://www.forexsrovnavac.cz/assets/js/min/04-table-brokeri.js" data-no-instant></script>
 <script src="http://www.forexsrovnavac.cz/assets/js/min/04-user-scripts.min.js" data-no-instant></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/instantclick/3.0.1/instantclick.min.js" async></script>
 </body>

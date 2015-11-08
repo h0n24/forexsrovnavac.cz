@@ -2,11 +2,7 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Descubra el futuro
-
-Empieza a operar con la moneda virtual que cambiará el mundo.
-
-Bono de bienvenida de 25 €
+# Evolucion del bitcoin
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

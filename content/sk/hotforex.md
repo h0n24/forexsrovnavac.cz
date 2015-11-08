@@ -210,6 +210,8 @@ HotForex ponúka všetkým svojim zákazník demo účet zdarma, ktorý nie je o
 
 - - -
 </div>
+<div class="container-fluid" markdown="1">
+
 #### Výhody
 
 ![Ukážka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Kompletne v Češtine**
@@ -223,14 +225,20 @@ HotForex ponúka všetkým svojim zákazník demo účet zdarma, ktorý nie je o
 ![Ukážka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **ECN / STP plnenia príkazov (no dealing desk)**
 
 - - -
-<div class="container-fluid" markdown="1">
+
 #### Nevýhody
 
 ![Ukážka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     **Vyšší minimálny vklad**
 - - -
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 <div class="container-fluid" markdown="1">
-####Náš Tip
+
+- - -
+
+#### Náš Tip
 Začať môžete už s $ 5 a 50% bonusom na každý vklad. Spoločnosť HotForex ponúka pre každého nového klienta **100%** bonus na první vklad. bonus na prvý vklad. Stačí len potvrdiť telefón a dokumenty. [Viac informácií o Bonusu](https://www.hotforex.com/?refid=26283)
 - - -
 <a href="https://www.hotforex.com/?refid=26283"  target="_blank">

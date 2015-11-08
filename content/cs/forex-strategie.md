@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Forex strategie - jak obchodovat forex",
+    "title": "Obchodní Forex strategie - jak obchodovat forex",
     "description": "",
     "keywords": "Forex strategie"
   }
@@ -18,7 +18,7 @@
 
 Jak můžete obchodovat – základní forex strategie
 
-:   Dá se říci, že existují dvě základní investiční strategie. Jsou jimi spekulace na růst ceny a spekulace na pokles ceny. Nyní si je vysvětlíme podrobněji.
+:   Dá se říci, že existují dvě základní obchodní strategie na forexu. Jsou jimi spekulace na růst ceny a spekulace na pokles ceny. Nyní si je vysvětlíme podrobněji.
 
 
 Spekulace na růst ceny
@@ -80,48 +80,39 @@ Money management rozložíme na dvě části:
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Výdělek na forexu:
-:    
+#### Bonusy na forexu
+
 [500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
 
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
 
-Binární opce:
-:    
+[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
+
+<br>
+
+#### Binární opce
+
 [Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
 
 [Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
 
 [ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
 
-[Onlyoption recenze](http://www.forexsrovnavac.cz/onlyoption "Onlyoption recenze")
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
 
 
 </div>
-<div class="container-fluid" markdown="1">
+
+
 - - -
 
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
 
-</div>
-<div class="container-fluid" markdown="1">
+- - -
 
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
 </a>
 
-</div>
 </div>
 </div>

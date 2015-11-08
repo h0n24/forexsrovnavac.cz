@@ -15,12 +15,20 @@
             <span class="hidden-sm hidden-md">Forex <b class="caret"></b></span><span class="visible-sm visible-md">Forex</span>
           </a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-zacit-obchodovat-na-forexu">Obchodování na forexu</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}uvod-do-forexu">Úvod do Forexu</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-zacit-obchodovat-na-forexu">Jak začít na forexu</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-obchodovavani">Obchodování na forexu</a></li>   
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-prikazy-na-forexu">Příkazy na Forexu</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet">Demo účet</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-strategie">Forex Strategie</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}technicka-analyza">Technická analýza</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}money-management">Money Management</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}cfd-contract-for-difference">CFD obchodování</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}cfd-contract-for-difference">CFD obchodování</a></li>     
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-hodiny-na-burze-a-forexu">Obchodní hodiny</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}hedging">Co je to hedging</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}10-pravidel-pro-uspesne-obchodovani-na-forexu">10. pravidel pro Forex</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}rizika-obchodovani-na-forexu">Rizika obchodovaní</a></li>
           </ul>
         </li>
         <li><a href="{{url}}forex-bonus-no-deposit-bez-vkladu" class="hidden-sm">Bonus</a></li>
@@ -29,17 +37,21 @@
             <span class="hidden-sm hidden-md">Brokeři <b class="caret"></b></span><span class="visible-sm visible-md">Brokeři</span>
           </a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}fxpro">Fxpro</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}plus500">Plus500</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}highsky-brokers">Highsky</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}xm-xemarkets-com">Xemarkets (XM.com)</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}hotforex">Hotforex</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}markets-com-recenze">Markets.com</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}etoro-recenze">Etoro</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}Ironfx">IronFX</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}instaforex">Instaforex</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}xm-xemarkets-com">Xemarkets (XM.com)</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bossa">Bossa</a></li>
             <li class="divider"></li>
             <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární brokeři</strong></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}topoption">TopOption</a></li> 
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}optiontime">OptionTime</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}onlyoption">OnlyOption</a></li>               
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}etx-capital-zkusenosti">ETX Capital</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}stockpair-recenze">Stockpair</a></li>
@@ -54,9 +66,9 @@
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm hidden-md">Opce<b class="caret"></b></span><span class="visible-sm visible-md">Opce</span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
             <li role="presentation" class="visible-sm"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce">Binární opce</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}druhy-binarnich-opci">Druhy Binárních opcí</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-strategie">Strategie pro Binární opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-vybrat-binarniho-brokera">Jak vybrat binárního brokera</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}druhy-binarnich-opci">Druhy Binárních opcí</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}High-Low-opce">High / Low opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}minutove-opce">Minutové opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet-na-binarni-opce">Binární opce - demo účet</a></li>
@@ -64,8 +76,10 @@
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-vs-binarni-opce">Forex vs Binární opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-a-dane">Binární opce a daně</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-podvod">Binární opce podvod</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binary-bot-pro">BinaryBotPro</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}optionavigator-recenze">Optionavigator</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}miroslav-kadlec-a-binarni-opce">Miroslav Kadlec</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binary-bot-pro">BinaryBotPro recenze</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}optionavigator-recenze">Optionavigator recenze</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}pracuj-online-podvod">PracujOnline recenze</a></li>
           </ul>
         </li>
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>

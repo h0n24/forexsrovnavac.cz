@@ -44,7 +44,7 @@ Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo
 - - -
 ![24winner.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/2015-04-30-16_00_25-24Winner-%E2%80%93-Option-%E2%80%93-Your-Winning-Option-for-Trading-Binary-Options.png) 
 {{section}}
-*Proč obchodovat binární opce s 24winner.com*
+*Proč [obchodovat binární opce](http://www.forexsrovnavac.cz/binarni-opce) s 24winner.com*
 :    
      Zavedená a stabilní značka na trhu s binárními opcemi
 
@@ -123,6 +123,16 @@ Minimální vklad tedy činí 200 dolarů. Minimální obchod pak můžete uskut
 
 
 {{/section}}
+
+###Konkurenční brokeři na binární opce
+
+[Topoption – Nejlepší broker na binární opce? (CZ)](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
+
+[ETX capital – Největší výnosy na trhu  (CZ)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenze")
+
+[Stockpair – Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
+
+[Optiontime – Více druhů opcí (CZ)](http://www.forexsrovnavac.cz/optiontime "Optiontime recenze")
 
 
 {{section}}

@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Forex obchodovanie, Najlepšie Forex Brokeri - porovnanie a recenzie",
+    "title": "Najlepšie forex brokeri - porovnanie a recenzie",
     "description": "",
     "keywords": ""
   }
@@ -20,10 +20,43 @@ My vám pomôžeme s výberom. Porovnanie a hodnotenie Forex brokerov rýchlo a 
 {{/start}}
 
 {{section}}
+<div class="row">
+<div class="col-md-4">
+<div class="embed-responsive embed-responsive-16by9 embed-index-third" style="width:100%">
+  <iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=MostPopular&isNT=False&ly=Wide&th=Light&isRF=True"></iframe>
+</div>
+<div class="embed-responsive embed-responsive-16by9 embed-index-third" style="width:100%">
+  <iframe width="380" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Forex&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
+</div>
+<div class="embed-responsive embed-responsive-16by9 embed-index-third" style="width:100%">
+  <iframe width="370" height="135" frameborder="0" scrolling="no" src="http://marketools.plus500.com/Widgets/FeedsAffiliatesOneTabContainer?hl=cs&cty=GB&id=66349&tags=widg&pl=2&cat=Commodities&isNT=False&ly=Wide&th=Light&isRF=False"></iframe>
+</div>
+
+<p>Zobrazované ceny jsou cenami rozdílových smluv (CFD), které nabízí Plus500, a NEJSOU tedy tržními cenami. Kurzy se zobrazují s cca 5 minutovým zpožděním.</p>
+</div>
+
+<div class="col-md-4">
+  <iframe src="https://widgets-m.fxpro.com/en/statistics/price-quotes/1?ref=www.fxpro.co.uk" height="473px" width="100%" border="0" scrolling="no" style="border:none"></iframe>
+</div>
+<div class="col-md-4">
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?">
+<IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A>
+</NOSCRIPT>
+
+</div>
+</div>
+{{/section}}
+
+
+{{section}}
 
 ## Zoznam brokerov
 
-{{partial: table-brokeri}}
+{{partial: table-brokeri-horizontal}}
 
 {{/section}}
 
@@ -35,11 +68,11 @@ My vám pomôžeme s výberom. Porovnanie a hodnotenie Forex brokerov rýchlo a 
 {{section}}
 
 
-Najnovšie články na forexsrovnávač.cz
-:   
-<div class="row" style="width:92%">
-  <div class="col-md-6" markdown="1">
-Ďalšie Články o binárny opciách: 
+### Najnovšie články na forexsrovnávač.cz
+
+<div class="row">
+<div class="col-md-3" markdown="1">
+#### Články o binárnych opciách 
 
 [Druhy binárnych opcií](http://forexsrovnavac.cz/sk/druhy-binarnych-opcii)
   
@@ -49,6 +82,8 @@ Najnovšie články na forexsrovnávač.cz
 
 [Demo účty na Binárne opcie](http://forexsrovnavac.cz/sk/demo-ucet-na-binarne-opcie)
 
+<br>
+
 [Knihy o binárnych opciách](http://forexsrovnavac.cz/sk/knihy-na-binarne-opcie)
 
 [Forex vs Binárne opcie](http://www.forexsrovnavac.cz/sk/forex-vs-binarne-opcie)
@@ -57,9 +92,13 @@ Najnovšie články na forexsrovnávač.cz
 
 [Binárne opcie - stratégia](http://www.forexsrovnavac.cz/sk/binarne-opcie-strategie)
 
+<br>
+
 [Ako zarobiť peniaze na internete](http://www.forexsrovnavac.cz/sk/ako-zarobit-peniaze-na-internete)
 
-Články o Forexe
+</div>
+<div class="col-md-3" markdown="1">
+#### Články o Forexe
 
 [Forex stratégie](http://www.forexsrovnavac.cz/sk/forex-strategie)
 
@@ -67,17 +106,17 @@ Najnovšie články na forexsrovnávač.cz
 
 [Forex roboti](http://www.forexsrovnavac.cz/sk/forex-roboti-aos)
 
-[Obchodovanie na forexu](http://www.forexsrovnavac.cz/sk/ako-zacat-obchodovat-na-forexu)
+[Obchodovanie na forexu](http://www.forexsrovnavac.cz/sk/forex-obchodovanie)
+
+<br>
 
 [CFD obchodovanie](http://www.forexsrovnavac.cz/sk/cfd-contract-for-difference)
 
 [Obchodné hodiny na burze](http://www.forexsrovnavac.cz/sk/obchodne-hodiny-na-burze-a-forexu)
 
-  </div>
-  <div class="col-md-6" markdown="1">
-Recenze Brokerů:
-
-[Topoption recenzie - najlepšie Binárne broker?](http://www.forexsrovnavac.cz/sk/topoption "TopOption")
+</div>
+<div class="col-md-3" markdown="1">
+#### Recenze brokerů
 
 [Stockpair recenzie](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair")
 
@@ -87,9 +126,16 @@ Recenze Brokerů:
 
 [ETX Capital - najlepší broker?](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital")
 
+<br>
+
+[Topoption recenzie - najlepšie Binárne broker?](http://www.forexsrovnavac.cz/sk/topoption "TopOption")
+
 [Onlyoption recenzie](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption")
 
-Internetové peněženky:
+</div>
+<div class="col-md-3" markdown="1">
+
+#### Internetové peněženky
 
 [Skrill recenzie](http://www.forexsrovnavac.cz/sk/skrill "Skrill")
 

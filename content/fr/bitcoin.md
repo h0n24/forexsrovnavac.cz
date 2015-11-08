@@ -11,6 +11,10 @@
 
 {{section}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
 ## Trader en monnaie virtuelle Bitcoin
 
 Vous avez certainement remarqué le mois dernier l'augmentation de l'attention portée à la monnaie virtuelle Bitcoin. Le but de cet article n'est pas de décrire le fonctionnement de cette monnaie virtuelle, nous ne nous occupons pas de son histoire ou du « Bitcoin mining », nous ne donnerons pas de Bitcoins gratuitement. Cet article est plutôt axé sur les possibilités de sa négociation sur les marchés boursiers, en tant que produit d'investissement, qui est actuellement en train d'exploser et qui offre chaque jour des opportunités d'investissement intéressantes.

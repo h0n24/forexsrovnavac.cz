@@ -46,7 +46,7 @@ Nejnižší spready na trhu, od 0.1 pips a dále široká paleta investiční n�
 
 ##Základní informace o online brokerovi Hotforex:
 
-| Web:     | [www.hotforex.com ](https://www.hotforex.com/?refid=26283)  |
+| Web:     | [www.hotforex.com ](https://www.hotforex.com)  |
 | ---------------- | ------------- |
 | **Typ brokera:**   | ECN, STP  |
 | **Minimální velikost pozice:** | Mikro loty od 0,01 lotu|
@@ -98,7 +98,6 @@ Také tyto společnosti **neumožňují skalping**, protože pokud se nepodaří
 **Takový broker je potom přímo vysazený na to aby jste ztráceli**,protože vaše ztráta,je jeho zisk.
 **Hotforex takto nefunguje** a proto je rád když klient vydělává protože tím vydělává i on.
 
-[Více o Hotforex](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-primary}
 - - -
 ## Obchodní účty u hotforexu
 Minimální deposit pro Micro a Islamic účet - pouze $5
@@ -186,59 +185,51 @@ PAMM účty
 ##Demo účet
 Hotforex nabízí všem svým zákazník demo účet zdarma, který není omezen žádným časovým limitem. V demo účtu máte skutečné tržní podmínky -  všechno je stejné jako za skutečných obchodních podmínek. Naučíte se tak všechny funkce platformy mt4, bez toho abyste museli riskovat svůj kapitál
 
-[Stáhněte si demo účet zdarma](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-primary}
+
 - - -
 ### Ukázka Platformy
 
 ![Ukázka obchodu](http://s28.postimg.org/s8v449xdp/sta_en_soubor.jpg)
 
 
+{{/section}}
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-![hotforex](http://s9.postimg.org/nxqx2apjf/hpt.jpg)  
+#### Bonusy na forexu
 
-[Otevřít účet](https://www.hotforex.com/?refid=26283 "Registrace") {.btn .bnt-lg .btn-primary} [Demo](https://www.hotforex.com/?refid=26283 "Demo účet"){.btn .bnt-lg .btn-default}
+[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
+
+[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+
+[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
+
+<br>
+
+#### Binární opce
+
+[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
+
+[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
+
+[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
+
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
+
 
 </div>
-<div class="container-fluid" markdown="1">
-- - -
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" width="270" height="250"/>
-</a>
 
 - - -
-</div>
-#### Výhody
 
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Kompletně v Češtině**
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Nízké spready**
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **100% bonus na vklad**
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Pokročilé obchodní nástroje**
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **ECN / STP plnění příkazů (no dealing desk)**
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
 
 - - -
-<div class="container-fluid" markdown="1">
-#### Nevýhody
 
-![Ukázka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     **Vyšší minimální vklad**
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-####Náš Tip
-Začít můžete již s $5 a 50% bonusem na každý vklad. Společnost Hotforex nabízí pro každého nového klienta **100%** bonus na první vklad. Stačí pouze potvrdit telefon a dokumenty. [Více informací o Bonusu](https://www.hotforex.com/?refid=26283)
-- - -
-<a href="https://www.hotforex.com/?refid=26283"  target="_blank">
+<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 </a>
-</div>
-</div>
-</div>
 
-{{partial: ostatni-brokeri}}
+</div>
+</div>

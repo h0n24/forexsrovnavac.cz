@@ -23,16 +23,6 @@
 
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-TopOption recenze
-:    
-Topoption nabízí obchodování **binárních opcí na akcie, forex i komodity, nechybí ani virtuální měny jako bitcoin**. Recenze bude zaměřená hlavně na platformu TopOption. Zaměříme se na demo účet a investiční nástroje, které je možné u TopOption obchodovat .
-
-Top Option je obchodníky využíván hlavě na obchodování binárních opcí. Sídlo má na Kypru, kde je pod dohledem **Kyperské komise pro cenné papíry a burzu (CySEC)**. Z toho vyplývá jedna zásadní skutečnost, vaše vklady na obchodní účet jsou pojištěny až do výše 20 tisíc Eur.
-
-
-[Více o Topoption](http://blog.forexsrovnavac.cz/topoption "TopOption") {.btn .bnt-lg .btn-primary}
-</div>
-  <div class="col-md-6" markdown="1">
 o TopOption.com
 :    
 Pro české obchodníky je TopOption zajímavý především proto, že nabízí **platformu v českém jazyce**, což je mezi makléři binárních opcí výjimečný jev. Nulovou jazykovou bariéru potvrzuje i možnost komunikovat s českým manažerem, který vám určitě odpoví na vaše dotazy i požadavky.** TopOption je regulovaný v EU** (včetně licencí ČNB a SNB), má obchodní platformu v češtině a také českého manažera. 
@@ -48,6 +38,20 @@ Pro české obchodníky je TopOption zajímavý především proto, že nabízí
 [Obchodní platforma TopOption](http://forexsrovnavac.cz/topoption#section-4)
 
 [Demo účet](http://forexsrovnavac.cz/topoption#section-5)
+
+
+</div>
+  <div class="col-md-6" markdown="1">
+
+recenze TopOption.com
+:    
+Topoption nabízí obchodování **binárních opcí na akcie, forex i komodity, nechybí ani virtuální měny jako bitcoin**. Recenze bude zaměřená hlavně na platformu TopOption. Zaměříme se na demo účet a investiční nástroje, které je možné u TopOption obchodovat .
+
+Top Option je obchodníky využíván hlavě na obchodování binárních opcí. Sídlo má na Kypru, kde je pod dohledem **Kyperské komise pro cenné papíry a burzu (CySEC)**. Z toho vyplývá jedna zásadní skutečnost, vaše vklady na obchodní účet jsou pojištěny až do výše 20 tisíc Eur.
+
+
+[Více o Topoption](http://blog.forexsrovnavac.cz/topoption "TopOption") {.btn .bnt-lg .btn-primary}
+
 
 </div>
 </div>
@@ -164,8 +168,8 @@ TopOption je vhodným brokerem i pro začínající obchodníky. V multimediáln
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-Prověřeny broker
-![topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
+
+![topoption](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/09/TopOption_Logo.png)  
 
 [Otevřít účet](http://blog.forexsrovnavac.cz/topoption "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 

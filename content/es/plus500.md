@@ -3,9 +3,9 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 opiniones -  Consejos Trading y Bonus de 25 € ",
+    "title": "Plus500 opiniones -  broker plus 500 y Bonus de 25 €",
     "description": "",
-    "keywords": "Plus500 opiniones, Plus 500, Plus500, Plus500"
+    "keywords": "Plus500 opiniones, Plus 500, Plus500,"
   }
 {{/settings}}
 
@@ -17,17 +17,17 @@
 # Plus500 opiniones 
 *Propia plataforma en español, Pase la voz sobre Plus500, más de 1500 herramientas de inversión. Plus500 cotiza en la Bolsa de Valores de Londres*
 
-En el artículo de hoy les brindamos las reseñas de la Sociedad **[www.plus500.es](http://blog.forexsrovnavac.cz/plus500cz) que fue fundada en el año 2008** y en la actualidad es un líder de negocios y prestador de contratos sobre diferencias (CFD) en nuestro mercado. Así ofrece unas condiciones inigualables no sólo al negociar en el Forex sino que lo podrán utilizar en el **comercio de las materias primas como el petróleo, el oro o la plata**, los índices de las bolsas mundiales y, por ejemplo, la moneda virtual  [Bitcoin](http://www.forexsrovnavac.cz/es/bitcoin/). 
+En el artículo de hoy les brindamos las reseñas de la Sociedad **[www.plus500.es](http://blog.forexsrovnavac.cz/plus500.es) que fue fundada en el año 2008** y en la actualidad es un líder de negocios y prestador de contratos sobre diferencias (CFD) en nuestro mercado. Así ofrece unas condiciones inigualables no sólo al negociar en el Forex sino que lo podrán utilizar en el **comercio de las materias primas como el petróleo, el oro o la plata**, los índices de las bolsas mundiales y, por ejemplo, la moneda virtual  [Bitcoin](http://www.forexsrovnavac.cz/es/bitcoin/). 
 
 Plus500 ha desarrollado y opera en línea con la plataforma mercantil para clientes minoristas, gracias a lo cual pueden negociar fácilmente con CFD a nivel internacional, ofreciéndoles más de 1700 diferentes herramientas financieras globales que incluyen acciones, ETF, mercado de divisas, índices y materias primas. El grupo permite a los inversores desarrollar sus negocios en más de **50 países del mundo**. La plataforma comercial es accesible desde más de un sistema operativo Windows, los teléfonos inteligentes **(iOS y Android) y tablets (iOS y Android)** y asimismo permite negociar con la ayuda de la aplicación web.
 
-Plus500 le ofrece 25€ a su cuenta real sólo por registrarse.  [Prueben negociar realmente](http://blog.forexsrovnavac.cz/plus500cz), sin necesidad de ingreso.
+Plus500 le ofrece 25€ a su cuenta real sólo por registrarse.  [Prueben negociar realmente](http://blog.forexsrovnavac.cz/plus500.es), sin necesidad de ingreso.
 
 Este bono es realmente para todo el mundo – sin ninguna pega ni fraude. Sencillamente con su primer registro conseguirán esta cantidad de forma totalmente gratuita sin ninguna condición. No se trata de ningún ingreso primario, el bono lo conseguirán realmente sólo por registrarse. Todo lo pueden probar sencillamente y pueden empezar a negociar ya en 5 minutos. [¡Aquí adjuntamos las instrucciones completas! ](http://www.plus500.com/es/Promotions/Bonus.aspx?id=66349&pl=2)
 
 Plus500 quiere ser el número uno entre las plataformas CFD y aquí indica sus motivos:
 
-[Mira la aplicación empresarial Plus500](http://blog.forexsrovnavac.cz/plus500cz "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Mira la aplicación empresarial Plus500](http://blog.forexsrovnavac.cz/plus500.es) {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 
 1. Plus500 garantiza el stop loss
@@ -38,7 +38,7 @@ Plus500 quiere ser el número uno entre las plataformas CFD y aquí indica sus m
 
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [www.plus500.es](http://blog.forexsrovnavac.cz/plus500cz) |
+| Web:     |   [www.plus500.es](http://blog.forexsrovnavac.cz/plus500.es) |
 | ---------------- | ------------- |
 | **Tipo de agente:**   | STP  |
 | **País de origen**   | Inglaterra  |
@@ -60,7 +60,7 @@ Plus500 quiere ser el número uno entre las plataformas CFD y aquí indica sus m
 </div>
 </div>
 
-[Bonificación de 25€](http://blog.forexsrovnavac.cz/plus500cz "registro") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Bonificación de 25€](http://blog.forexsrovnavac.cz/plus500.es "registro") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 - - -
 
 {{section}}
@@ -82,7 +82,7 @@ Consejos y trucos
 
 **CONSEJO 5:**  En caso de que sean principiantes, descárguense primero la [cuenta demo plus500](http://forexsrovnavac.cz/es/plus500#section-4), negociando después en la cuenta real con un depósito entre 100 Euro; si están empezando no vale la pena invertir más dado que pueden negociar ya desde las 100 coronas en más negocios. En caso de que tengan éxito, generarán su capital con negocios exitosos.
 
-<pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>CONSEJO 6:</strong> <a href="http://blog.forexsrovnavac.cz/plus500cz">Bono de bienvenida, consigan el bono por el valor de 25€ para negocios reales </a> en plus500.cz</span></span></pre>
+<pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>CONSEJO 6:</strong> <a href="http://blog.forexsrovnavac.cz/plus500.es">Bono de bienvenida, consigan el bono por el valor de 25€ para negocios reales </a> en plus500.cz</span></span></pre>
 - - -
 ![plus500](http://recenzeplus500.cz/wp-content/uploads/2014/08/plsssss5001.png)
 {{/section}}
@@ -110,7 +110,7 @@ La empresa ofrece **Contract for Difference** (CFD), servicios de distintas herr
 5.	Ayuda en línea y asistencia del equipo de apoyo
 
 
-[Descargar una cuenta de demostración gratuita](http://blog.forexsrovnavac.cz/plus500cz "cuenta Demo"){.btn .bnt-lg .btn-primary}
+[Descargar una cuenta de demostración gratuita](http://blog.forexsrovnavac.cz/plus500.es "cuenta Demo"){.btn .bnt-lg .btn-primary}
 {{/section}}
 - - -
 {{section}}
@@ -173,7 +173,7 @@ No obstante, también el control de su cuenta sigue siendo fácil y claro. **PLU
 
 ![el comercio de la muestra](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
 
-[¡Comience Ahora](http://blog.forexsrovnavac.cz/es/plus500cz "registro") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/plus500cz "cuenta Demo"){.btn .bnt-lg .btn-default}
+[¡Comience Ahora](http://blog.forexsrovnavac.cz/plus500.es "registro") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/plus500.es "cuenta Demo"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -
@@ -219,7 +219,7 @@ No obstante, también el control de su cuenta sigue siendo fácil y claro. **PLU
 - - -
 </div>
 <div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
+<a href="http://blog.forexsrovnavac.cz/plus500.es"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/2015-04-02-16_02_25-Plus500-_-Invierta-en-materias-primas-con-en-Plus500-_-¡Invierta-en-petróleo-or1.png" width="" height=""/>
 
 </a>

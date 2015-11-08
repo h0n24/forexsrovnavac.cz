@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Forex bonus no deposit - bonus bez nutnosti vkladu",
+    "title": "Forex No Deposit Bonus - peniaze bez nutnosti vkladu",
     "description": "",
     "keywords": "Forex bonus no deposit"
   }
@@ -20,7 +20,7 @@ S bonusom môžete obchodovať nielen na Forexe, na obchodovanie môžete využi
 Ak si chce človek vyskúšať, ako sa obchoduje na forexovom trhu skrze daného brokera, potom môže využiť dve možnosti ako získať bonus pri registrácii od brokera. Prvý z nich je demo účet a druhú z nich je Forex bonus no deposit, teda bonus pripísaný na váš účet aj bez vášho vkladu.
 
 - - -
-[25 Euro Bonus k účtu u plus500.cz](http://blog.forexsrovnavac.cz/sk/plus500cz "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[25 Euro Bonus k účtu u plus500.sk](http://blog.forexsrovnavac.cz/sk/plus500cz "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 Bonus 25 Euro u brokera Plus500
 

@@ -3,10 +3,10 @@
    <div class="well">
       <div class="row">
          <div class="col-md-3">
-            <a href="{{url}}hotforex">
+            <a href="{{url}}highsky-brokers">
                <div class="logo">
-                  <img src="{{img-url}}loga/hot150.png" class="img-responsive">
-                  <span>Hot Forex</span>
+                  <img src="{{img-url}}loga/hsky150.png" class="img-responsive">
+                  <span>Highsky Brokers</span>
                </div>
             </a>
          </div>
@@ -31,16 +31,6 @@
                <div class="logo">
                   <img src="{{img-url}}loga/pat150.png" class="img-responsive">
                   <span>Patria Forex</span>
-               </div>
-            </a>
-         </div>
-      </div>
-      <div class="row">
-         <div class="col-md-3">
-            <a href="{{url}}mayzus">
-               <div class="logo">
-                  <img src="{{img-url}}loga/may150.png" class="img-responsive">
-                  <span>Mayzus</span>
                </div>
             </a>
          </div>

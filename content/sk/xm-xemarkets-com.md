@@ -141,10 +141,15 @@ Nevýhody
 
 ![Len Anglický](http://s16.postimg.org/kwlkxzd75/1402286495_2.png)     **Vyšší minimálny vklad**
 
+- - -
 </div>
-<div class="container-fluid" markdown="1">
 
-####Náš Tip
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
+<div class="container-fluid" markdown="1">
+- - -
+
+#### Náš Tip
 Spoločnosť Xemarkets ponúka forex turnaja, kde obchoduje na demo účtoch a môžete vyhrať veľmi lákavé ceny. Výhry z arény možné kedykoľvek vybrať alebo použiť pre reálne obchodovanie. [Viac informácií o Aréne](http://blog.forexsrovnavac.cz/sk/xm.com)
 - - -
 <a href="http://blog.forexsrovnavac.cz/sk/xm.com" alt="Demo účet" target="_blank">

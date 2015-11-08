@@ -127,28 +127,33 @@ Prověřeny broker
 </div>
 <div class="container-fluid" markdown="1">
 
-Výhody
+#### Výhody
 
 ![Kompletně v Češtině](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Forex aréna**
 
 ![Vhodný i pro profesionály](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Vhodný i pro profesionály**
 
 - - -
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
+
+#### Nevýhody
 
 ![Pouze Angličtina](http://s16.postimg.org/kwlkxzd75/1402286495_2.png)     **Vyšší minimální vklad**
 
+- - -
+
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 <div class="container-fluid" markdown="1">
 
-####Náš Tip
+- - -
+
+#### Náš Tip
 Společnost Xemarkets nabízí forex turnaje, kde obchoduje na demo účtech a můžete vyhrát velice lákavé ceny. Výhry z arény lze kdykoliv vybrat nebo použít pro reálné obchodování. [Více informací o Aréně](http://blog.forexsrovnavac.cz/xm.com)
 - - -
 <a href="http://blog.forexsrovnavac.cz/xm.com" alt="Demo účet" target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
 </a>
 
 </div>

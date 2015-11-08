@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Markets.com recenze a zkušenosti s cfd brokerem",
+    "title": "Markets.com - recenze a zkušenosti",
     "description": "",
-    "keywords": "Markets"
+    "keywords": "Markets.com, Markets.com recenze"
   }
 {{/settings}}
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -21,7 +21,7 @@
 
 {{section}}
 
-# Markets.com - hodnocení a recenze
+# Markets.com recenze
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
 O Markets.com
@@ -34,7 +34,7 @@ Při svém obchodování můžete používat až čtyři různé platformy nabí
 
 </div>
   <div class="col-md-6" markdown="1">
-Provozovatel
+Markets.com recenze
 :    
 Provozovatelem brokera [www.markets.com](http://blog.forexsrovnavac.cz/markets.com) je společnost Afecap Investments Limited sídlící jako většina brokerských společností na Kypru. Broker je řádně licencovaným makléřem podléhající regulaci Kyperské komisi pro cenné papíry (CySEC). Markets.com také podléhá regulaci úřadu FSA (Financial Conduct Authority) a MiFID. 
 
@@ -171,7 +171,15 @@ Nevýhody
 :   
 ![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Demo účet není neomezenený
 - - -
+
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
+<div class="container-fluid" markdown="1">
+
+- - -
+
 <div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/markets.com" alt="Demo účet" target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
@@ -187,4 +195,4 @@ Markets nabízí až 2500 USD bonus k novému vkladu [Více informací o Bonusu]
 </div>
 </div>
 </div>
-
+</div>

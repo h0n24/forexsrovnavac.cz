@@ -21,7 +21,7 @@
 
 
 
-# ETX Capital recenze a zkušenosti
+# ETX Capital recenzie
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
 ETX Binary recenzia

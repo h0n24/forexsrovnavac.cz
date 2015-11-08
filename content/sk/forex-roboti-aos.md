@@ -68,38 +68,22 @@ Tiež sám priebežne aktualizuje a upravuje svoje nastavenia tak, aby prináša
 Forex robot priebežne sám optimalizuje a upravuje svoje nastavenie tak, aby dosahoval čo najlepších obchodných výkonov v každom okamihu s ohľadom na maximálnu výnos a minimalizáciu rizík sám rozhoduje o tom, s ako vysokou pozíciou do ktorého obchodu pôjde trhy sleduje "zhora", analyzuje ich vývoj a ich vplyv na dianie na Forexe, a podľa toho upravuje svoje obchodné správanie podľa situácie na trhoch sa sám rozhoduje, kde sú pre neho najpriaznivejšie podmienky a ktorý menový pár bude obchodovať.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Bonusy na forexu:
-:    
+#### Bonusy na forexu
+
 [500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
 
 [30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
 
 [25 USD u markets.com](http://www.forexsrovnavac.cz/sk/markets-com-recenzia "markets.com")
 
-Binárne opcie:
-:    
+<br>
+
+#### Binárne opcie
+
 [Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
 
 [Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
@@ -108,35 +92,16 @@ Binárne opcie:
 
 [Onlyoption recenzia](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption recenzia")
 
-
-
-
-
-
-
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 <div class="container-fluid" markdown="1">
+
 - - -
 
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
 </a>
 
 </div>

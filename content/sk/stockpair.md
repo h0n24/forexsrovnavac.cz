@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "StockPair recenzie a skúsenosti, párové opcie",
+    "title": "StockPair recenzia a skúsenosti, párové opcie",
     "description": "",
     "keywords": "Stockpair, StockPair recenzie"
   }

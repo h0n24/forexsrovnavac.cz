@@ -5,7 +5,7 @@
   "meta" : {
     "title": "Bitcoin kurs, Aktualny wykres i zmiany cen w BTC/USD",
     "description": "",
-    "keywords": "bitcoin kurs, Kursy Bitcoin, bitcoin, Bitcoin handlować"
+    "keywords": "bitcoin kurs"
   }
 {{/settings}}
 
@@ -40,9 +40,11 @@ Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy warto
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=pl&cty=PL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 
-<center>[Pobierz bezpłatne konto demo w niecałych 5 minut](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}</center>
+<center>[Bonus 100 Zł](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}</center>
 
 {{/section}}
+
+Handluj Bitcoin przez [Opcje binarne](http://www.forexsrovnavac.cz/pl/opcje-binarne)
 
 {{section}}
 

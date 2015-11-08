@@ -10,7 +10,8 @@
     </div>
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
-        <li><a href="{{url}}#section-1">Lista brokerów</a></li>
+        <li><a href="{{url}}#section-1">Lista brokerów</a></li> 
+        <li><a href="{{url}}forex-bonus-no-deposit-bez-depozytu">Forex Bonus</a></li>	
         <li><a href="{{url}}opcje-binarne">Opcje binarne</a></li>
         <li><a href="{{url}}plus500">Plus500</a></li>
       </ul>

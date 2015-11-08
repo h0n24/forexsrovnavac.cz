@@ -21,7 +21,7 @@
 
 {{section}}
 
-# Markets.com - hodnotenia a recenzie
+# Markets.com  recenzia
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
 O Markets.com
@@ -34,7 +34,7 @@ Pri svojom obchodovaní môžete používať až štyri rôzne platformy ponúka
 
 </div>
   <div class="col-md-6" markdown="1">
-Prevádzkovateľ
+Markets.com  recenzia
 :    
 Prevádzkovateľom brokera [www.markets.com](http://blog.forexsrovnavac.cz/sk/markets.com) je spoločnosť Afecap Investments Limited sídliaca ako väčšina brokerských spoločností na Cypre. Broker je riadne licencovaným maklérom podliehajúci regulácii Cyperskej komisii pre cenné papiere (CySEC). Markets.com tiež podlieha regulácii úradu FSA (Financial Conduct Authority) a MiFID. 
 
@@ -155,8 +155,8 @@ Broker Markets.com je skvelou alternatívou brokera s českou podporou, ktorý j
 [Obchodné aplikácie](http://forexsrovnavac.cz/sk/markets-com-recenzia#section-4)
 
 - - -
-Výhody
-:   
+#### Výhody
+
 ![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vlastné český manažér
 
 ![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Až 2500 USD bonus ku vkladu
@@ -167,12 +167,19 @@ Výhody
 
 </div>
 <div class="container-fluid" markdown="1">
-Nevýhody
-:   
+
+#### Nevýhody
+
 ![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Demo účet nie je neomezenený
 - - -
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 <div class="container-fluid" markdown="1">
+
+- - -
+
 <a href="http://blog.forexsrovnavac.cz/sk/markets.com" alt="Demo účet" target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 

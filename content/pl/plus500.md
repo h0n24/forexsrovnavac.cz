@@ -5,7 +5,7 @@
   "meta" : {
     "title": "Plus500 opinie, recenzja i wypłata 2015",
     "description": "",
-    "keywords": "Plus500 Recenzja, Plus500 opinie, Plus500, Plus500 demo"
+    "keywords": "Plus500 opinie"
   }
 {{/settings}}
 
@@ -21,12 +21,12 @@ W niniejszym artykule przynosimy Wam recenzję firmy Plus500, która była zało
 
 Plus500 rozwinęła i prowadzi online platformę handlową dla klientów detalicznych, dzięki niej mogą oni handlować CFD na poziomie międzynarodowym. Oferuje im również więcej niż 1700 różnych podstawowych i globalnych instrumentów finansowych zawierających akcje, ETF, rynek walutowy, indeksy i towary. Firma umożliwia inwestorom handlować w ponad **50 krajach całego świata**. Platforma handlowa dostępna jest z różnych systemów operacyjnych Windows, ze **smartfonów (iOS i Android) i tabletów (iOS a Android)**, umożliwia również handel przy użyciu aplikacji internetowych.
 
-[**plus500**](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2) oferuje 100 zł na Twoje konto realne i to tylko za rejestrację. [Spróbuj prawdziwego handlu ](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2), bez wymaganej wpłaty.
+[**plus500**](http://blog.forexsrovnavac.cz/plus500.pl) oferuje 100 zł na Twoje konto realne i to tylko za rejestrację. [Spróbuj prawdziwego handlu ](http://blog.forexsrovnavac.cz/plus500.pl), bez wymaganej wpłaty.
 
-Bonus ten naprawdę dotyczy każdego – nie tkwi w tym żaden haczyk, problem, żadne oszustwo. Po prostu do pierwszej rejestracji otrzymasz daną sumę zupełnie za darmo i bez żadnych warunków. Nie jest wymagana początkowa wpłata, naprawdę otrzymasz bonus tylko za rejestrację. Wszystko możesz wypróbować i rozpocząć handel w ciągu 5 minut. [ Tutaj dołączamy niezbędne instrukcje! ](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2)
+Bonus ten naprawdę dotyczy każdego – nie tkwi w tym żaden haczyk, problem, żadne oszustwo. Po prostu do pierwszej rejestracji otrzymasz daną sumę zupełnie za darmo i bez żadnych warunków. Nie jest wymagana początkowa wpłata, naprawdę otrzymasz bonus tylko za rejestrację. Wszystko możesz wypróbować i rozpocząć handel w ciągu 5 minut. [ Tutaj dołączamy niezbędne instrukcje! ](http://blog.forexsrovnavac.cz/plus500.pl)
 
 Plus500 chce być najlepszą platformą pomiędzy platformami CFD i tutaj podaje swoje powody: 
-[Zobacz aplikację biznesową plus500](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2 "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Bonus 100 zł bez wymaganej wpłaty!](http://blog.forexsrovnavac.cz/plus500.pl) {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 spread na rynku instrumentów takich jak :  Niemcy 30 - 0,81 pkt. - Ropa - 3 pkt. - EUR/USD - 1 pkt. - Gaz ziemny - 3 pkt. - UK 100 - 0,88 pkt. - GBP/USD - 1 pkt.
 
 1.	Plus500 gwarantuje stop loss
@@ -35,7 +35,7 @@ spread na rynku instrumentów takich jak :  Niemcy 30 - 0,81 pkt. - Ropa - 3 pkt
 *Podstawowe informacje o Plus500*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.plus500.pl**](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2) |
+| Web:     |   [**www.plus500.pl**](http://blog.forexsrovnavac.cz/plus500.pl) |
 | ---------------- | ------------- |
 | **Typ brokera:**   | STP  |
 | **Kraj pochodzenia**   | Anglia  |
@@ -52,12 +52,12 @@ spread na rynku instrumentów takich jak :  Niemcy 30 - 0,81 pkt. - Ropa - 3 pkt
 | **Minimalna wartość inwestycji**  | 100 zł  |
 | **Możliwości wkładu**  | Przelew bankowy, Karty kredytowe i debetowe, Skrill, Paypal |
 | **Maksymalna wysokość dźwignie**  | od 1:5 do 1:200 |
-| **Ciekawostka**  | 100 zł bonus (można wypłacić) [Więcej informacji o Bonusie](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2) |
+| **Ciekawostka**  | 100 zł bonus (można wypłacić) [Więcej informacji o Bonusie](http://blog.forexsrovnavac.cz/plus500.pl) |
 | **Język polski**  | Całkowicie w języku polskim |
 </div>
 </div>
 
-[100 zł Bonus do konta](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2 "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[100 zł Bonus do konta](http://blog.forexsrovnavac.cz/plus500.pl) {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 - - -
 
 {{section}}
@@ -79,7 +79,7 @@ Porady i wskazówki
 
 **WSKAZÓWKA 5:**  jesteś początkującym biznesmenem, pobierz najpierw [plus500 demo konto](http://forexsrovnavac.cz/plus500#section-4), Na koncie realnym potem handluj minimalną wartością inwestycji 100 zł  - 200 zł   kč, bowiem jeśli naprawdę dopiero zaczynasz, nie warto inwestować dużo, możesz na przykład handlować więcej handlów i już od 100 Kč. Kapitał możesz zyskać udanymi handlami, jeśli będzie Ci się powodzić. 
 
-<pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>WSKAZÓWKA 6:</strong> <a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2">Bonus powitalny, uzyskaj 100 zł bonus na prawdziwy handel</a> u plus500.cz</span></span></pre>
+<pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>WSKAZÓWKA 6:</strong> <a href="http://blog.forexsrovnavac.cz/plus500.pl">Bonus powitalny, uzyskaj 100 zł bonus na prawdziwy handel</a> u plus500.cz</span></span></pre>
 
 - - -
 ### Plus500 wypłata
@@ -107,7 +107,7 @@ Charakterystyka darmowego demo konta:
 4. 4.	Ustawienia, kontrola i symulacja strategii biznesowej
 5. 5.	Online pomoc i wsparcie obsługi klienta
 
-[Pobierz darmowo demo konto ](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2 "demo konto"){.btn .bnt-lg .btn-primary}
+[Pobierz darmowo demo konto ](http://blog.forexsrovnavac.cz/plus500.pl "Konto demo"){.btn .bnt-lg .btn-primary}
 {{/section}}
 - - -
 {{section}}
@@ -136,11 +136,11 @@ Ponieważ uważam siebie za spekulanta, dokonuję handlu (spekuluję) zazwyczaj 
 
 
 ####Aplikacje biznesowe
-: [**plus500**](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2) rozwinęła własną aplikację biznesową z naciskiem na zrozumiałość i przejrzystość. Te dwie właściwości są niezmiernie ważne, bowiem na Plus500 można handlować nawet 1500 instrumentów. Aplikacja jest intuicyjna, można ją wypróbować za pośrednictwem nieograniczonego demo konta z pieniędzmi wirtualnymi. W aplikacji można ustawić monitorowanie kursów, które potem otrzymiesz za pośrednictwem wiadomości SMS.
+: [**plus500**](http://blog.forexsrovnavac.cz/plus500.pl) rozwinęła własną aplikację biznesową z naciskiem na zrozumiałość i przejrzystość. Te dwie właściwości są niezmiernie ważne, bowiem na Plus500 można handlować nawet 1500 instrumentów. Aplikacja jest intuicyjna, można ją wypróbować za pośrednictwem nieograniczonego demo konta z pieniędzmi wirtualnymi. W aplikacji można ustawić monitorowanie kursów, które potem otrzymiesz za pośrednictwem wiadomości SMS.
 
 
 ####Obsługa klienta
-: Obsługa klienta odpowiada na konkretne pytania do 30 minut. Nie musisz martwić się, że będzie Ci potem ktoś z [**plus500**](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2) dzwonił i oferował Ci jakiekolwiek usługi, ponieważ plus500 jako jeden z mała brokerów online tego nie robi. 
+: Obsługa klienta odpowiada na konkretne pytania do 30 minut. Nie musisz martwić się, że będzie Ci potem ktoś z [**plus500**](http://blog.forexsrovnavac.cz/plus500.pl) dzwonił i oferował Ci jakiekolwiek usługi, ponieważ plus500 jako jeden z mała brokerów online tego nie robi. 
 
 Życzę powodzenia! Paweł H.
 
@@ -155,7 +155,7 @@ Ponieważ uważam siebie za spekulanta, dokonuję handlu (spekuluję) zazwyczaj 
 
 Przykładem tego wrażliwego podejścia mającego na celu komfort użytkownika w ciągu przeprowadzania transakcji, może być sam fakt, iż poszczególne wersje systemu dla różnych platform wyglądają u PLUS 500 jednakowo. W praktyce przyzwyczailiśmy się już do tego, że jeśli chcemy **handlować tym razem za pośrednictwem telefonu komórkowego,** zamiast przeglądarki internetowej, musimy najpierw zapoznać się z troszeczkę innym umiejscowieniem funkcji i poszczególnych informacji. Pomimo to jednak PLUS 500 oferuje swój interfejs w jednakowym wyglądzie i to nie tylko dla wersji komputerowej, ale również dla przeglądarki internetowej lub wersji dla telefonów komórkowych.
 
-[www.plus500.pl](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2 "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[www.plus500.pl](http://blog.forexsrovnavac.cz/plus500.pl) {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 Być może nie jest to najbardziej rewolucyjna cecha całego systemu, na pewno jest to ale cecha najbardziej przyjemna. Każdy z nas prawdopodobnie potwierdzi, że nie istnieje nic bardziej irytującego niż ciągłe zaznajamianie się z nowymi widżetami w sytuacji, kiedy bardzo szybko potrzebujesz dokonać daną transakcję finansową. Jeśli chodzi o dostępne możliwości inwestycji. 
 
@@ -173,7 +173,7 @@ Proste i przejrzyste jest również zarządzanie twojego konta. **PLUS500** jak 
 
 ![Ukázka obchodu](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
 
-[Otwórz konto](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2 "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2 "Demo"){.btn .bnt-lg .btn-default}
+[Otwórz konto](http://blog.forexsrovnavac.cz/plus500.pl) {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/plus500.pl){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -
@@ -219,13 +219,13 @@ Proste i przejrzyste jest również zarządzanie twojego konta. **PLUS500** jak 
 - - -
 </div>
 <div class="container-fluid" markdown="1">
-<a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2"  target="_blank">
+<a href="http://blog.forexsrovnavac.cz/plus500.pl"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/03/2015-03-05-14_22_19-Plus500-_-Indeksy-Plus500-_-Handel-online-g%C5%82%C3%B3wnymi-%C5%9Bwiatowymi-indeksami.png" width="" height=""/>
 
 </a>
 - - -
 ####Nasza rada
-Firma plus500 oferuje bonus 100 zł na konto realne dla każdego nowego klienta. Wystarczy tylko potwierdzić numer telefonu. Potem trzeba nazbierać przynajmniej 60 punktów biznesowych i bonus + twój zysk może zostać Ci wypłacony. [Więcej informacji o Bonusie](http://www.plus500.com/pl/Promotions/Bonus.aspx?id=66349&pl=2)
+Firma plus500 oferuje bonus 100 zł na konto realne dla każdego nowego klienta. Wystarczy tylko potwierdzić numer telefonu. Potem trzeba nazbierać przynajmniej 60 punktów biznesowych i bonus + twój zysk może zostać Ci wypłacony. [Więcej informacji o Bonusie](http://blog.forexsrovnavac.cz/plus500.pl)
 - - -
 
 </div>

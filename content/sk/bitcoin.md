@@ -41,6 +41,29 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=sk&cty=SK&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 
+<br>
+
+<div class="row">
+<div class="col-md-8 hidden-sm hidden-xs">
+  <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?">
+  </SCRIPT>
+  <NOSCRIPT>
+  <A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?">
+  <IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement" /></A>
+  </NOSCRIPT>
+</div>
+<div class="col-sm-6 col-xs-12 hidden-md hidden-lg">
+  <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?">
+  </SCRIPT>
+  <NOSCRIPT>
+  <A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?">
+  <IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A>
+  </NOSCRIPT>
+</div>
+</div>
+
+<br>
+
 Vyskúšajte obchodovanie Bitcoin pomocou [Binárne opcie](http://www.forexsrovnavac.cz/sk/binarni-opce)
 
 {{/section}}

@@ -10,9 +10,9 @@
     </div>
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
-        <li>
-          <a href="{{url}}#section-1">Brokers list</a>
-        </li>
+        <li><a href="{{url}}index#section-1">Brokers list</a></li>
+        <li><a href="{{url}}binary-options">Binary options</a></li>
+        <li><a href="{{url}}plus500">Plus500 review</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>

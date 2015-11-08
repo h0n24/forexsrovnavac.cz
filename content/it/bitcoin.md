@@ -11,6 +11,10 @@
 
 {{section}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
 ## Scambiare la valuta virtuale Bitcoin
 
 Sicuramente molti di voi avranno notato negli ultimi mesi un aumento dell'interesse per quanto riguarda la valuta virtuale Bitcoin. Lo scopo di questo articolo non è descrivere il funzionamento di questa valuta virtuale, non vi annoieremo con la storia o con il “Bitcoin mining”, non vi regaleremo Bitcoin gratis. Questo articolo si concentra di più sulle possibilità del suo trading sul mercato azionario, come prodotto per investimenti, che momento è in pieno boom e il suo trading offre opportunità di investimenti interessanti ogni giorno.

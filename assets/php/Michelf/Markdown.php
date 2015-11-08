@@ -600,7 +600,9 @@ class Markdown implements MarkdownInterface {
 				$title = $this->encodeAttribute($title);
 				$result .=  " title=\"$title\"";
 				if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
-				  $result .=  " rel=\"nofollow\"";
+				  if (strpos($url,'forbino.com') == false) {
+				    $result .=  " rel=\"nofollow\"";
+				  }
 				}
 			}
 		
@@ -632,7 +634,9 @@ class Markdown implements MarkdownInterface {
 			$title = $this->encodeAttribute($title);
 			$result .=  " title=\"$title\"";
 			if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
-			  $result .=  " rel=\"nofollow\"";
+			  if (strpos($url,'forbino.com') == false) {
+			    $result .=  " rel=\"nofollow\"";
+			  }
 			}
 		}
 		
@@ -1326,7 +1330,9 @@ class Markdown implements MarkdownInterface {
 		$url = $this->encodeAttribute($matches[1]);
 		$link = "<a href=\"$url\">$url</a>";
 		if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
-			$result .=  " rel=\"nofollow\"";
+		  if (strpos($url,'forbino.com') == false) {
+		    $result .=  " rel=\"nofollow\"";
+		  }
 		}
 		return $this->hashPart($link);
 	}
@@ -2319,7 +2325,9 @@ abstract class _MarkdownExtra_TmpImpl extends \Michelf\Markdown {
 				$result .= $this->ref_attr[$link_id];
 
 			if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
-			  $result .=  " rel=\"nofollow\"";
+			  if (strpos($url,'forbino.com') == false) {
+			    $result .=  " rel=\"nofollow\"";
+			  }
 			}
 		
 			$link_text = $this->runSpanGamut($link_text);
@@ -2351,7 +2359,9 @@ abstract class _MarkdownExtra_TmpImpl extends \Michelf\Markdown {
 			$title = $this->encodeAttribute($title);
 			$result .=  " title=\"$title\"";
 			if( strpos( $url, str_replace("www.", "", $_SERVER['HTTP_HOST']) ) == false ) {
-			  $result .=  " rel=\"nofollow\"";
+			  if (strpos($url,'forbino.com') == false) {
+			    $result .=  " rel=\"nofollow\"";
+			  }
 			}
 		}
 		$result .= $attr;

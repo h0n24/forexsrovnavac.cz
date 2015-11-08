@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Binárne opcie - recenzie a skúsenosti, demo účet",
+    "title": "Binárne opcie - obchodovanie a demo účet",
     "description": "",
     "keywords": "Binárne opcie, Binárne opcie recenzie, Binárne opcie demo účet, binárne obchodovanie"
   }
@@ -39,23 +39,23 @@ Obsah stránky: [Binárne opcie recenzie](http://forexsrovnavac.cz/sk/binarne-op
   <div class="col-md-6" markdown="1">
 Sprievodca binárnymi opciami, ako začať?
 
-[Druhy binárnych opcií](http://forexsrovnavac.cz/druhy-binarnich-opci)
+[Druhy binárnych opcií](http://forexsrovnavac.cz/sk/druhy-binarnych-opcii)
 
-[Ako vybrať brokera, na binárne opcie](http://www.forexsrovnavac.cz/jak-vybrat-binarniho-brokera)
+[Ako vybrať brokera, na binárne opcie](http://www.forexsrovnavac.cz/sk/ako-vybrat-binarneho-brokera)
 
-[High / Low Binárne opcie](http://forexsrovnavac.cz/High-Low-opce)
+[High / Low Binárne opcie](http://forexsrovnavac.cz/sk/High-Low-opcie)
 
-[Minútové opcie](http://www.forexsrovnavac.cz/minutove-opce)
+[Minútové opcie](http://www.forexsrovnavac.cz/sk/minutove-opcie)
 
-[Demo účty pre Binárne opcie](http://forexsrovnavac.cz/demo-ucet-na-binarni-opce)
+[Demo účty pre Binárne opcie](http://forexsrovnavac.cz/sk/demo-ucet-na-binarne-opcie)
 
-[Knihy o binárnych opciách](http://forexsrovnavac.cz/knihy-na-binarni-opce)
+[Knihy o binárnych opciách](http://forexsrovnavac.cz/sk/knihy-na-binarne-opcie)
 
-[Forex vs Binárne opcie](http://www.forexsrovnavac.cz/forex-vs-binarni-opce)
+[Forex vs Binárne opcie](http://www.forexsrovnavac.cz/sk/forex-vs-binarne-opcie)
 
-[Binárne opcie a dane](http://www.forexsrovnavac.cz/binarni-opce-a-dane)
+[Binárne opcie a dane](http://www.forexsrovnavac.cz/sk/binarne-opcie-a-dane)
 
-[Plus500 - CFD broker s bonusom](http://www.forexsrovnavac.cz/plus500)
+[Plus500 - CFD broker s bonusom](http://www.forexsrovnavac.cz/sk/plus500)
   </div>
   <div class="col-md-6" markdown="1">
 Vyberte si toho správneho brokera
@@ -63,13 +63,11 @@ Vyberte si toho správneho brokera
 : 
 Na našich stránkach recenzujú iba brokerov, Ktory jsou riadna kontrolovaný a regulovaný NBS. Obchodujte iba u kvalitných a preverených binárnych brokerov s najväčších možnou mierou Výnosová.
 
-[Topoption - Najlepší broker na binárnych opcií? (CZ)](http://www.forexsrovnavac.cz/topoption "TopOption recenzie")
+[Topoption - Najlepší broker na binárnych opcií? (CZ)](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzie")
 
-[ETX capital - najväčších výnosy na trhu (CZ)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenzie")
+[ETX capital - najväčších výnosy na trhu (CZ)](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX capital recenzie")
 
-[Stockpair - Skvele hodnotení broker (EN)](http://www.forexsrovnavac.cz/stockpair "Stockpair recenzie")
-
-[OnlyOption - Nový broker 2015 (CZ)](http://www.forexsrovnavac.cz/onlyoption "OnlyOption recenzie")
+[Stockpair - Skvele hodnotení broker (EN)](http://www.forexsrovnavac.cz/sk/stockpair "Stockpair recenzie")
 
 [Pozrite sa na demo účet na binárnych opcií](http://blog.forexsrovnavac.cz/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 
@@ -113,7 +111,7 @@ Nemusíte nič sťahovať
 
 
 
-Binárne opcie sa ďalej rozdeľujú na niekoľko druhov - UP / CALL, Minútové opcie a ďalšie. Všetky druhy sme pre Vás recenzovali v našom článku [Druhy binárnych opcií](http://forexsrovnavac.cz/druhy-binarnich-opci "Druhy binárnych opcií")
+Binárne opcie sa ďalej rozdeľujú na niekoľko druhov - UP / CALL, Minútové opcie a ďalšie. Všetky druhy sme pre Vás recenzovali v našom článku [Druhy binárnych opcií](http://www.forexsrovnavac.cz/sk/druhy-binarnych-opcii "Druhy binárnych opcií")
 
 
 <div class="row" style="width:92%">
@@ -197,13 +195,13 @@ S binárnymi opciami som začínal asi pred pol rokom. Najskôr mi o nich poveda
 
 Dôležitý je výber brokera
 
-:     Zo všetkého najskôr som sa začal obzerať po naozaj kvalitnom brokerovi, s ktorým by som pri obchodovaní nemal žiadne problémy. Čo som sa dočítal na internete a po skúsenostiach od kamaráta, zameral som sa hlavne na reguláciu samostatného brokera, na bezproblémový chod jeho aplikácie a v neposlednom rade na ziskovosť u binárnych opcií, ktorá sa u jednotlivých brokerov pohybuje v rozmedzí od 70 - 85%. Zo všetkých najlepšie mi vyšiel [TopOption](http://www.forexsrovnavac.cz/topoption "TopOption") alebo [Stockpair - Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair).
+:     Zo všetkého najskôr som sa začal obzerať po naozaj kvalitnom brokerovi, s ktorým by som pri obchodovaní nemal žiadne problémy. Čo som sa dočítal na internete a po skúsenostiach od kamaráta, zameral som sa hlavne na reguláciu samostatného brokera, na bezproblémový chod jeho aplikácie a v neposlednom rade na ziskovosť u binárnych opcií, ktorá sa u jednotlivých brokerov pohybuje v rozmedzí od 70 - 85%. Zo všetkých najlepšie mi vyšiel [TopOption](http://www.forexsrovnavac.cz/sk/topoption "TopOption") alebo [Stockpair - Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/sk/stockpair).
 
 Prvá investícia cca 100 USD
 
 :    Dobyl som teda cez bankový účet svoju prvú investíciu 100 USD, k tomu som dostal aj demo účet a vrhol som sa na obchodovanie. Najskôr som obchodoval na demo účte akcie Facebook, alebo Apple, pretože som si myslel, že tie dobre poznám a budem na nich ziskový. Avšak pravdu som nemal, na demo účte som stále ziskový nebol, preto som zmenil stratégiu a zameral som sa na komodity a menové páry, kde je oveľa viac príležitostí a tieto inštrumenty majú vyššiu volatilitu.
 
-Prestal som obchodovať minútové opcie, ktoré sú vysoko špekulatívne a ich obchodovanie rozhodne neodporúčam, zameral som sa na ostatné [Druhy binárnych opcií](http://forexsrovnavac.cz/druhy-binarnich-opci), najmä na **High & Low opce** s exspiráciou 10 - 60 minút.
+Prestal som obchodovať minútové opcie, ktoré sú vysoko špekulatívne a ich obchodovanie rozhodne neodporúčam, zameral som sa na ostatné druhy binárnych opcií, najmä na **High & Low opce** s exspiráciou 10 - 60 minút.
 
 Výber vhodnej stratégie na binárne opcie
 :    Zrazu to prišlo, začalo sa postupne dariť na demo účte som dosahoval cca **60% úspešných obchodov**, prečítal som si na internete ešte nejaké ďalšie stratégie a vrhol sa na obchodovanie v reálnom účte. V súčasnej dobe obchodujem už na reálnom účte. Snažím sa obchodovať skôr menej obchodov cca 2 - 5 denne za vyššie vklad, aktuálne na jednu opciu vsádzam 20 USD.
@@ -232,7 +230,7 @@ Zoznámenie s binárnymi opciami a trhy, dátami, grafmi
 
 :    Ďalším cieľom a rolou tréningu na demo účtoch je možnosť naozaj sa dobre zoznámiť s trhmi ako takými. Tu by som to nazval akýmsi "naladením sa" na vlnu toho ktorého trhu ešte pred vstupom do reálneho sveta. Výhodou tohto naladenia sa, je to, že človek zistí, ktorý trh mu sedí lepšie a ktorý naopak obchodovať nebude prípadne ktorý bude obchodovať najskôr a ktorý si nechá do zálohy. Temperament dajú prednosť živým trhov, rozvážnejší zase iným trhom.
 
-Viac o demo účtoch v našom článku [Binárne opcie - demo verzia účtov](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce)
+Viac o demo účtoch v našom článku [Binárne opcie - demo verzia účtov](http://www.forexsrovnavac.cz/sk/demo-ucet-na-binarne-opcie)
 {{/section}}
 
 {{section}}
@@ -243,12 +241,12 @@ Viac o demo účtoch v našom článku [Binárne opcie - demo verzia účtov](ht
 TopOption je zatiaľ najkomplexnejšia spoločnosť
 :    Z toho vyplýva jedna zásadná skutočnosť, vaše vklady na obchodný účet sú poistené do výšky 20 tisíc Eur, keby spoločnosť upadla do úpadku. Webová platforma je česká a zástupcovia brokera komunikujú v českom i slovenskom jazyku mailom aj po telefóne. Svoje obchodné zručnosti si u TopOption preveríte na demo účte aj na reálnom účte od 100 $ s opciami od 10 $. Tento broker, tiež ponúka výučbovú akadémiu zadarmo.
 
-[TopOption - naša recenzia brokera -->>](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
+[TopOption - naša recenzia brokera -->>](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia").
 {{/section}}
 - - -
 Dajte si pozor na podvodné systémy na binárne opcie
 
-:   *Binárne opcie sú určite zaujímavou možnosťou vedľajšieho zárobku, avšak v nadväznosti na ich popularitu, vzniká mnoho podvodných systémov, ktoré sľubujú platené 100% signály, alebo neomylné indikátory vstupov do pozície a zárobok tzv. bez práce a akéhokoľvek vzdelávania. Toto určite nie je správny smer, čím by mal začiatočník začať. Za všetky by som uviedol napríklad  [BinaryBotPro](http://www.forexsrovnavac.cz/binary-bot-pro), anebo [Optionavigator](http://www.forexsrovnavac.cz/optionavigator-recenze)*
+:   *Binárne opcie sú určite zaujímavou možnosťou vedľajšieho zárobku, avšak v nadväznosti na ich popularitu, vzniká mnoho podvodných systémov, ktoré sľubujú platené 100% signály, alebo neomylné indikátory vstupov do pozície a zárobok tzv. bez práce a akéhokoľvek vzdelávania. Toto určite nie je správny smer, čím by mal začiatočník začať. Za všetky by som uviedol napríklad  [BinaryBotPro](http://www.forexsrovnavac.cz/sk/binary-bot-pro), anebo [Optionavigator](http://www.forexsrovnavac.cz/sk/optionavigator-recenzia)*
 
 
 </div>
@@ -271,7 +269,7 @@ Dajte si pozor na podvodné systémy na binárne opcie
   <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
   Hodnotenie: <b>97%</b>
   </div>
-  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Čítať recenziu">Čítať recenziu</a>
+  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/sk/topoption" title"Čítať recenziu">Čítať recenziu</a>
   <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otvoriť účet">WEB</a>
 </div>
 <div class="broker">
@@ -279,7 +277,7 @@ Dajte si pozor na podvodné systémy na binárne opcie
   <a href="#" title="ETX Binary">
     <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
   </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
+   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti" title="ETX Binary">ETX Binary</a>
   <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
   <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
  </div>
@@ -287,7 +285,7 @@ Dajte si pozor na podvodné systémy na binárne opcie
   <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
   Hodnotenie: <b>95%</b>
  </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Čítať recenziu">Čítať recenziu</a>
+ <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti" title"Čítať recenziu">Čítať recenziu</a>
  <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otvoriť účet">WEB</a>
 </div> 
 <div class="broker">
@@ -302,7 +300,7 @@ Dajte si pozor na podvodné systémy na binárne opcie
   <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
   Hodnotenie: <b>92%</b>
  </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Čítať recenziu">Čítať recenziu</a>
+ <a class="recenze" href="http://www.forexsrovnavac.cz/sk/Stockpair" title"Čítať recenziu">Čítať recenziu</a>
  <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otvoriť účet">WEB</a>
 </div> 
 

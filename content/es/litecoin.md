@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Cotizacion de Litcoin - gráfico actual en la evolución de los precios LTC/USD",
+    "title": "Cotizacion del Litecoin - Litecoin dólar estadounidense LTC/USD",
     "description": "",
-    "keywords": "Litecoin tasa, litecoin, precio litecoin"
+    "keywords": "Litecoin tasa, litecoin"
   }
 {{/settings}}
 

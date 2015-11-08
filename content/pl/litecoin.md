@@ -5,7 +5,7 @@
   "meta" : {
     "title": "Litecoin kurs - Aktualny wykres i zmiany cen w LTC/USD",
     "description": "",
-    "keywords": "Litecoin kurs, litecoin, LTC/USD"
+    "keywords": "Litecoin kurs, litecoin"
   }
 {{/settings}}
 
@@ -44,6 +44,8 @@ Powód twierdzenia że waluta LTC wzrośnie powstał dzięki społeczeństwie, k
 </div>
 <center>[Pobierz bezpłatne konto demo w niecałych 5 minut](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}</center>
 {{/section}}
+
+Handluj Litecoin przez [Opcje binarne](http://www.forexsrovnavac.cz/pl/opcje-binarne)
 
 {{section}}
 

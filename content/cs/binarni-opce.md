@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Binární opce - recenze a zkušenosti, demo účet",
+    "title": "Binární opce - obchodování a demo účet",
     "description": "",
-    "keywords": "Binární opce, Binární opce recenze, Binární opce demo účet, Binárních obchodování"
+    "keywords": "Binární opce, Binární opce recenze, Binární opce demo účet, Binární opce obchodování"
   }
 {{/settings}}
 
@@ -20,7 +20,7 @@
 
 *Binární opce jsou v poslední době velmi populární, proto jsme sepsali základní informace, abyste se dozvěděli vše důležité, co vás zajímá. Binární opce (v angličtině výraz Binary options, digital options). Pomocí binárních opcí můžete vydělávat na obchodování komodit, akcií, forexu (měnové páry) i virtuální měny jako Bitcoin. Pomocí binárních opcí můžete obchodovat i tak populární komodity, jakými jsou zlato nebo ropa.*
 - - -
-Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#section-1) – [Co jsou to binární opce](http://forexsrovnavac.cz/binarni-opce#section-2) – [Demo účet](http://forexsrovnavac.cz/binarni-opce#section-6) – [Jak obchodovat binární opce](http://forexsrovnavac.cz/binarni-opce#section-3) – [Zkušenosti s binárními opcemi](http://forexsrovnavac.cz/binarni-opce#section-4) – [Kde obchodovat binární opce?](http://forexsrovnavac.cz/binarni-opce#section-5)
+Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#section-1) – [Co jsou to binární opce](http://forexsrovnavac.cz/binarni-opce#section-2) – [Demo účet](http://forexsrovnavac.cz/binarni-opce#section-6) – [Jak obchodovat binární opce](http://forexsrovnavac.cz/binarni-opce#section-3) – [Kde obchodovat binární opce?](http://forexsrovnavac.cz/binarni-opce#section-5)
 
 
 
@@ -67,7 +67,7 @@ Vyberte si toho správného brokera
 
 [Stockpair – Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
 
-[OnlyOption – Nový broker 2015 (CZ)](http://www.forexsrovnavac.cz/onlyoption "OnlyOption recenze")
+[Optiontime – Více druhů opcí (CZ)](http://www.forexsrovnavac.cz/optiontime "Optiontime recenze")
 
 [Podívejte se na demo účet na binární opce](http://blog.forexsrovnavac.cz/topoption "Demo účet"){.btn .bnt-lg .btn-default}
 
@@ -109,7 +109,7 @@ Nemusíte nic stahovat
 
 :   Binární opce můžete obchodovat online u jednotlivých brokerů pomocí aplikace Webtrader (případně i na mobilních zařízeních Iphone, Android, Ipad). Vaše obchody tak máte neustále pod kontrolou. Nemusíte instalovat složité aplikace typu Metatrader 4.
 
-
+[Vyzkoušejte demo účet na binární opce u brokera TopOption](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 
 Binární opce se dále rozdělují na několik druhů: UP/CALL, minutové opce a další. Všechny druhy jsme pro vás recenzovali v našem článku [Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci "Druhy binárních opcí")
 
@@ -135,8 +135,8 @@ V našem případě se v 15:00 pár zvýšil na 1,2695. Obchodník číslo 1 sko
 </div>
 </div>
 
-[                         Vyzkoušejte demo účet na binární opce u brokera TopOption                      ](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 
+- - -
 ![Binární opce](http://i.imgur.com/YV4yWi6.png)
 - - -
 
@@ -185,29 +185,6 @@ Co mohu pomocí binárních opcí obchodovat?
 
 {{/section}}
 
-
-{{section}}
-## Zkušenosti našeho čtenáře s binárními opcemi
-
-S binárními opcemi jsem začínal asi před půl rokem. Nejdříve mi o nich řekl kamarád, který mě přesvědčoval, ať to také zkusím. Když jsem začínal, mé zkušenosti s binárními opcemi byly dá se říct na bodu nula. Nejdříve jsem si tedy pročetl něco na internetu a posléze jsem využil zázemí mého brokera na binární opce, o kterém napíšu v dalších řádcích.
-
-Důležitý je výběr brokera
-
-:     Ze všeho nejdříve jsem se začal ohlížet po opravdu kvalitním brokerovi, se kterým bych při obchodování neměl žádné problémy. Co jsem se dočetl na internetu a po zkušenostech od kamaráda, zaměřil jsem se hlavně na regulaci samostatného brokera, na bezproblémový chod jeho aplikace a v neposlední řadě na **ziskovost u binárních opcí**, která se u jednotlivých brokerů pohybuje v rozmezí od 70 do 85 %. Ze všech nejlépe mi vyšel [TopOption](http://www.forexsrovnavac.cz/topoption "TopOption") nebo [Stockpair - Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair)
-.
-
-První investice cca 100 USD
-
-:    Dobil jsem tedy přes bankovní účet svou první investici 100 USD, k tomu jsem dostal i demo účet a vrhl jsem se na obchodování. Nejdříve jsem obchodoval na demo účtu akcie Facebooku nebo Apple, jelikož jsem si myslel, že ty  dobře znám a budu na nich ziskový. Nicméně pravdu jsem neměl, na demo účtu jsem pořád ziskový nebyl. Proto jsem změnil strategii a zaměřil jsem se na komodity a měnové páry, kde je mnohem více příležitostí a tyto instrumenty mají vyšší volatilitu.
-
-Přestal jsem obchodovat minutové opce, které jsou vysoce spekulativní a jejichž obchodování rozhodně nedoporučuji. Zaměřil jsem se na ostatní [Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci), opcí, zejména na High & Low opce s expirací 10 - 60 minut. 
-
-Výběr vhodné strategie na binární opce
-:    Najednou to přišlo, začalo se postupně dařit, na demo účtu už jsem dosahoval cca **60 % úspěšných obchodů**. Pročetl jsem si na internetu ještě nějaké další strategie a vrhnul se na obchodování v reálném účtu. V současné době obchoduji již na reálném účtu. Snažím se obchodovat spíše méně obchodů, cca 2–5 denně za vyšší vklad, aktuálně na jednu opci vsázím 20 USD.
-
-*Tohle je dle mého lepší než hledat 10 obchodů a vložit jen 10 USD. Opticky to sice vypadá dobře, nicméně je lepší hledat opravdu potencionálně ziskové obchody a udělat jich méně za vyšší vklad, a to i z hlediska úspory vašeho času. Moje obchody mají úspěšnost cca 65 %, což bohatě stačí na dlouhodobý profit.*
-Ať se daří, Pavel
-{{/section}}
 
 {{section}}
 ##Demo účet na binární opce zdarma
@@ -308,11 +285,13 @@ Dejte si pozor na podvodné systémy na binární opce
 
 <a href="http://blog.forexsrovnavac.cz/topoption" alt="Demo účet"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/2015-02-17-22_43_03-Plus500-_-Akcie-Plus500_-Online-obchodování-s-akciemi-_-Obchodování-s-podíly_kme.png" width="" height=""/>
+
 </a>
 
 <hr />
 <a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
  <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
+</a>
 </a>
 
 </div>

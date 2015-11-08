@@ -19,7 +19,7 @@
 Přehled nejlepších a prověřený bokerů na binární opce. Přinášíme vám reálné recenze a poskytujeme vám informace pouze o prověřených brokerech. Následující tabulka shrnuje hodnocení pro jednotlivé binární brokery. Stačí kliknout na Čtěte více a uvidíte celou recenzi pro každého binárního brokera.
 
 {{section}}
-{{partial: binarni-broker}}
+
 
 {{/section}}
 

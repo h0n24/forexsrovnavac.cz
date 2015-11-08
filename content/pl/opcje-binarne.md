@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Opcje binarne opinie i recenzje - konto demo",
+    "title": "Opcje binarne - opinie i konto demo",
     "description": "",
-    "keywords": "Opcje binarne Opcje binarne, binarne konto demo, handlu opcje binarne"
+    "keywords": "Opcje binarne"
   }
 {{/settings}}
 
@@ -13,10 +13,7 @@
 <div class="col-md-9" role="main" markdown="1">
 
 
-
-{{section}}
-
-# Opcje binarne opinie
+# Opcje binarne
 
 *Opcje binarne w ostatnich latach są bardzo popularne, dlatego napisaliśmy ten artykuł, by dowiedziałeś się wszystkie podstawowe informacje, które powinny Cię interesować. Opcje binarne pochodzą z angielskiego Binary options, digital options. Za pomocą opcji binarnych możesz zarabiać na handlu towarów, akcji, forexu (pary walutowe) i na walucie wirtualnej takiej jak Bitcoin. Dzięki opcjom binarnym możesz handlować też tak popularnymi towarami, jakimi są złoto lub ropa.*
 
@@ -24,7 +21,7 @@
 
 Treść strony: [Binary Przegląd Opcja](http://forexsrovnavac.cz/pl/opcje-binarne#section-1) - [Jakie są opcje binarne](http://forexsrovnavac.cz/pl/opcje-binarne#section-2) - [Demo konto](http://forexsrovnavac.cz/pl/opcje-binarne#section-6) - [Jak handlować binarne opcje](http://forexsrovnavac.cz/pl/opcje-binarne#section-3) - [Doświadczenie z opcji binarnych opcji binarnych](http://forexsrovnavac.cz/pl/opcje-binarne#section-4) - [Gdzie handlu?](http://forexsrovnavac.cz/pl/opcje-binarne#section-5)
 
-**Binárne opcie** są jedną z wielu możliwości, jak ocenić swoje finanse i z zagranicznych doświadczeń wynika, że handlować opcjami binarnymi może naprawdę każdy. Z opcjami binarnymi handluje również liczna polska i czeska wspólnota, więc z tego powodu brokerzy binarni mają swoje aplikacje i strony internetowe w języku polskim. Zarobek za pomocą opcji binarnych jest dzięki temu dostępny ogromnej masie ludzi. **Minimalna wartość inwestycji u brokera opcji binarnych porusza się bowiem w cca 100 USD (377 PLN)**.
+**Opcje binarne** są jedną z wielu możliwości, jak ocenić swoje finanse i z zagranicznych doświadczeń wynika, że handlować opcjami binarnymi może naprawdę każdy. Z opcjami binarnymi handluje również liczna polska i czeska wspólnota, więc z tego powodu brokerzy binarni mają swoje aplikacje i strony internetowe w języku polskim. Zarobek za pomocą opcji binarnych jest dzięki temu dostępny ogromnej masie ludzi. **Minimalna wartość inwestycji u brokera opcji binarnych porusza się bowiem w cca 100 USD (377 PLN)**.
 
 [Oglądaj platformę opcji binarnych](http://blog.forexsrovnavac.cz/topoption.pl){.btn .btn-lg .pull-left .btn-primary .btn-index} Jeśli więc rozmyślasz o wytworzeniu sobie jakiegoś pasywnego dochodu lub o zarobku razowym i nie chcesz inwestować ogromne sumy, opcje binarne są dla Ciebie rozwiązaniem, bowiem ze stosunkowo małej inwestycji w rzędzie setek złotych możesz zyskać regularny pasywny dochód i zarobić dodatkowe finanse. 
 

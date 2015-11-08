@@ -45,7 +45,7 @@ InstaTrade Investment Company poskytuje prístup na akciové burzy MYCEX a RTS. 
 *Prečo obchodovať s Instaforex.com?*
   
   1. Obchodné podmienky InstaForexu sú právom považované ako jedny z najlepších na trhu. 
-  2. nstaForex Group má komplexnú škálu finančných nástrojov umožňujúcich jednotlivcom ale aj inštitúciám investovania na menovej a akciové burze.
+  2. InstaForex Group má komplexnú škálu finančných nástrojov umožňujúcich jednotlivcom ale aj inštitúciám investovania na menovej a akciové burze.
   3. Spoločnosť InstaForex ponúka najviac konkurencieschopné swapy, broker odmieta štandardnú prax u ostatných spoločností a neobchoduje proti klientovi.
   4. Spoločnosť získala viacnásobné ocenenie aj od iných popredných médií ako sú napr. CNBC Business Magazine a European CEO (Ocenenie najlepší retailový broker). Úspechy spoločnosti boli opakovane preukázané na medzinárodných finančných výstavách ShowFx World a ShowFx Asia
 
@@ -174,6 +174,10 @@ Nevýhody
 ![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Časť webe, nie je plne preložená
 
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
+
 </div>
 </div>
 

@@ -72,6 +72,12 @@ class layout extends core {
 
     }
 
+    while (strpos($content,'{{@timestamp}}') !== false) {
+
+      $content = str_replace("{{@timestamp}}", date("YmdHis"), $content);
+
+    }
+
     return $content;
   }
 

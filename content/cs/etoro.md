@@ -65,46 +65,44 @@ Díky kurzům a sledování profilů úspěšných obchodníků se toho na cest�
 
 
 
+{{/section}}
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-Prověřeny broker
-![topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otevřít účet](http://blog.forexsrovnavac.cz/topoption "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/topoption "Demo účet"){.btn .bnt-lg .btn-default}
+#### Bonusy na forexu
+
+[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
+
+[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+
+[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
+
+<br>
+
+#### Binární opce
+
+[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
+
+[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
+
+[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
+
+[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
+
 
 </div>
-<div class="container-fluid" markdown="1">
 
-Výhody
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Kompletně v Češtině**
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Vhodný i pro profesionály**
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **100% bonus na vklad**
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     **Vlastní platforma**
 
 - - -
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
 
-![Ukázka obchodu](http://s16.postimg.org/kwlkxzd75/1402286495_2.png)     **Vyšší minimální vklad**
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
 
-</div>
-<div class="container-fluid" markdown="1">
-
-####Náš Tip
-Společnost Topoption nabízí pro každého nového klienta **100%** bonus na první vklad. Stačí pouze potvrdit telefon a dokumenty. [Více informací o Bonusu](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D)
 - - -
-<a href="http://blog.forexsrovnavac.cz/topoption"  target="_blank">
+
+<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
 </a>
 
 </div>
 </div>
-</div>
-

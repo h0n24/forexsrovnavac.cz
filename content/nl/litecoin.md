@@ -11,6 +11,10 @@
 
 {{section}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+
 ## Handel in virtuele valuta Litecoin 
 
 LTC is de op een na belangrijkste cryptocurrency. Litevoin is een internet valuta peer-to-peer waarmee je gelijk aan iedereen op de wereld kan betalen. Litecoin is gebaseerd op Bitcoin, maar het verschil met Bitcoin is dat Litecoin effectiver gemined kan worden met goedkopere software. Het is toegankelijker voor meer mensen en geeft ze alleen CPU (Het betaald niet om Litecoin te minen op ASIC miners). Litevoin geeft je ook sneller een confirmatie van de transactie (2,5 minuten) en gebruikt het geheugen en de scripts voor de basis van het mining bewijs-van-werk algorithme. Het netwerk van Litecoin heeft maximaal 84 miljoen valuta units geplanned. Een van de doelen is om Litecoin een mining algorthme te geven, die op hetzelfde tempo en dezelfde hardware kan draaien als Bitcoin.

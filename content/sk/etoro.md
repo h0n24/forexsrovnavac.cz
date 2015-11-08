@@ -93,8 +93,15 @@ Nevýhody
 
 ![Ukážka obchodu](http://s16.postimg.org/kwlkxzd75/1402286495_2.png)     **Vyššia minimálny vklad**
 
+- - -
+
 </div>
+
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+
 <div class="container-fluid" markdown="1">
+
+- - -
 
 #### Náš Tip
 Spoločnosť Topoption ponúka pre každého nového klienta **100%** bonus na prvý vklad. Stačí len potvrdiť telefón a dokumenty. [Viac informácií o Bonusu](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D)

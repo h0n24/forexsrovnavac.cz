@@ -9,6 +9,9 @@
   }
 {{/settings}}
 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
 {{section}}
 
 ## Trader en monnaie virtuelle Litecoin

@@ -2,11 +2,7 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Litecoin
-
-Empieza a operar con la moneda virtual que cambiará el mundo.
-
-Bono de bienvenida de $25
+# Evolucion del Litecoin
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

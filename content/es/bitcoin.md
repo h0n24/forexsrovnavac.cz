@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Cotizacion de Bitcoin - gráfico actual en la evolución de los precios BTC/USD",
+    "title": "Cotizacion del Bitcoin - Bitcoin dólar estadounidense BTC/USD",
     "description": "",
-    "keywords": "bitcoin tasa, Bitcoin gratis, bitcoin cz, bitcoin negociación, bitcoin"
+    "keywords": "Cotizacion de Bitcoin"
   }
 {{/settings}}
 

@@ -12,6 +12,8 @@
       <ul class="nav navbar-nav">
         <li>
           <a href="{{url}}#section-1">Lista de Brokers</a>
+<li><a href="{{url}}plus500">Plus500 opiniones</a>
+        </li>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
