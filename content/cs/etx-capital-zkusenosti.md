@@ -83,7 +83,7 @@ Provozovatel brokera [**ETX capital**](http://blog.forexsrovnavac.cz/etxbinary.c
 
 
 ##Jak začít obchodovat u ETX Capital?
-:   K obchodování binárních opcí dochází přes webovou platformu ETX Binary. U převodů a placení podporuje ETX Binary nejen bankovní převody do Británie, ale i platby kartou či elektronické peněženky. Broker nabízí i možnost zodpovědného obchodování a uzavření klasické krátkodobé binární opce již za 10 USD. U brokera ETX Capital můžete některé opce dokonce odprodat během jejich životnosti, což samozřejmě vede ke zdokonalení obchodní strategie. 
+:   K [**obchodování binárních opcí**](http://www.forexsrovnavac.cz/binarni-opce) dochází přes webovou platformu ETX Binary. U převodů a placení podporuje ETX Binary nejen bankovní převody do Británie, ale i platby kartou či elektronické peněženky. Broker nabízí i možnost zodpovědného obchodování a uzavření klasické krátkodobé binární opce již za 10 USD. U brokera ETX Capital můžete některé opce dokonce odprodat během jejich životnosti, což samozřejmě vede ke zdokonalení obchodní strategie. 
 
 ###Nabídka binarních opcí u ETX capital
 :   ETX Capital zahrnuje poměrně širokou nabídku binárních opcí. U tohoto brokera se tak můžete setkat s klasickým High/Low opcemi, opce členěné podle expirační doby (krátkodobé a dlouhodobé) a pairs opce (páry). U dlouhodobých opcí (až měsíční splatnost) činí minimální vklad 15 dolarů, u krátkodobé, tzv. minutové opce (na 60 nebo 90 sekund a 2, 3 nebo 5 minut) je vklad 10 dolarů.

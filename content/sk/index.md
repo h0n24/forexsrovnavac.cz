@@ -120,9 +120,6 @@ My vám pomôžeme s výberom. Porovnanie a hodnotenie Forex brokerov rýchlo a 
 
 [Stockpair recenzie](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair")
 
-[Plus500 - bonus pre nováčikov](http://www.forexsrovnavac.cz/sk/plus500 "Plus500")
-
-[Zoomtrader - podvod?](http://www.forexsrovnavac.cz/sk/zoomtrader)
 
 [ETX Capital - najlepší broker?](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital")
 
@@ -130,7 +127,7 @@ My vám pomôžeme s výberom. Porovnanie a hodnotenie Forex brokerov rýchlo a 
 
 [Topoption recenzie - najlepšie Binárne broker?](http://www.forexsrovnavac.cz/sk/topoption "TopOption")
 
-[Onlyoption recenzie](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption")
+[Plus500 - bonus 25 Euro](http://www.forexsrovnavac.cz/sk/plus500 "Plus500")
 
 </div>
 <div class="col-md-3" markdown="1">

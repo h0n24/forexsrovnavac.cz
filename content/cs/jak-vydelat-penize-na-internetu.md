@@ -47,6 +47,11 @@ Jako každá reklama vydělává i reklama umístěná na webu přes prokliky. Z
 
 Využívat můžete i jiné systémy, například [Etarget](http://www.etarget.cz/) AdFox či TheAdNetwork.
 
+##Binární opce a obchodování 
+
+Binární opce v principu fungují stejně jako sázka na výsledek sportovního zápasu u sázkové společnosti. Jediným zásadním rozdílem je skutečnost, že u [binárních opcí](https://www.google.com/adsense) nespekulujete zda vyhraje tým A, nebo B, ale na to, zda cena podkladového aktiva (například naší ropy) stoupne, nebo klesne v určitém časovém úseku. Pokud se tedy vrátíme k našemu příkladu, můžeme nakoupit CALL binární opci s týdenní dobou expirace za 100 USD, což znamená, že spekulujeme na to, že cena ropy bude za týden vyšší, než ve chvíli, kdy opci kupujeme. 
+
+Pokud bude náš odhad správný, tak dostaneme naši vsazenou částku 100 USD (tzv. Opční prémie) a zisk podle výnosu, který nabízí broker (například 80 USD při výnosu 80%). Celkově tedy 180 USD. Nicméně, pokud jste se zmýlili a cena ropy naopak klesla, přijdete o celou vaši vsazenou částku a tedy 100 USD.
 
 ##2. Nejjednodušší výdělek - Klikání v klikačkách (PTC)
 

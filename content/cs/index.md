@@ -4,8 +4,8 @@
   "header": "main",
   "meta" : {
     "title": "Forex, Ověření brokeři a recenze | Srovnání Forex brokerů",
-    "description": "Zajímá vás Forex, obchodování nebo binární opce? Jak vybrat forex brokera? Přehledné srovnání a recenze forex a binárních brokerů. Rady a tipy ohledně poplatků, informace o forex bonusech bez nutnosti vkladů a další",
-    "keywords": "Forex, Forex brokeři, kurzy měn, Jak na forex, recenze"
+    "description": "Zajímá vás Forex, obchodování na trzích s měnami? Jak vybrat forex brokera? Přehledné srovnání a recenze Forex a brokerů.",
+    "keywords": "Forex, Forex brokeři, Jak na forex, Jak vybrat forex brokera"
   }
 {{/settings}}
 
@@ -137,19 +137,13 @@ Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#se
 
 #### Recenze binárních brokerů
 
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "Optiontime")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair")
-
-[Zoomtrader - podvod?](http://www.forexsrovnavac.cz/zoomtrader "Zoomtrader")
-
-[Onlyoption recenze](http://www.forexsrovnavac.cz/onlyoption "Onlyoption")
+[Stockpair - párové opce](http://www.forexsrovnavac.cz/stockpair "Stockapair")
 
 <br>
 
 [Topoption recenze - nejlepší Binární broker?](http://www.forexsrovnavac.cz/topoption "TopOption")
 
-[ETX Capital - nejlepší broker?](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital")
+[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital")
 
 
 
@@ -168,7 +162,7 @@ Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#se
 
 <br>
 
-[Fxpro recenze](http://www.forexsrovnavac.cz/fxpro "Fxpro")
+[FxPro recenze](http://www.forexsrovnavac.cz/fxpro "Fxpro")
 
 <br>
 

@@ -32,50 +32,6 @@ Page content: [Review of binary options](http://forexsrovnavac.cz/binarni-opce#s
 
 *You only need to get over the 56 % success ratio = Almost a half of your trades may go wrong and you still profit!*
 
-{{/section}}
-<div class="row" style="width:92%">
-  <div class="col-md-6" markdown="1">
-The guide to binary options, how to begin?
-
-:   
-[Types of binary options](http://forexsrovnavac.cz/druhy-binarnich-opci)
-
-[How to choose a binary options broker](http://www.forexsrovnavac.cz/jak-vybrat-binarniho-brokera) 
-  
-[High/Low binary options](http://forexsrovnavac.cz/High-Low-opce)  
-
-[Minute options](http://www.forexsrovnavac.cz/minutove-opce) 
-
-[Demo accounts for binary options](http://forexsrovnavac.cz/demo-ucet-na-binarni-opce)
-
-[Books about binary options](http://forexsrovnavac.cz/knihy-na-binarni-opce)
-
-[Forex vs Binary options](http://www.forexsrovnavac.cz/forex-vs-binarni-opce)
-
-[Binary options and taxation](http://www.forexsrovnavac.cz/binarni-opce-a-dane) 
-
-[Plus500 – CFD broker with a bonus](http://www.forexsrovnavac.cz/plus500)
-  </div>
-  <div class="col-md-6" markdown="1">
-Choose the right broker
-
-:  On our websites, we only review brokers who are properly controlled and regulated by [ČNB](http://www.cnb.cz/cs/dohled_financni_trh/) (CNB; the Czech National Bank).  Trade only with renowned and proven binary brokers with the highest possible rates of return!
-
-[Topoption – The best binary options broker? (CZ)](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[ETX Capital – The highest revenues on the market (CZ)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenze")
-
-[Stockpair – A broker with excellent ratings (EN)](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
-
-[OnlyOption – A new broker 2015 (CZ)](http://www.forexsrovnavac.cz/onlyoption "OnlyOption recenze")
-
-[Check out the demo account for binary options](http://blog.forexsrovnavac.cz/topoption "Demo účet"){.btn .bnt-lg .btn-default}
-
-
-</a>
-</div>
-</div>
-
 
 
 {{section}}

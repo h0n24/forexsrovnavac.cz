@@ -6,7 +6,6 @@
 
 Bitcoin - wirtualną walutą, która zmieni świat.
 
-Bonus powitalny 100 zł
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

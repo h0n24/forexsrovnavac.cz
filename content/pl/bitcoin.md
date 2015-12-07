@@ -3,7 +3,7 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin kurs, Aktualny wykres i zmiany cen w BTC/USD",
+    "title": "Bitcoin kurs, Aktualny wykres i zmiany cen w BTC/USD/EUR",
     "description": "",
     "keywords": "bitcoin kurs"
   }
@@ -11,10 +11,6 @@
 
 {{section}}
 
-
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
 
 ## Transakcje z wirtualną walutą Bitcoin
 
@@ -39,8 +35,34 @@ Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy warto
 <a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=pl&cty=PL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
+- - -
+<a href="http://blog.forexsrovnavac.cz/topoption.pl"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
+## Bitcoin kurs w EUR (BTC/EUR)
 
-<center>[Bonus 100 Zł](http://www.plus500.com/pl/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}</center>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BTCE:BTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 
 {{/section}}
 
@@ -50,6 +72,6 @@ Handluj Bitcoin przez [Opcje binarne](http://www.forexsrovnavac.cz/pl/opcje-bina
 
 ## Gdzie handlować Bitcoin?
 
-Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem tą walutą, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z bitcoin. Jedną z pierwszych spółek, która to oferuje jest spółka [plus500](http://www.forexsrovnavac.cz/pl/plus500). Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
+Z tym, jak wzrasta popyt na tą walutę, wzrasta także zainteresowanie handlem tą walutą, podobnie jak w przypadku innych walut. Jeśli więc rozważacie handel z bitcoin. Jedną z pierwszych spółek, która to oferuje jest spółka plus500 - [Plus500 opinie](http://www.forexsrovnavac.cz/pl/plus500 "plus500 opinie"). Z tym w miarę znanym na świecie brookerem możecie handlować i spekulować na temat wzrostu lub spadku już w ciągu kilku minut. Ponadto jako nowy klient otrzymacie bonus za rejetrację w wysokości 100 zł. Jak wykorzystacie ten bunus będzie zależeć tylko od was. Usługa jest CFD. Plus500UK Limited jest zatwierdzona i regulowana brytyjskim Urzędem do usług finansowych (Authorised and regulated by the Financial Conduct Authority
 
 {{/section}}

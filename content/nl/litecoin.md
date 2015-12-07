@@ -3,7 +3,7 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin wisselkoers - Huidige charts LTC/USD",
+    "title": "Litecoin koers - Huidige charts LTC/USD/EUR",
     "description": "",
     "keywords": "Litecoin, Litecoin koers"
   }
@@ -11,9 +11,7 @@
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
+
 
 ## Handel in virtuele valuta Litecoin 
 
@@ -33,13 +31,43 @@ Door de gemeenschap die al gebruik maakt van LTC is de kans enorm groot dat de w
 
 {{section}}
 
-## Litecoin wisselkoers in USD (LTC/USD)
+## Litecoin actuele koers in USD (LTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=nl&cty=NL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
 </div>
+
+- - -
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
+
+## Litecoin actuele koers in EUR (LTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "KRAKEN:LTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 
 {{/section}}
 

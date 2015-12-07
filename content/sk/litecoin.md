@@ -101,7 +101,7 @@ new TradingView.widget({
 <!-- TradingView Widget END -->
 <br>
 
-Vyskúšajte obchodovanie měny Bitcoin pomocou [Binárne opcie](http://www.forexsrovnavac.cz/sk/binarni-opce)
+Vyskúšajte obchodovanie měny Bitcoin pomocou [Binárne opcie](http://www.forexsrovnavac.cz/sk/binarne-opcie)
 
 {{/section}}
 

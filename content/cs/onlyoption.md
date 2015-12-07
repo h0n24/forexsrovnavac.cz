@@ -10,10 +10,10 @@
 {{/settings}}
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
-  <meta itemprop="ratingValue" content="94"/>
+  <meta itemprop="ratingValue" content="88"/>
   <meta itemprop="bestRating" content="100"/>
 </span>
-<meta itemprop="itemreviewed" content="Stockpair">
+<meta itemprop="itemreviewed" content="Onlyoption">
 <meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
@@ -27,8 +27,6 @@
 O onlyoption.com
 :    
 Na konci roku 2014 byl představen nový broker nesoucí název OnlyOption, jehož provozovatelem je Safecap Investments Ltd., který včetně OnlyOption vede i několik dalších makléřských společností (Finexo, Markets.com, TopOption, OptionTime, 24winner a další). Broker OnlyOption podléhá regulaci kyperského úřadu CySEC, anglického úřadu FCA i České národní banky. 
-
-[Podívejte se na obchodní aplikaci OnlyOption](http://blog.forexsrovnavac.cz/onlyoption "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 </div>
   <div class="col-md-6" markdown="1">
@@ -61,7 +59,7 @@ OnlyOption se na základě uvedených informací velmi podobá brokerovi [TopOpt
 *Základní informace o www.OnlyOption.com*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.OnlyOption.com**](http://blog.forexsrovnavac.cz/onlyoption "Registrace") |
+| Web:     |   www.OnlyOption.com |
 | ---------------- | ------------- |
 | **Typ brokera:**   | Binary broker  |
 | **Země původu**   | Kypr / 2014  |
@@ -81,7 +79,7 @@ OnlyOption se na základě uvedených informací velmi podobá brokerovi [TopOpt
 | **Demo účet**  | Ano |
 | **Čeština**  | Ano |
 
-[www.OnlyOption.com](http://blog.forexsrovnavac.cz/onlyoption "registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
 
 </div>
 </div>
@@ -93,7 +91,7 @@ OnlyOption se na základě uvedených informací velmi podobá brokerovi [TopOpt
 
 Informace, která bude dozajista velmi zajímat české obchodníky, je, že broker OnlyOption má licenci nejen od úřadu CySEC, ale také od České národní banky. Broker tedy může legálně obchodovat na českém trhu. Včetně licence poskytuje broker svoji platformu i v českém jazyce. Stejně tak má broker i kvalitní českou podporu.
 
-Broker OnlyOption se pohybuje na poli obchodování s binárními opcemi. Škála instrumentů, produktů a nástrojů brokera je velmi pestrá a zahrnuje opce Classic, Speed Trading, OneTouch či Touch/No Touch. Minimální investice do binárních opcí u brokera OnlyOption činí 10 dolarů u klasických opcí a 5 dolarů u krátkodobých opcí.
+Broker OnlyOption se pohybuje na poli [**obchodování s binárními opcemi**](http://www.forexsrovnavac.cz/binarni-opce). Škála instrumentů, produktů a nástrojů brokera je velmi pestrá a zahrnuje opce Classic, Speed Trading, OneTouch či Touch/No Touch. Minimální investice do binárních opcí u brokera OnlyOption činí 10 dolarů u klasických opcí a 5 dolarů u krátkodobých opcí.
 
 Broker OnlyOption obchoduje na platformě, která je poskytována i v českém jazyce a která nabízí množství nástrojů, mezi které patří Rollover (prodloužení doby expirace), Dvojnásobek (možnost zdvojnásobení investice), Sell Option (možnost odprodeje opce), Pár akcií, Graf historie nebo Potvrzení obchodu. 
 
@@ -127,8 +125,6 @@ Broker OnlyOption nabízí možnost využít demo účet, který je však časov
 Přesně řečeno je demo účet možné založit při vkladu 250 dolarů, a to na dobu 3 až 4 dnů. Pokud budete mít zájem, můžete si demo účet prodloužit.
 
 
-[Podívejte se na demo účet u OnlyOption](http://blog.forexsrovnavac.cz/onlyoption "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-
 
 {{/section}}
 
@@ -141,9 +137,8 @@ Broker poskytuje svým obchodníkům možnost vzdělávání a neustálého růs
 *Broker OnlyOption působí na trhu krátkou dobu, přesto si však dokázal vybudovat postavení kvalitního brokera, který za sebou má zkušeného provozovatele. Díky české licenci, české platformě a české zákaznické podpoře je vhodným brokerem pro českého obchodníka.*
 
 {{/section}}
-
-{{/section}}
-
+- - -
+*Konkurenční brokeři:* [TopOption recenze](http://www.forexsrovnavac.cz/topoption) - [Stockpair recenze](http://www.forexsrovnavac.cz/stockpair) - [ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti)
 
 
 </div>
@@ -153,7 +148,7 @@ Broker poskytuje svým obchodníkům možnost vzdělávání a neustálého růs
 
 ![onlyoption.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/onlyoption-logo.jpg) 
 
-[Otevřít účet](http://blog.forexsrovnavac.cz/onlyoption "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/onlyoption "Demo účet"){.btn .bnt-lg .btn-default}
+
 </div>
 <div class="container-fluid" markdown="1">
 
@@ -180,16 +175,12 @@ Nevýhody
 - - -
 </div>
 <div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/onlyoption" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
 </a>
 
 - - -
-Náš Tip:
-:    
-Onlyoption nabízí 100% bonus k prvnímu vkladu [Více informací o Bonusu](http://blog.forexsrovnavac.cz/onlyoption)
-- - -
+
 
 </div>
 </div>

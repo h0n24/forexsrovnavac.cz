@@ -21,7 +21,7 @@ Cesta k tradingu mi přijde dosti těžká a složitá než se zdálo z počátk
 
 Vyzkoušejte si nejdříve demo účet
 
-:   Nejdříve [**demo účet**](http://www.forexsrovnavac.cz/demo-ucet "demo"). Toto je nejzákladnější řada jakou vám mohu dát. Pokud je trader nepřipravený, tak " živé " obchodování je zcela nesmyslné. Je to jen obyčejné vyhazování peněz oknem. Nic víc. Důležité je poznamenat, že to je nutná , nikoliv postačující podmínka . I malé dítě ví , že pokud víte létat na simulátoru , to ještě neznamená , že víte létat i na skutečném letadle . Ale to samé malé dítě také ví, že pokud nevíte létat ani jen na simulátoru, tak na skutečném letadle to docela určitě nedokážete.
+:   Nejdříve [**demo účet**](http://www.forexsrovnavac.cz/demo-ucet "demo"). Toto je nejzákladnější řada jakou vám mohu dát. Pokud je trader nepřipravený, tak " živé " obchodování je zcela nesmyslné. Je to jen obyčejné vyhazování peněz oknem. Nic víc. Důležité je poznamenat, že to je nutná , nikoliv postačující podmínka . I malé dítě ví , že pokud víte létat na simulátoru, to ještě neznamená, že víte létat i na skutečném letadle. Ale to samé malé dítě také ví, že pokud nevíte létat ani jen na simulátoru, tak na skutečném letadle to docela určitě nedokážete.
 
 ##Naučte se řídit vaše finance (money-management)
 

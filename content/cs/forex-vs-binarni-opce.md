@@ -31,7 +31,7 @@ Definice Binárních opcí
 
 : Při obchodování binárních opcí máte jen předvídat, že v případě, že cena aktiva (například měnového páru nebo komodity, akcie) se zvýší nebo sníží z aktuální ceny po určité časové období. Například: Aktuální cena EUR / USD 1,30850 a vy myslíte, že cena bude vyšší, v příští hodině. Takže jste si na tuto možnost vsadili "call" opce na EUR / USD a čekáte na výslednou cenu 1 hodinu od tohoto okamžiku. Pokud je vaše předpověď správná Můžete si vytvořit zisk ve výši až 85% z vaší investice. 
 
-##Fináční páka (margin)
+##Finanční páka (margin)
 
 
 Forex
@@ -97,7 +97,7 @@ Binární opce
 
 Forex
 
-: Můžete začít na demo účtu u [plus500](http://www.forexsrovnavac.cz/binarni-opce "binární opce"), navíc dostanete 500 Kč k registraci.
+: Můžete začít na demo účtu u [plus500](http://www.forexsrovnavac.cz/plus500 "plus500"), navíc dostanete 500 Kč k registraci.
 
 Binární opce
 

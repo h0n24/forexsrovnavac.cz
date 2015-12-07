@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Binárne opcie - obchodovanie a demo účet",
+    "title": "Binárne opcie | Začnite zarábať s binárnymi opciami",
     "description": "",
-    "keywords": "Binárne opcie, Binárne opcie recenzie, Binárne opcie demo účet, binárne obchodovanie"
+    "keywords": "Binárne opcie, Binárne opcie recenzie, binárne obchodovanie"
   }
 {{/settings}}
 

@@ -34,8 +34,6 @@ Zázemí u  OptionTime pro české obchodníky
 :    
 OptionTime poskytuje profesionální podporu v mnoha jazycích. České obchodníky bude však zajisté zajímat informace ohledně regulace, licence a podpory na českém trhu. Poskytovatel OptionTime má licenci nejen od úřadu CySEC na Kypru, ale také od **britského úřadu FCA či od České národní banky**. Díky poslední uvedené licenci může broker obchodovat i na českém trhu. Kromě české licence je však broker přizpůsoben českému trhu i platformou poskytovanou v českém jazyce.
 
-[Podívejte se na obchodní aplikaci Optiontime](http://blog.forexsrovnavac.cz/optiontime "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-
 
 </div>
 </div>
@@ -62,7 +60,7 @@ Broker OptionTime obchoduje na platformě OptionTime, která zvládá zobrazová
 *Základní informace o www.Optiontime.com*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.Optiontime.com**](http://blog.forexsrovnavac.cz/optiontime) |
+| Web:     | www.Optiontime.com |
 | ---------------- | ------------- |
 | **Typ brokera:**   | Binary broker  |
 | **Země původu**   | Kypr / 2013  |
@@ -71,7 +69,7 @@ Broker OptionTime obchoduje na platformě OptionTime, která zvládá zobrazová
 | **Minimální obchod**  | 10 a 5 USD (krátkodobé opce)|
 | **Zákaznický servis:**  | Email, Chat, Telefon|
 
-[www.Optiontime.com](http://blog.forexsrovnavac.cz/optiontime "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
 
   </div>
   <div class="col-md-6" markdown="1">
@@ -86,6 +84,9 @@ Broker OptionTime obchoduje na platformě OptionTime, která zvládá zobrazová
 </div>
 </div>
 {{/section}}
+- - -
+*Konkurenční brokeři:* [**TopOption**](http://www.forexsrovnavac.cz/topoption "TopOption recenze") - [**Stockpair**](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze") - [**ETX Capital**](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
+- - -
 
 {{section}}
 
@@ -98,7 +99,7 @@ Broker OptionTime se pohybuje na poli obchodování binárních opcí. Jak již 
 
 Klasické binární opce 
 
-:   představují základ tradičního obchodování s binárními opcemi. Dělíme je na Call/Put či také Up/Down. Nabídka OptionTime zahrnuje klasické opce Pro Master či Classic Time. U první skupinky, tedy Call opcí, jsou peníze vypláceny v okamžiku, kdy bude cena opce ve stanovenou dobu expirace vyšší než při nákupu této opce. Naopak při opcích Put je vypláceno v okamžiku, kdy je cena v době expirace nižší než při jejím nákupu. Co se týče výnosů z klasických binárních opcí, ty dosahují až 80 % a na některých měnových párech až 85 % zhodnocení.
+:   představují základ tradičního [**obchodování s binárními opcemi**](http://www.forexsrovnavac.cz/topoption "binární opce"). Dělíme je na Call/Put či také Up/Down. Nabídka OptionTime zahrnuje klasické opce Pro Master či Classic Time. U první skupinky, tedy Call opcí, jsou peníze vypláceny v okamžiku, kdy bude cena opce ve stanovenou dobu expirace vyšší než při nákupu této opce. Naopak při opcích Put je vypláceno v okamžiku, kdy je cena v době expirace nižší než při jejím nákupu. Co se týče výnosů z klasických binárních opcí, ty dosahují až 80 % a na některých měnových párech až 85 % zhodnocení.
 
 
 Spreed Trading 
@@ -126,7 +127,7 @@ Minimální vklady se liší podle typu účtu (200 eur až 5 000 eur) a k samot
 
 ##Demo účet
 
-[Demo účet u OptionTime](http://blog.forexsrovnavac.cz/optiontime "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}Jak již bylo řečeno, obchodování si můžete vyzkoušet se cvičným demo účtem. Pro zřízení demo účtu vyžaduje broker OptionTime vložení alespoň minimálního vkladu, který u OptionTime představuje částku 200 eur. Díky demo účtu si budete moci vyzkoušet obchodování nanečisto za podmínek reálného trhu.
+Jak již bylo řečeno, obchodování si můžete vyzkoušet se cvičným demo účtem. Pro zřízení demo účtu vyžaduje broker OptionTime vložení alespoň minimálního vkladu, který u OptionTime představuje částku 200 eur. Díky demo účtu si budete moci vyzkoušet obchodování nanečisto za podmínek reálného trhu.
 
 Typy účtů
 
@@ -143,9 +144,6 @@ Typy účtů
 U brokera OptionTime můžete získat vkladový bonus, který však získáte až ve chvíli, kdy si o něj zažádáte. Bonus se pohybuje podle vámi zvoleného účtu – u Premium získáte bonus 30 % (maximálně 300 eur), u Royal získáte bonus 50 % a u Exclusive získáte bonus 100 % (maximálně však ve výši 2 500 eur). 
 
 Po zažádání vám bude bonus připsán na váš obchodní účet a vy s ním budete moci obchodovat. Peníze z něj však nebudou vaše do té doby, dokud nezobchodujete 40x hodnotu bonusu. Zisky, které vám z bonusu vzniknou, získáte po zobchodování 10x hodnoty.
-
-
-[Získat bonus u OptionTime](http://blog.forexsrovnavac.cz/optiontime "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}Jak již bylo řečeno, obchodování si můžete vyzkoušet se cvičným demo účtem. Pro zřízení demo účtu vyžaduje broker OptionTime vložení alespoň minimálního vkladu, který u OptionTime představuje částku 200 eur. Díky demo účtu si budete moci vyzkoušet obchodování nanečisto za podmínek reálného trhu.
 
 
 {{/section}}
@@ -165,7 +163,7 @@ Broker vám nabízí i možnost vzdělávání, kterou ocení hlavně začínaj�
 
 ![Optiontime.com](http://i.imgur.com/jgpu0dX.png) 
 
-[Otevřít účet](http://blog.forexsrovnavac.cz/optiontime "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/optiontime "Demo účet"){.btn .bnt-lg .btn-default}
+
 </div>
 <div class="container-fluid" markdown="1">
 
@@ -192,15 +190,10 @@ Nevýhody
 - - -
 </div>
 <div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/optiontime" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
 </a>
 
-- - -
-Náš Tip:
-:    
-optiontime nabízí až 100% bonus k novému vkladu [Více informací o Bonusu](http://blog.forexsrovnavac.cz/optiontime)
 - - -
 
 </div>

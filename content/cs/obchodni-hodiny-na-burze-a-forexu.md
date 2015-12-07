@@ -15,7 +15,7 @@
 {{section}}
 
 <div>
-<h2>Obchodní hodiny na burze</h2>
+<h1>Obchodní hodiny na burze</h1>
 Jelikož ceny na měnových trzích jsou tvořeny nabídkami bank a finančních institucí, kteří vystupují jako tvůrci trhu, mohou se skutečné obchodní hodiny od oficiálních časů mírně lišit. Pokud je trh uzavřený, není možné zadávat žádné obchodní pokyny.
 <div>
 <div>* Všechny zobrazené časové údaje jsou uvedeny v GMT, což je čas v Londýně. (V ČR a SR používaný SEČ je o hodinu více, se zohledněním další hodiny v případě letního času).</div>

@@ -3,7 +3,7 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin kurz, aktuálny graf a vývoj ceny v BTC/USD",
+    "title": "Bitcoin kurz, aktuálny graf a vývoj ceny v BTC/USD/EUR",
     "description": "Bitcoin - možnosti jeho obchodovania na burze a taktiež tu nájdete aktuálny kurz virtuálnej meny bitcoin.",
     "keywords": "bitcoin kurz, bitcoin cz, bitcoin obchodovanie, bitcoin"
   }
@@ -33,16 +33,31 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 
 [Moj Bonus 25 Euro](http://www.plus500.com/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Aktuálny kurz BITCOIN v USD - (BTC/USD)
+## Aktuálny kurz v EUR (BTC/EUR)
 
-<div class="container kurz">
-<a href="http://www.plus500.com/sk/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<a href="http://www.plus500.com/sk/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=sk&cty=SK&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
-</div>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BTCE:BTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 
-<br>
-
+- - -
 <div class="row">
 <div class="col-md-8 hidden-sm hidden-xs">
   <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?">
@@ -62,9 +77,35 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 </div>
 </div>
 
+- - -
+
+## Aktuálny kurz BITCOIN v USD - (BTC/USD)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BITFINEX:LTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
 <br>
 
-Vyskúšajte obchodovanie Bitcoin pomocou [Binárne opcie](http://www.forexsrovnavac.cz/sk/binarni-opce)
+Vyskúšajte obchodovanie Bitcoin pomocou [Binárne opcie](http://www.forexsrovnavac.cz/sk/binarne-opcie)
 
 {{/section}}
 

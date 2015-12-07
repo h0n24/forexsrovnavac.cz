@@ -3,7 +3,7 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Cotizacion del Litecoin - Litecoin dólar estadounidense LTC/USD",
+    "title": "Cotizacion de Litecoin EURO - LTC/EUR/USD",
     "description": "",
     "keywords": "Litecoin tasa, litecoin"
   }
@@ -11,7 +11,6 @@
 
 {{section}}
 
-[Mi 25 Euro registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary} [Abra una cuenta de demostración en menos de 5 minutos](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 ## Operar con la moneda virtual Litecoin
 
@@ -31,23 +30,74 @@ La razón para pensar que el valor de LTC crecerá, es sólo gracias a la comuni
 
 {{section}}
 
-## Tasa de actualización de Litecoin en USD
+## 
 
-<div class="container kurz">
-<a href="http://www.plus500.com/es/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<a href="http://www.plus500.com/es/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=es&cty=ES&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
-</div>
+## Cotizacion de Litecoin USD (LTC/USD)
 
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BITFINEX:LTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+
+
+- - -
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
+## Cotizacion de Litecoin EURO (LTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "KRAKEN:LTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+<br>
 {{/section}}
 
 {{section}}
+
+[Mi 25 Euro registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary} 
+
 
 ## Dónde operar con Litecoin
 
 A medida que crece la demanda de esta moneda también lo hace el interés entre el público por operar directamente con esta moneda, de manera similar a otras monedas. Si estás pensando en operar con Litecoins, una de las primeras compañías que lo permite es la compañía [plus500](http://www.forexsrovnavac.cz/es/plus500). Con este relativamente conocido agente de bolsa puedes operar y especular sobre la subida o la bajada del valor de esta moneda en cualquier momento. Además, como nuevo cliente, recibirás una bonificación de 500 CZK al registrarte. Cómo uses esta bonificación es cosa tuya. El servicio es CFD. Plus500UK Limited está autorizada y regulada  por la Autoridad Británica de Conducta Financiera.
 
-[Comience ahora](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 
 {{/section}}

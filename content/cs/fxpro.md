@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Fxpro - recenze a zkušenosti",
+    "title": "FxPro - recenze a zkušenosti",
     "description": "",
     "keywords": "Fxpro, Fxpro recenze"
   }
@@ -22,10 +22,10 @@
 
 {{section}}
 
-# Fxpro recenze
+# FxPro recenze
 <div class="row" style="width:92%">
 <div class="col-md-6" markdown="1">
-O Fxpro
+O FxPro
 :    
 Společnost FxPro fungující ve více než 150 zemích patří ke světové špičce v oblasti obchodování Forex a makléřství, to dokazují nejen ohlasy spokojených zákazníků, ale také společnosti udělená ocenění, kterými se může FxPro pyšnit a která hrdě vystavuje ve své výkladní skříni. Pohodlně obchodovat můžete skrze 4 propracované nástroje – MetaTrader 4, MetaTrader 5, cTrader a jako poslední nástroj je dostupný  SuperTrader, který je však omezen jen pro klienty FxPro Financial Services Limited. 
 
@@ -44,11 +44,11 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 {{/section}}
 
 
-*Proč obchodovat s Fxpro?*
+*Proč obchodovat s FxPro?*
 :    
     1. Pojem globální makléř nevznikl jen tak, protože společnost FxPro své služby poskytuje již ve více než 150 zemích světa, ve kterých se o své klienty stará s grácií.
 
-    2. Společnost své nástroje (AOS QUANT + Supertrader) vyvíjí přímo pro potřeby svých klientů a stále je zlepšuje - 99,9 % příkazů zpracovaných během 50 ms
+    2. Společnost své nástroje (FxPro QUANT + Supertrader) vyvíjí přímo pro potřeby svých klientů a stále je zlepšuje - 99,9 % příkazů zpracovaných během 50 ms
     
     3. K dispozici jsou veškeré platformy - Na Iphone, Ipad, Android nebo Webtrader - nemusíte nic stahovat
 
@@ -60,31 +60,33 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 *Základní informace o Fxpro.cz*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [www.Fxpro.cz](http://www.Fxpro.cz) |
+| Web:     |   [**www.Fxpro.cz**](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) |
 | ---------------- | ------------- |
 | **Typ brokera:**   | NDD |
-| **Země původu**   | Kypr |
+| **Země původu**   | Velká Británie |
 | **Minimální velikost pozice:** | Mikro loty od 0,01 lotu - cca 100 Kč|
 | **Spread** | Variabilní nebo fixní|
 | **Podporované platformy:**  | MetaTrader 4, MetaTrader 5, Ctrader, Supertrader|
 | **Zákaznický servis:**  | Email, Chat, Telefon|
+
   </div>
   <div class="col-md-6" markdown="1">
-| **Regulace:**  | CySEC, FCA, ČNB, ASiC ...|
+| **Regulace:**  | FCA, CySEC, FSB |
 | ---------------- | ------------- |
 | **Minimální vklad**  | 100 $ ( 2400 Kč) |
 | **Možnosti vkladu**  | bankovní převod, platební karty, Skrill (Moneybookers), Neteller, PayPal, UNetBanx, WebMoney, FasaPay |
 | **Páka**  |  až 1:500 |
-| **Zajímavost**  | QUANT - algoritmické obchodování |
-| **Demo účet**  | Ano zdarma, více [zde](www.Fxpro.cz) |
+| **Zajímavost**  | [**FxPro Quant - algoritmické obchodování**](http://www.forexsrovnavac.cz/fxpro-quant) |
+| **Demo účet**  | Ano zdarma, více [zde](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) |
 | **Čeština**  | Kompletně v Češtině |
-
+  
 </div>
 </div>
+  
 
 ![Fxpro recenze](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/10/Fxpro-recenze.png) 
 
-[Více informací o Fxpro.cz](http://www.fxpro.cz/ "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Více informací o Fxpro.cz](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 {{/section}}
 
@@ -93,7 +95,7 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 
 **Účty pro obchodování** – Nejpoužívanější typ účtu, který je dostupný v nejpopulárnějších světových měnách (USD, EUR, GBP, CHF, JPY, AUD a PLN). Ačkoliv je doporučený vklad 500 USD, tak není problém vložit mnohem méně.
 
-**Účet SuperTrader** – Tento typ účtu byl přímo stvořen pro investory, kteří chtějí spravovat svoje strategie a finance snadno a rychle. Pro tento typ účtu je minimální limit 1000 USD.
+**Účet SuperTrader** – Tento typ účtu byl přímo stvořen pro investory, kteří chtějí spravovat svoje strategie a finance snadno a rychle. Minimálný vklad na Supertraderúčet je 2000 USD při zvolení multiplikátoru 4, což vytvoří kapitál dohromady za 10 000 USD.
 
 **Účet Pamm** – Pamm je ideálním nástrojem pro obchodníky, kteří chtějí spravovat více účtů svých klientů bez větších starostí.
 
@@ -114,12 +116,12 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 **Spotové energie** – Se spotovými komoditami jako BRENT, NAT.GAS a WTI Oil lze obchodovat již od spreadu 0,04 s marží 0,5% za jeden lot.
 
 
-[Podívejte se co můžete obchodovat](http://www.fxpro.cz/trading/forex "Obchodní produkty") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Podívejte se co můžete obchodovat](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Obchodní produkty") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 {{/section}}
 
 {{section}}
-## Obchodní platformy u FXpro
+## Obchodní platformy u FxPro
 
 FxPro MetaTrader 4 a 5
 
@@ -139,7 +141,7 @@ Pokud si zcela nejste jisti svým jednáním a v obchodování patříte spíš 
 
 Demo je dostupné pro nástroje MT4, MT5 a také cTrader, avšak absence v SuperTrader. Maximální zůstatek na účtě se může vyšplhat až do neuvěřitelných 500 tisíc s možným obchodováním s měnami USD, EUR, GBP, CHF, JPY, AUD a PLN s pákovým efektem od 1:1 do 1:500.
 
-[Demo účet u Fxpro.cz](http://www.fxpro.cz/trading/accounts/open-demo-account "Demo") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Demo účet u Fxpro.cz](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Demo") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 Poté, co si budete zcela jisti svým jednáním můžete přejít k možnosti založení reálného obchodního účtu, jehož registrace vám zabere jen pár minut.
 
 
@@ -159,9 +161,9 @@ Společnost FxPro si uvědomuje, že mají klienty všech znalostních úrovní,
 <div class="well" markdown="1" style="margin-top: 2.5em">
   
 
-![Fxpro.cz](http://www.forexsrovnavac.cz/assets/img/loga/fxpro150.png) 
+![FxPro.cz](http://www.forexsrovnavac.cz/assets/img/loga/fxpro150.png) 
 
-[Otevřít účet](http://www.fxpro.cz "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://www.fxpro.cz/trading/accounts/open-demo-account "Demo účet"){.btn .bnt-lg .btn-default}
+[Otevřít účet](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -

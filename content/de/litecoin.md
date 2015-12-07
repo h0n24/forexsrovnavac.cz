@@ -3,9 +3,9 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin Kurs - Aktuelle Chart und Preisentwicklung in LTC/USD",
+    "title": "Litecoin kurs - Aktuelle Chart in LTC/USD/EUR",
     "description": "",
-    "keywords": "Litecoin Kurs, Kurs Litecoin, Litecoin, Litecoin Handeln, CFD"
+    "keywords": "Litecoin Kurs, Litecoin Euro, Kurs Litecoin, Litecoin, Litecoin Handeln, CFD"
   }
 {{/settings}}
 
@@ -33,13 +33,55 @@ Man kann denken, dass der Wert von LTC steigen wird, nur dank der Kommunität, d
 
 {{section}}
 
-## Aktueller Kurs von Litecoin in USD (LTC/USD)
+## Aktueller Kurs von Litecoin in EURO (LTC/EUR)
 
-<div class="container kurz">
-<a href="http://www.plus500.com/de/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<a href="http://www.plus500.com/de/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=de&cty=DE&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
-</div>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "KRAKEN:LTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+- - -
+
+## Aktueller Kurs von Litecoin in Dollar (LTC/USD)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BITFINEX:LTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 
 {{/section}}
 
@@ -51,7 +93,7 @@ Versuchen Sie es mit Bitcoin-Handel mit [Binäre optionen](http://www.forexsrovn
 
 ## Wo kann man mit Litecoin handeln?
 
-Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit der virtuellen Währung Litecoin, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Litecoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft [plus500](http://www.forexsrovnavac.cz/de/plus500). Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu als ein neuer Kunde bekommen Sie zu Ihrer Registrierung den Bonus 500CZK. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
+Damit, wie die Nachfrage nach dieser Währung wächst, wächst zwischen der Öffentlichkeit auch das Interesse an direkten Handel mit der virtuellen Währung Litecoin, ähnlich wie es auch bei anderen Währungen ist. Also wenn Sie über dem Handel mit Litecoin nachdenken, eine der ersten Gesellschaften, die es ermöglicht, ist die Gesellschaft [plus500](http://www.forexsrovnavac.cz/de/plus500). Mit diesem in der Welt ganz bekannten Broker können Sie über den Aufstieg oder den Rückgang dieser Währung schon in ein paar Minuten handeln und spekulieren. Noch dazu als ein neuer Kunde bekommen Sie zu Ihrer Registrierung den Bonus 25 EURO. Wie Sie diesen Bonus nutzen, das hängt nur von Ihnen ab. Der Dienst ist CFD. Plus500UK Limited ist vom britischen Amt für Finanzdienste genehmigt und reguliert (Authorised and regulated by the Financial Conduct Authority).
 
 [Jetzt starten](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 

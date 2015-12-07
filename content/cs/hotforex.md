@@ -60,7 +60,7 @@ Nejnižší spready na trhu, od 0.1 pips a dále široká paleta investiční n�
 | **Čeština**  | Ano, **kompletně v češtině** |
 
 [Kompletní informace na hotforex.com](https://www.hotforex.com/cz/ "Demo účet"){.btn .bnt-lg .btn-primary}
-
+| [**Demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet) | Ano, neomezený |
 - - -
 
 ##Recenze Hotforex:

@@ -2,11 +2,9 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Litecoin
+# Litecoin EURO
 
-Inizia a fare trading con la valuta virtuale che cambierà il mondo.
-
-Bonus benvenuto di 25 EURO
+valuta virtuale 
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

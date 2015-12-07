@@ -126,6 +126,8 @@ Jak již bylo naznačeno, můžete se po celou dobu obchodování vzdělávat pr
 
 
 {{/section}}
+- - -
+*Konkurenční brokeři:* [ETX capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti) - [Markets.com](http://www.forexsrovnavac.cz/markets-com-recenze) - [XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com)
 
 
 

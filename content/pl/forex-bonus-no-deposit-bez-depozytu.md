@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Forex bonus no deposit - pieniądze w forex bez depozytu",
-    "description": "",
-    "keywords": "Forex bonus no deposit"
+    "title": "Bonusy Forex Bez Depozytu - pieniądze w forex bez depozytu",
+    "description": "Bonusy Forex Bez Depozytu - Zestawienie aktualnie najlepszych bonusów Forex, lista aktualnych darmowych bonusów forex bez depozytu",
+    "keywords": "Bonusy Forex Bez Depozytu, Bonus Forex Bez Depozytu"
   }
 {{/settings}}
 
@@ -24,7 +24,7 @@ Jeśli biznesmen chce wypróbować, jak handluje się na rynku forex poprzez owe
 
 Bonus 100 zł z brokera Plus500
 
-:   U  początkujących biznesmenów najpopularniejszym brokerem z polityką Forex bonus no deposit jest broker Plus500. U Plus500 możesz darmowo założyć konto, trzeba tylko być pełnoletnim i posiadać telefon lub numer telefonu, za pośrednictwem którego formą wiadomości SMS sprawdzona będzie prawidłowość danych. Na konto nie musisz wpłacić ani grosza, a jednak po założeniu konta otrzymasz bonus. Jednak by mogłeś go wypłacić, musisz spełnić określone warunki. Bonus ten można wykorzystać nie tylko w ramach Forexu, ale również w ramach handlu poprzez jakiekolwiek inne instrumenty (akcje SFD, towary, indexy i ETF). 
+:   U  początkujących biznesmenów najpopularniejszym brokerem z polityką Forex bonus no deposit jest broker Plus500. U Plus500 możesz darmowo założyć konto, trzeba tylko być pełnoletnim i posiadać telefon lub numer telefonu, za pośrednictwem którego formą wiadomości SMS sprawdzona będzie prawidłowość danych. Na konto nie musisz wpłacić ani grosza, a jednak po założeniu konta otrzymasz bonus. Jednak by mogłeś go wypłacić, musisz spełnić określone warunki. Bonus ten można wykorzystać nie tylko w ramach Forexu, ale również w ramach handlu poprzez jakiekolwiek inne instrumenty (akcje SFD, towary, indexy i ETF). [Plus500 opinie](http://www.forexsrovnavac.cz/pl/plus500 "plus500 opinie") 
 - - -
 
 [Broker Ironfx.com i bonus 25 dolarów](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/){.btn .bnt-lg .btn-primary .pull-left .btn-index}

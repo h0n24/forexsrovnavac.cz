@@ -13,7 +13,7 @@
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
-##  Šikovné tipy, jak si vybrat brokera na binární opce 
+#  Jak si vybrat brokera na binární opce 
 
 Výběr toho správného brokera na [binární opce](http://www.forexsrovnavac.cz/binarni-opce), by teoreticky měl být rychlý a snadný proces. Každý člověk, který chce začít obchodovat a použít na to své těžce vydělané peníze, by měl být při výběru obezřetný a proto přinášíme pár tipů které poslouží při výběru. 
 

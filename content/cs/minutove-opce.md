@@ -13,7 +13,7 @@
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
-#Minutové opce, zkušenosti a informace
+#Minutové opce
 
 V dnešním článku si povíme něco o minutových opcích, pokud vás zaujmou, dostaneme se i k jednoduché strategii na minutové opce. Chtělo by se říct "Můžete si vydělat více peněz za 1 minutu, než jiní vydělají za celý den. Pověsit svá místa na hřebík! Obchodování minutových opcí je přesně to, co zní jako ten správný americký sen. S minutovými opcemi můžete otevřít a zavřít obchody za pouhých 60 sekund." 
 

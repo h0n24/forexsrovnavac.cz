@@ -43,15 +43,8 @@ Helfer bei den binären Optionen.  Wie soll man beginnen?
   <div class="col-md-6" markdown="1">
 Wählen Sie sich richtigen Broker aus
 
-:  Auf unseren Webseiten werden nur diejenigen Broker rezensiert, die ordnungsgemäß kontrolliert und durch die [Tschechische Nationalbank](http://www.cnb.cz/cs/dohled_financni_trh/) reguliert werden. Handeln Sie nur bei hochwertigen und überprüften Brokern mit dem höchsten Maß der Erträge.  
+:  Auf unseren Webseiten werden nur diejenigen Broker rezensiert, die ordnungsgemäß kontrolliert und durch die global reguliert werden. Handeln Sie nur bei hochwertigen und überprüften Brokern mit dem höchsten Maß der Erträge.  
 
-[Topoption – der beste Broker auf die Binäroptionen? (DE)](http://blog.forexsrovnavac.cz/topoption.de "TopOption")
-
-[ETX capital – die größten Erträge am Markt (DE)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital")
-
-[Stockpair – hervorragend bewerteter Broker (DE)](http://www.forexsrovnavac.cz/stockpair "Stockpair")
-
-[OnlyOption – ein neuer Broker 2015 (DE)](http://www.forexsrovnavac.cz/onlyoption "OnlyOption")
 
 [Sehen Sie Demokonto auf die Binäroptionen hier an](http://blog.forexsrovnavac.cz/topoption.de "Demo účet"){.btn .bnt-lg .btn-default}
 
@@ -93,7 +86,7 @@ Sie brauchen nichts herunterzuladen
 
 :   Mit den Binäroptionen können Sie online bei einzelnen Brokern mithilfe von der Applikation WebTrader (beziehungsweise auch an mobilen Geräten Iphone, Android, Ipad) handeln.  Sie haben so Ihre Händel immer unter Kontrolle.  Sie brauchen keine komplizierten Applikationen Typs Metatrader 4 zu installieren.
 
-Die Binäroptionen unterscheiden sich in einige Arten  - UP/CALL, Minutenoptionen und so weiter. Alle Arten wurden für Sie in unserem Artikel [Arten der Binärotionen](http://forexsrovnavac.cz/druhy-binarnich-opci "Arten der Binärotionen") rezensiert. 
+Die Binäroptionen unterscheiden sich in einige Arten  - UP/CALL, Minutenoptionen und so weiter. Alle Arten wurden für Sie in unserem Artikel Arten der Binärotionen rezensiert. 
 
 
 <div class="row" style="width:92%">
@@ -120,7 +113,7 @@ In unserem Falle war das so, dass das Paar sich um 15:00 auf 1,2695 erhöhte. De
 
 [                         Vyzkoušejte demo účet na binární opce u brokera TopOption                      ](http://blog.forexsrovnavac.cz/topoption.de){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 
-![Binární opce](http://i.imgur.com/YV4yWi6.png)
+![Binäroptionen](http://i.imgur.com/YV4yWi6.png)
 - - -
 
 {{/section}}
@@ -173,14 +166,14 @@ Mit den binären Optionen  begann ich etwa vor einem halben Jahr. Zuerst sagte m
 
 Auswahl des Brokers ist wichtig 
 
-:     Zuerst begann ich mich nach einem wirklich guten Broker umzusehen, mit dem ich während des Handels keine Probleme hätte. Aufgrund dessen, was ich im Internet anlas und nach den Erfahrungen eines Freundes, orientierte ich mich vor allem auf die Regulation des Brokers selbst, auf den problemlosen Gang seiner Applikation und nicht in der letzten Reihe auf **Rentabilität der Binäroptionen**, die sich bei einzelnen Brokern in Größenordnung von 70 bis 85 % bewegen.  Am besten waren meiner Meinung nach [TopOption](http://blog.forexsrovnavac.cz/topoption.de "TopOption") oder [Stockpair - Hervorragend bewerteter Broker (EN)](http://www.forexsrovnavac.cz/stockpair)
+:     Zuerst begann ich mich nach einem wirklich guten Broker umzusehen, mit dem ich während des Handels keine Probleme hätte. Aufgrund dessen, was ich im Internet anlas und nach den Erfahrungen eines Freundes, orientierte ich mich vor allem auf die Regulation des Brokers selbst, auf den problemlosen Gang seiner Applikation und nicht in der letzten Reihe auf **Rentabilität der Binäroptionen**, die sich bei einzelnen Brokern in Größenordnung von 70 bis 85 % bewegen.  Am besten waren meiner Meinung nach [TopOption](http://blog.forexsrovnavac.cz/topoption.de "TopOption") oder Stockpair.
 .
 
 Erste Investition etwa 100 US-Dollars
 
 :    Ich lud also durch Bankenkonto meine erste Investition 100  US-Dollars auf, dazu bekam ich das Demokonto und ich stürzte mich in einen Handel. Zuerst handelte ich auf dem Demokonto mit den Facebook Aktien, denn ich dachte, dass ich sie gut kenne, und ich könnte durch diese profitabel werden. Trotzdem hatte ich nicht Recht: Auf dem Demokonto war ich immer nicht profitabel, deshalb änderte ich meine Strategie und ich konzentrierte mich auf die Handelsartikel und Währungspaare, bei denen viel mehr Gelegenheiten vorliegen , indem diese Instrumente eine höhere Volatilität haben.
 
-Ich hörte  mit Handel von Minutenoptionen auf, die sehr spekulativ sind, indem ich Ihnen einen Handel mit diesen bestimmt nicht empfehlen kann und ich konzentrierte mich auf weitere [Arten der binären Optionen](http://forexsrovnavac.cz/druhy-binarnich-opci), insbesondere auf  **High & Low Optionen** mit der Laufzeit  10 - 60 Minuten. 
+Ich hörte  mit Handel von Minutenoptionen auf, die sehr spekulativ sind, indem ich Ihnen einen Handel mit diesen bestimmt nicht empfehlen kann und ich konzentrierte mich auf weitere Arten der binären Optionen, insbesondere auf  **High & Low Optionen** mit der Laufzeit  10 - 60 Minuten. 
 
 Auswahl der passenden Strategie auf die binären Optionen 
 :    Es kam plötzlich, es begann mir stufenweise zu glücken, auf dem Demokonto gelang es mir ungefähr **60% erfolgreicher Händel**, ich las im Internet noch die weiteren Strategien durch und ich stürzte mich in den Handel auf einem Live-Konto.  In der heutigen Zeit  handle ich bereits auf einem Live-Konto. Ich bemühe mich, eher weniger Händel zu machen, etwa von 2 bis 5 täglich und auf höhere Einlage, aktuell setzte ich auf eine Option 20 US-Dollars. 
@@ -207,7 +200,7 @@ Warum sollte man zuerst Demokonto benutzen?
 
 Bekanntmachung mit den binären Optionen und Märkten, Daten und Graphen
 
-:    Ein weiteres Ziel und eine weitere Rolle des Trainings auf den Demokonten ist eine Möglichkeit, sich mit Märkten als solchen gut bekannt zu machen.  Da könnte hier eine  gewisse „Einstellung”  von Ihnen in die Welle des Marktes noch vor einem Einstieg in die reale Welt genannt werden.  Vorteil dieser Einstellung ist das, dass Mensch feststellt, welcher Markt ihm am besten passt, und umgekehrt, auf  welchem Markt er nicht handeln wird, beziehungsweise auf welchem Markt er zuerst handeln wird und welchen er sich in Reserve behält. Temperamente geben lebensvollen Märkten Vorzug, die Besonneneren wiederum anderen Märkten. Über Demokonten erfahren Sie mehr in unserem [Binäre Optionen – Demoversionen der Konten](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce). 
+:    Ein weiteres Ziel und eine weitere Rolle des Trainings auf den Demokonten ist eine Möglichkeit, sich mit Märkten als solchen gut bekannt zu machen.  Da könnte hier eine  gewisse „Einstellung”  von Ihnen in die Welle des Marktes noch vor einem Einstieg in die reale Welt genannt werden.  Vorteil dieser Einstellung ist das, dass Mensch feststellt, welcher Markt ihm am besten passt, und umgekehrt, auf  welchem Markt er nicht handeln wird, beziehungsweise auf welchem Markt er zuerst handeln wird und welchen er sich in Reserve behält. Temperamente geben lebensvollen Märkten Vorzug, die Besonneneren wiederum anderen Märkten. Über Demokonten erfahren Sie mehr in unserem binäre Optionen – Demoversionen der Konten. 
 {{/section}}
 
 {{section}}
@@ -218,12 +211,12 @@ Bekanntmachung mit den binären Optionen und Märkten, Daten und Graphen
 Topoption ist die komplexeste Gesellschaft, die bisher gegründet wurde
 :    Daraus folgt die grundsätzliche Tatsache, Ihre Einlagen auf das Handelskonto sind bis zur Höhe von 20 tausend Euro versichert, und zwar für den Fall, dass die Gesellschaft Pleite machen würde.  Die  Webplattform ist im Tschechischen und die Vertreter des Brokers kommunizieren in der tschechischen Sprache per E-Mail, sowie per Telefon.  Ihre Handelsfertigkeiten prüfen Sie  bei TopOption auf einem Demokonto, sowie auf einem realen Konto von 100$ mit den Optionen von 10$ nach.  Dieser Broker bietet auch Unterrichtsakademie kostenlos. 
 
-[TopOption – unsere Rezensionen des Brokers -->>](http://www.forexsrovnavac.cz/topoption "TopOption – unsere Rezensionen des Brokers").
+
 {{/section}}
 - - -
 Geben Sie Acht auf betrügerische Systeme für die binären Optionen
 
-:   *Die Binäroptionen sind bestimmt interessante Möglichkeit des Nebenverdienstes, trotzdem entstehen  im Anschluss an ihre Beliebtheit viele betrügerische Systeme, die bezahlte  100% Signale versprechen, oder unfehlbare Indikatoren der Einstiege in die Position und den Erwerb sogenannt ohne Arbeit und ohne jede Ausbildung.  Das ist bestimmt keine richtige Richtung, mit deren ein Anfänger beginnen sollte. Für alle wurde ich zum Beispiel [BinaryBotPro](http://www.forexsrovnavac.cz/binary-bot-pro) oder [Optionavigator](http://www.forexsrovnavac.cz/optionavigator-recenze) erwähnen.*
+:   *Die Binäroptionen sind bestimmt interessante Möglichkeit des Nebenverdienstes, trotzdem entstehen  im Anschluss an ihre Beliebtheit viele betrügerische Systeme, die bezahlte  100% Signale versprechen, oder unfehlbare Indikatoren der Einstiege in die Position und den Erwerb sogenannt ohne Arbeit und ohne jede Ausbildung.  Das ist bestimmt keine richtige Richtung, mit deren ein Anfänger beginnen sollte. Für alle wurde ich zum Beispiel BinaryBotPro oder Optionavigator erwähnen.*
 
 
 </div>

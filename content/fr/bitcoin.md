@@ -3,7 +3,7 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Le cours du bitcoin - BTC/USD",
+    "title": "Cours du bitcoin EURO - BTC/EUR/USD",
     "description": "",
     "keywords": ""
   }
@@ -11,9 +11,7 @@
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
+
 
 ## Trader en monnaie virtuelle Bitcoin
 
@@ -31,16 +29,42 @@ Toute une série d'experts discutent à ce sujet depuis longtemps, ce qui crée 
 
 {{section}}
 
-[25$ bonus d'inscription](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
-
-## Le cours du bitcoin (BTC/USD)
+## Cours du bitcoin USD (BTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/fr/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <a href="http://www.plus500.com/fr/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=fr&cty=FR&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
+- - -
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
 
+## Cours du bitcoin EURO (BTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BTCE:BTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 {{/section}}
 
 

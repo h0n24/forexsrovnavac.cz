@@ -2,11 +2,9 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Bitcoin Price
+# Bitcoin Price USD
 
 Virtual currency - Charts and price graph.
-
-Welcoming bonus 20 £
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

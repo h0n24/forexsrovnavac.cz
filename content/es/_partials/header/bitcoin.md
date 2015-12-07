@@ -2,7 +2,9 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Evolucion del bitcoin
+# Bitcoin EURO
+
+Moneda virtual
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

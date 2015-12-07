@@ -3,7 +3,7 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Tasso di cambio Litecoin - LTC/USD",
+    "title": "Tasso di cambio Litecoin - LTC/USD/EUR",
     "description": "",
     "keywords": "Tasso di cambio Litecoin"
   }
@@ -11,9 +11,7 @@
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
+
 
 ## Trading con la valuta virtuale Litecoin
 
@@ -33,13 +31,60 @@ bisogna pensare al fatto che il valore di LTC crescerà, e solo grazie alla comu
 
 {{section}}
 
-## l’attuale tasso di cambio Litecoin in USD
+## l’attuale tasso di cambio Litecoin in USD (LTC/USD)
 
-<div class="container kurz">
-<a href="http://www.plus500.com/it/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<a href="http://www.plus500.com/it/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=it&cty=IT&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
-</div>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BITFINEX:LTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+
+- - -
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
+
+## l’attuale tasso di cambio Litecoin in EURO (LTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "KRAKEN:LTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 
 {{/section}}
 

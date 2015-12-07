@@ -15,7 +15,7 @@
 # Zoomtrader recenze a zkušenosti
 
 
-Zajímá vás dění okolo brokerů s binárními opcemi, konkrétně zoomtrader? V dnešní recenzi jsme vybrali právě brokera Zoomtrader,  jelikož vyvolal značný zájem uživatelů a dostali jsme několik dalších emailů, jestli je Zoomtrader podvod? 
+Zajímá vás dění okolo brokerů s binárními opcemi, konkrétně **zoomtrader**? V dnešní recenzi jsme vybrali právě brokera Zoomtrader,  jelikož vyvolal značný zájem uživatelů a dostali jsme několik dalších emailů, jestli je Zoomtrader podvod? 
 
 Nejdříve vás ujístíme, že binární opce jsou zcela běžný finanční nástroj a podvod určitě nejsou, ale je třeba je začít obchodovat u [spolehlivého brokera](http://www.forexsrovnavac.cz/topoption), který má potřebné regulace. Nyní zpět k brokerovi Zoomtraderu.
 
@@ -40,12 +40,9 @@ Zkušenosti s brokerem Zoomtrader jsou tudíž velice rozporuplné, proto nemů�
 
 Varování na Zoomtrader zde: [Zoomtrader varování](http://www.cnb.cz/cs/spotrebitel/ochrana_spotrebitele/upozorneni/upozorneni_zoompartners.html)
 
-Kterého brokera doporučujete na binární opce?
-:   Určitě doporučujeme brokera [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption"), [ETX Capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital") nebo [Stockpair](http://www.forexsrovnavac.cz/stockpair "Stockpair")
+Kterého brokera vybrat na binární opce?
+:   Určitě vyzkoušejte [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption"), [ETX Capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital") nebo [Stockpair](http://www.forexsrovnavac.cz/stockpair "Stockpair")
 
-Základní informace o zoomtrader:
-| Web:     |   [www.zoomtrader.com]|
-| ---------------- | ------------- |
 
 
 

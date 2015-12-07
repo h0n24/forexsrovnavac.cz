@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Obchodovaní na forexu online",
-    "description": "",
-    "keywords": "Forex"
+    "title": "Jak na Forex? Obchodovaní na Forexu online",
+    "description": "Zajímá vás jak probíhá obchodování na Forexu - obchodování měnových párů? Základní informace a tipy jak na měnový trh Forex.",
+    "keywords": "Forex, Jak na forex, Obchodovaní na forexu"
   }
 {{/settings}}
 
@@ -14,13 +14,13 @@
 
 {{section}}
 
-#Jak Probíhá obchodování na forexu ?
+#Jak Probíhá obchodování na Forexu ?
 
 Obchodování probíhá v reálném čase , kdy se prodávají a nakupují jednotlivé měny, které se obchodují v měnových párech . Kurz je vždy uváděn za jednu jednotku první uváděny měny (tzv. Měna základní) vůči druhé měně v páru (tzv. Měna křížová ). Např. kurz EUR / USD 1,4916 znamená, že 1 EUR má hodnotu 1,4916 USD . Princip obchodování spočívá v tom , že souběžně nakupujete jednu měnu a prodáváte druhou měnu. Za nákup první měny platíte prodanou měnou. Na forexovém trhu můžete spekulovat nejen na vzestup kurzu, ale také jednoduše i na jeho pokles.
 
 ##Co je spread ?
 
-Spread je rozdíl mezi nejlepší nabídkou (kurz, za který může investor koupit) a poptávkou (kurz, za který může prodat ) a je nákladem investora. Je vyjádřením pohybu, o který musí jít kurz příznivým směrem, než začne být obchod ziskový. Například: Pokud nakoupíte EUR za USD při kurzu 1,47365 , obratem byste ho byli schopni ihned prodat za kurz 1,47341 . Rozdíl činí 0,00024 a jelikož se spread uvádí v desetitisícinách , spread činí v tomto případě 2,4 .
+[Spread](http://www.forexsrovnavac.cz/spread-poplatky) je rozdíl mezi nejlepší nabídkou (kurz, za který může investor koupit) a poptávkou (kurz, za který může prodat ) a je nákladem investora. Je vyjádřením pohybu, o který musí jít kurz příznivým směrem, než začne být obchod ziskový. Například: Pokud nakoupíte EUR za USD při kurzu 1,47365 , obratem byste ho byli schopni ihned prodat za kurz 1,47341 . Rozdíl činí 0,00024 a jelikož se spread uvádí v desetitisícinách , spread činí v tomto případě 2,4 .
 
 ##Možnost vydělávat i na vzestupu a poklesu kurzu
 
@@ -30,7 +30,7 @@ Díky pákovému efektu 1:50 dosáhnete z vloženého vkladu 50 násobné zhodno
 
 ##Finanční páka a zajištění
 
-Velkou výhodou a zároveň i rizikem při obchodování na forexovém trhu je tzv. Pákový efekt (leverage), který může mnohonásobně zvýšit vaše zisky ale také ztráty a umožňuje dostupnost obchodování i pro investory s nižším vstupním kapitálem. Finanční páka tak umožňuje dosahovat se stejným kapitálem vyšších zisků a současně využívat menších pohybů kurzu. Jejím použitím se ale zvyšuje podstupované riziko. Například při investici 2 000 USD můžete obchodovat s objemem až 100 000 USD (2 000 USD x páka 50 = 100 000 USD). Jelikož se měnové páry standardně obchodují v tzv. Lotech, při využití marže tak postačí pro otevření pozice pouze 200 jednotek dané měny.
+Velkou výhodou a zároveň i rizikem při obchodování na Forexovém trhu je tzv. Pákový efekt (leverage), který může mnohonásobně zvýšit vaše zisky ale také ztráty a umožňuje dostupnost obchodování i pro investory s nižším vstupním kapitálem. Finanční páka tak umožňuje dosahovat se stejným kapitálem vyšších zisků a současně využívat menších pohybů kurzu. Jejím použitím se ale zvyšuje podstupované riziko. Například při investici 2 000 USD můžete obchodovat s objemem až 100 000 USD (2 000 USD x páka 50 = 100 000 USD). Jelikož se měnové páry standardně obchodují v tzv. Lotech, při využití marže tak postačí pro otevření pozice pouze 200 jednotek dané měny.
 
 ##Velikost kontraktu U (OBCHODOVATELNÉ MNOŽSTVÍ)
 

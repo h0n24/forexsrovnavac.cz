@@ -2,9 +2,9 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Litecoin
+# Cours du Litecoin EURO 
 
-La monnaie virtuelle qui va changer le monde.
+La monnaie virtuelle.
 
 Bonus de bienvenue de $25
 
@@ -27,7 +27,7 @@ Bonus de bienvenue de $25
           <a href="#section-1">De quoi s'agit-il?</a>
         </li>
         <li>
-          <a href="#section-2">Taux d'actualisation</a>
+          <a href="#section-2">Cours du Litecoin</a>
         </li>
         <li>
           <a href="#section-3">Où trader?</a>

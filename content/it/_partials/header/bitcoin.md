@@ -2,11 +2,10 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Scoprite il futuro
+# Bitcoin EURO
 
-Con la valuta virtuale che cambierà il mondo.
+Valuta virtuale
 
-Bonus benvenuto di 25 EURO
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

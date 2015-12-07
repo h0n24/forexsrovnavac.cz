@@ -3,16 +3,16 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin kurz, aktuální graf a vývoj ceny v LTC/USD",
-    "description": "Litecoin možnosti jeho obchodování na burze a taktéž zde najdete aktuální kurz virtuální měny Bitcoin.",
+    "title": "Litecoin kurz, aktuální graf a vývoj ceny v LTC/USD/EUR",
+    "description": "Litecoin možnosti jeho obchodování na burze a taktéž zde najdete aktuální kurz virtuální měny Litecoin - EUR/USD.",
     "keywords": "Litecoin kurz, Litecoin zdarma, Litecoin cz, Litecoin obchodování, Litecoin"
   }
 {{/settings}}
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90" class="img-responsive"/>
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDc4OTIzMyZsPTE0NzU2MzIzJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDc4OTIzMyZsPTE0NzU2MzIzJnA9MTAxNjA%3D" width="970" height="90"/>
 </a>
 
 ## Obchodování s virtuální měnou Litecoin
@@ -29,11 +29,10 @@ Se vzestupem na trh specializovaných ASIC pro Bitcoin, je pravděpodobné, že 
 
 Důvod si myslet, že hodnota LTC poroste je díky komunitě, která za ním stojí. Pro růst hodnoty je důležité, aby se začali rozvíjet peněženky, takže bude snažší i pro méně zkušené uživatele kupovat a prodávat LTC. Nicméně proto je potřeba více vokální vývojářů, kteří se budou snažit rozvíjet peněženky. Pro další vývoj litecoin kurzu bude rozhodující i počet různý služeb, zboží, které půjde za Litecoin koupit. Nicméně vše je teprve na začátku a je třeba této šance využít
 
-500kč/25€ na Váš reálný účet, pouze za registraci. Vyzkoušejte si reálné obchodování bez nutnosti vkladu.
-
-[Chci si vyzkoušet](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
 {{/section}}
+
+
 
 {{section}}
 
@@ -109,7 +108,7 @@ new TradingView.widget({
 <!-- TradingView Widget END -->
 <br>
 
-Vyzkoušejte obchodování Litecoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce) u brokera [TopOption](http://www.forexsrovnavac.cz/topoption "Topoption recenze")
+Vyzkoušejte obchodování Litecoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce "binární opce") u brokera [TopOption](http://www.forexsrovnavac.cz/topoption "Topoption recenze")
 - - -
 {{/section}}
 

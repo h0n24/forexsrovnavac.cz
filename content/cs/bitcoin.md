@@ -3,7 +3,7 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin kurz, aktuální graf a vývoj ceny v BTC/USD",
+    "title": "Bitcoin kurz, aktuální graf a vývoj ceny v BTC/USD/EUR",
     "description": "Graf a vývoj bitcoin kurzu, aktuální grafy a kurzy virtuální měny Bitcoin. Cena Bitcoin se neustále mění a tak hodnota Bitcoinu neustále kolísá",
     "keywords": "bitcoin kurz, bitcoin hodnota, Kurzy bitcoin, bitcoin obchodování, bitcoin"
   }
@@ -12,9 +12,10 @@
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgxODY1MCZsPTEzODEzNTcxJnA9MTAxNjA%3D" width="728" height="90" class="img-responsive" />
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDc4OTIzMyZsPTE0NzU2MzIzJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDc4OTIzMyZsPTE0NzU2MzIzJnA9MTAxNjA%3D" width="970" height="90"/>
 </a>
+
 
 ## Obchodování s virtuální měnou Bitcoin
 
@@ -64,7 +65,6 @@ Digitální měnu Bitcoin vytvořil v roce 2009 Satoshi Nakamoto. Uvedu pouze je
   </NOSCRIPT>
 </div>
 </div>
-
 - - -
 ## Aktuální kurz Bitcoin v EUR (BTC/EUR), graf kurzu
 
@@ -90,7 +90,7 @@ new TradingView.widget({
 </script>
 <!-- TradingView Widget END -->
 - - -
-Vyzkoušejte obchodování bitcoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce) u brokera [TopOption](http://www.forexsrovnavac.cz/topoption "Topoption recenze")
+Vyzkoušejte obchodování bitcoin pomocí [binární opce](http://www.forexsrovnavac.cz/binarni-opce "binární opce") u brokera [TopOption](http://www.forexsrovnavac.cz/topoption "Topoption recenze")
 - - -
 Cena Bitcoinu, Kurz za 1 Bitcoin (zkr. BTC) je zobrazena v měně konkrétní burzy, tj. USD (americké dolary) v případě burzy, Btc-e a bitStamp. Najdete zde vývoj kurzu Bitcoinu z období cca 2 let. Jednotlivé "svíčky" (candlesticks) označují aktuální cenu za Bitcoin. Stopka označuje minimální a maximální kurz. Vývoj kurzu si můžete prohlédnout na cca 5 minutových grafech, až po roční grafy. Kurz bitcoin se zobrazuje s cca 5 minutovým zpožděním.
 - - -

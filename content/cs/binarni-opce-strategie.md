@@ -24,6 +24,7 @@ Strategie na binární opce [Fundamentální strategie](http://www.forexsrovnava
 
 {{section}}
 
+
 ###Obchodování na základě fundamentálních správ
 :   Fundamentální strategie říká, že největší vliv na pohyb aktiv, jako jsou akcie nebo komodity mají určitě fundamentální, neboli ekonomické (makroekonomické) zprávy. Proto většina zkušených obchodníků obchoduje spíše méně obchodů a snaží se spekulovat na výsledky různých firem na které se zaměřují (Apple, Twitter, Facebook), právě IT společnosti jsou vysoce náchylné na čtvrtletní výsledky, pokud se firmě nedaří = je téměř jisté je, že akcie budou v kratším horizontu spíše klesat, stejně je to i naopak, pokud potvrdí nebo dokonce překoná výsledky akcie by měli v následujícím kratším horizontu růst. 
 

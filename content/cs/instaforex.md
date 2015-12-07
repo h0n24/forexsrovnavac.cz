@@ -67,10 +67,10 @@ InstaTrade Investment Company poskytuje přístup na akciové burzy MYCEX a RTS.
 | **Regulace:**  | FCA, ČNB, CySEC, ASIC, FSP, CRFIN a řada dalších|
 | ---------------- | ------------- |
 | **Minimální vklad**  | 1 $ |
-| **Možnosti vkladu**  | Kreditní karta, Skrill(Moneybookers), Neteller, WebMoney, bankovní převod |
+| **Možnosti vkladu**  | Kreditní karta, [**Skrill**](http://www.forexsrovnavac.cz/skrill), Neteller, WebMoney, bankovní převod |
 | **Páka**  |  až 1:1000|
 | **Zajímavost**  | Společnost InstaForex je hlavní sponzor Rallye Dakar TATRA InstaForex Loprais týmu, ve kterém jezdí slavný český řidič Aleš Loprais. |
-| **Demo účet**  | Ano, další pomocné nástroje zdarma |
+| [**Demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet)  | Ano, další pomocné nástroje zdarma |
 
 
 </div>
@@ -122,6 +122,8 @@ InstaForex na svých webových stránkách nabízí i možnost vzdělávání sk
 
 *Kromě výhod spojených s českou zákaznickou podporou mají začínající obchodníci možnost využívat i vzdělávací nástroje, které jim pomohou s jejich začátky v obchodování. K dispozici vám jsou semináře, webináře, kurzy s kompletním školením či Road show.*
 
+
+*Konkurenční brokeři:* [ETX capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti) - [Markets.com](http://www.forexsrovnavac.cz/markets-com-recenze) - [XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com)
 
 
 
@@ -180,5 +182,3 @@ InstaForex na svých webových stránkách nabízí i možnost vzdělávání sk
 
 </div>
 </div>
-
-{{partial: ostatni-brokeri}}

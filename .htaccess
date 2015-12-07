@@ -1,9 +1,173 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteRule . index.php [L]
-</IfModule>
-
-# Prevent file browsing
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+Redirect 301 /plus500.htm http://www.forexsrovnavac.cz/plus500
+Redirect 301 /binarni-opceVZDELAVANI-SEMINARE-MANUALY/Vzdelavaci-Seminare-a-Manualy-o-obchodovani.html http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /mayzus.htm  http://www.forexsrovnavac.cz/mayzus
+Redirect 301 /vydelek-a-prace-na-internetu  http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /hotforex.htm http://www.forexsrovnavac.cz/hotforex
+Redirect 301 /stockpair-recenze http://www.forexsrovnavac.cz/stockpair
+Redirect 301 /xtb.htm http://www.forexsrovnavac.cz/xtb
+Redirect 301 /etoro-recenze http://www.forexsrovnavac.cz/etoro
+Redirect 301 /plus500.php http://www.forexsrovnavac.cz/plus500
+Redirect 301 /mayzus.php  http://www.forexsrovnavac.cz/mayzus
+Redirect 301 /hotforex.php http://www.forexsrovnavac.cz/hotforex
+Redirect 301 /xtb.php http://www.forexsrovnavac.cz/xtb
+Redirect 301 /cs/bitcoin http://www.forexsrovnavac.cz/bitcoin
+Redirect 301 /bitcoin/ http://www.forexsrovnavac.cz/bitcoin
+Redirect 301 /litecoin/ http://www.forexsrovnavac.cz/litecoin
+Redirect 301 /cs/litecoin http://www.forexsrovnavac.cz/litecoin
+Redirect 301 /cfd-contract-for-difference http://www.forexsrovnavac.cz/cfd-obchodovani
+Redirect 301 /czem.php http://www.forexsrovnavac.cz
+Redirect 301 /cs http://www.forexsrovnavac.cz
+Redirect 301 /binarni-opce/ http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /sk/binarne-opcie/ http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /sk/topoption/ http://www.forexsrovnavac.cz/sk/topoption
+Redirect 301 /jak-obchodovat-binarni-opce http://www.forexsrovnavac.cz/binarni-opce-strategie
+Redirect 301 /topoption/ http://www.forexsrovnavac.cz/topoption 
+Redirect 301 /index http://www.forexsrovnavac.cz
+Redirect 301 /de/litecoin/ http://www.forexsrovnavac.cz/de/litecoin
+Redirect 301 /fr/litecoin/ http://www.forexsrovnavac.cz/fr/litecoin
+Redirect 301 /pl/litecoin/ http://www.forexsrovnavac.cz/pl/litecoin
+Redirect 301 /it/litecoin/ http://www.forexsrovnavac.cz/it/litecoin
+Redirect 301 /es/litecoin/ http://www.forexsrovnavac.cz/es/litecoin
+Redirect 301 /sk/litecoin/ http://www.forexsrovnavac.cz/sk/litecoin
+Redirect 301 /en/litecoin/ http://www.forexsrovnavac.cz/en/litecoin
+Redirect 301 /nl/litecoin/ http://www.forexsrovnavac.cz/nl/litecoin
+Redirect 301 /nl/bitcoin/ http://www.forexsrovnavac.cz/nl/bitcoin
+Redirect 301 /de/bitcoin/ http://www.forexsrovnavac.cz/de/bitcoin
+Redirect 301 /es/bitcoin/ http://www.forexsrovnavac.cz/es/bitcoin
+Redirect 301 /sk/bitcoin/ http://www.forexsrovnavac.cz/sk/bitcoin
+Redirect 301 /pl/bitcoin/ http://www.forexsrovnavac.cz/pl/bitcoin
+Redirect 301 /en/bitcoin/ http://www.forexsrovnavac.cz/en/bitcoin
+Redirect 301 /it/bitcoin/ http://www.forexsrovnavac.cz/it/bitcoin
+Redirect 301 /fr/bitcoin/ http://www.forexsrovnavac.cz/fr/bitcoin
+Redirect 301 /sk/plus500/ http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /es/plus500/ http://www.forexsrovnavac.cz/es/plus500
+Redirect 301 /pl/plus500/ http://www.forexsrovnavac.cz/pl/plus500
+Redirect 301 /de/plus500/ http://www.forexsrovnavac.cz/de/plus500
+Redirect 301 /it/plus500/ http://www.forexsrovnavac.cz/it/plus500
+Redirect 301 /pt/plus500/ http://www.forexsrovnavac.cz/pt/plus500
+Redirect 301 /hu/plus500/ http://www.forexsrovnavac.cz/hu/plus500
+Redirect 301 /binarni-opce?a_aid=503dd9ad&a_bid=32a421c0/ http://www.forexsrovnavac.cz
+Redirect 301 /binarni-opceKOMODITNI-MANUAL-ZD http://www.forexsrovnavac.cz
+Redirect 301 /es/assets/img/social/gplus.png http://www.forexsrovnavac.cz
+Redirect 301 /binarni-opceFOREX-BURZA-MENY/Forex-burza-Meny.html http://www.forexsrovnavac.cz
+Redirect 301 /nl/assets/img/social/fb.jpg http://www.forexsrovnavac.cz
+Redirect 301 /binarni-opcealbum/neco-pro-holky/ http://www.forexsrovnavac.cz
+Redirect 301 /sk/Onlyoption http://www.forexsrovnavac.cz/sk/onlyoption
+Redirect 301 /en/index http://www.forexsrovnavac.cz/en/
+Redirect 301 //pl/opcje-binarne/ http://www.forexsrovnavac.cz/pl/opcje-binarne
+Redirect 301 /de/binareoptionen/ http://www.forexsrovnavac.cz/de/binareoptionen
+Redirect 301 /binarni-opceindex.php http://www.forexsrovnavac.cz
+Redirect 301 /nl/plus500 http://www.forexsrovnavac.cz
+Redirect 301 /sk//peniaze-prachy/ http://www.forexsrovnavac.cz/sk/ako-zarobit-peniaze-na-internete
+Redirect 301 /binarni-opceCFDS-A-FOREX-TRADING/Vyhody-a-pravidla-Forex-obchodovani-.html http://www.forexsrovnavac.cz/forex-obchodovavani
+Redirect 301 /binarni-opcereference/twigonet-europe http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /sk/binarne-opcietaxonomy/term/6 http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /binarni-opcenews/trocha-praktickeho-hermetismu/ http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /sk/binarne-opcienode/17 http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /binarni-opcenews/tiendita-znamena-obchudek/ http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /binarni-opceAKCIOVE-BURZY/Akciove-burzy.html http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /binarni-opceinvesticni-zprostredkovatel http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /sk/binarne-opciehospodarske-vysledky-bank-za-rok-2011/ http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /sk/plus500broker-plus500/navod-na-plus500/ http://www.forexsrovnavac.cz/sk/plus500
+
+Redirect 301 /demo-ucet http://www.forexsrovnavac.cz/forex-demo-ucet
+Redirect 301 /forex-bonus-no-deposit-bez-vkladu.php http://www.forexsrovnavac.cz/forex-bonus-no-deposit-bez-vkladu
+Redirect 301 /jak-vydelat-penize-na-internetunews/trocha-praktickeho-hermetismu/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+
+Redirect 301 /Binarni-opce/ http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /Binarni-opce http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /sk/binarne-opcienode/21 http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /fr/plus500les-cfd/cfd-forex/ http://www.forexsrovnavac.cz/fr/plus500
+Redirect 301 /binarni-opce2014/05/11/prasátko-na-peníze/ http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /binarni-opcepujcka/na-smenku-na-20-let/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opceNEJVYZNAMNEJSI-SVETOVE-AKCIE/Akcie-Merrill-Lynch.html http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /sk/binarne-opcienode/20 http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /plus500dotazy-a-odpovedi/ http://www.forexsrovnavac.cz/plus500
+Redirect 301 /sk/plus500200000212-1b1251c0c2/polica.jpg http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /binarni-opcenovinky/moznosti-iframe.html http://www.forexsrovnavac.cz
+Redirect 301 /en/binary-optionsd http://www.forexsrovnavac.cz/en/binary-options
+Redirect 301 /info.php http://www.forexsrovnavac.cz
+Redirect 301 /jak-vydelat-penize-na-internetunews/tiendita-znamena-obchudek/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2011/04/ppa-pps-zjistete-oc-se-jedna.html http://www.forexsrovnavac.cz/
+Redirect 301 /de/plus500risiko.htm http://www.forexsrovnavac.cz/de/plus500
+Redirect 301 /www.Fxpro.cz http://www.forexsrovnavac.cz/fxpro
+Redirect 301 /www.Fxpro.cz http://www.forexsrovnavac.cz/fxpro
+Redirect 301 /sk//cz/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcerss.php http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /fr/plus500comment-choisir-la-meilleure-plateforme-de-trading-pour-le-forex/ http://www.forexsrovnavac.cz/fr/plus500
+Redirect 301 /binarni-opce2014/04/25/nevracena-pujcka/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/04/11/peníze-hned-na-ruku-bez-zamestnani/ http://www.forexsrovnavac.cz/
+Redirect 301 /sk/Stockpair http://www.forexsrovnavac.cz/sk/stockpair
+Redirect 301 /binarni-opce2014/03/17/20000-hotovostní-půjčka-na-op/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/17/20000-hotovostn%C3%AD-p%C5%AFj%C4%8Dka-na-op/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/18/rizika-rychl%C3%A9-p%C5%AFj%C4%8Dky/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/17/www.domaci-puj%C4%8Dky.cz/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opceetuje-500-g/?pg=kosik&ref=produkty&k=1&p=4&z=1&seradit= http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/17/www.domaci-pujčky.cz/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/18/rizika-rychlé-půjčky/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/18/the-sims-3-kód-na-peníze/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/18/pujcky-na-smenku-ostrava/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/04/11/firemní-půjčky-nebankovní/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcedokumenty/schema_provizi.png http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opceetuje-500-g/?pg=kosik&ref=produkty&k=1&p=4&z=1&seradit= http://www.forexsrovnavac.cz/
+Redirect 301 /de/plus500cgi-bin/weblog_basic/index.php?feed=rss2 http://www.forexsrovnavac.cz/de/plus500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteEngine on 
+RewriteCond %{HTTP_HOST} ^forexsrovnavac.cz 
+RewriteRule (.*) http://www.forexsrovnavac.cz/$1 [R=301,QSA,L] 
+# domeny, aliasy
+RewriteCond %{REQUEST_URI} !^domains/
+RewriteCond %{REQUEST_URI} !^/domains/
+RewriteCond %{HTTP_HOST} ^(www\.)?(.*)$
+RewriteCond %{DOCUMENT_ROOT}/domains/%2 -d
+RewriteRule (.*) domains/%2/$1 [DPI]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^domains/[^/]+/(.+[^/])$ /$1/ [R]
+# subdomeny
+RewriteCond %{REQUEST_URI} !^subdom/
+RewriteCond %{REQUEST_URI} !^/subdom/
+RewriteCond %{HTTP_HOST} ^(www\.)?(.*)\.([^\.]*)\.([^\.]*)$
+RewriteCond %{DOCUMENT_ROOT}/subdom/%2 -d
+RewriteRule (.*) subdom/%2/$1 [DPI]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^subdom/[^/]+/(.+[^/])$ /$1/ [R]
+# samotna aplikace
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteRule . index.php [L]
+</IfModule>
+<IfModule mod_deflate.c>
+  <IfModule mod_headers.c>
+  Header append Vary User-Agent env=!dont-vary
+  </IfModule>
+  AddOutputFilterByType DEFLATE text/css text/x-component application/x-javascript application/javascript text/javascript text/x-js text/html text/richtext image/svg+xml text/plain text/xsd text/xsl text/xml image/x-icon application/json
+  <IfModule mod_mime.c>
+  AddOutputFilter DEFLATE js css htm html xml
+  </IfModule>
+  </IfModule>
+# Prevent file browsing
 Options -Indexes

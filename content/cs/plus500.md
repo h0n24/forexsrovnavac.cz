@@ -62,7 +62,7 @@ Tento bonus se skutečně týká naprosto každého – žádný háček, žádn
 
     4. [**plus500.cz**](http://blog.forexsrovnavac.cz/plus500cz) chce být jedničkou mezi platformami CFD a zde uvádí své důvody: Tržení rozpětí (spread) nástrojů jako jsou: Německo (DAX) 30 - 0,81 bodu | Ropa - 3 body | EUR/USD - 1 bod | Zemní plyn - 3 body | UK 100 - 0,88 bodu | GBP/USD - 1 bod |
     
-    5. Alternativou k plus500 jsou naopak [**Binární opce**](http://www.forexsrovnavac.cz/binarni-opce), které jsou vhodné pro lidi, kteří nemají na klasické obchodování dostatek času.
+   
 
 *Základní informace o brokerovi Plus500*
 <div class="row" style="width:92%">
@@ -288,7 +288,7 @@ snadnějšího, než rovnou přejít „k věci“, a začít obchodovat co nejr
 #### Nevýhody
 
 ![Ukázka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Pro profesionály může být aplikace limitující
-
+![Ukázka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Nelze obchodovat [**binární opce**](http://www.forexsrovnavac.cz/binarni-opce "binární opce")
 </div>
 
 - - -

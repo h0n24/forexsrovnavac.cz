@@ -21,9 +21,9 @@ W niniejszym artykule przynosimy Wam recenzję firmy Plus500, która była zało
 
 Plus500 rozwinęła i prowadzi online platformę handlową dla klientów detalicznych, dzięki niej mogą oni handlować CFD na poziomie międzynarodowym. Oferuje im również więcej niż 1700 różnych podstawowych i globalnych instrumentów finansowych zawierających akcje, ETF, rynek walutowy, indeksy i towary. Firma umożliwia inwestorom handlować w ponad **50 krajach całego świata**. Platforma handlowa dostępna jest z różnych systemów operacyjnych Windows, ze **smartfonów (iOS i Android) i tabletów (iOS a Android)**, umożliwia również handel przy użyciu aplikacji internetowych.
 
-[**plus500**](http://blog.forexsrovnavac.cz/plus500.pl) oferuje 100 zł na Twoje konto realne i to tylko za rejestrację. [Spróbuj prawdziwego handlu ](http://blog.forexsrovnavac.cz/plus500.pl), bez wymaganej wpłaty.
+     Plus500 oferuje 100 zł na Twoje konto realne i to tylko za rejestrację. Spróbuj prawdziwego handlu, bez wymaganej wpłaty.
 
-Bonus ten naprawdę dotyczy każdego – nie tkwi w tym żaden haczyk, problem, żadne oszustwo. Po prostu do pierwszej rejestracji otrzymasz daną sumę zupełnie za darmo i bez żadnych warunków. Nie jest wymagana początkowa wpłata, naprawdę otrzymasz bonus tylko za rejestrację. Wszystko możesz wypróbować i rozpocząć handel w ciągu 5 minut. [ Tutaj dołączamy niezbędne instrukcje! ](http://blog.forexsrovnavac.cz/plus500.pl)
+Bonus ten naprawdę dotyczy każdego – nie tkwi w tym żaden haczyk, problem, żadne oszustwo. Po prostu do pierwszej rejestracji otrzymasz daną sumę zupełnie za darmo i bez żadnych warunków. Nie jest wymagana początkowa wpłata, naprawdę otrzymasz bonus tylko za rejestrację. Wszystko możesz wypróbować i rozpocząć handel w ciągu 5 minut. 
 
 Plus500 chce być najlepszą platformą pomiędzy platformami CFD i tutaj podaje swoje powody: 
 [Bonus 100 zł bez wymaganej wpłaty!](http://blog.forexsrovnavac.cz/plus500.pl) {.btn .bnt-lg .btn-primary .pull-left .btn-index}
@@ -44,22 +44,23 @@ spread na rynku instrumentów takich jak :  Niemcy 30 - 0,81 pkt. - Ropa - 3 pkt
 | **Obsługiwane platformy:**  | Własna platforma Plus500|
 | **Obsługa klienta:**  | Tylko E-mail, Faks|
 | **Demo konto**  | Tak, nieograniczone |
+| **Język polski**  | Całkowicie w języku polskim |
   </div>
   <div class="col-md-6" markdown="1">
 | **Regulacja:**  | CySec, regulowana i globalnie licencjonowana|
 | ---------------- | ------------- |
-| **Regulacja:**  | MiFID, FCA, regulowana i globalnie licencjonowana|
+| **Sponsor**  | Plus500 - Główny sponsor klubu piłki nożnej Atlético Madryt |
 | **Minimalna wartość inwestycji**  | 100 zł  |
 | **Możliwości wkładu**  | Przelew bankowy, Karty kredytowe i debetowe, Skrill, Paypal |
-| **Maksymalna wysokość dźwignie**  | od 1:5 do 1:200 |
+| **Duża dźwignia**  |   do 1:294 |
 | **Ciekawostka**  | 100 zł bonus (można wypłacić) [Więcej informacji o Bonusie](http://blog.forexsrovnavac.cz/plus500.pl) |
-| **Język polski**  | Całkowicie w języku polskim |
 </div>
 </div>
 
 [100 zł Bonus do konta](http://blog.forexsrovnavac.cz/plus500.pl) {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 - - -
-
+![plus500 opinie](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/2015-12-04-14_15_56-Plus500-_-Handluj-online-na-gie%C5%82dzie-walutowej-forex-handluj-towarami-kontrakt.png)
+- - -
 {{section}}
 ## Jak handlować na plus500
 

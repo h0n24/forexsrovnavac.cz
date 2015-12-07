@@ -3,8 +3,8 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Binární opce demo účet zdarma",
-    "description": "",
+    "title": "Demo účet na Binární opce | Kde ho získat?",
+    "description": "Kteří brokeři nabízejí demo účet pro binární opce? Vyzkoušejte si obchodování bez vkladu na demo účtu s virtuálním vkladem",
     "keywords": "Binární opce demo, Binární opce demo účet"
   }
 {{/settings}}
@@ -15,25 +15,25 @@
 {{section}}
 # Binární opce demo účet
 
-
-
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
+
 O obchodování na demo účtu
 :    
-Již několikrát jsem na těchto stránkách vzpomenul 2 slova a to "Trénink nanečisto". Hned Vám vysvětlím co to vlastně je a jaký je v podstatě jeho cíl. Je zde totiž jedna obrovská výhoda a i příležitost si před tím než vůbec vkročíte na opravdové trhy s opravdovými penězi si vše vyzkoušet jak se říká lidově "na papíře". 
+Hned Vám vysvětlím co to vlastně je a jaký je v podstatě cíl obchodování na demo účtech. Je zde totiž jedna obrovská výhoda a i příležitost si před tím než vůbec vkročíte na opravdové trhy s opravdovými penězi si vše vyzkoušet jak se říká lidově "na papíře". 
 
-Názory na trénink nanečisto se opravdu člověk od člověka liší. Jedni říkají, že nejde v papírových podmínkách věrně nahradit resp. nasimulovat průběh živého "ostrého" obchodu. Jiní lidé oproti tomu tvrdí, že bez tohoto přístupu a přípravy se na u binárních opcí nejde prosadit a že je tedy velmi důležitý. Opět je pravda někde uprostřed. 
+Názory na demo účty se opravdu člověk od člověka liší. Jedni říkají, že nejde v simulovaných podmínkách věrně nahradit průběh živého "ostrého" obchodu. Jiní lidé oproti tomu tvrdí, že bez tohoto přístupu a přípravy se na u binárních opcí nejde prosadit a že je tedy velmi důležitý. Opět je pravda někde uprostřed. 
 
 
 
 </div>
   <div class="col-md-6" markdown="1">
+
 Vyzkoušejte demo verze!
 :   
 Pokud si chcete tedy vyzkoušet obchodování binárních opcí tkz: nanečisto, není nic lehčího než si obchodování vyzkoušet v demo účtu na bínární opce. 
 
-V demo verzi aplikace budete binární opce moci obchodovat za reálné tržní ceny, na reálné obchodní platformě v Češtině, ovšem všechny transakce budou probíhat pouze virtuálně, můžete si tak bez rizika vyzkoušet různé strategie [obchodování binárních opcí](http://www.forexsrovnavac.cz/binarni-opce). Pravda je taková, že sice nejde přesně na papíře nasimulovat průběh ostrého obchodu se vším všudy, ale také je vyloženě RISKANTNÍ se pouštět do komodit úplně bez tréninku.
+V demo verzi aplikace budete binární opce moci obchodovat za reálné tržní ceny, na reálné obchodní platformě v Češtině, ovšem všechny transakce budou probíhat pouze virtuálně, můžete si tak bez rizika vyzkoušet různé strategie obchodování binárních opcí. Pravda je taková, že sice nejde přesně na papíře nasimulovat průběh ostrého obchodu se vším všudy, ale také je vyloženě RISKANTNÍ se pouštět do binárních opcí, úplně bez předchozího tréninku na demo účtu.
 
 </div>
 </div>
@@ -49,7 +49,7 @@ Demo účet je účet zdarma
 
 
 
-## Doporučujeme demo účet u brokera Topoption
+## Demo účet u brokera Topoption
 
 4 důvody proč si otevřít demo účet u TopOption
 
@@ -63,7 +63,7 @@ Demo účet je účet zdarma
 
 [Získat demo účet u TopOption](http://blog.forexsrovnavac.cz/topoption "Registrace") {.btn .bnt-lg .btn-primary}
 
-Zaregistrujte se na [stránkách TopOption](http://blog.forexsrovnavac.cz/topoption "Registrace") Po následné registraci vám většinou zavolá, nebo napíše email váš přidělený manažer, který vám následně vše vysvětlí, ptejte se ho na to čemu nerozumíte, mě osobně odpověděl na několik dotazů, hlavně jsem se tedy ptal na ověření u České národní banky, které opravdu mají. Nasledně ho požádejte o váš Demo účet. 
+Zaregistrujte se na [stránkách TopOption](http://blog.forexsrovnavac.cz/topoption "Registrace") Po následné registraci vám většinou zavolá, nebo napíše email váš přidělený manažer, který vám následně vše vysvětlí, ptejte se ho na to čemu nerozumíte, mě osobně odpověděl na několik dotazů, hlavně jsem se tedy ptal na ověření u České národní banky, které opravdu mají. Nasledně ho požádejte o váš [**Demo účet**](http://ibinarniopce.cz/demo-ucet/). 
 
 Jak si zřídím demo účet na binární opce?
 :   Většinou to funguje tak, že vám nabídne určitý bonus k prvnímu vkladu a zřídí vám demo účet, první vklad obvykle 100 USD, tyto peníze můžete vybrat kdykoliv chcete. Vyběr můžete provést až po potvrzení totožnosti, tj. zaslání skenu občanského průkazu (můžete začernit co není nutné) a jakéhokoli dalšího dokladu s vaší adresou, např. fakturou za plyn / výpisu z banky, také můžete začernit, důležité je hlavně potvrzení adresy.

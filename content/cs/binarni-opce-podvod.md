@@ -43,6 +43,14 @@ Sepsali jsme pro Vás seznam brokerů s binárními opcemi, kterým se raději v
 
 Zase pravděpodobně smyšlené jméno. Láká způsobem dojemného příběhu, kdy už měl v reálném životě dost bankeřů, makléřů a podobných kancelářských myší a popisuje, jak se stal finančně nezávislým - od sportovních sázek, až po binární opce.
 
+[*OptioNavigator*](http://www.forexsrovnavac.cz/optionavigator-recenze)
+
+[*BinaryBotPro*](http://www.forexsrovnavac.cz/binary-bot-pro)
+
+[*Pracujonline - Profitonline*](http://www.forexsrovnavac.cz/pracuj-online-podvod)
+
+[*Euro millionaire system*](http://www.forexsrovnavac.cz/euro-millionaire-system)
+
 *Projekt 11procent - 11procent.com*
 
 *Dr. Thomaz Jarolin - Winstmethode.org*
@@ -57,9 +65,57 @@ Zase pravděpodobně smyšlené jméno. Láká způsobem dojemného příběhu, 
 
 *Varování: Free Diamond App*
 
-[*OptioNavigator*](http://www.forexsrovnavac.cz/optionavigator-recenze)
+**Další podvodné systémy**
 
-[*BinaryBotPro*](http://www.forexsrovnavac.cz/binary-bot-pro)
+650System
+
+Action Binary
+
+ATARAXIA 7
+
+Auto Binary Bot Scam
+
+AutoBinarySignals.com
+
+Binaryoptions-live-signals.com
+
+BinaryOptionBot 2.0
+
+Binaryoptionbox.com
+
+Binary-Options-Robot
+
+Blackrockbotr.com
+
+Brokersignals.com
+
+Faunus Analytics
+
+FB Wealth Group
+
+iFollow Signals
+
+Legal Insider Bot
+
+Lone Wolf Signals
+
+Paul Applegarth’s Oneclick Autotrader
+
+Profit Binary
+
+Profit in 60 seconds
+
+Signal Index
+
+TheBinarySignals.com
+
+The Green Room
+
+The GCAD Indicator From ITM Financial
+
+Updownsignals.com
+
+ZuluTrade
 
 
 

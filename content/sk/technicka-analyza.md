@@ -14,7 +14,7 @@
 
 {{section}}
 
-# technická analýza
+# Technická analýza
 
 Hovorí sa, že technická analýza je najpresnejší spôsob odhadovanie vývoja cien forex trhov. Je ideálne ju kombinovať s prihliadnutím na analýzu fundamentálne. Ktoré tri body by sme mali poznať skôr, než vstúpime do trhov:
 

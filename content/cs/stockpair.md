@@ -44,7 +44,7 @@ Provozovatelem brokera [**StockPair**](http://blog.forexsrovnavac.cz/stockpair "
 
 *Proč obchodovat binární opce se Stockpair?*
 :    
-     Jako jediný broker na binární opce nabízí párové obchodování, kdo se tedy vyzná v jednotlivých firmách, přijde si na své
+     Jako jediný broker na [**binární opce**](http://www.forexsrovnavac.cz/binarni-opce) nabízí párové obchodování, kdo se tedy vyzná v jednotlivých firmách, přijde si na své
 
     1. Můžete vstoupit do obchodu v libovolnou dobu - umožňuje, jako jediný broker.
     

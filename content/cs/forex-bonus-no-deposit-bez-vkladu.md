@@ -47,6 +47,8 @@ Jakmile se zaregistrujete, vaše peníze se objeví na vašem účtu. Nepožaduj
 
 *Forex bonus no deposit představuje vedle zakládání [**demo účtu**](http://www.forexsrovnavac.cz/demo-ucet "demo účet") druhou možnost, jak začít obchodovat s finančními instrumenty. Největší vyhoda Forex bonusu je, že si můžete začít obchodovat s reálnými penězi na skutečném trhu, vyhnete se tak přechodu z demo účtu na reálný účet, který bývá pro velkou část obchodníků ztrátový.*
 
-
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDc4OTIzMyZsPTE0NzU2MzIzJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDc4OTIzMyZsPTE0NzU2MzIzJnA9MTAxNjA%3D" width="970" height="90"/>
+</a>
 
 

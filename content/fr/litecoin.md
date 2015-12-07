@@ -3,15 +3,13 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Le cours du Litecoin - LTC/USD",
+    "title": "Cours du Litecoin EURO - LTC/EUR/USD",
     "description": "",
     "keywords": ""
   }
 {{/settings}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
+
 {{section}}
 
 ## Trader en monnaie virtuelle Litecoin
@@ -32,13 +30,60 @@ On peut penser que la valeur de Litecoin va croître est grâce à la communaut�
 
 {{section}}
 
-## Taux d'actualisation du Litecoin en USD (LTC/USD)
+## Cours du Litecoin EURO (LTC/EUR)
 
-<div class="container kurz">
-<a href="http://www.plus500.com/fr/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<a href="http://www.plus500.com/fr/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=fr&cty=FR&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
-</div>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "KRAKEN:LTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+- - -
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDIzNzk2MyZsPTE0MjM2NzczJnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
+
+## Cours du Litecoin USD (LTC/USD)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BITFINEX:LTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+
 
 {{/section}}
 

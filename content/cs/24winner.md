@@ -3,8 +3,8 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "24winner recenze a zkušenosti",
-    "description": "",
+    "title": "24Winner recenze a zkušenosti",
+    "description": "Recenze brokera na binární opce 24winner.com. Rozdělení účtů, stručný pohled na jeho obchodní platformu a výnosy u binárních opcí",
     "keywords": "24winner, 24winner recenze"
   }
 {{/settings}}
@@ -13,7 +13,7 @@
   <meta itemprop="ratingValue" content="87"/>
   <meta itemprop="bestRating" content="100"/>
 </span>
-<meta itemprop="itemreviewed" content="Stockpair">
+<meta itemprop="itemreviewed" content="24winner">
 <meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
@@ -34,8 +34,6 @@ Recenze 24winner.com
 :    
 Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo společnosti je umístěno na Kypru a broker tak podléhá regulaci kyperského úřadu CySEC. 24 Winner se zaměřuje na obchodování binárních opcí na měnové páry, akcie i komodity.
 
-[Podívejte se na obchodní aplikaci 24winner](http://blog.forexsrovnavac.cz/24winner "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-
 </div>
 </div>
 {{/section}}
@@ -44,7 +42,8 @@ Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo
 - - -
 ![24winner.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/2015-04-30-16_00_25-24Winner-%E2%80%93-Option-%E2%80%93-Your-Winning-Option-for-Trading-Binary-Options.png) 
 {{section}}
-*Proč [obchodovat binární opce](http://www.forexsrovnavac.cz/binarni-opce) s 24winner.com*
+
+*Proč obchodovat binární opce s 24winner.com*
 :    
      Zavedená a stabilní značka na trhu s binárními opcemi
 
@@ -58,7 +57,7 @@ Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo
 *Základní informace o www.24winner.com*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.24winner.com**](http://blog.forexsrovnavac.cz/24winner) |
+| Web:     |   www.24winner.com |
 | ---------------- | ------------- |
 | **Typ brokera:**   | Binary broker  |
 | **Země původu**   | Safecap Investments Ltd (Kypr)  |
@@ -67,7 +66,6 @@ Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo
 | **Minimální obchod**  | 10|
 | **Zákaznický servis:**  | Email, Chat, Telefon|
 
-[www.24winner.com](http://blog.forexsrovnavac.cz/stockpair "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
   </div>
   <div class="col-md-6" markdown="1">
@@ -87,7 +85,7 @@ Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo
 
 ##Zkušenosti čtenáře s 24winner
 
-Broker 24 Winner má stejného provozovatele jako broker [Topoption](http://blog.forexsrovnavac.cz/24winner "Topoption recenze") či broker Markets.com. S ohledem na to, že je 24 Winner odvozen od existence TopOption, převzal od něj i potřebné licence úřadů v Evropské unii. Stejně jako TopOption má samozřejmě i licenci od ČNB k obchodování na českém trhu.
+Broker 24 Winner má stejného provozovatele jako broker [**Topoption**](http://www.forexsrovnavac.cz/topoption "Topoption recenze") či broker Markets.com. S ohledem na to, že je 24 Winner odvozen od existence TopOption, převzal od něj i potřebné licence úřadů v Evropské unii. Stejně jako TopOption má samozřejmě i licenci od ČNB k obchodování na českém trhu.
 
 Porovnání s dalšími brokery
 :    24 Winner se od TopOption přeci jen liší, a to ve formě platformy. Oproti TopOption nabízí zcela novou a modernizovanou obchodní platformu, která se může pyšnit řadou atraktivních funkcí. Svojí propracovaností se může srovnávat i s velmi úspěšnou platformou MetaTrader. Pro českého obchodníka je snad jedinou nevýhodou platformy to, že není poskytována v českém jazyce. 
@@ -103,7 +101,7 @@ S jakými opcemi můžeme u 24 Winner obchodovat?
 Výnosy z binárních opcí
 
 :    Jak již bylo řečeno, broker 24 Winner toho má spoustu podobného s brokerem TopOption. A jedna z jejich podobností je spatřována ve výnosech. Výnosy 24 Winner se tak řadí k jedněm z nejvyšších výnosů na trhu. U měn se setkáte s výnosem 82% a u komodit i akcií s 80%. Výnosy u minutových opcí činí 70% a u Touch opcí 400 až 550%.
-[Podívejte se na obchodní aplikaci 24winner](http://blog.forexsrovnavac.cz/24winner "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
 
 
 {{/section}}
@@ -124,31 +122,29 @@ Minimální vklad tedy činí 200 dolarů. Minimální obchod pak můžete uskut
 
 {{/section}}
 
-###Konkurenční brokeři na binární opce
-
-[Topoption – Nejlepší broker na binární opce? (CZ)](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[ETX capital – Největší výnosy na trhu  (CZ)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenze")
-
-[Stockpair – Skvěle hodnocený broker (EN)](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
-
-[Optiontime – Více druhů opcí (CZ)](http://www.forexsrovnavac.cz/optiontime "Optiontime recenze")
-
 
 {{section}}
 ## Obchodní platforma a Vzdělávání u 24winner
 
-Obchodní platforma na [Binární opce](http://www.forexsrovnavac.cz/binarni-opce "Binární opce") využívaná brokerem 24 Winner je srovnatelná s uživatelsky oblíbenou a velmi propracovanou platformou MetaTrader. Snad jedinou nevýhodou platformy 24 Winner je, že není poskytována v českém jazyce. Na druhou stranu je vám k dispozici česká zákaznická podpora, kterou můžete kontaktovat přes telefon, mail či chat.
+Obchodní platforma na [**Binární opce**](http://www.forexsrovnavac.cz/binarni-opce "Binární opce") využívaná brokerem 24 Winner je srovnatelná s uživatelsky oblíbenou a velmi propracovanou platformou MetaTrader. Snad jedinou nevýhodou platformy 24 Winner je, že není poskytována v českém jazyce. Na druhou stranu je vám k dispozici česká zákaznická podpora, kterou můžete kontaktovat přes telefon, mail či chat.
 
 Vzdělávání v obchodování
 
 :     Broker 24 Winner poskytuje i vzdělávací materiály v podobě E-knihy, kterou můžete získat zdarma, a to i bez vložení vkladu. E-kniha je rozsáhlá, dozvíte se v ní tedy o obchodování vše, co potřebujete zjistit. Problémem však může být, že je prozatím k dispozici jen v anglickém jazyce.
 
 *Broker 24 Winner je kvalitní nabídkou v oblasti obchodování binárních opcí. Svojí propracovanou platformou se vyrovná i úspěšné obchodní platformě MetaTrader a díky svým profesionálním službám jej můžeme řadit mezi nejlepší brokery na trhu.*
-[Podívejte se na obchodní aplikaci 24winner](http://blog.forexsrovnavac.cz/24winner "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 
 {{/section}}
+
+
+*Konkurenční brokeři na binární opce*
+
+[**Topoption – Nejlepší broker na binární opce? (CZ)**](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
+
+[**ETX capital – Největší výnosy na trhu  (CZ)**](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenze")
+
+[**Stockpair – Skvěle hodnocený broker (EN)**](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
 
 
 
@@ -159,7 +155,6 @@ Vzdělávání v obchodování
 
 ![24winner.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/24Winner.png) 
 
-[Otevřít účet](http://blog.forexsrovnavac.cz/24winner "Reálný účet") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/24winner "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 
@@ -186,16 +181,13 @@ Nevýhody
 - - -
 </div>
 <div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/stockpair" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
 
 </a>
 
 - - -
-Náš Tip:
-:    
-24winner nabízí 100% bonus k novému vkladu [Více informací o Bonusu](http://blog.forexsrovnavac.cz/24winner)
-- - -
+
 
 </div>
 </div>

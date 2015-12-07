@@ -2,7 +2,9 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Evolucion del Litecoin
+# Litecoin EURO
+
+Moneda virtual
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

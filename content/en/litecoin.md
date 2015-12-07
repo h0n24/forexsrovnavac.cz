@@ -3,8 +3,8 @@
   "template": 2,
   "header": "litecoin",
   "meta" : {
-    "title": "Litecoin price - Current chart and price graph LTC/USD",
-    "description": "",
+    "title": "Litecoin price - Current chart and price graph LTC/USD/EUR",
+    "description": "Litecoin cryptocurrency current price, USD - (LTC/USD) and EUR - (LTC/EUR)",
     "keywords": "Litecoin rate, litecoin, litecoin price"
   }
 {{/settings}}
@@ -29,13 +29,59 @@ The reason to think, that the value of LTC will grow, is just thanks to the comm
 
 {{section}}
 
-## Current price of Litecoin, USD graph (LTC/USD)
+## Litecoin price, USD graph (LTC/USD)
 
-<div class="container kurz">
-<a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
-<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=LTCUSD"></iframe>
-</div>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BITFINEX:LTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+- - -
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDc1Njg5NiZsPTE0NzU2MzA5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDc1Njg5NiZsPTE0NzU2MzA5JnA9MTAxNjA%3D" width="970" height="90"/>
+</a>
+- - -
+## Litecoin price, EUR graph (LTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "KRAKEN:LTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+<br>
 
 {{/section}}
 

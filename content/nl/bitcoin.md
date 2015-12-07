@@ -3,17 +3,14 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin wisselkoers - Huidige charts BTC/USD",
+    "title": "Bitcoin koers - Huidige charts LTC/USD/EUR",
     "description": "",
-    "keywords": "bitcoin wisselkoers, Bitcoin gratis, bitcoin cz, bitcoin handel, bitcoin"
+    "keywords": "bitcoin koers, bitcoin handel, bitcoin"
   }
 {{/settings}}
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
 
 ## Handel met virtuele Bitcoins
 
@@ -32,7 +29,7 @@ Een hele groep experts is al tijden aan het discuseren over hoe je waarde kan cr
 
 {{section}}
 
-## BITCOIN koers in USD (BTC/USD) 
+## BITCOIN actuele koers in USD (BTC/USD) 
 
 <div class="container kurz">
 <a href="http://www.plus500.com/nl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -40,6 +37,39 @@ Een hele groep experts is al tijden aan het discuseren over hoe je waarde kan cr
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=nl&cty=NL&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 Bekijk hier de live Bitcoin koers in Dollars. De 48-uurs koers ververst zich elke 5 minuten
+
+- - - 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDQzNzQ2NiZsPTE0NDM1MDI5JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
+
+## BITCOIN actuele koers in EUR (BTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BTCE:BTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+
+
 {{/section}}
 
 

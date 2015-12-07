@@ -162,6 +162,10 @@ V průběhu obchodování na TopOption demo účtu poznáte totiž specifické v
 TopOption je vhodným brokerem i pro začínající obchodníky. V multimediálním výukovém centru [TopOption Academy](http://blog.forexsrovnavac.cz/topoption) lze načerpat množství kvalitních informací a stát se tak dobrým obchodníkem. Vzdělávat se lze pomocí individuálních výukových lekcí, webových seminářů, elektronických knih nebo video-průvodců. Samozřejmostí jsou i pravidelné aktuality z dění na trhu, iformace o akciích, komoditách i forexu. Nabyté znalosti lze prověřit na demo účtu, který si zpřístupníte prostřednictvím vašeho manažera po vložení minimálního vkladu.
 
 *Co se týká šíře nabídky podkladových aktiv, tak ta sice nepatří mezi nejbohatší, ale výběr je dostačující k nárokům každého běžného obchodníka. Proto pro již zmíněné široké možnosti obchodování a hlavně podporu našeho mateřského jazyka je TopOption velmi atraktivní volbou na poli brokerů s binárními opcemi.*
+
+*Závěrem*
+
+TopOption je ověřený v rámci úzké skupiny Českých obchodníků. Je to spolehlivý binární broker s regulací ČNB pro poskytování svých služeb v České a Slovenské republice.. Webová platforma je česky a zástupci brokera komunikují v českém jazyce mailem i po telefonu. Své obchodní dovednosti si u TopOption prověříte na demo účtu i na reálném účtu od 100$ s opcemi od 10$. Tento broker, také nabízí výukovou akademii zdarma. Tento broker je provozovaný společností Safecap Investments, která je regulovaná CySecem.
 {{/section}}
 
 

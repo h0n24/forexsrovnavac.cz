@@ -79,7 +79,6 @@ Tyto své služby pak společnost přenesla roku 2012 do České republiky a zal
 </div>
 
 
-
 ##S čím můžete obchodovat? u bossa.cz?
 :   Investoři obchodující s BOSSA mají k dispozici 85 finančních instrumentů CFD. Obchodovat můžete s měnovými páry na trhu FOREX, z nichž nejoblíbenější je EUR/USD, neboť nabízí velmi nízký spread. Dále můžete investovat do akciových indexů, měnových indexů, komodit a zemědělských plodin (ropa, zlato, kukuřice, atd.) či obligací (cenných papírů). Mimo jiné BOSSA obchoduje i s deriváty. 
 
@@ -123,6 +122,9 @@ Platformu můžete využívat i na svém telefonu, neboť společnost poskytuje 
 Broker je vhodný i pro začátečníky, neboť poskytuje možnost vzdělávání skrze širokou škálu školení a nástrojů.
 
 *BOSSA je zajímavou možností pro obchodování a investování na trhu CFD. Díky české verzi platformy a regulaci na českém trhu je atraktivní nabídkou pro české obchodníky.*
+
+*Konkurenční brokeři:* [ETX capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti) - [Markets.com](http://www.forexsrovnavac.cz/markets-com-recenze) - [XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com)
+
 
 
 

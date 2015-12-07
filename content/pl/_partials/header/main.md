@@ -6,7 +6,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a href="{{url}}" class="navbar-brand">Forex <i class="fa fa-bar-chart-o"></i> równiarka</a>
+      <a href="{{url}}" class="navbar-brand">Forex <i class="fa fa-bar-chart-o"></i> Porównanie</a>
     </div>
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">

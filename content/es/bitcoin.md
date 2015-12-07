@@ -3,7 +3,7 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Cotizacion del Bitcoin - Bitcoin dólar estadounidense BTC/USD",
+    "title": "Cotizacion de Bitcoin EURO - BTC/EUR/USD",
     "description": "",
     "keywords": "Cotizacion de Bitcoin"
   }
@@ -11,9 +11,7 @@
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
+
 ## Operar con la moneda virtual Bitcoin
 
 Seguramente muchos de vosotros notásteis, el mes pasado, un mayor interés en la moneda virtual Bitcoin. El propósito de este artículo no es describir el funcionamiento de esta moneda virtual, no nos vamos a ocupar de su historia ni de la “minería de bitcoins”, aquí no te vamos a dar bitcoins gratis. Este artículo está más centrado en las posibilidades de operar con esta moneda en la bolsa de valores, como producto de inversión que está atravesando un boom en la actualidad y cuyo comercio ofrece interesantes oportunidades de inversión. 
@@ -32,14 +30,42 @@ Naturalmente, muchos expertos llevan discutiendo desde hace tiempo sobre qué es
 
 [Mi 25 Euro registration bonus](http://www.plus500.com/es/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Cotizacion de Bitcoin / Dolar [ BTCUSD ]
+## Cotizacion de Bitcoin USD (BTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/es/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <a href="http://www.plus500.com/es/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=es&cty=ES&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
+- - - 
+<a href="http://serv.markets.com/promoRedirect?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjgxMSZsPTEzNjEyODA0JnA9MTAxNjA%3D" width="728" height="90"/>
+</a>
+- - -
 
+## Cotizacion de Bitcoin EURO (BTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BTCE:BTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 {{/section}}
 
 

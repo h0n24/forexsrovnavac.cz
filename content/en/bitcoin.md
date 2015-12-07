@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin price - Current charts and price graph BTC/USD",
-    "description": "",
-    "keywords": "bitcoin rate, bitcoin for free, bitcoin cz, bitcoin trading, bitcoin"
+    "title": "Bitcoin price - Current charts and price graph BTC/USD/EUR",
+    "description": "Bitcoin cryptocurrency - current price, USD - (BTC/USD) and EUR - (BTC/EUR)",
+    "keywords": "bitcoin rate, bitcoin for free, bitcoin trading, bitcoin"
   }
 {{/settings}}
 
@@ -29,7 +29,7 @@ A whole range of experts naturally disputes long time over that, what create the
 
 [20£ registration bonus](http://www.plus500.com/en/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Current price of BITCOIN in USD(BTC/USD)
+## BITCOIN price in USD **(BTC/USD)**
 
 <div class="container kurz">
 <a href="http://www.plus500.com/en/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -37,9 +37,37 @@ A whole range of experts naturally disputes long time over that, what create the
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=en&cty=EN&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
 
+- - -
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNDc1Njg5NiZsPTE0NzU2MzA5JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDc1Njg5NiZsPTE0NzU2MzA5JnA9MTAxNjA%3D" width="970" height="90"/>
+</a>
+- - -
+
+## BITCOIN price in EUR **(BTC/EUR)**
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BTCE:BTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
 {{/section}}
-
-
 
 ## Where to trade with Bitcoin
 

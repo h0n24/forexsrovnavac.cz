@@ -2,11 +2,9 @@
 
 ![img]({{img-url}}bitcoin.png)
 
-# Handelen in Bitcoin
+# BITCOIN koers
 
-Begin met het handelen in de virtuele valuta die de wereld zal veranderen. 
-
-Welkom bonus van 25€
+virtuele valuta
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

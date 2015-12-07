@@ -3,9 +3,9 @@
   "template": 2,
   "header": "bitcoin",
   "meta" : {
-    "title": "Bitcoin Kurs - Aktuelle Chart und Preisentwicklung in BTC/USD",
+    "title": "Bitcoin kurs - Aktuelle Chart in BTC/USD/EUR",
     "description": "",
-    "keywords": "Bitcoin Kurs, Bitcoin kostenlos, Bitcoin de, Bitcoin Handeln, Bitcoin"
+    "keywords": "Bitcoin Kurs, Bitcoin Euro, Bitcoin kostenlos, Bitcoin de, Bitcoin Handeln, Bitcoin"
   }
 {{/settings}}
 
@@ -34,7 +34,33 @@ Lange Zeit streitet selbstverständlich die ganze Reihe der Spezialisten darum, 
 
 [Bonus von 25 € Keine Einzahlung erforderlich!](http://www.plus500.com/de/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Aktueller Kurs von Bitcoin in USD (BTC/USD)
+## Aktueller Kurs von Bitcoin in EURO (BTC/EUR)
+
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "width": 1150,
+  "height": 400,
+  "symbol": "BTCE:BTCEUR",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
+
+- - -
+
+## Aktueller Kurs von Bitcoin in Dollar (BTC/USD)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/de/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>

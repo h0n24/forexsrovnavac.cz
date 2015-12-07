@@ -2,11 +2,10 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Litecoin
+# Litecoin koers
 
-Begin met het handelen in de virtuele valuta die de wereld zal veranderen. 
+virtuele valuta
 
-Welkom bonus van 25 €.
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
