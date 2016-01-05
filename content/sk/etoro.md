@@ -20,7 +20,7 @@ V neposlednom rade je eToro výnimočný svojou prepracovanou webovú platformou
 
 Platforma, ktorá vznikla roku 2004, je výtvorom a vlastníctvom spoločnosti Tradonomi. Prevádzkovateľom brokera eToro je spoločnosť RetailFX Ltd., sídliacej v druhom najväčšom meste Cypru. Svojim cyperským sídlom tak nevystupuje z klasickej rady brokerských sídiel. Broker eToro podlieha vďaka cyperskému sídlu poskytovateľa reguláciu Cyperskej Komisia pre cenné papiere. Broker je okrem iného regulovaný i ďalšími úradmi NFA, ASIC, CFTC a MiFID.
 - - -
-**EToro má bohužiaľ vysoké poplatky a to aj za výber zarobených prostriedkov (až 25 USD za jeden výber). Preto tohto brokera nemôžeme odporučiť, keď ostatné takéto poplatky ani zďaleka nemajú. Vyskúšajte iné brokerov, napríklad [Plus500](http://blog.forexsrovnavac.cz/sk/topoption "Plus500"), alebo [XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM"). Pre začiatočníkov sú tu aj [binárne opcie](http://www.forexsrovnavac.cz/binarne-opcie "opcie")**
+**EToro má bohužiaľ vysoké poplatky a to aj za výber zarobených prostriedkov (až 25 USD za jeden výber). Preto tohto brokera nemôžeme odporučiť, keď ostatné takéto poplatky ani zďaleka nemajú. Vyskúšajte iné brokerov, napríklad [Plus500](http://blog.forexsrovnavac.cz/sk/topoption "Plus500"), alebo [XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM"). Pre začiatočníkov sú tu aj [binárne opcie](http://www.forexsrovnavac.cz/sk/binarne-opcie "binárne opcie")**
 - - -
 ## Etoro, platformy, typy účtu a Copy Trading!
 

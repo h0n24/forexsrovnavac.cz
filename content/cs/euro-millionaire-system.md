@@ -51,12 +51,14 @@ Jak si můžete na videu od samotného autora zjistit, tak jde vždycky s větš
 
 *Systém **Euro Millionaire** tedy skutečne na [binární opce](http://www.forexsrovnavac.cz/binarni-opce "Binární opce") opravdu nefunguje a pokud ano, pouze krátkodobě a to hlavně díky štěstí a náhodě. Tento systém je pouze skvělým způsobem, jak nejen sebe, ale i svou rodinu připravit během chvíle doslova o všechny finanční úspory. I když jsou ztráty přirozenou součástí trhu a obchodování, přeci jen je to v tomto podání trošku přes čáru. Pokud chcete tedy nechat své peníze vydělávat, rozhodně se nepouštějte do takto zvláštních projektů, zejména pokud nemáte žádné podobné zkušenosti. Rozhodně se pro nezkušené z vás vyplatí rada některého z finančních poradců, se kterými se roztrhl pytel.*
 
-
-
-
-
-Doporučujeme obchodovat samostatně, žádné zázračné automatické obchodní systémy dlouhodobě nefungují
+Obchodujte samostatně, žádné zázračné automatické obchodní systémy dlouhodobě nefungují
 :    [TopOption - naše recenze brokera -->>](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
+
+
+- - -
+*Náhled systému Euro Millionaire*
+- - -
+![Euro Millionaire system](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/Euro-millionaire-system-recenze-1024x576.jpg)
 
 </div>
 <div class="col-md-3" markdown="10">

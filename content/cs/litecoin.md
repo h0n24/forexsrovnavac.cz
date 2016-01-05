@@ -36,7 +36,7 @@ Důvod si myslet, že hodnota LTC poroste je díky komunitě, která za ním sto
 
 {{section}}
 
-## Aktuální kurz Litecoin v USD v (LTC/USD), graf kurzu
+## Aktuální kurz Litecoin v USD v **(LTC/USD)**, graf kurzu
 
 <!-- TradingView Widget BEGIN -->
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
@@ -83,7 +83,7 @@ new TradingView.widget({
 </div>
 </div>
 - - -
-## Aktuální kurz Litecoin v EUR (LTC/EUR), graf kurzu
+## Aktuální kurz Litecoin v EUR **(LTC/EUR)**, graf kurzu
 
 <!-- TradingView Widget BEGIN -->
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>

@@ -36,7 +36,7 @@ Digitální měnu Bitcoin vytvořil v roce 2009 Satoshi Nakamoto. Uvedu pouze je
 
 {{section}}
 
-## Bitcoin kurz, aktuální graf a vývoj ceny BTC/USD
+## Bitcoin kurz, aktuální graf a vývoj ceny v USD **(BTC/USD)** 
 
 [Obchodujte s Bitcoiny v kompletné České aplikaci a získejte 500 Kč](http://www.plus500.com/cs/StartTrading.aspx?id=66349&pl=2)
 
@@ -66,7 +66,7 @@ Digitální měnu Bitcoin vytvořil v roce 2009 Satoshi Nakamoto. Uvedu pouze je
 </div>
 </div>
 - - -
-## Aktuální kurz Bitcoin v EUR (BTC/EUR), graf kurzu
+## Aktuální kurz Bitcoin v EUR **(BTC/EUR)**, graf kurzu
 
 <!-- TradingView Widget BEGIN -->
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>

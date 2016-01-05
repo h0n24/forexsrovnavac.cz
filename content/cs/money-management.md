@@ -3,9 +3,9 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Money managment - jak na základní kapitál k obchodování na forexu",
+    "title": "Money managment - správa kapitálu při obchodování na forexu",
     "description": "",
-    "keywords": "Money managment,"
+    "keywords": "Money managment, kapitál na forex"
   }
 {{/settings}}
 
@@ -39,6 +39,8 @@ Dalším úkolem MM je stabilizovat, popřípadě zvyšovat zisky. Zjednodušen�
 Je potřeba to mít neustále na zřeteli a logicky uvažovat. Základem je neriskovat více než si můžeme dovolit a zároveň se snažit mít systém s co největší úspěšností a co nejlepším RRR. Při tom všem si zachovat chladnou hlavu a selský rozum.
 
     Chtějte bohatnout pomalu. Ztráty přicházejí rychle a ničí nás, ale zisky se kumulují pomalu.
+
+{{partial: fxpro}}
 
 
 ##Trader nebo hazardér?
@@ -94,26 +96,7 @@ Všechny tyto zásady se musí stát přirozenou součástí vaší obchodní pr
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

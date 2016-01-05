@@ -24,7 +24,8 @@
 Broker měsíce: Hotforex.com - nejlepší spready na trhu
 : Vítejte na neoficiálních stránkách,které se podrobně zabývají jedním z **nejlepších forex brokerů na trhu**. Přinášíme vám ty nejaktuálnější informace z našich pravidelně aktualizovaných stránek. Jedná se o neoficiální prezentaci v češtině jen proto, že s tímto brokerem ochoduje **početná česká komunita** 
 a podmínky jsou na takové úrovni, že stálo za to uvědomit o nich i ostatní tradery, kteří mají zájem o kvalitní, rychlé, bezpečné a profesionální služby. 
-<pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Tip 6:</strong> <a href="http://blog.forexsrovnavac.cz/plus500cz">Vyzkoušejte - Nejlepší spready u Plus500, EUR/USD pouze 1 pip</a></span></span></pre>
+
+{{partial: fxpro}}
 
 **Hot Forex** je dnes již poměrné známý broker, který prorazil díky vstřícné cenové politice (spread se pohybuje kolem 0.8 až 1.8 pipů za obchod). Získal také v minulosti řadu ocenění v různých soutěžích, například cenu prestižního ekonomického serveru worldfinance.com, který ho hodnotí, jako **nejlepšího brokera** ve východní evropě a Asii za uplynulý rok. Ačkoli je **Hotforex** primárně v Anglicky, byl přeložen i do Čestiny a Slovenštiny. Společnost Hotforex je regulována Financial Services Commission of the Republic of Mauritius.
 - - -
@@ -130,7 +131,7 @@ Currenex účet
 
 - - -
 
-Obchodvání CFD
+[obchodování CFD](http://www.forexsrovnavac.cz/cfd-obchodovani)
 : Obchodujte CFD jako jsou zlato,stříbro,ropa nebo indexy.
 
 
@@ -197,26 +198,7 @@ Hotforex nabízí všem svým zákazník demo účet zdarma, který není omezen
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

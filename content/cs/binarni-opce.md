@@ -48,8 +48,6 @@ Průvodce binárními opcemi, jak začít?
 
 [Demo účty pro binární opce](http://forexsrovnavac.cz/demo-ucet-na-binarni-opce)
 
-[Knihy o binárních opcích](http://forexsrovnavac.cz/knihy-na-binarni-opce)
-
 [Forex vs. Binární opce](http://www.forexsrovnavac.cz/forex-vs-binarni-opce)
 
 [Binární opce a daně](http://www.forexsrovnavac.cz/binarni-opce-a-dane) 
@@ -66,7 +64,7 @@ Vyberte si toho správného brokera
 
 [**Stockpair** – kvalitní reference](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
 
-[Podívejte se na demo účet na binární opce](http://blog.forexsrovnavac.cz/topoption "Demo účet"){.btn .bnt-lg .btn-default}
+[Srovnání brokerů na binární opce](http://www.forexsrovnavac.cz/srovnani-brokeru-na-binarni-opce){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 
 
 </a>
@@ -133,11 +131,11 @@ Riziko spojené s tímto obchodem je známé. Obchodníkův hrubý zisk/ztráta 
 V našem případě se v 15:00 pár zvýšil na 1,2695. Obchodník číslo 1 skončil v penězích a hrubá odměna je 1.000 dolarů. Čistý zisk obchodníka je 600 dolarů. Obchodník číslo dvě ztratil vklad na tuto opci.
 
 
-
 - - -
-![Binární opce](http://i.imgur.com/YV4yWi6.png)
+TIP: Podívejte se jak vypadá obchodní platforma na binární opce u brokera [**TopOption**](http://www.blog.forexsrovnavac.cz/topoption)
 - - -
-[Podívejte se na platformu na binární opce](http://blog.forexsrovnavac.cz/topoption){.btn .btn-lg .pull-left .btn-primary .btn-index} 
+![Binární opce](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/Binarni-opce-platforma.png)
+- - -
 
 {{/section}}
 
@@ -179,8 +177,8 @@ Co mohu pomocí binárních opcí obchodovat?
 
 {{/section}}
 *Příklady obchodů s binárními opcemi* <pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Tip 1:</strong> <a href="http://blog.forexsrovnavac.cz/topoption">Podívejte se na obchodní aplikaci</a> u TopOption</span></span></pre>
- 
-![Příklady obchodů](http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/p%C5%99%C3%ADkladyobchd%C5%AF.png)
+- - -
+![Příklady obchodů na binární opce](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/priklady-obchodu-na-binarni-opce.png)
 
 {{/section}}
 
@@ -228,7 +226,6 @@ Dejte si pozor na podvodné systémy na binární opce
 <div class="col-md-3" markdown="10">
 
 - - -
-
 <div id="brokeri-box">
 <H3 class="brokeri-nadpis">Hodnocení brokerů na opce</H3>
 <div class="broker">

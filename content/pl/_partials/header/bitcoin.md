@@ -20,13 +20,13 @@ Bitcoin - wirtualną walutą, która zmieni świat.
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Wirtualną walutą Bitcoin</a>
+          <a href="#top">TOP</a>
         </li>
         <li>
-          <a href="#section-1">O co chodzi?</a>
+          <a href="#section-1">Bitcoin kurs</a>
         </li>
         <li>
-          <a href="#section-2">Bitcoin kurs</a>
+          <a href="#section-2">Wirtualną walutą Bitcoin</a>
         </li>
         <li>
           <a href="#section-3">Gdzie handlować Bitcoin</a>

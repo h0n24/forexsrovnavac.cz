@@ -9,26 +9,10 @@
   }
 {{/settings}}
 
-{{section}}
-
-
-## Transakcje z wirtualną walutą Bitcoin
-
-Zapewnie wielu z was w ciągu ostatnich miesięcy zauważyło zwiększone zainteresowanie wirtualną walutą bitcoin. Ten artykuł nie ma na celu opisania sposobu działania tej wirtualnej waluty, nie będziemy tu także poruszać jej historii, ewentualnie „bitcoin mining“ (jej wydobycie), ani za darmo rozdawać bitcoin. Artykuł ten jest raczej skierowany na możliwości jego handlu na giełdzie, jako produktem inwestycyjnym, który aktualnie przechodzi boom i handel nim oferuje codziennie ciekawe okazje inwestycyjne.
-
-### Krótko o tym, czym jest Bitcoin
-
-Walutę cyfrową Bitcoin stworzył w 2009 roku Satoshi Nakamoto. Wymienię jedynie jego stwierdzenie, która moim zdaniem zrozumiała jest nawet dla laików. „Główną niepowtarzalną cechą Bitcoin jest jego pełna decentralizacja; jest zaprojektowany tak, aby nikt, ani autor lub inne osoby, grupy lub rządy, nie mógł walutą w żaden sposób manipulować, niszczyć jej, podrabiać, konfiskować konta, kontrolować przepływ pieniędzy lub powodować inflację. W sieci nie istnieje żaden centralny punkt, ani nikt, któ mogłby o niej decydować. Bitcoin jest walutą deflacyjną. Całkowita ilość pieniędzy jest ostateczna i wcześniej ustalona, a ich wprowadzanie do obiegu kieruje się jedynie wzorami matematycznymi. W sieci dokonuje się opłat za minimalne lub zerowe koszty.“
-
-### Wartość Bitcoin jako waluty
-
-Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy wartość waluty wirtualnej. Jednym z najczęstszych nieporozumień jest to, że wartość waluty Bitcoin jest bezpośrednio zależy od liczby użytkowników, którzy korzystają Bitcoin. Teoretycznie byłoby to zatem oznaczać, że więcej użytkowników Bitcoin korzyści, zwiększając tym samym jego wartość. Jednakże, jest wręcz przeciwnie, rosnące koszty zwiększenia liczby Bitcoin Miner, który oznacza, że ​​użytkownicy, którzy są zainteresowani w produkcji tej waluty nie można określić rzeczywistej wartości. Dlatego dziś jest zdania, że wartość tej waluty opartej tylko na podaż i popyt na rynku, a tym samym są objęte jedynie pewność, że będzie można płacić w przyszłości, jak również dzisiaj.
-
-{{/section}}
 
 {{section}}
 
-## Bitcoin kurs w USD (BTC/USD)
+## Bitcoin kurs w USD (**BTC/USD**)
 
 <div class="container kurz">
 <a href="http://www.plus500.com/pl/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
@@ -40,7 +24,7 @@ Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy warto
  <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzYxMjUzMyZsPTEzNjEyNTI4JnA9MTAxNjA%3D" width="728" height="90"/>
 </a>
 - - -
-## Bitcoin kurs w EUR (BTC/EUR)
+## Bitcoin kurs w EUR (**BTC/EUR**)
 
 <!-- TradingView Widget BEGIN -->
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
@@ -63,6 +47,24 @@ new TradingView.widget({
 });
 </script>
 <!-- TradingView Widget END -->
+
+{{section}}
+
+
+## Transakcje z wirtualną walutą Bitcoin
+
+Zapewnie wielu z was w ciągu ostatnich miesięcy zauważyło zwiększone zainteresowanie wirtualną walutą bitcoin. Ten artykuł nie ma na celu opisania sposobu działania tej wirtualnej waluty, nie będziemy tu także poruszać jej historii, ewentualnie „bitcoin mining“ (jej wydobycie), ani za darmo rozdawać bitcoin. Artykuł ten jest raczej skierowany na możliwości jego handlu na giełdzie, jako produktem inwestycyjnym, który aktualnie przechodzi boom i handel nim oferuje codziennie ciekawe okazje inwestycyjne.
+
+### Krótko o tym, czym jest Bitcoin
+
+Walutę cyfrową Bitcoin stworzył w 2009 roku Satoshi Nakamoto. Wymienię jedynie jego stwierdzenie, która moim zdaniem zrozumiała jest nawet dla laików. „Główną niepowtarzalną cechą Bitcoin jest jego pełna decentralizacja; jest zaprojektowany tak, aby nikt, ani autor lub inne osoby, grupy lub rządy, nie mógł walutą w żaden sposób manipulować, niszczyć jej, podrabiać, konfiskować konta, kontrolować przepływ pieniędzy lub powodować inflację. W sieci nie istnieje żaden centralny punkt, ani nikt, któ mogłby o niej decydować. Bitcoin jest walutą deflacyjną. Całkowita ilość pieniędzy jest ostateczna i wcześniej ustalona, a ich wprowadzanie do obiegu kieruje się jedynie wzorami matematycznymi. W sieci dokonuje się opłat za minimalne lub zerowe koszty.“
+
+### Wartość Bitcoin jako waluty
+
+Przez długi czas, oczywiście, wielu ekspertów kwestionuje to, co tworzy wartość waluty wirtualnej. Jednym z najczęstszych nieporozumień jest to, że wartość waluty Bitcoin jest bezpośrednio zależy od liczby użytkowników, którzy korzystają Bitcoin. Teoretycznie byłoby to zatem oznaczać, że więcej użytkowników Bitcoin korzyści, zwiększając tym samym jego wartość. Jednakże, jest wręcz przeciwnie, rosnące koszty zwiększenia liczby Bitcoin Miner, który oznacza, że ​​użytkownicy, którzy są zainteresowani w produkcji tej waluty nie można określić rzeczywistej wartości. Dlatego dziś jest zdania, że wartość tej waluty opartej tylko na podaż i popyt na rynku, a tym samym są objęte jedynie pewność, że będzie można płacić w przyszłości, jak również dzisiaj.
+
+{{/section}}
+
 
 {{/section}}
 

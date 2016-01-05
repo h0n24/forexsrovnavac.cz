@@ -11,7 +11,7 @@
 
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
-  <meta itemprop="ratingValue" content="94"/>
+  <meta itemprop="ratingValue" content="98"/>
   <meta itemprop="bestRating" content="100"/>
 </span>
 <meta itemprop="itemreviewed" content="Fxpro.com">
@@ -60,7 +60,7 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 *Základní informace o Fxpro.cz*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.Fxpro.cz**](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) |
+| Web:     |   [**www.Fxpro.cz**](http://blog.forexsrovnavac.cz/fxpro) |
 | ---------------- | ------------- |
 | **Typ brokera:**   | NDD |
 | **Země původu**   | Velká Británie |
@@ -77,7 +77,7 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 | **Možnosti vkladu**  | bankovní převod, platební karty, Skrill (Moneybookers), Neteller, PayPal, UNetBanx, WebMoney, FasaPay |
 | **Páka**  |  až 1:500 |
 | **Zajímavost**  | [**FxPro Quant - algoritmické obchodování**](http://www.forexsrovnavac.cz/fxpro-quant) |
-| **Demo účet**  | Ano zdarma, více [zde](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) |
+| **Demo účet**  | Ano zdarma, více [zde](blog.forexsrovnavac.cz/fxpro) |
 | **Čeština**  | Kompletně v Češtině |
   
 </div>
@@ -86,7 +86,7 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 
 ![Fxpro recenze](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/10/Fxpro-recenze.png) 
 
-[Více informací o Fxpro.cz](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Více informací o Fxpro.cz](http://blog.forexsrovnavac.cz/fxpro "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 {{/section}}
 
@@ -116,7 +116,7 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 **Spotové energie** – Se spotovými komoditami jako BRENT, NAT.GAS a WTI Oil lze obchodovat již od spreadu 0,04 s marží 0,5% za jeden lot.
 
 
-[Podívejte se co můžete obchodovat](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Obchodní produkty") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Podívejte se co můžete obchodovat](http://blog.forexsrovnavac.cz/fxpro "Obchodní produkty") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 {{/section}}
 
@@ -141,7 +141,8 @@ Pokud si zcela nejste jisti svým jednáním a v obchodování patříte spíš 
 
 Demo je dostupné pro nástroje MT4, MT5 a také cTrader, avšak absence v SuperTrader. Maximální zůstatek na účtě se může vyšplhat až do neuvěřitelných 500 tisíc s možným obchodováním s měnami USD, EUR, GBP, CHF, JPY, AUD a PLN s pákovým efektem od 1:1 do 1:500.
 
-[Demo účet u Fxpro.cz](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Demo") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Demo účet u Fxpro.cz](http://blog.forexsrovnavac.cz/fxpro "Demo") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
 Poté, co si budete zcela jisti svým jednáním můžete přejít k možnosti založení reálného obchodního účtu, jehož registrace vám zabere jen pár minut.
 
 
@@ -163,7 +164,7 @@ Společnost FxPro si uvědomuje, že mají klienty všech znalostních úrovní,
 
 ![FxPro.cz](http://www.forexsrovnavac.cz/assets/img/loga/fxpro150.png) 
 
-[Otevřít účet](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ "Demo účet"){.btn .bnt-lg .btn-default}
+[Otevřít účet](http://blog.forexsrovnavac.cz/fxpro "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/fxpro "Demo účet"){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -
@@ -204,7 +205,7 @@ Nevýhody
 - - -
 
 <div class="container-fluid" markdown="1">
-<a href="http://www.fxpro.cz" alt="Demo účet" target="_blank">
+<a href="http://blog.forexsrovnavac.cz/fxpro" alt="Demo účet" target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 
 </a>
@@ -212,7 +213,7 @@ Nevýhody
 - - -
 Náš Tip:
 :    
-Fxpro.cz nabízí až 2000 USD bonus k vkladu [Více informací o Bonusu](http://www.fxpro.cz/trading/platforms)
+Fxpro.cz nabízí až 2000 USD bonus k vkladu [Více informací o Bonusu](http://blog.forexsrovnavac.cz/fxpro)
 - - -
 
 </div>

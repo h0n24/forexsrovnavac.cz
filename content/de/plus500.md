@@ -4,7 +4,7 @@
   "header": "plus500",
   "meta" : {
     "title": "Plus500 Erfahrungen - Bewertungen + tipps und test 2015",
-    "description": "",
+    "description": "Plus500 erfahrungen, bekanntesten und beliebtesten Broker für den ausschließlichen Handel mit CFDs + tipps und test 2015",
     "keywords": "plus500 erfahrungen, plus500 auszahlung, Plus500 Tipps, Plus500, Plus500 bonus"
   }
 {{/settings}}

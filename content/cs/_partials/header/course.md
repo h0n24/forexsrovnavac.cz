@@ -1,4 +1,93 @@
-﻿<header class="navbar navbar-fixed-top navbar-inverse" id="top" role="banner">
+﻿<nav class="navbar navbar-light bg-inverse">
+  <div class="container"><a href="http://www.forexsrovnavac.cz/" class="navbar-brand">Forex <i class="fa fa-bar-chart-o"></i> srovnávač</a>
+    <button type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" class="navbar-toggler pull-right">&#9776; menu</button>
+  </div>
+</nav>
+<div id="exCollapsingNavbar" class="collapse">
+  <div class="bg-light p-a text-muted menu-items">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <style>
+            .gsc-input-box {
+              height: 30px;
+            }
+            .cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {
+              height: 28px;
+              width: 70px;
+            }
+          </style>
+          <script>
+            (function() {
+              var cx = '004554116648847298078:hctsadgejas';
+              var gcse = document.createElement('script');
+              gcse.type = 'text/javascript';
+              gcse.async = true;
+              gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                  '//cse.google.com/cse.js?cx=' + cx;
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(gcse, s);
+            })();
+          </script>
+          <gcse:searchbox></gcse:searchbox>
+          <gcse:searchresults></gcse:searchresults>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3">
+          <h4>Projevuje</h4>
+          <ul class="nav">
+            <li class="nav-item"><a href="#" class="nav-link">Prováděné světla</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Dopluli pět létavců průliv</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Hází na 420</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Získává ohromní</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Přímo dopluli</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Jícnu k o přímo</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <h4>K letních uniká</h4>
+          <ul class="nav">
+            <li class="nav-item"><a href="#" class="nav-link">Lidský spočívající</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Způsobem k uvolňoval</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Skály cílem ovšem</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Nejprestižnějšího u</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Zeměpisných k EU</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Co zájmů navzájem</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <h4>Laboratorní slovních</h4>
+          <ul class="nav">
+            <li class="nav-item"><a href="#" class="nav-link">Lidský spočívající</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Způsobem k uvolňoval</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Hází na 420</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Skály cílem ovšem</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Nejprestižnějšího u</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Získává ohromní</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Přímo dopluli</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Dopluli pět létavců průliv</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <h4>Rostlé ty zahrada</h4>
+          <ul class="nav">
+            <li class="nav-item"><a href="#" class="nav-link">Lidský spočívající</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Způsobem k uvolňoval</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Skály cílem ovšem</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Nejprestižnějšího u</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Zeměpisných k EU</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Co zájmů navzájem</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--
+
+<header class="navbar navbar-fixed-top navbar-inverse" id="top" role="banner">
   <div class="container">
     <div class="navbar-header">
       <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".toggle-navbar-collapse">
@@ -16,18 +105,14 @@
           </a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}uvod-do-forexu">Úvod do Forexu</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-zacit-obchodovat-na-forexu">Jak začít na Forexu</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}typy-uctu-na-forexu">Typy účtů na Forexu</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-obchodovavani">Obchodování na Forexu</a></li>   
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-zacit-obchodovat-na-forexu">Jak začít na forexu</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-obchodovavani">Obchodování na forexu</a></li>   
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-prikazy-na-forexu">Příkazy na Forexu</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}spread-poplatky">Spread a poplatky u Forexu</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet">Demo účet</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-strategie">Forex Strategie</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}technicka-analyza">Technická analýza</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}urceni-trendu">Určení trendu</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}money-management">Money Management</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti (AOS)</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}fxpro-quant">FxPro Quant - vytváření AOS</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-roboti-aos">Forex Roboti</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}cfd-contract-for-difference">CFD obchodování</a></li>     
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-hodiny-na-burze-a-forexu">Obchodní hodiny</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}hedging">Co je to hedging</a></li>
@@ -42,11 +127,11 @@
           </a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
 
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}fxpro">FxPro</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}fxpro">Fxpro</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}plus500">Plus500</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}highsky-brokers">Highsky</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}xm-xemarkets-com">XeMarkets (XM.com)</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}hotforex">HotForex</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}xm-xemarkets-com">Xemarkets (XM.com)</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}hotforex">Hotforex</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}markets-com-recenze">Markets.com</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}etoro-recenze">Etoro</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}Ironfx">IronFX</a></li>
@@ -70,59 +155,27 @@
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm hidden-md">Opce<b class="caret"></b></span><span class="visible-sm visible-md">Opce</span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
             <li role="presentation" class="visible-sm"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce">Binární opce</a></li>
-            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce - Obchodování</strong></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet-na-binarni-opce">Binární opce demo účet</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-platforma">Obchodní platforma na opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-strategie">Strategie pro Binární opce</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-lze-vydelat-na-binarnich-opcich">Výdělek na binárních opcích</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodovani-o-vikendu">Obchodování o víkendu</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}psychologie-obchodovani">Psychologie obchodování</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-vs-binarni-opce">Forex vs Binární opce</a></li>
-            <li class="divider"></li>
-            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce brokeři</strong></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-vybrat-binarniho-brokera">Jak vybrat binárního brokera</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}srovnani-brokeru-na-binarni-opce">Srovnání brokerů na binární opce</a></li>
-            <li class="divider"></li>
-            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Typy binárních opcí</strong></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}druhy-binarnich-opci">Druhy Binárních opcí</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}High-Low-opce">High / Low opce</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}minutove-opce">Minutové opce</a></li>         
-            <li class="divider"></li>
-            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce - podvody?</strong></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}minutove-opce">Minutové opce</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet-na-binarni-opce">Binární opce - demo účet</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}knihy-na-binarni-opce">Knihy o Binárních opcích</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-vs-binarni-opce">Forex vs Binární opce</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-a-dane">Binární opce a daně</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-podvod">Binární opce podvod</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}miroslav-kadlec-a-binarni-opce">Miroslav Kadlec</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binary-bot-pro">BinaryBotPro recenze</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}optionavigator-recenze">Optionavigator recenze</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}pracuj-online-podvod">PracujOnline recenze</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}euro-millionaire-system">Euro Millionaire System recenze</a></li>
-            <li class="divider"></li>
-            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce - Ostatní</strong></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}co-jsou-to-binarni-opce">Co jsou to binární opce</a></li>    
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}historie-binarnich-opci">Historie binárních opcí</a></li>         
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}knihy-na-binarni-opce">Knihy o Binárních opcích</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-a-dane">Binární opce a daně</a></li>
           </ul>
         </li>
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>
         <li><a href="{{url}}litecoin/">Litecoin</a></li>
         <li><a href="http://blog.forexsrovnavac.cz/">Blog</a></li>
-        <li class="dropdown">
-          <a href="#" id="drop2" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="visible-xs">Jazyk &nbsp;</span><img src="{{img-url}}flags/cs.png" class="flag"><span class="visible-xs"> <b class="caret"></b></span></a>
-          <ul class="dropdown-menu" role="menu" aria-labelledby="drop">
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="en" href="{{base-url}}en/plus500"><img src="{{img-url}}flags/en.png" class="flag"> English</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="cs" href="{{base-url}}plus500"><img src="{{img-url}}flags/cs.png" class="flag"> Česky</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="pl" href="{{base-url}}pl/plus500"><img src="{{img-url}}flags/pl.png" class="flag"> Polski</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="de" href="{{base-url}}de/plus500"><img src="{{img-url}}flags/de.png" class="flag"> Deutsche</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="sk" href="{{base-url}}sk/plus500"><img src="{{img-url}}flags/sk.png" class="flag"> Slovensky</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="nl" href="{{base-url}}nl/plus500"><img src="{{img-url}}flags/nl.png" class="flag"> Nederlands</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="fr" href="{{base-url}}fr/plus500"><img src="{{img-url}}flags/fr.png" class="flag"> Français</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="es" href="{{base-url}}es/plus500"><img src="{{img-url}}flags/es.png" class="flag"> Spagnolo</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="it" href="{{base-url}}it/plus500"><img src="{{img-url}}flags/it.png" class="flag"> Italiano</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="pt" href="{{base-url}}pt/plus500"><img src="{{img-url}}flags/pt.png" class="flag"> Português</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" hreflang="hu" href="{{base-url}}hu/plus500"><img src="{{img-url}}flags/hu.png" class="flag"> Magyarul</a></li>
-          </ul>
-        </li>
       </ul>
     </nav>
   </div>
 </header>
+-->

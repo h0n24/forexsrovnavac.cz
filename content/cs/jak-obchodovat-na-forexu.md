@@ -3,8 +3,8 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "10 pravidel pro úspěšné a ziskové obchodování na forexu",
-    "description": "",
+    "title": "Jak obchodovat na Forexu? 10 tipů pro obchodování na Forexu",
+    "description": "Jak obchodovat na Forexu? Je vůbec možné dlouhodobě ziskově obchodovat na forexu? Máme pro vás 10 základních tipů, které stojí za to znát.",
     "keywords": "Forex, úspěšné obchodování, ziskové obchodování"
   }
 {{/settings}}
@@ -23,12 +23,14 @@
 
 1. Všichni obchodníci na Forexu by měli chápat alespoň základní aspekty fundamentální a technické analýzy, které jsou pro obchodování nezbytné, stejně jako ekonomické souvislosti, které hýbou trhem (úrokové sazby, mezinárodní obchod, data). Vzdělávejte se!
 
-2. Měli byste mít dostatek rizikového kapitálu, jehož úplná nebo částečná ztráta nenahlodá vaši morálku a nijak nepoškodí váš životní styl. Zkuste především myslet na trh, ne na to, kolik máte ještě na účtu. Soustředit se na obchod je základem pro správné rozhodnutí.
+2. Měli byste mít **dostatek rizikového kapitálu**, jehož úplná nebo částečná ztráta nenahlodá vaši morálku a nijak nepoškodí váš životní styl. Zkuste především myslet na trh, ne na to, kolik máte ještě na účtu. Soustředit se na obchod je základem pro správné rozhodnutí.
 
 3. Forex trhy nejsou komodity a už vůbec ne akciový trh. Devizové spekulace jsou horská dráha nahoru-dolů a jsou především založeny na nákupech a prodeji velkých objemů různých měn a na jejich následném a zejména včasném prodeji nebo koupi. Proč držet jednu pozici, která skáče pětkrát nahoru a dolů a být nervózní při sebemenším pohybu, když ji mohu zavřít, připsat zisk a být v klidu. Platí zde okřídlené přísloví o vrabci v hrsti a holubovi na střeše.
 
-4. Před každým vstupem na pozici si určete maximální výši ztráty ve formě Stop-lossu, kterou jste ochotni při daném obchodě unést. NIKDY, tuto výši ztráty neměňte posouváním Stop lossu směrem nahoru (do větší ztráty) během obchodování. Mělo by se stát Vašim zlatým pravidlem č.1, že ihned po otevření pozice automaticky zadáte SL. Může se totiž stát cokoliv – náhlý a neočekávaný obrat trhu, výpadek proudu, „zamrznutí“ PC, kolaps připojení, musíte náhle odejít od monitoru atd …
-
+4. Před každým vstupem na pozici si určete maximální výši ztráty ve formě **Stop-lossu**, kterou jste ochotni při daném obchodě unést. NIKDY, tuto výši ztráty neměňte posouváním Stop lossu směrem nahoru (do větší ztráty) během obchodování. Mělo by se stát Vašim zlatým pravidlem č.1, že ihned po otevření pozice automaticky zadáte SL. Může se totiž stát cokoliv – náhlý a neočekávaný obrat trhu, výpadek proudu, „zamrznutí“ PC, kolaps připojení, musíte náhle odejít od monitoru atd …
+- - -
+{{partial: fxpro}}
+- - -
 5. Nikdy bezhlavě nevstupujte na trh, pokud nemáte alespoň několik signálů z různých zdrojů. Ať už ve formě paralelních fundamentů nebo více technických analýzách. A už vůbec NIKDY jen proto, že se právě nudíte a máte touhu nějakou pozici otevřít.
 
 6. Pokud obchodujete na data, používejte vždy Enter-Limity a Enter-Stopy (nebo budoucí objednávky) a NIKDY před ohlášením klíčových dat nevstupujte na pozice pouze na základě technické analýzy. Trh většinou stagnuje, otevřené pozice se většinou zavírají (trh reaguje menšími výkyvy) a na klíčová data v minutě X čeká desetitisíce traderů po celém světě.
@@ -45,30 +47,13 @@
 
 
 {{/section}}
+
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
 
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu}}
 
 </div>
 

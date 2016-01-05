@@ -38,6 +38,8 @@ Jsou nápomocné hlavně v obchodem se směrem trendu. Indikují vám průměr z
 
 Máme tři druhy těchto průměrů: jednoduchý-základní, exponencionální a lineární.
 
+{{partial: fxpro}}
+
 SMA je základní verzí MA - Klouzavého průměru 
 
 :    (Angl: MA - simple moving averages - jednoduché klouzavé průměry) její hodnotou je prostý aritmetický průměr hodnot ve sledovaném období. Jestliže např. hovoříme o 5ti denní SMA, pak jde o součet zavíracích hodnot za posledních 5 obchodních dnů a jejich aritmetický průměr.
@@ -98,8 +100,7 @@ Vhodnou kombinaci těchto signálů si musíte odzkoušet sami na základě zku�
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
 
-
-{{partial: menu}}
+{{partial: menu2}}
 
 
 </div>

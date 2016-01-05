@@ -30,6 +30,7 @@ FxPro Quant je revoluční nástroj, který umožňuje vytváření vlastních E
 
 Více o informací na webu [**FXpro Quant**](http://quant.fxpro.co.uk/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) a [**FxPro Quant recenze**](http://www.forexsrovnavac.cz/fxpro-quant)
 - - - 
+{{partial: fxpro}}
 
 ###Co je tedy Forex robot doopravdy?
 
@@ -80,26 +81,7 @@ Druhá skupina, zřejmě početně menší, ví, že lze sestavit takový softwa
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

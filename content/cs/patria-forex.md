@@ -37,5 +37,5 @@ Tip: 500kč/25€ na Váš reálný účet, pouze za registraci. [Vyzkoušejte s
       "obsah": "Vyzkoušejte si forex obchodování nezávazně s 500 Kč do začátku. Zdarma.</p><a href='http://www.plus500.com/cs/?id=66349&amp;pl=2' class='btn btn-default btn-sm'>Více informací</a>"
     }
 {{/layout}}
-
-{{partial: ostatni-brokeri}}
+- - -
+{{partial: fxpro}}

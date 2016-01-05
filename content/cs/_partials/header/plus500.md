@@ -68,21 +68,37 @@
           <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm hidden-md">Opce<b class="caret"></b></span><span class="visible-sm visible-md">Opce</span></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
             <li role="presentation" class="visible-sm"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce">Binární opce</a></li>
+            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce - Obchodování</strong></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet-na-binarni-opce">Binární opce demo účet</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodni-platforma">Obchodní platforma na opce</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-strategie">Strategie pro Binární opce</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-lze-vydelat-na-binarnich-opcich">Výdělek na binárních opcích</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}obchodovani-o-vikendu">Obchodování o víkendu</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}psychologie-obchodovani">Psychologie obchodování</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-vs-binarni-opce">Forex vs Binární opce</a></li>
+            <li class="divider"></li>
+            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce brokeři</strong></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}jak-vybrat-binarniho-brokera">Jak vybrat binárního brokera</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}srovnani-brokeru-na-binarni-opce">Srovnání brokerů na binární opce</a></li>
+            <li class="divider"></li>
+            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Typy binárních opcí</strong></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}druhy-binarnich-opci">Druhy Binárních opcí</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}High-Low-opce">High / Low opce</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}minutove-opce">Minutové opce</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet-na-binarni-opce">Binární opce - demo účet</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}knihy-na-binarni-opce">Knihy o Binárních opcích</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}forex-vs-binarni-opce">Forex vs Binární opce</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-a-dane">Binární opce a daně</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}minutove-opce">Minutové opce</a></li>         
+            <li class="divider"></li>
+            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce - podvody?</strong></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-podvod">Binární opce podvod</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}miroslav-kadlec-a-binarni-opce">Miroslav Kadlec recenze</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}miroslav-kadlec-a-binarni-opce">Miroslav Kadlec</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binary-bot-pro">BinaryBotPro recenze</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}optionavigator-recenze">Optionavigator recenze</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}pracuj-online-podvod">PracujOnline recenze</a></li>
             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}euro-millionaire-system">Euro Millionaire System recenze</a></li>
+            <li class="divider"></li>
+            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color: rgba(0, 0, 0, 0.3);">Binární opce - Ostatní</strong></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}co-jsou-to-binarni-opce">Co jsou to binární opce</a></li>    
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}historie-binarnich-opci">Historie binárních opcí</a></li>         
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}knihy-na-binarni-opce">Knihy o Binárních opcích</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce-a-dane">Binární opce a daně</a></li>
           </ul>
         </li>
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>

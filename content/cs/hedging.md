@@ -16,9 +16,9 @@
 
 # Hedging
 
-V dnešním díle si budeme povídat o jedné z technik obchodování na burze . Co to vlastně znamená? Jedná se o otevření opačné pozice ve stejném kontraktu. Máte třeba nakoupeno Euro a pokud použijete hedgeeovou pozici, tak v určitém okamžiku Euro taky prodáte . U futures musíte použít stejný kontraktní měsíc. Hedge se někdy používá k ochránění svých pozic- to dělají třeba nákupčí.
+V dnešním díle si budeme povídat o jedné z **technik obchodování na burze**. Co to vlastně znamená? Jedná se o otevření opačné pozice ve stejném kontraktu. Máte třeba nakoupeno Euro a pokud použijete hedgeeovou pozici, tak v určitém okamžiku Euro taky prodáte . U futures musíte použít stejný kontraktní měsíc. Hedge se někdy používá k ochránění svých pozic- to dělají třeba nákupčí.
 
-Představte si,že jako rafinerie potřebujete nakoupit za tři měsíce větší množství ropy. Vaším cílem je nakoupit co nejlevněji. To můžete udělat třeba opcí, ale o tom dnes řeč nebude.Takže když je cena relativně nízko,chtěli byste nakoupit,ale zatím nemůžete-kontrakt ještě nekončí. Takže vstoupíte na burze do dlouhé pozice-nakoupíte(spekulativně). To znamená, že když půjde cena nahoru,vyděláte na burze,ale nakoupíte dráž (máte svou původní cenu). Když půjde cena dolů, jste na tom stejně. Prostě si zajistíte svoji požadovanou cenu. V praxi je to trochu jinak,ale jako příklad to snad bude stačit.
+Představte si,že jako rafinerie potřebujete nakoupit za tři měsíce větší množství ropy. **Vaším cílem je nakoupit co nejlevněji**. To můžete udělat třeba opcí, ale o tom dnes řeč nebude.Takže když je cena relativně nízko,chtěli byste nakoupit,ale zatím nemůžete-kontrakt ještě nekončí. Takže vstoupíte na burze do dlouhé pozice-nakoupíte(spekulativně). To znamená, že když půjde cena nahoru,vyděláte na burze,ale nakoupíte dráž (máte svou původní cenu). Když půjde cena dolů, jste na tom stejně. Prostě si zajistíte svoji požadovanou cenu. V praxi je to trochu jinak,ale jako příklad to snad bude stačit.
 
 **A jak se dá využít hedgeování pozic v našem obchodování?** Různými způsoby. Nejprve je pořeba říci,že do takové techniky by se měl pouštět jen člověk, který má zkušenosti a ví, co dělá.
 
@@ -36,6 +36,8 @@ Náhrada příkazu stop-loss
 
 **HEDGE je riziková záležitost – používejte opravdu jen, pokud této strategii rozumíte.**
 
+{{partial: fxpro}}
+
 ##Jaké jsou zápory, rizika a nevýhody hedgingu
 
 áš největší nepřítel je jako obvykle psychika. Když víte,proč nastupujete obrácenou pozici a máte plán, je to dobré. Největším problémem je jak postupovat dále,když je vaše hedgeová pozice v předpokládaném zisku (třeba 500 bodů) . V jednom případě se odrazí zpět a vy začnete vydělávat i na druhé straně- to byl váš cíl,ale může se taky dále pohybovat proti vám. A tady máte jen dvě možnosti (díky za ně...). 
@@ -46,9 +48,9 @@ Pokud to nezvládnete,může se stát,že z celé původně ziskové strategie s
 
 ##A jaké jsou výhody hedgingu
 
-Když víte,co děláte,můžete vydělat mnohem více peněz. Broker vám neblokuje margin na obrácenou pozici-můžete obchodovat dva kontrakty za cenu jednoho(u komodit to některý broker neumí,nebo lze hedgovat jen v rámci jednoho dne). Můžete zabránit krátkodobým výkyvům trhu proti vaší pozici. Takže si musíte vybrat,jestli se vůbec do hedge pustit.
+Když víte,co děláte,můžete vydělat mnohem více peněz. Broker vám neblokuje margin na obrácenou pozici - můžete obchodovat dva kontrakty za cenu jednoho(u komodit to některý broker neumí,nebo lze hedgovat jen v rámci jednoho dne). Můžete zabránit krátkodobým výkyvům trhu proti vaší pozici. Takže si musíte vybrat,jestli se vůbec do hedge pustit.
 
-*Pzn: Ne všichni brokeři umožňují hedging, zeptejte se vašeho brokera, zda vám ho umožní.*
+*Pzn: Ne všichni brokeři umožňují hedging, zeptejte se nejdříve vašeho brokera, zda vám tuhle techniku obchodování umožní.*
 
 
 
@@ -57,26 +59,7 @@ Když víte,co děláte,můžete vydělat mnohem více peněz. Broker vám neblo
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

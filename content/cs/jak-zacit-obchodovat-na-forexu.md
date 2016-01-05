@@ -21,7 +21,18 @@ Cesta k tradingu mi přijde dosti těžká a složitá než se zdálo z počátk
 
 Vyzkoušejte si nejdříve demo účet
 
-:   Nejdříve [**demo účet**](http://www.forexsrovnavac.cz/demo-ucet "demo"). Toto je nejzákladnější řada jakou vám mohu dát. Pokud je trader nepřipravený, tak " živé " obchodování je zcela nesmyslné. Je to jen obyčejné vyhazování peněz oknem. Nic víc. Důležité je poznamenat, že to je nutná , nikoliv postačující podmínka . I malé dítě ví , že pokud víte létat na simulátoru, to ještě neznamená, že víte létat i na skutečném letadle. Ale to samé malé dítě také ví, že pokud nevíte létat ani jen na simulátoru, tak na skutečném letadle to docela určitě nedokážete.
+:   Nejdříve [**demo účet**](http://www.forexsrovnavac.cz/demo-ucet "forex demo"). Toto je nejzákladnější řada jakou vám mohu dát. Pokud je trader nepřipravený, tak " živé " obchodování je zcela nesmyslné. Je to jen obyčejné vyhazování peněz oknem. Nic víc. Důležité je poznamenat, že to je nutná , nikoliv postačující podmínka . I malé dítě ví , že pokud víte létat na simulátoru, to ještě neznamená, že víte létat i na skutečném letadle. Ale to samé malé dítě také ví, že pokud nevíte létat ani jen na simulátoru, tak na skutečném letadle to docela určitě nedokážete.
+
+
+##Jak se obchoduje na forexu?
+
+Obchodníci mohou **vytvářet zisky, ať měna stoupá nebo klesá,** nákupem jedné měny (u které se předpokládá nárůst hodnoty) za jinou měnu, nebo prodejem jedné měny (u které se předpokládá ztráta hodnoty) za jinou měnu. Zaujetí dlouhé pozice je, když obchodník nakupuje určitou měnu za určitou cenu a snaží se prodat ji později za vyšší cenu. Naopak zaujetí krátké pozice je, když obchodník prodá určitou měnu, u které předpokládá znehodnocení, a snaží se tuto měnu později nakoupit za nižší cenu. 
+
+Nákupy a prodeje měn coby odezva na ekonomické a politické události, které nastávají, jsou reakční, zatímco nákupy a prodeje měn coby odezva na předpokládané události jsou spekulativní. Velikost měnové aktivity je vytvářena účastníky trhu, předvídajícími směr cen měny. Obecně je hodnota měny vůči jiným měnám odrazem stavu hospodářství dané země vzhledem k ostatním velkým ekonomikám.
+
+Zahraniční měny jsou souvislým globálním trhem, poskytujícím **účastníkům přístup na trh 24 hodin denně**. K jediným přerušením obchodování dochází nakrátko přes víkendy. I když jsou zahraniční měny nejvíce likvidní ze všech trhů, skutečnost, že jde o mezinárodní trh a obchodování 24 hodin denně, znamená, že denní doba může mít přímý dopad na likviditu, která je k dispozici, pro obchodování s určitou měnou. Hlavními dealerskými centry a časovými zónami jsou Sydney, Tokio, Londýn a New York. Takže obchodníci musejí brát v úvahu, kteří hráči jsou na trhu, protože v moderním vzájemně propojeném finančním světě mohou události, ke kterým dojde v kterékoli hodině v kterékoli části zeměkoule, mít vliv na některé nebo všechny části investiční komunity.
+
+{{partial: fxpro}}
 
 ##Naučte se řídit vaše finance (money-management)
 
@@ -47,26 +58,7 @@ Forex bonusy
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

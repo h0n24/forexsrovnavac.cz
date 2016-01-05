@@ -36,7 +36,18 @@ Mohu buď využívat webové rozhraní mnou vybraného brokera, tedy pokud ho m�
 
 ## Kde si vytvořit Demo účet na forex?
 - - -
-[**Demo účet zdarma u plus500.cz**](http://blog.forexsrovnavac.cz/plus500cz "Registrace")
+[Demo účet zdarma u FxPro.cz](http://blog.forexsrovnavac.cz/fxpro "Registrace") {.btn .bnt-lg .btn-primary}
+
+1. Široká nabídka platforem Metatrader 4, cTrader a SuperTrader
+
+2. Neomezená doba demo účtu
+
+3. 99,9 % příkazů zpracovaných během 50 ms
+
+4. **Vlastní tvorba AOS zdarma, pomocí aplikace FxPro Quant**
+
+- - -
+[Demo účet zdarma u plus500.cz](http://blog.forexsrovnavac.cz/plus500cz "Registrace") {.btn .bnt-lg .btn-primary}
 
 1. Vlastní plarforma, můžete obchodovat online
 
@@ -46,7 +57,7 @@ Mohu buď využívat webové rozhraní mnou vybraného brokera, tedy pokud ho m�
 
 4. **500 Kč bonus na reálný účet**
 - - -
-[**Demo účet u ironfx.com**](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Registrace")
+[Demo účet u ironfx.com](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Registrace") {.btn .bnt-lg .btn-primary}
 
 1. Platforma Metatrader 4, můžete obchodovat online
 
@@ -57,7 +68,7 @@ Mohu buď využívat webové rozhraní mnou vybraného brokera, tedy pokud ho m�
 4. **25 USD bonus na reálný účet**
 
 - - -
-[**Demo účet u brokera xe.com**](http://clicks.pipaffiliates.com/afs/come.php?cid=46271&ctgid=17&atype=1&langcode=en&brandid=3 "Registrace")
+[Demo účet u brokera xe.com](http://clicks.pipaffiliates.com/afs/come.php?cid=46271&ctgid=17&atype=1&langcode=en&brandid=3 "Registrace") {.btn .bnt-lg .btn-primary}
 
 1. Platforma Metatrader 4, můžete obchodovat online
 
@@ -67,7 +78,7 @@ Mohu buď využívat webové rozhraní mnou vybraného brokera, tedy pokud ho m�
 
 4. **30 USD bonus na reálný účet**
 - - -
-[**Demo účet u markets.com**](http://serv.markets.com/promoRedirect?key=ej0xMzg0ODcwNiZsPTEzODQ4NzAzJnA9MTAxNjA%3D "Registrace")
+[Demo účet u markets.com](http://serv.markets.com/promoRedirect?key=ej0xMzg0ODcwNiZsPTEzODQ4NzAzJnA9MTAxNjA%3D "Registrace") {.btn .bnt-lg .btn-primary}
 
 1. Metatrader 4
 
@@ -92,26 +103,7 @@ Další brokery si můžete vyhledat například na [Google](https://www.google.
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

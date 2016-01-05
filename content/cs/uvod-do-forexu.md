@@ -17,7 +17,7 @@
 #Co je to forex? (měnový trh)
 
 
-Zjednodušeně řečeno, Forex trh je místo, kde se setkávají banky, podniky, vlády, investoři a obchodníci, aby zde vyměnili měny nebo spekulovali s měnami. Forex trh je často také nazýván “devizový trh” nebo “měnový trh”. Trh forex je největší a nejlikvidnější trh na světě s průměrným denním obratem 3,98 bilionů USD. 
+Zjednodušeně řečeno, Forex trh je místo, kde se setkávají banky, podniky, vlády, investoři a obchodníci, aby zde vyměnili měny nebo spekulovali s měnami. Forex trh je často také nazýván “devizový trh” nebo “měnový trh”. **Trh forex je největší a nejlikvidnější trh na světě s průměrným denním obratem 3,98 bilionů USD**. 
 
     Devizový trh je otevřen 24 hodin denně a 5 dní v týdnu. Nejdůležitější světová forex trhy centra byla umístěna v Londýně, New Yorku, Tokiu, Curychu, Frankfurtu, Hongkongu, Singapuru, Paříži a Sydney. Je třeba poznamenat, že neexistuje žádný centrální trh Forex. Forex je produkt všech velkých bank, kdy každá banka má různé ceny. Obchodování s měnou nám zprostředkovávají makléři přes obchodní platformy.
 
@@ -35,39 +35,41 @@ V roce 1944 se mocnosti světa sešly na Bretton-woodské konferenci, kde byla z
 
 ##Co je Forex trading (Obchodování s měnami)?
 
-Forex trading nebo-li forex obchodování probíhá na úrovni individuálních obchodníků. Při forex obchodování se jedná o spekulaci na cenu jedné měny vůči druhé měně. Například, pokud si myslíte, že euro bude stoupat vůči americkému dolaru, můžete nakoupit měnový pár EUR/USD za nižší cenu a pak ho prodat za cenu vyšší. Rozdílná část pak bude tvořit váš zisk. Samozřejmě, pokud si myslíte, že euro vůči dolaru posiluje, ale nakonec posílí dolar, budete ve ztrátě. **Je třeba si uvědomit, že forex obchodování přináší zisky, ale také ztráty.** Více v článku [**"Obchodování na Forexu"**](http://www.forexsrovnavac.cz/forex-obchodovavani "Obchodování na forexu") 
+Forex trading nebo-li [**forex obchodování**](http://www.forexsrovnavac.cz/forex-obchodovavani) probíhá na úrovni individuálních obchodníků. Při forex obchodování se jedná o spekulaci na cenu jedné měny vůči druhé měně. Například, pokud si myslíte, že euro bude stoupat vůči americkému dolaru, můžete nakoupit měnový pár EUR/USD za nižší cenu a pak ho prodat za cenu vyšší. Rozdílná část pak bude tvořit váš zisk. Samozřejmě, pokud si myslíte, že euro vůči dolaru posiluje, ale nakonec posílí dolar, budete ve ztrátě. **Je třeba si uvědomit, že forex obchodování přináší zisky, ale také ztráty.**
+
+{{partial: fxpro}}
 
 ##Proč je trh Forex v dnešní době tak populární?
 
 
 Forexovým obchodníkům se nabízí skvělý potenciální životní styl. Není snadné stát se dobrým forexovým obchodníkem, ale pokud jste rozhodnuti a disciplinovaní, můžete se vám to podařit. Zde je stručný přehled dovedností, které budete potřebovat k dosažení svých cílů na trhu Forex:
 
-**Schopnost -** prodávat se ztrátou, aniž by jste měli přílišné emoce
+**Schopnost** - prodávat se ztrátou, aniž by jste měli přílišné emoce
 
-**Důvěra -** věřit v sebe a své obchodní strategie a nemít strach
+**Důvěra** - věřit v sebe a své obchodní strategie a nemít strach
 
-**Čas –** stát se nejlepším forex obchodníkem stojí mnoho času
+**Čas** – stát se nejlepším forex obchodníkem stojí mnoho času
 
-Disciplína -** zůstat v klidu a bez emocí v případech konstantního pokušení 
+**Disciplína** - zůstat v klidu a bez emocí v případech konstantního pokušení 
 
-**Flexibilita -** obchodovat úspěšně i přes měnící se podmínky na trhu 
+**Flexibilita** - obchodovat úspěšně i přes měnící se podmínky na trhu 
 
-**Zaměření -** zůstat soustředěni na váš obchodní plán 
+**Zaměření** - zůstat soustředěni na váš obchodní plán 
 
-**Logické myšlení -** dívat se na trh racionálně a přímo
+**Logické myšlení** - dívat se na trh racionálně a přímo
 
-**Organizovanost -** udržovat a posilovat pozitivní obchodní zvyklostí
+**Organizovanost** - udržovat a posilovat pozitivní obchodní zvyklostí
 
-**Trpělivost -** čekat pouze na nejvyšší pravděpodobnosti obchodních strategií v závislosti na vašem plánu
+**Trpělivost** - čekat pouze na nejvyšší pravděpodobnosti obchodních strategií v závislosti na vašem plánu
 
-**Realismus -** nemyslet si, že rychle zbohatnete a pochopit realitu trhu a obchodu
+**Realismus** - nemyslet si, že rychle zbohatnete a pochopit realitu trhu a obchodu
 
-**Sebeovládání -** jako obchodníci na trhu forex můžete využít pákového efektu a vysoké volatility. Naučíte se efektivní strategie Forex obchodování, budování efektivních obchodních plánů a ledovému klidu. Klíčový je zde money management, protože trh forex pro vás může znamenat v krátkém čase ztrátu mnoha peněz. Klíčem k řízení peněz v obchodování Forex je vždy znát přesnou částku v korunách, která je před vstupem do obchodování v ohrožení a být naprosto smíření s její ztrátou v případě neúspěšného obchodu. 
+**Sebeovládání** - jako obchodníci na trhu forex můžete využít pákového efektu a vysoké volatility. Naučíte se efektivní strategie Forex obchodování, budování efektivních obchodních plánů a ledovému klidu. Klíčový je zde money management, protože trh forex pro vás může znamenat v krátkém čase ztrátu mnoha peněz. Klíčem k řízení peněz v obchodování Forex je vždy znát přesnou částku v korunách, která je před vstupem do obchodování v ohrožení a být naprosto smíření s její ztrátou v případě neúspěšného obchodu. 
 
 
 ##Kdo obchoduje na trhu Forex a proč?
 
-**Banky -** umožňují na trhu forex obrovské množství komerčních i spekulativních transakcí. Některé velké banky obchodují  na trhu forex miliardy dolarů denně. 
+**Banky -** umožňují na trhu [**forex**](http://www.forexsrovnavac.cz) obrovské množství komerčních i spekulativních transakcí. Některé velké banky obchodují  na trhu forex miliardy dolarů denně. 
 
 **Firmy -** Firmy využívají devizového trhu při placení za zboží ze zahraničí, a také při prodeji zboží nebo služeb v cizích zemích.
 
@@ -100,32 +102,13 @@ Disciplína -** zůstat v klidu a bez emocí v případech konstantního pokuše
 • Volatilita umožňuje obchodníkům získat zisk ve všech tržních podmínkách, jak v období růstu tak poklesu
 
 
-
+![Co je to forex](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/analysis-515243_640.jpg)
 
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

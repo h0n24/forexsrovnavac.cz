@@ -33,6 +33,8 @@ Spekulace na pokles ceny
 
 Váš zisk představuje rozdíl mezi prodejní cenou a nákupní cenou. Pozice otevíráte tlačítkem prodat, případně zkrátit pozici. Investoři, kteří používají strategii spekulace na pokles ceny se v „burzovní terminologii“ nazývají medvědi, nebo anglicky bears.
 
+{{partial: fxpro}}
+
 ##Jaká je vaše strategie, Váš obchodní styl?
 
 Obchodní styl investorů určuje doba, během níž mají otevřené pozice. V závislosti na různé doby držení pozice rozdělujeme obchodní styly na:
@@ -80,26 +82,7 @@ Money management rozložíme na dvě části:
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 

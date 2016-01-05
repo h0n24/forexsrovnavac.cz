@@ -51,6 +51,8 @@ Tyto své služby pak společnost přenesla roku 2012 do České republiky a zal
 
     4. Bossa podléhá dohledu České národní banky. [ČNB](http://www.cnb.cz/cs/index.html)
 
+{{partial: fxpro}}
+
 *Základní informace o Bossa.cz*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
@@ -104,9 +106,9 @@ Rozhodnete-li se pro možnost obchodovat s brokerem BOSSA, budete si moci vybrat
 
 **Mikro účet** – minimální vklad pro založení účtu 10 000 Kč, minimální částka pro otevření obchodu 130 Kč, vhodné pro začátečníky,
 
-**Demo účet** – možnost vyzkoušet si obchodování s virtuálními penězi na reálných podmínkách trhu, bez rizika, vhodné na zkoušku před otevřením jednoho z výše uvedených účtů.
+[**Demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "Forex demo") – možnost vyzkoušet si obchodování s virtuálními penězi na reálných podmínkách trhu, bez rizika, vhodné na zkoušku před otevřením jednoho z výše uvedených účtů.
 
-Účty si můžete zřídit i zrušit zdarma. Zdarma jsou poskytovány i převody prostředků v rámci BOSSA. Poplatky se vztahují na výpisy historie účtů (50 Kč za každý započatý rok) či na převody prostředků na zahraniční bankovní účet klienta. Minimální částka pro otevření obchodu činí 130 Kč, minimální vklad pro otevření účtu pak představuje 10 000 Kč (Mikro a Standard účet).
+Účty si můžete zřídit i zrušit zdarma. **Zdarma jsou poskytovány i převody prostředků v rámci BOSSA**. Poplatky se vztahují na výpisy historie účtů (50 Kč za každý započatý rok) či na převody prostředků na zahraniční bankovní účet klienta. Minimální částka pro otevření obchodu činí 130 Kč, minimální vklad pro otevření účtu pak představuje 10 000 Kč (Mikro a Standard účet).
 
 ##Na jaké platformě probíhá obchodování?
 
@@ -123,7 +125,8 @@ Broker je vhodný i pro začátečníky, neboť poskytuje možnost vzděláván�
 
 *BOSSA je zajímavou možností pro obchodování a investování na trhu CFD. Díky české verzi platformy a regulaci na českém trhu je atraktivní nabídkou pro české obchodníky.*
 
-*Konkurenční brokeři:* [ETX capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti) - [Markets.com](http://www.forexsrovnavac.cz/markets-com-recenze) - [XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com)
+- - -
+*Konkurenční brokeři:* [**ETX capital**](http://www.forexsrovnavac.cz/etx-capital-zkusenosti) - [**Markets.com**](http://www.forexsrovnavac.cz/markets-com-recenze) - [**XM.com**](http://www.forexsrovnavac.cz/xm-xemarkets-com)
 
 
 

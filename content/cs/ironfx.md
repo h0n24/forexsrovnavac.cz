@@ -37,6 +37,8 @@ www.ironfx.com má množství licencí, které tomuto brokerovi umožňují obch
 </div>
 {{/section}}
 
+{{partial: fxpro}}
+
 *Proč obchodovat s Ironfx.com?*
 :    
     1. IronFX poskytuje automatizovaný systém řízení rizika prostřednictvím svých světově oceněných obchodních platforem. Tento systém zajišťuje, že zůstatek na účtu klienta nikdy nebude záporný.

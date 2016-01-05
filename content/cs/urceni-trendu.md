@@ -24,6 +24,8 @@ Základním pravidlem obchodníků je trend je tvůj přítel (Trend je rozjetý
 
 Často ale nastává situace, že trh se pohybuje uvnitř kanálu, kde je dočasně uzamčen. Vyskakuje nahoru a dolu, ale v rámci linie-kanálu se nedostává ani přes, ani pod tuto linii. V takovém případě je velice těžké identifikovat správně směr trendu. Co je ale jisté, že po takovémto pohybu trh vyrazí razantně jedním směrem - UP or DOWN.
 
+{{partial: fxpro}}
+
 ##Jaké máme trendy?
 
 Další dělení trendů je na trendy typu trending a trend-less. Nejprve se zastavíme u trendu, který je nám bližší a je předvídatelnější trending.
@@ -42,7 +44,7 @@ Trend-Less
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-{{partial: menu}}
+{{partial: menu2}}
 
 </div>
 

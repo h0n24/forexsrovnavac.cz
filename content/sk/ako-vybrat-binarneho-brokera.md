@@ -13,7 +13,7 @@
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
-##  Šikovné tipy, ako si vybrať brokera na binárne opcie
+#  Šikovné tipy, ako si vybrať brokera na binárne opcie
 
 Výber toho správneho brokera na binárne opcie, by teoreticky mal byť rýchly a jednoduchý proces. Každý človek, ktorý chce začať obchodovať a použiť na to svoje ťažko zarobené peniaze, by mal byť pri výbere obozretný a preto prinášame zopár tipov ktoré poslúžia pri výbere.
 

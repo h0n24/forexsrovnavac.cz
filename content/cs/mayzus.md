@@ -39,4 +39,5 @@ Tip: 500kč/25€ na Váš reálný účet, pouze za registraci. [Vyzkoušejte s
     }
 {{/layout}}
 
-{{partial: ostatni-brokeri}}
+- - - 
+{{partial: fxpro}}

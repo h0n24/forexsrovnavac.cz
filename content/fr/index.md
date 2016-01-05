@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Meilleurs Brokers Forex",
+    "title": "Forex Trading | Broker Forex en France | Trouver le meilleur courtier forex",
     "description": "Trouver le meilleur courtier forex, car il vous fera économiser de l'argent.",
     "keywords": "bitcoin taux, Bitcoin gratuitement, bitcoin cz, bitcoin commercial, bitcoin"
   }
@@ -11,7 +11,7 @@
 
 {{start}}
 
-# Best Forex Brokers 
+# Broker Forex en France 
 
 Trouver le meilleur courtier forex, car il vous fera économiser de l'argent. 
 

@@ -4,9 +4,8 @@
 
 # Bitcoin kurz
 
-Virtuálna mena ktorá zmení svet.
+aktuálny graf a vývoj ceny.
 
-Bonus 25 €
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">

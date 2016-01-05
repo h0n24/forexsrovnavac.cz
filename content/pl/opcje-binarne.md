@@ -238,7 +238,7 @@ Strzeż się fałszywych programów opcji binarnych
 - - -
 
 <div id="brokeri-box">
-<H3 class="brokeri-nadpis">Brokerzy gości do opcji</H3>
+<H3 class="brokeri-nadpis">Ranking Brokerów</H3>
 <div class="broker">
   <div class="broker-top">
   <a href="#"  title="TopOption">
@@ -260,7 +260,7 @@ Strzeż się fałszywych programów opcji binarnych
   <a href="#" title="ETX Binary">
     <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
   </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
+   <a class="broker-top-odkaz" target="_parent"  href="http://blog.forexsrovnavac.cz/etxbinary" title="ETX Binary">ETX Binary</a>
   <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
   <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
  </div>
@@ -268,7 +268,7 @@ Strzeż się fałszywych programów opcji binarnych
   <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
     Ocena: <b>95%</b>
  </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Przeczytaj recenzję">Przeczytaj</a>
+ <a class="recenze" target="_parent" href="http://blog.forexsrovnavac.cz/etxbinary" title"Przeczytaj recenzję">Przeczytaj</a>
  <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otvoriť účet">WEB</a>
 </div> 
 <div class="broker">
@@ -283,7 +283,7 @@ Strzeż się fałszywych programów opcji binarnych
   <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
     Ocena: <b>92%</b>
  </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Przeczytaj recenzję">Przeczytaj</a>
+ <a class="recenze" href="http://blog.forexsrovnavac.cz/stockpair" title"Przeczytaj recenzję">Przeczytaj</a>
  <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otvoriť účet">WEB</a>
 </div> 
 

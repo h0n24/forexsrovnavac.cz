@@ -29,7 +29,7 @@ Obchodník z Wall Street – Pavel Kováč
 :    
 Naši recenzi začneme údajným autorem systému BinaryBotPro. Je jím již několikrát jmenovaný Pavel Kováč. Webové stránky jej představují jako velmi úspěšného obchodníka z Wall Street, který se zmožený stresem z obchodování na nejznámějším investičním trhu rozhodl ukončit svoji kariéru na Wall Street a vytvořit vlastní obchodní systém. 
 
-Cílem bylo dát reálnou podobu systému, který by v podstatě obchodoval za vás. To znamená, že byste se pouze registrovali a on by vám vydělával peníze. Tento systém pak vzniknul pod jménem BinaryBotPro, o kterém se na první pohled může zdát, že jde o velmi lákavou nabídku.  Více o tom, co to jsou [binární opce](http://www.forexsrovnavac.cz/binarni-opce "Binární opce").
+Cílem bylo dát reálnou podobu systému, který by v podstatě obchodoval za vás. To znamená, že byste se pouze registrovali a on by vám vydělával peníze. Tento systém pak vzniknul pod jménem BinaryBotPro, o kterém se na první pohled může zdát, že jde o velmi lákavou nabídku.  Více o tom, co to jsou [**binární opce**](http://www.forexsrovnavac.cz/binarni-opce "Binární opce").
 
 
 </div>
@@ -59,8 +59,10 @@ Jde hovořit o zisku?
 
 Na stránkách najdete dokonce i videa a další učební materiál, ve kterém se však můžete dozvědět například to, že se vkladem 200 eur vyděláte denně trojnásobek. Takovéto informace jsou bohužel mylné, stejně jako představa, že s binárními opcemi vyděláte jen pomocí rad softwaru. Obchodování s binárními opcemi vyžaduje porozumění, promyšlenost a vlastní obchodní strategii.
 
-Doporučujeme obchodovat samostatně, žádné zázračné automatické obchodní systémy dlouhodobě nefungují
-:    [TopOption - naše recenze brokera -->>](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
+Dle našeho názoru, žádné zázračné automatické obchodní systémy dlouhodobě nefungují
+:    [**TopOption - naše recenze brokera -->>**](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
+
+![BinaryBotPro](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/binaryoptionsbotpro-1024x570.jpg) 
 
 </div>
 <div class="col-md-3" markdown="10">

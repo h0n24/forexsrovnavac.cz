@@ -18,6 +18,8 @@
 
 Před vstupem na reálný trh je nutno uvědomit si veškerá rizika obsažená v obchodování s cizí měnou. Je v našem zájmu vám tato rizika předem objasnit, aby jste se mohli fundovaně rozhodnout, zda je takové obchodování pro Vás vhodné a zda odpovídá Vašim finančním možnostem při vzniku případných ztrát. 
 
+{{partial: fxpro}}
+
 Zvažte prosím dále uvedené okolnosti obchodování na měnovém trhu:
 
 
@@ -46,25 +48,7 @@ Jak začít obchodovat bez rizika?
 <!--
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
+{{partial: menu2}}
 
 
 </div>

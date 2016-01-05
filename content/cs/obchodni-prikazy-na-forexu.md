@@ -26,6 +26,8 @@ Market Order (nákup nebo prodej za cenu na trhu)
 
 *Příklad: chcete nakoupit pár EUR/USD a aktuální cena je 12200. Protože spread je 3body, můžete kupovat za 12203 a prodávat za 12200. To bude vaše plnění v některé ze stran, když zadáte příkaz za trh. Pokud se cena pohne, program vás na to upozorní a exekuce nenastane – pokud nechcete akceptovat novou cenu.*
 
+{{partial: fxpro}}
+
 Limit Order (nákup nebo prodej za cenu takovou nebo lepší)
 
 :   Tento příkaz používáte ke vstupu, když chcete cenu lepší, než je momentálně na trhu. Čekáte, až si cena na trhu dojde k vaší požadované, teprve potom nastane exekuce do trhu.
@@ -62,24 +64,7 @@ CLOSE WITH HEDGE - (uzavře stávající pozici za trh a otevře za trh pozici v
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Bonusy na forexu:
-:    
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[Demo účty](http://www.forexsrovnavac.cz/demo-ucet "Demo účet")
-
-Binární opce:
-:    
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 <div class="container-fluid" markdown="1">

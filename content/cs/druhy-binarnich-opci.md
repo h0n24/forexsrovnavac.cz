@@ -77,19 +77,19 @@ One Touch / No Touch binární opce můžete obchodovat u brokera [**Stockpair**
 ## Další druhy binárních opcí 
 
 60 sekundové binární opce 
-: Další možností jsou 60s původní binární volba. Jsou určeny pro obchodníky, kteří chtějí obchodovat velmi rychle a nemají, nebo nechtějí obchodování věnovat tolik času. Zjednodušeně řečeno, obchodník vybere aktivum, tedy zlato, ropa, eurech nebo burze, a tipy na to půjde nahoru nebo dolů. Obchodníci mohou obchodovat více 60 sekundových opcí současně. 
+: Další možností jsou 60 sekundové binární opce. Jsou určeny pro obchodníky, kteří chtějí obchodovat velmi rychle a nemají, nebo nechtějí obchodování věnovat tolik času. Zjednodušeně řečeno, obchodník vybere aktivum, tedy zlato, ropa, eurech nebo burze, a tipy na to půjde nahoru nebo dolů. Obchodníci mohou obchodovat více 60 sekundových opcí současně. 
 
-Okrajové Binární Možnosti 
+Okrajové Binární opce
 : Hranice [**binární opce**](http://www.forexsrovnavac.cz/binarni-opce) dává obchodníkovi dvě možnosti, buď aktivum skončí uvnitř nebo mimo hranici. Například obchodník věří, že v příštích 5 minutách hodnota zlata zůstane v určitém rozmezí. Obchodník zvolí vnitřní volbu hranice, zůstane-li kurz zlata uvnitř tohoto cenového rozpětí, obchodníkovi je vyplacen zisk. 
 
-Možnost Builder opce
-: Mnoho makléřů mají funkci na jejich platformě, která se nazývá Builder. Obchodník může vybrat, co za opci koupit a co časový rámec k použití. Je vhodný zejména pro zkušené obchodníky - spekulanty, kteří mají čas a plánují dopředu. Například obchodník, který kupuje opce na ropu do pozice, před zprávou o hodnotě ropných zásob, která pokaždé ovlivňuje cenu ropy. 
+Builder opce
+: Mnoho obchodníků používá funkci na jejich platformě, která se nazývá Builder. Obchodník může vybrat, co za opci koupit a co časový rámec k použití. Je vhodný zejména pro zkušené obchodníky - spekulanty, kteří mají čas a plánují dopředu. Například obchodník, který kupuje opce na ropu do pozice, před zprávou o hodnotě ropných zásob, která pokaždé ovlivňuje cenu ropy. 
 
-Pár Binárních opcí
-: Při obchodování na páru má obchodník dvě volbyNapříklad obchodník může obchodovat ropu proti zlatu, nebo S & P 500 proti Nasdaq. 
+Párové binární opce
+: Při obchodování na páru má obchodník dvě volby. Například obchodník může obchodovat ropu proti zlatu, nebo S&P 500 proti Nasdaq. 
 
-Možnosti převrácení binárních opcí
-: Někteří binární brokeři nabízejí obchodníkům i tuto možnost. Když obchodník umístí obchod a pak zjistí, že podkladové aktivum je v pohybu proti obchodníkovi, obchodník může rozhodnout využít funkci převrácení, která prodlužuje čas do vypršení opce. Obvykle tak tato možnost může zachránit obchodníkovi počáteční investici. 
+Prodloužení binárních opcí
+: Někteří binární brokeři nabízejí obchodníkům i tuto možnost. Když obchodník umístí obchod a pak zjistí, že podkladové aktivum je v pohybu proti obchodníkovi, obchodník může rozhodnout využít funkci "prodloužení", která prodlužuje čas do vypršení opce. Obvykle tak tato možnost může zachránit obchodníkovi počáteční investici. 
 {{/section}}
 
 

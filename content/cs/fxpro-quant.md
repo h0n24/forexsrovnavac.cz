@@ -15,7 +15,7 @@
 {{section}}
 
 
-## FxPro Quant - vytváření AOS
+#FxPro Quant - vytváření AOS
 
 FxPro Quant je revoluční program pro algoritmické obchodování. Naprogramujte si své vlastní obchodní algoritmy a strategie pro MT4 a cTrader. Nyní si můžete vytvořit obchodní systémy, které obchodují podle vašich vlastních pravidel a to bez znalosti programování.
 

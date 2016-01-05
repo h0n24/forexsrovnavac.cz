@@ -42,6 +42,8 @@ InstaTrade Investment Company poskytuje přístup na akciové burzy MYCEX a RTS.
 </div>
 {{/section}}
 
+{{partial: fxpro}}
+
 *Proč obchodovat s Instaforex.com?*
   
   1. Obchodní podmínky společnosti InstaForex jsou právem považovány jako jedny z nejlepších na trhu. 

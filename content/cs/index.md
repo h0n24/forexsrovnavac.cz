@@ -18,9 +18,39 @@ Recenze brokerů. Najděte si toho svého, protože jen ten pravý vám ušetř�
 
 My vám pomůžeme s výběrem. Srovnání a hodnocení Forex brokerů rychle a jednoduše.
 
-Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#section-2) - [Kurz EUR/USD](http://forexsrovnavac.cz/index#section-3) -  [Co je to forex a jak funguje Forex?](http://forexsrovnavac.cz/index#section-4) -  [Obchodování na Forexu](http://forexsrovnavac.cz/index#section-5) - [Forex brokeři](http://forexsrovnavac.cz/index#section-6) - [Demo účet](http://forexsrovnavac.cz/index#section-6)
+Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#section-1) - [Kurz EUR/USD](http://forexsrovnavac.cz/index#section-3) -  [Co je to forex a jak funguje Forex?](http://forexsrovnavac.cz/index#section-4) -  [Obchodování na Forexu](http://forexsrovnavac.cz/index#section-5) - [Forex brokeři](http://forexsrovnavac.cz/index#section-6) - [Demo účet](http://forexsrovnavac.cz/index#section-6)
+
+<div class="row">
+<div class="col-md-8 hidden-sm hidden-xs">
+  <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?">
+  </SCRIPT>
+  <NOSCRIPT>
+  <A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?">
+  <IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122763758;sz=728x90;ord={{@timestamp}}?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement" /></A>
+  </NOSCRIPT>
+</div>
+<div class="col-sm-6 col-xs-12 hidden-md hidden-lg">
+  <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?">
+  </SCRIPT>
+  <NOSCRIPT>
+  <A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?">
+  <IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122764542;sz=300x250;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A>
+  </NOSCRIPT>
+</div>
+</div>
 
 {{/start}}
+{{section}}
+
+## Srovnání Forex Brokerů 
+<br>
+{{partial: table-brokeri-horizontal}}
+
+{{/section}}
+{{section}}
+{{partial: jak-spravne-vybrat-brokera}}
+{{/section}}
+
 
 {{section}}
 <div class="row">
@@ -58,16 +88,7 @@ Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#se
 </div>
 {{/section}}
 
-{{section}}
 
-## Seznam forex Brokerů 
-<br>
-{{partial: table-brokeri-horizontal}}
-
-{{/section}}
-{{section}}
-{{partial: jak-spravne-vybrat-brokera}}
-{{/section}}
 {{section}}
 - - -
 ### Nejnovější články na forexsrovnávač.cz
@@ -128,6 +149,8 @@ Obsah stránky: [Jak vybrat forex brokera](http://www.forexsrovnavac.cz/index#se
 [Binární opce - strategie](http://www.forexsrovnavac.cz/binarni-opce-strategie "binární opce strategie")
 
 <br>
+
+[Obchodování o víkendu](http://www.forexsrovnavac.cz/obchodovani-o-vikendu "obchodování o víkendu")
 
 [Jak vydělat peníze na internetu](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu)
 

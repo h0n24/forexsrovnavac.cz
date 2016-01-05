@@ -66,6 +66,8 @@ Doporučujeme vám vyhýbat se systémům, které vám zadarmo nabízejí možno
 
 Doporučujeme obchodovat samostatně, žádné zázračné automatické obchodní systémy dlouhodobě nefungují
 :    [TopOption - naše recenze brokera -->>](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
+- - -
+![OptionNavigator](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/optionavigatozku%C5%A1enosti-1024x751.png) 
 
 </div>
 <div class="col-md-3" markdown="10">

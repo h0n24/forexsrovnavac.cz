@@ -33,7 +33,7 @@ Dlhú dobu sa samozrejme celá rada odborníkov háda o tom, čo vytvára hodnot
 
 [Moj Bonus 25 Euro](http://www.plus500.com/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
 
-## Aktuálny kurz v EUR (BTC/EUR)
+## Aktuálny kurz v EUR (**BTC/EUR**)
 
 <!-- TradingView Widget BEGIN -->
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
@@ -79,29 +79,13 @@ new TradingView.widget({
 
 - - -
 
-## Aktuálny kurz BITCOIN v USD - (BTC/USD)
+## Aktuálny kurz BITCOIN v USD - (**BTC/USD**)
 
-<!-- TradingView Widget BEGIN -->
-<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
-<script type="text/javascript">
-new TradingView.widget({
-  "width": 1150,
-  "height": 400,
-  "symbol": "BITFINEX:LTCUSD",
-  "interval": "D",
-  "timezone": "Etc/UTC",
-  "theme": "White",
-  "style": "1",
-  "locale": "en",
-  "toolbar_bg": "#f1f3f6",
-  "allow_symbol_change": true,
-  "hideideas": true,
-  "show_popup_button": true,
-  "popup_width": "1000",
-  "popup_height": "650"
-});
-</script>
-<!-- TradingView Widget END -->
+<div class="container kurz">
+<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<a href="http://www.plus500.com/cs/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
+<iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=cs&cty=CZ&id=66349&tags=widg+chart+bitcoin&pl=2&instSymb=BTCUSD"></iframe>
+</div>
 
 <br>
 

@@ -41,6 +41,8 @@ Výhodou je, že investor byl během nepříznivého období zajištěn proti po
 
 **Obsah článku cfd obchodování:** [CFD obchodování](http://forexsrovnavac.cz/cfd-obchodovani#section-1) – [Finanční páka](http://forexsrovnavac.cz/cfd-obchodovani#section-2) – [CFD jako součást rizikového portfolia](http://forexsrovnavac.cz/cfd-obchodovani#section-3) – [Spekulace na pokles kurzu](http://forexsrovnavac.cz/cfd-obchodovani#section-4){{/section}}
 
+{{partial: fxpro}}
+
 {{section}}
 ##Obchodování cfd na finanční páku – Leverage
 
@@ -54,11 +56,12 @@ Pokud kurz akcie (CFD) skutečně vzroste a investor uzavře pozici prodejem 100
 např. při kurzu 18.00 na hodnotu 18.20 realizujete zisk 2000 EUR (minimální denní pohyb).
 
 Zisk = (18,20-18,00 ) tj. 20pips x 10lot x 10(hodnota EUR za 1pips) = 2000 EUR ca 50.000,-Kč!!
+
 Při vzrůstu kurzu akcie o pouhé 1% tak investor dosáhne zhodnocení vloženého kapitálu (marginu) o 200% !!!
 
 Pákové obchodování
 
-:   Jak už bylo řečeno u CFDs není nutné skládat celou hodnotu akcií. Místo toho stačí záloha (tzv. margin) obvykle ve výši 10% hodnoty obchodovaných akcií. Se stejným kapitálem tak může investor „kontrolovat“ až desetkrát více akcií než při tradičním obchodování.
+:   Jak už bylo řečeno u CFDs není nutné skládat celou hodnotu akcií. **Místo toho stačí záloha (tzv. margin) obvykle ve výši 10% hodnoty obchodovaných akcií**. Se stejným kapitálem tak může investor „kontrolovat“ až desetkrát více akcií než při tradičním obchodování.
 
 Díky mechanismu finanční páky vede každá změna kurzu akcie k většímu procentnímu zhodnocení (ale i znehodnocení) investovaných prostředků (marginu). Páka tak umožňuje dosahovat se stejným kapitálem vyšších zisků a současně využívat menších pohybů kurzu. Jejím použitím se ale zvyšuje podstupované riziko.
 
@@ -93,7 +96,8 @@ Na CFDs se nevztahuje tzv. uptick rule – regulace, podle které je možné pro
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-{{partial: menu}}
+{{partial: menu2}}
+
 
 
 </div>

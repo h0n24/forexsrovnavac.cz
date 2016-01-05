@@ -29,6 +29,8 @@
 
 Pokud se pustíte do obchodování binární opci - jednoduché tipy a rady, jak se vyhnout podvodným společnostem.[Více o podvodech s binárními opcemi - EN](http://www.sec.gov/investor/alerts/ia_binary.pdf)
 
+##Jak odhalit podvodné stránky
+
 Pokud jde o obchodování binárních opcí, zde jsou některé užitečné způsoby, jak odlišit podvodníky od skutečných solidních společností:
 
 1. Především musíte vědět, jak binární opce fungují. Neměli byste nikdy investovat v oblastech, kterým nerozumíte. Jelikož téměř vždy přijdete o peníze.

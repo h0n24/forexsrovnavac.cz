@@ -24,14 +24,14 @@ Strategie na binární opce [Fundamentální strategie](http://www.forexsrovnava
 
 {{section}}
 
-###Obchodovanie na základe fundamentálnych správ
+##Obchodovanie na základe fundamentálnych správ
 :   Fundamentálna stratégia hovorí, že najväčší vplyv na pohyb aktív, ako sú akcie alebo komodity majú určite fundamentálne, čiže ekonomické (makroekonomické) správy. Preto väčšina skúsených obchodníkov obchoduje skôr menej obchodov a snaží sa špekulovať na výsledky rôznych firiem na ktoré sa zameriavajú (Apple, Twitter, Facebook), práve IT spoločnosti sú vysoko náchylné na štvrťročné výsledky, ak sa firme nedarí = je takmer isté je, že akcie budú v kratšom horizonte skôr klesať, rovnako je to aj naopak, ak potvrdí alebo dokonca prekoná výsledky akcie by mali v nasledujúcom kratšom horizonte rásť. 
 
 Avšak táto stratégia je určená skôr pre bonitnejšiu obchodníkov a to z dôvodu, že podobných situácií na trhu je pomerne málo, v desiatkach do roka, títo obchodníci to potom kompenzujú vyššími investíciami, kde vsádza na binárne opciu až niekoľko stoviek dolárov. Ak teda chcete obchodovať denne, alebo viac frekventovane as nízkymi vstupmi do pozíciou nie je pre vás táto stratégia vhodná. 
 {{/section}}
 
 {{section}}
-###Support a Rezistencia (Odpor a podpora aktív)
+##Support a Rezistencia (Odpor a podpora aktív)
 :   Stratégia, ktorú môžeme používať pomocou technickej analýzy. Predstavte si, že ceny finančných nástrojov sú výsledok telo na telo súboja medzi býkom (nakupujúci) a medveďom (predávajúcim). Býky posúvajú ceny vyššie a medvede je znižujú. Smer akým sa ceny skutočne hýbu ukazuje kto vyhrá súboj.
 Podpora je úroveň, na ktorej býci (nakupujúci) prevezmú kontrolu nad cenami a predídu ich ďalšiemu poklesu. 
 
@@ -44,7 +44,7 @@ K efektívnemu využitiu stratégie potrebujete aj dobrého brokera, ktorý vám
 ![Binárne opcie stratégie](http://s27.postimg.org/n3qp1cwb7/support_and_resistance_1.png)  
 {{/section}}
 {{section}}
-###Trendové Línia (čiary) - Trendlines
+##Trendové Línia (čiary) - Trendlines
 :  Prelom úrovní podpory a odporu vyústi do zmeny očakávania obchodníkov (čo spôsobuje posun krivky ponuky / dopytu).
 
 Tento druh zmeny je často prudký a založený na správach. Takéto zmeny môžu mať určitý trend. Medzi dôležité rozhodnutia k nákupu binárne opcie je práve určenie trendu. Trend reprezentuje konzistentné zmenu v cenách. Trend sa odlišuje od úrovňou podpory / odporu v tom, že trend reprezentuje zmenu, zatiaľ čo úrovne podpory / odporu reprezentujú bariéry, ktoré sa majú zmeniť.
@@ -57,7 +57,7 @@ Trendovej línie môžete efektívne obchodovať u brokera ETX Capital, vďaka s
 ![Jak obchodovat binární opce](http://s30.postimg.org/sg88gqg75/Uptrend_and_Downtrend_Chart_Example.gif) 
 {{/section}}
 {{section}}
-###Hlava a ramená, obrátená hlava a ramená
+##Hlava a ramená, obrátená hlava a ramená
 :   Hlava a ramená je ďalší formácie predpovedajúci zmenu trendu. Vzniká v rastúcom trende a skladá sa z troch vrcholov Po dosiahnutí prvého vrcholu cena mierne klesne. Následne rastie a vytvorí nový vrchol, ktorý je na vyššej úrovni ako ten predchádzajúci. Po opätovnom poklese nasleduje rast a cena vytvára tretie vrchol, ktorý je nižší ako predchádzajúce. Tretí vrchol je často na úrovni prvého. Spojením posledných dvoch miním vznikne úroveň neckline, po ktorej prerazeniu smerom nadol je formácia ukončená. Obchoduje sa vstupom do short pozície (predaj).
 
 Obrátená hlava a ramená je reverznej formáciou k vyššie uvedenej. Vyskytuje sa v dlhodobejších downtrend. Začína sa formovať vytvorením dna. Po ňom nasleduje nové dno, ktoré je nižšie ako to predchádzajúce. A na záver sa vytvorí tretí dno, ktoré je vyššie ako predchádzajúce, často na úrovni prvého dna formácie. Neckline predstavuje spojenie posledných dvoch maxím a jeho prerazením smerom nahor je formácia ukončená. Obchoduje sa vstupom do long pozície (nákup). Neckline ale nemusí byť vodorovná čiara, môže mať sklon na jednu, či na druhú stranu. Preto rozoznanie tejto formácie na grafe často vyžaduje skúsené oko.

@@ -53,6 +53,17 @@ Binární opce v principu fungují stejně jako sázka na výsledek sportovního
 
 Pokud bude náš odhad správný, tak dostaneme naši vsazenou částku 100 USD (tzv. Opční prémie) a zisk podle výnosu, který nabízí broker (například 80 USD při výnosu 80%). Celkově tedy 180 USD. Nicméně, pokud jste se zmýlili a cena ropy naopak klesla, přijdete o celou vaši vsazenou částku a tedy 100 USD.
 
+
+##P2P půjčky
+
+V čechách tento typ **půjčování** a investování peněz zatím není velmi rozšířený. Může za to skutečnost, že se systém rozvíjel v Británii (ZOPA - vůbec první platforma pro P2P půjčování), a postupně si ho oblíbili v Americe (společnosti PROSPER a Lending CLUB). Později se rozšířil i do zbytku Evropy. Jednotlivé společnosti původně odmítali poskytovat finance nebo možnost investiční spolupráce zahraničním klientům. Některé ze společností se tohoto omezení drží až do dnešní doby. Záleží však na individuálním posouzení, protože pokud oslovíte společnost a prokážete se několika miliony euro na účtu, s jistotou Vás jako přínosného investora neodmítnou.
+
+P2P **půjčky** jsou unikátní v tom, že analytici každému žadateli o úvěr přiřadí hodnocení a ratingovou skupinu podle ověření finanční bonity a schopnosti splácet úvěr. Právě na základě ratingové skupiny a rizikové třídy se liší úvěrové podmínky pro žadatele, přičemž nejlepší ratingy mají průměrný úrok 7 až 8 procent, zatímco rizikovější žadatelé od 15 do 20 procent. Takové podmínky platí pro **bezúčelové půjčky**.
+
+
+
+
+
 ##2. Nejjednodušší výdělek - Klikání v klikačkách (PTC)
 
 Klikání je snad nejznámější způsob, jak vydělávat peníze na internetu, s prací se to moc srovnávat nedá, jde spíše o příležitostnou činnost. A stejně tak, jak jde o nejznámější způsob, tak jde také o jeden z nejméně úspěšných způsobů. Ptáte se, jak že se pomocí klikání vydělává? Je to jednoduché, jde o reklamní systémy, přes které získáváte peníze za klikání na reklamní sdělení. Inzerenti samozřejmě stojí o návštěvu lidí, kteří u nich sice nic neutratí, ale aspoň kliknou na jejich reklamu. 

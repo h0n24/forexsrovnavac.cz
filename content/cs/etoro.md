@@ -16,7 +16,7 @@
 
 *Broker eToro je jedním z nejoblíbenějších a největších globálních brokerů na světě (působí až ve 140 zemích). Možným důvodem jeho velké obliby může být kombinace nabídky brokerských služeb i možnost využití obchodní sociální sítě eToro, díky které můžete navázat kontakty s úspěšnými obchodníky, sledovat jejich profily a získávat tak aktuální informace o obchodování druhých. Dalším důvodem jeho oblíbenosti je také přístupnost a spolehlivost brokera.* 
 
-V neposlední řadě je eToro výjimečný svou propracovanou webovou platformou pro obchodování CFD (Forex, akcie, komodity, indexy) s pákou 1:2 až 1:400. Platforma je lehce ovladatelná a svoje přednosti nabízí začátečníkům i profesionálním obchodníkům, kteří zajisté ocení propracované grafy a technické analýzy.
+V neposlední řadě je eToro výjimečný svou propracovanou webovou platformou pro [**obchodování CFD**](http://www.forexsrovnavac.cz/cfd-obchodovani "CFD") (Forex, akcie, komodity, indexy) s pákou 1:2 až 1:400. Platforma je lehce ovladatelná a svoje přednosti nabízí začátečníkům i profesionálním obchodníkům, kteří zajisté ocení propracované grafy a technické analýzy.
 
 Platforma, která vznikla roku 2004, je výtvorem a vlastnictvím společnosti Tradonomi. Provozovatelem brokera eToro je společnost RetailFX Ltd., sídlící ve druhém největším městě Kypru. Svým kyperským sídlem tak nevystupuje z klasické řady brokerských sídel. Broker eToro podléhá díky kyperskému sídlu poskytovatele regulaci Kyperské Komise pro cenné papíry. Broker je mimo jiné regulován i dalšími úřady NFA, ASIC, CFTC a MiFID.
 - - -
@@ -28,7 +28,7 @@ Broker eToro nenabízí jen své brokerské služby, ale také služby obchodní
 Kromě několika různých platforem a finančních instrumentů obchodování CFD (Forex, akcie, komodity, indexy) využívá eToro i několik metod vkladů a výběrů, například platby kreditní kartou, bankovním převodem, elektronickými peněženkami (Moneybookers, Paypal, Webmoney, Neteller, Moneygram, Western Union). 
 Broker eToro nabízí tři typy účtů – demo účet, reálný účet a účet Premium. 
 
-Demo účet
+[**Demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "Forex demo")
 :   nabízen s neomezenou dobou přístupu a virtuálním vkladem 10 000 dolarů
 
 Reálný účet
@@ -54,6 +54,9 @@ Sociální síť eToro OpenBook
 
 Mobile
 :    platforma pro Android a iOS mobilní aplikace (iPhone a iPad).
+
+
+{{partial: fxpro}}
 
 
 ## Vzdělávání u Etoro

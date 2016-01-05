@@ -1,0 +1,1 @@
+<span class="badge">Upozornění</span> Informace poskytované na Forexsrovnávač.cz jsou určeny ke studijním účelům témat týkajících se obchodování na finančních trzích.  DODELAT

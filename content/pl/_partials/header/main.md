@@ -10,11 +10,19 @@
     </div>
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
-        <li><a href="{{url}}#section-1">Lista brokerów</a></li> 
-        <li><a href="{{url}}forex-bonus-no-deposit-bez-depozytu">Forex Bonus</a></li>	
-        <li><a href="{{url}}opcje-binarne">Opcje binarne</a></li>
+        <li><a href="{{url}}forex-bonus-no-deposit-bez-depozytu">Bonus</a></li>	
+        <li><a href="{{url}}opcje-binarne">Opcje Binarne</a></li>
         <li><a href="{{url}}plus500">Plus500</a></li>
-      </ul>
+ </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm hidden-md">Opcje<b class="caret"></b></span><span class="visible-sm visible-md">Opcje</span></a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+            <li role="presentation" class="visible-sm"><a role="menuitem" tabindex="-1" href="{{url}}binarni-opce">Binární opce</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}demo-ucet-na-binarni-opce">Binární opce - demo účet</a></li>
+
+          </ul>
+    </li>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>
         <li><a href="{{url}}litecoin/">Litecoin</a></li>

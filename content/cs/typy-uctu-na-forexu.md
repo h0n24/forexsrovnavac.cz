@@ -16,15 +16,17 @@
 
 #Specifikace Forex účtů
 
-Probereme specifikace účtu k obchodování jako je jeho velikost, potřebný margin, velikost kontraktu a páka, která se na forexu využívá. Základní dělení účtu podle jeho velikosti je tzv **FOREX** nebo **Micro účet**. Micro účet je zhruba 10x menší napodobenina standardního účtu a je vhodnější hlavně pro začátečníky, nebo pro obchodníky, kteří mají vyhrazený menší kapitál.
+Probereme **specifikace účtu k obchodování** jako je jeho velikost, potřebný margin, velikost kontraktu a páka, která se na forexu využívá. Základní dělení účtu podle jeho velikosti je tzv **FOREX** nebo **Micro účet**. Micro účet je zhruba 10x menší napodobenina standardního účtu a je vhodnější hlavně pro začátečníky, nebo pro obchodníky, kteří mají vyhrazený menší kapitál.
 
 ## MARGIN (záloha na obchodování)
 
-Představuje sumu,kterou vám broker zablokuje na účtě, abyste mohli vstoupit do obchodu. U forexu se margin pohybuje většinou v rozmezí od 500 do 1000 USD na jeden kontrakt – lot. Ten vám dovolí kontrolovat skutečných 100 000 USD. Tomuto poměru říkáme leverage - neboli páka. Ta se pohybuje 100:1 až 200:1 (záleží na brokerovi, někdy může být ještě větší). 
+Představuje sumu,kterou vám broker zablokuje na účtě, abyste mohli vstoupit do obchodu. U forexu se margin pohybuje většinou v rozmezí od 500 do 1000 USD na jeden kontrakt – lot. Ten vám dovolí kontrolovat skutečných 100 000 USD. **Tomuto poměru říkáme leverage - neboli finanční páka**. Ta se pohybuje 100:1 až 200:1 (záleží na brokerovi, někdy může být ještě větší). 
 
-Klasickému forexovému účtu se také říká standardtní nebo regulérní. Někdy bývá označován jako 100k účet. Takže čtete dobře. Za 500-1000 USD ovládáte 100 000, to znamená, že samotný broker vám půjčí 99 000 USD. Pokud máte systém, je to pro vás obrovská a neocenitelná zbraň. 
+Klasickému forexovému účtu se také říká standartní nebo regulérní. Někdy bývá označován jako 100k účet. Takže čtete dobře. Za 500-1000 USD ovládáte 100 000, to znamená, že samotný broker vám půjčí 99 000 USD. Pokud máte systém, je to pro vás obrovská a neocenitelná zbraň. 
 
 U miniforexu je obvyklá páka 200:1, takže za Margin 50 USD ovládáte 10 000 USD. Tyto účty bývají označovány jako 10k účet.
+
+{{partial: fxpro}}
 
 ## Velikost bodu (neboli pips)
 
@@ -51,26 +53,7 @@ Minimální velikost účtu stanovuje opět makléř. V průměru se forexové �
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 
