@@ -38,6 +38,8 @@ Trend-Less
 :    (ztrácející se trend...), je pohyb nevyrovnaných úseků, které různě kmitají. Opět zde rozeznáváme dva modely a tím jsou choppy (kostrbatý) - je to nevyrovnaný pohyb vyšších highs a nižších lows a sideways (bokem) – úzký pás nižších highs a vyšších lows. Takovéto formace se mohou vyskytovat při trendu v kanále.
 
 
+
+
 {{/section}}
 
 </div>
@@ -51,7 +53,7 @@ Trend-Less
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 <!--

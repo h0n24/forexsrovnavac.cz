@@ -8,6 +8,8 @@
     "keywords": "Instaforex.com"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
   <meta itemprop="ratingValue" content="80"/>
@@ -28,6 +30,8 @@ O brokerovi instaforex.com
 :    
 Jedným z najlepších brokerov na trhu, ktorý stále udržuje svoju poprednú pozíciu na Forexe, je ECN forexový broker InstaForex, ktorý sprostredkováva interaktivitu medzi pokyny klientov zasielaných do systému. Všetci obchodníci tak obchodujú proti sebe skrze zasielanie konkurenčných ponúk a dopytov.
 
+
+
 InstaForex disponuje komplexnou ponukou obchodných možností, širokou škálou služieb a obchodných inštrumentov. Obchodné podmienky spoločnosti sú ohodnocované ako jedny z najlepších podmienok na trhu.
   </div>
   <div class="col-md-6" markdown="1">
@@ -37,10 +41,11 @@ Prevádzkovateľom forexového brokera InstaForex je spoločnosť InstaTrade Inv
 
 InstaTrade Investment Company poskytuje prístup na akciové burzy MYCEX a RTS. Spoločnosť InstaForex pôsobí po celom svete a dokonca bola trikrát po sebe ocenená ako Najlepšia broker v Ázii.
 
-
 </div>
 </div>
 {{/section}}
+
+{{partial: fxpro}}
 
 *Prečo obchodovať s Instaforex.com?*
   
@@ -132,53 +137,33 @@ InstaForex na svojich webových stránkach ponúka aj možnosť vzdelávania skr
 </div>
 <div class="col-md-3" markdown="1">
 <!--<div class="well" markdown="1" style="margin-top: 2.5em">
+
+
   
 </div>-->
 <div class="container-fluid" markdown="1">
-
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" rel="nofollow" target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" width="270" height="250"/>
-</a>
+{{partial: menu-sk}}
 - - -
 #### Menu
 
-[Ironfx.com recenzia](http://forexsrovnavac.cz/sk/instaforex#section-1)
+[instaforex.com recenzia](http://forexsrovnavac.cz/sk/instaforex#section-1)
 
-[Základné informácie o Ironfx.com](http://forexsrovnavac.cz/sk/instaforex#section-2)
+[Základné informácie o instaforex.com](http://forexsrovnavac.cz/sk/instaforex#section-2)
 
 [Investičné nástroje](http://forexsrovnavac.cz/sk/instaforex#section-3)
 
 [Obchodné aplikácie](http://forexsrovnavac.cz/sk/instaforex#section-4)
 
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
 - - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vhodné pre začiatočníkov
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vklad od 1 USD
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Webtrader - nemusíte nič sťahovať
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Zavedený dlhoročný broker
 
 </div>
 <div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Časť webe, nie je plne preložená
 
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
-
+{{partial: fxprobanner}}
 
 </div>
 </div>
 
-{{partial: ostatni-brokeri}}
+</div><!-- /itemreview -->

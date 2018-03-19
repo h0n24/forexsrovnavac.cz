@@ -4,7 +4,7 @@
   "header": "main",
   "meta" : {
     "title": "Minutové opce - strategie, rady a tipy",
-    "description": "Minutové opce (up-down) jsou druhem binárních opcí. Mají krátkou dobu expirace a tak s nimi můžete rychle zhodnocovat své portfolio. Minutové opce nazýváme i 60 sekund opce.",
+    "description": "Minutové opce (up-down) jsou druhem binárních opcí. 60 sekundové opce mají krátkou dobu expirace a tak s nimi můžete rychle obchodovat",
     "keywords": "Minutové opce, Minutové opce strategie"
   }
 {{/settings}}
@@ -61,15 +61,8 @@ Jednoduchá strategie pro minutové opce:
 
 Takže pokud naše modrá MACD linie kříží naši bílou MACD linie směrem odspodu --> nahoru, jedná se o CALL obchod, pokud je to naopak jedná se o PUT obchod. Viz screen.
 
-![Topoption](http://s28.postimg.org/en0f5elfx/opce1.png)
+![Minutové opce - rady, tipy a strategie](http://s28.postimg.org/en0f5elfx/opce1.png)
 
-## Kde obchodovat minutové opce?
-
-[Topoption recenze - jednička na trhu](http://www.forexsrovnavac.cz/topoption)
-
-[Stockpair](http://www.forexsrovnavac.cz/stockpair)
-
-[ETX Capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti)
 
 
 </div>
@@ -77,64 +70,10 @@ Takže pokud naše modrá MACD linie kříží naši bílou MACD linie směrem o
 
 - - -
 
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Hodnocení brokerů na opce</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="#"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>97%</b>
-  </div>
-  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Číst recenzi">Číst recenzi</a>
-  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otevřít účet">WEB</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>95%</b>
- </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otevřít účet">WEB</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>92%</b>
- </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otevřít účet">WEB</a>
-</div> 
-
+{{partial: Widget - Brokeri}}
 <hr />
 
-<a href="http://blog.forexsrovnavac.cz/topoption" alt="Demo účet"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/2015-02-17-22_43_03-Plus500-_-Akcie-Plus500_-Online-obchodování-s-akciemi-_-Obchodování-s-podíly_kme.png" width="" height=""/>
 
-</a>
-
-<hr />
 
 </div>
 </div>

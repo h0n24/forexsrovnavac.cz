@@ -78,7 +78,7 @@
 <tr>
   <th>Bonus</th>
   <td>-</td>
-  <td><strong>Bonus di benvenuto $25</strong></td>
+  <td><strong>/</strong></td>
   <td>-</td>
   <td>-</td>
   <td>-</td>

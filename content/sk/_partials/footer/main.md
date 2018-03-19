@@ -4,8 +4,10 @@
 	<a href="https://www.youtube.com/channel/UC7QDVYExySk78S41Gg0Pc6A/feed" target="_blank"><img src="{{base-url}}assets/img/social/youtube.png" alt="Youtube" width="32" height="32" /></a>
 </div>
 
+
+
 <i class="fa fa-language"></i>
- &nbsp; <a href="{{base-url}}en/">en</a>
+   <a href="{{base-url}}en/">en</a>
  · <a href="{{base-url}}de/">de</a>
  · <a href="{{base-url}}pl/">pl</a>
  · <a href="{{base-url}}nl/">nl</a>
@@ -17,4 +19,3 @@
  · <a href="{{base-url}}sk/">sk</a>
  · <a href="{{base-url}}">cs</a>
 
-<script src="http://cdn.plus500.com/Media/mobile/embed.min.js" async data-endpoint="http://marketools.plus500.com/MobileWidget/GetMobileWidget?id=66349&tags=MobileWidg&pl=2&th=Light"></script>

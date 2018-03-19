@@ -8,12 +8,14 @@
     "keywords": "OptionTime, OptionTime recenzie"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
-  <meta itemprop="ratingValue" content="90"/>
+  <meta itemprop="ratingValue" content="70"/>
   <meta itemprop="bestRating" content="100"/>
 </span>
-<meta itemprop="itemreviewed" content="Stockpair">
+<meta itemprop="itemreviewed" content="optiontime">
 <meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
@@ -28,13 +30,15 @@ O OptionTime.com
 :    
 Broker OptionTime je obchodníkom pohybujúcim sa na poli obchodovania s binárnymi opciami. Ide o spoločnosť, ktorej vlastníkom je regulovaný poskytovateľ finančných služieb Safecap Investments Ltd. Tento inovačný, komplexné a plne licencovaný broker ponúka širokú škálu binárnych obchodných produktov, finančných inštrumentov a obchodných nástrojov, ktoré umožňujú obchodovať na tej najvyššej úrovni. Obchodovanie s týmto brokerom je vďaka používané binárny platforme OptionTime vhodné ako pre začiatočníkov či bežných užívateľov, tak aj pre profesionálnych obchodníkov.
 
+{{partial: topoption}}
+
 </div>
   <div class="col-md-6" markdown="1">
 Zázemie u OptionTime pre českých obchodníkov
 :    
 OptionTime poskytuje profesionálnu podporu v mnohých jazykoch. České obchodníkov bude však určite zaujímať informácie ohľadom regulácie, licencie a podpory na slovenskom trhu. Poskytovateľ OptionTime má licenciu nielen od úradu CySEC na Cypre, ale aj od **britského úradu FCA či od Českej národnej banky**. Vďaka poslednej uvedenej licenciu môže broker obchodovať i na českom trhu. Okrem českej licencie je však broker prispôsobený slovenskému trhu aj platformou poskytovanú v českom jazyku.
 
-[Pozrite sa na obchodnú aplikáciu Optiontime](http://blog.forexsrovnavac.cz/optiontime "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
 
 
 </div>
@@ -62,7 +66,7 @@ Broker OptionTime obchoduje na platforme OptionTime, ktorá zvláda zobrazovanie
 *Základné informácie o www.Optiontime.com*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.Optiontime.com**](http://blog.forexsrovnavac.cz/optiontime) |
+| Web:     |   [**www.Optiontime.com**] |
 | ---------------- | ------------- |
 | **Typ brokera:**   | Binary broker  |
 | **Krajina pôvodu**   | Kypr / 2013  |
@@ -71,7 +75,7 @@ Broker OptionTime obchoduje na platforme OptionTime, ktorá zvláda zobrazovanie
 | **Minimálny obchod**  | 10 a 5 USD (krátkodobé opcie)|
 | **Zákaznícky servis:**  | Email, Chat, Telefón|
 
-[www.Optiontime.com](http://blog.forexsrovnavac.cz/optiontime "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
 
   </div>
   <div class="col-md-6" markdown="1">
@@ -126,7 +130,7 @@ Minimálna vklady sa líšia podľa typu účtu (200 eur až 5 000 eur) ak samot
 
 ##Demo účet
 
-[Demo účet u OptionTime](http://blog.forexsrovnavac.cz/optiontime "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}Ako už bolo povedané, obchodovanie si môžete vyskúšať so cvičným demo účtom. Pre zriadenie demo účtu vyžaduje broker OptionTime vloženie aspoň minimálneho vkladu, ktorý u OptionTime predstavuje sumu 200 eur. Vďaka demo účtu si budete môcť vyskúšať obchodovanie nanečisto za podmienok reálneho trhu.
+Ako už bolo povedané, obchodovanie si môžete vyskúšať so cvičným demo účtom. Pre zriadenie demo účtu vyžaduje broker OptionTime vloženie aspoň minimálneho vkladu, ktorý u OptionTime predstavuje sumu 200 eur. Vďaka demo účtu si budete môcť vyskúšať obchodovanie nanečisto za podmienok reálneho trhu.
 
 Typy účtov
 
@@ -145,7 +149,6 @@ U brokera OptionTime môžete získať vkladový bonus, ktorý však získate a�
 Po zažiadanie vám bude bonus pripísaný na váš obchodný účet a vy s ním budete môcť obchodovať. Peniaze z neho však nebudú vaše do tej doby, kým nezobchodujete 40x hodnotu bonusu. Zisky, ktoré vám z bonusu vzniknú, získate po predaj 10x hodnoty.
 
 
-[Získať bonus u OptionTime](http://blog.forexsrovnavac.cz/optiontime "Registrácia") {.btn .bnt-lg .btn-primary .pull-left .btn-index}Ako už bolo povedané, obchodovanie si môžete vyskúšať so cvičným demo účtom. Pre zriadenie demo účtu vyžaduje broker OptionTime vloženie aspoň minimálneho vkladu, ktorý u OptionTime predstavuje sumu 200 eur. Vďaka demo účtu si budete môcť vyskúšať obchodovanie nanečisto za podmienok reálneho trhu.
 
 
 {{/section}}
@@ -161,48 +164,21 @@ Broker vám ponúka aj možnosť vzdelávania, ktorú ocenia hlavne začínajúc
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-  
 
-![Optiontime.com](http://i.imgur.com/jgpu0dX.png) 
-
-[Otvoriť účet](http://blog.forexsrovnavac.cz/optiontime "Registrácia") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/optiontime "Demo účet"){.btn .bnt-lg .btn-default}
-</div>
-<div class="container-fluid" markdown="1">
 
 
 </div>
 <div class="container-fluid" markdown="1">
 
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Spätné odkúpenie opcie
+{{partial: Widget - Brokeri}}
 
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Regulácia od ČNB
 
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Populárne broker u obchodníkov
 
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)   Vyššia minimálny vklad
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/optiontime" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 
-</a>
 
-- - -
-Náš Tip:
-:    
-optiontime ponúka až 100% bonus na nový vklad [Viac informácií o Bonusu](http://blog.forexsrovnavac.cz/optiontime)
-- - -
 
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

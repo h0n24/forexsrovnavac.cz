@@ -3,11 +3,14 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Instaforex - recenze a zkušenosti, demo účet",
+    "title": "Instaforex - recenze a zkušenosti | Demo účet | Poplatky",
     "description": "",
     "keywords": "Instaforex.com"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
   <meta itemprop="ratingValue" content="80"/>
@@ -72,7 +75,7 @@ InstaTrade Investment Company poskytuje přístup na akciové burzy MYCEX a RTS.
 | **Možnosti vkladu**  | Kreditní karta, [**Skrill**](http://www.forexsrovnavac.cz/skrill), Neteller, WebMoney, bankovní převod |
 | **Páka**  |  až 1:1000|
 | **Zajímavost**  | Společnost InstaForex je hlavní sponzor Rallye Dakar TATRA InstaForex Loprais týmu, ve kterém jezdí slavný český řidič Aleš Loprais. |
-| [**Demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet)  | Ano, další pomocné nástroje zdarma |
+| [**Demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "Demo účet na forex")  | Ano, další pomocné nástroje zdarma |
 
 
 </div>
@@ -118,6 +121,8 @@ S Insta.Standard účtem můžete obchodovat Micro Forex (minimální vklad 1 a�
 
 **Cent.Standard a Cent.Eurica** – *Vhodné pro začátečníky, obchodování téměř bez rizika, objem obchodu 0,0001 lotu (lot = 0,1 dolaru), omezená maximální velikost vkladu, další charakteristické vlastnosti účtu Insta.Standard a Insta.Eurica.*
 
+{{partial: xmcom}}
+
 
 ##Vzdělávání a nástroje
 InstaForex na svých webových stránkách nabízí i možnost vzdělávání skrze množství vzdělávacích nástrojů a materiálů.
@@ -136,51 +141,20 @@ InstaForex na svých webových stránkách nabízí i možnost vzdělávání sk
 </div>
 <div class="col-md-3" markdown="1">
 <!--<div class="well" markdown="1" style="margin-top: 2.5em">
+ 
+
+
   
 </div>-->
-<div class="container-fluid" markdown="1">
-
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" rel="nofollow" target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzk2NjkyMiZsPTEzOTExNTM0JnA9MTAxNjA%3D" width="270" height="250"/>
-</a>
-- - -
-#### Menu
-
-[Ironfx.com recenze](http://forexsrovnavac.cz/instaforex#section-1)
-
-[Základní informace o Ironfx.com](http://forexsrovnavac.cz/instaforex#section-2)
-
-[Investiční nástroje](http://forexsrovnavac.cz/instaforex#section-3)
-
-[Obchodní aplikace](http://forexsrovnavac.cz/instaforex#section-4)
 
 
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-#### Výhody
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vhondé pro začátečníky
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vklad od 1 USD
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Webtrader - nemusíte nic stahovat
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Zavedený dlouholetý broker
-
-</div>
-<div class="container-fluid" markdown="1">
-#### Nevýhody
-
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Část webu, není plně přeložená
-
+{{partial: menu2}}
 - - -
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 </div>
 </div>
+
+</div><!-- /itemreview -->

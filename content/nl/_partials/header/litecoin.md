@@ -31,6 +31,9 @@ virtuele valuta
         <li>
           <a href="#section-3">Waar kan je handelen?</a>
         </li>
+                        <li>
+          <a href="http://blog.forexsrovnavac.cz/bitcoinen"><span style="color: red;">Trade Litecoin Online</span></a>
+        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>

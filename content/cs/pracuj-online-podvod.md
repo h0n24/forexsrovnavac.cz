@@ -27,9 +27,12 @@ Co je PracujOnline?
 :     
 Webový portál PracujOnline.net se vydává za nezávislé spotřebitelské stránky, které tvrdí, že prověřily systém binárního obchodování s opcemi zvaný **ProfitOnline**. Jedná se však o mutaci původního projektu anglické verze, která měla ProfitOnline propagovat a shánět tak obchodníky, ze kterých získají peníze. Jedná se tedy o podvod, který stojí na fiktivních postavách a smyšleném příběhu a má nadnárodní působnost **(profitnewtoday.com jako anglická verze a dziennikfinansowy-pl.net jako polská verze)**.
 
+
+
 </div>
 </div>
 
+{{partial: topoption}}
 ## Podvodné Fiktivní postavy a smyšlené pohádkové příběhy
 
 PracujOnline.net je internetový portál, kampaň či projekt. Záleží jen na vás, jaký z těchto pojmů vám vyhovuje nejvíce. Autorem této kampaně je jistý **Jan Kovanda**, který se tu ohání příběhem jisté matky samoživitelky, která byla schopná za pouhý měsíc na internetu zhodnotit svůj vklad 300 eur na 7000 až 8000 eur. Tou matkou samoživitelkou je **Lucie Květoňová** z Prahy, která přišla o práci a po několika neúspěšných pohovorech se rozhodla začít pracovat z domova. 
@@ -37,6 +40,8 @@ PracujOnline.net je internetový portál, kampaň či projekt. Záleží jen na 
 Tímto jediným rozhodnutím byla ze dne na den zahájená fantastická kariéra jedné obyčejné maminky, která tak inspiruje spoustu dalších matek. Jenže problém je v tom, že Lucie Květoňová je fiktivní postava, jejíž srdceryvný příběh má vzbudit empatie a také obdiv a nalákat lidi, kteří se s touto ženou ztotožňují, aby jednali stejně jako ona. Takovéto vymyšlené příběhy jsou speciálně tvořeny pro lidi, kteří mají dojem, že i oni jako obyčejní lidi z davu mohou být úspěšní stejně jako člověk, o němž příběh vypráví.
 
 Problémem této teorie je myšlenka, která obrací české pořekadlo „bez práce nejsou koláče“. Vždyť kdo by nechtěl vydělávat tisíce eur měsíčně, aniž by pro to musel cokoli udělat.
+
+{{partial: topoption}}
 
 
 ## Pracuj Online na to jde chytře
@@ -72,69 +77,14 @@ Naším upozorněním na závěr je, že jde o podvod, a proto doporučujeme př
 
 
 Doporučujeme obchodovat samostatně, žádné zázračné automatické obchodní systémy dlouhodobě nefungují a pokud fungují, tak jen omezenému počtu lidí.
-:    [TopOption - naše recenze brokera -->>](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
+
 
 </div>
 <div class="col-md-3" markdown="10">
 
 - - -
 
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Hodnocení brokerů na opce</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="#"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>97%</b>
-  </div>
-  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Číst recenzi">Číst recenzi</a>
-  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otevřít účet">WEB</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>95%</b>
- </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otevřít účet">WEB</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>92%</b>
- </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otevřít účet">WEB</a>
-</div> 
-
-<hr />
-
-<a href="http://blog.forexsrovnavac.cz/topoption" alt="Demo účet"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/2015-02-17-22_43_03-Plus500-_-Akcie-Plus500_-Online-obchodování-s-akciemi-_-Obchodování-s-podíly_kme.png" width="" height=""/>
-
-</a>
+{{partial: Widget - Brokeri}}
 
 <hr />
 

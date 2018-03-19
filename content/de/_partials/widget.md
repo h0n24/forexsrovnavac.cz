@@ -1,0 +1,1 @@
+<a href="https://www.plus500.com/de/?id=66349&pl=2" target="_blank" title="+500"><img src="http://cdn.plus500.com/Media/Banners/300x600/23588.gif?set=banner_cnbc_cysec" width="265" height="600" border="0" alt="+500" /></a>

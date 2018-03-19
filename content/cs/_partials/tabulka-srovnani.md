@@ -157,13 +157,9 @@ table tr td {
             </tr>
           </thead>
           <tbody>
-            <tr><td><img src="/assets/img/tabulky/logo1.jpg"></td><td>100%</td><td><img src="/assets/img/tabulky/ok.png" width="40"></td><td>100$</td><td>10$</td><td>85%</td><td>15%</td><td><a href="http://blog.forexsrovnavac.cz/topoption" class="btn btn-success" href="http://blog.forexsrovnavac.cz/topoption" role="button"><i class="fa fa-external-link"></i> Přejít na web</a></td><td><a href="http://www.forexsrovnavac.cz/topoption" class="btn ref btn-primary" href="http://www.forexsrovnavac.cz/topoption" role="button">TopOption</a></td></tr>
+            <tr><td><img src="/assets/img/tabulky/logo1.jpg"></td><td>/</td><td><img src="/assets/img/tabulky/ok.png" width="40"></td><td>10$</td><td>1$</td><td>až 91%</td><td>/</td><td><a href="http://blog.forexsrovnavac.cz/topoption" class="btn btn-success" href="http://blog.forexsrovnavac.cz/topoption" role="button"><i class="fa fa-external-link"></i> Přejít na web</a></td><td><a href="http://www.forexsrovnavac.cz/topoption" class="btn ref btn-primary" href="http://www.forexsrovnavac.cz/topoption" role="button">IQoption</a></td></tr>
             
-             <tr><td><img src="/assets/img/tabulky/logo2.jpg"></td><td>100%</td><td><img src="/assets/img/tabulky/ok.png" width="40"></td><td>200$</td><td>20$</td><td>82%</td><td>/</td><td><a href="http://blog.forexsrovnavac.cz/stockpair" class="btn btn-success" href="http://blog.forexsrovnavac.cz/stockpair" role="button"><i class="fa fa-external-link"></i> Přejít na web</a></td><td><a href="http://www.forexsrovnavac.cz/stockpair" class="btn ref btn-primary" href="http://www.forexsrovnavac.cz/stockpair" role="button">StockPair</a></td></tr>
-            
-             <tr><td><img src="/assets/img/tabulky/logo3.jpg"></td><td>100%</td><td><img src="/assets/img/tabulky/ok.png" width="40"></td><td>100$</td><td>15$</td><td>85%</td><td>/</td><td><a href="#" class="btn btn-success" href="#" role="button"><i class="fa fa-external-link"></i> Přejít na web</a></td><td><a href="#" class="btn ref btn-primary" href="#" role="button">OptionsClick</a></td></tr>
-            
-             <tr><td><img src="/assets/img/tabulky/logo4.jpg"></td><td>100%</td><td><img src="/assets/img/tabulky/ok.png" width="40"></td><td>200$</td><td>20$</td><td>85%</td><td>/</td><td><a href="http://blog.forexsrovnavac.cz/etxbinary.cz" class="btn btn-success" href="http://blog.forexsrovnavac.cz/etxbinary.cz" role="button"><i class="fa fa-external-link"></i> Přejít na web</a></td><td><a href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" class="btn ref btn-primary" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" role="button">ETX Capital</a></td></tr> 
+
 
           </tbody>
         </table>

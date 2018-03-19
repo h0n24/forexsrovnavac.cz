@@ -2,9 +2,9 @@
 
 ![img]({{img-url}}litecoin.png)
 
-# Litecoin price
+# Litecoin price 
 
-Virtual currency, charts and price graph.
+Current charts US Dollar / Euro
 
 
 </div>
@@ -20,16 +20,16 @@ Virtual currency, charts and price graph.
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Trade with Litecoins</a>
+          <a href="#top">Current Litecoin price</a>
         </li>
         <li>
-          <a href="#section-1">What is about?</a>
+          <a href="#section-1">Litecoin / Dollar</a>
         </li>
         <li>
-          <a href="#section-2">Litecoin price</a>
+          <a href="#section-2">Litecoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Where to trade?</a>
+          <a href="#section-3">What is Litecoin</a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

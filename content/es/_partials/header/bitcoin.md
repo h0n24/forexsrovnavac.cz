@@ -1,10 +1,16 @@
 <div class="jumbotron" markdown="1">
 
+
+<br>
+
 ![img]({{img-url}}bitcoin.png)
 
-# Bitcoin EURO
 
-Moneda virtual
+# Cotizacion de Bitcoin
+
+Grafico - EURO / DÓLAR
+
+
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -19,16 +25,19 @@ Moneda virtual
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Operar con Bitcoins</a>
+          <a href="#top">Cotizacion Bitcoin (BTC)</a>
         </li>
         <li>
-          <a href="#section-1">¿Qué es?</a>
+          <a href="#section-1">Bitcoin / Dólar</a>
         </li>
         <li>
-          <a href="#section-2">Cotizacion de Bitcoin </a>
+          <a href="#section-2">Bitcoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Donde el comercio?</a>
+          <a href="#section-3">¿Qué es Bitcoin</a>
+        </li>
+          <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmarketsall"><span style="color: white;">Trade Bitcoin Online</span></a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

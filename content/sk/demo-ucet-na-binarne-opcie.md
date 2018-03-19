@@ -13,7 +13,7 @@
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
-# Binárne opcie demo verzie
+## Binárne opcie demo verzie
 
 
 
@@ -26,6 +26,7 @@ Už niekoľkokrát som na týchto stránkach spomenul 2 slová a to: "Tréning n
 
 Názory na tréning nanečisto sa naozaj človek od človeka líši. Jedni hovoria, že nejde v papierových podmienkach verne nahradiť resp. nasimulovať priebeh živého "ostrého" obchodu. Iní ľudia oproti tomu tvrdia, že bez tohto prístupu a prípravy sa na u binárnych opcií nejde presadiť a že je teda veľmi dôležitý. Opäť je pravda niekde uprostred. 
 
+{{partial: topoption}}
 
 
 </div>
@@ -39,7 +40,7 @@ V demo verziu aplikácie budete [Binárne opcie](http://www.forexsrovnavac.cz/sk
 
 </div>
 </div>
-[Pozrite sa na demo aplikáciu u TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .btn-lg .btn-primary}
+
 
 Prečo si najskôr vyskúšať demo verziu?
 :    Binárne opcie sú riskatní, nikto vám profit nezaručí. Najlepší spôsob, ako sa stať odborníkom na tento typ obchodovania, a začať dlhodobo zhodnocovať svoje prostriedky je určite cesta skúšanie rôznych stratégií práve na demo účtoch. To je dôvod, je ich demo účet pre binárne opcie, tak dôležitý. Stručne povedané, demo účet je účet zadarmo.
@@ -48,25 +49,9 @@ V podstate máte k dispozícii určitú sumu peňazí, sú to virtuálne peniaze
 
 
 
-## Odporúčame demo účet u brokera Topoption
+##Ako si zriadim demo účet na binárne opcie?
 
-4 dôvody prečo si otvoriť demo účet u TopOption
-
-: 1. Ako jediný broker s binárnymi opciami je TopOption regulovaný Českou národnou bankou, navyše je v celej EÚ je pod reguláciou úradu CySEC.
-
-2. TopOption aj ich aplikácia je kompletne v Češtine, aplikáciu sa vďaka tomu naučia používať aj začiatočník.
-
-3. Ponúka jedinečnú zákaznícku podporu v Češtine e-mailom aj telefonicky.
-
-4. Demo účet je kompletne zadarmo na obdobie 30 dní
-
-
-[Získať demo účet u TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia"){.btn .bnt-lg .btn-primary}
-
-Zaregistrujte sa na [stránkách TopOption](http://blog.forexsrovnavac.cz/sk/topoption "Registrácia") Po následnej registrácii vám väčšinou zavolá, alebo napíše email váš pridelený manažér, ktorý vám následne všetko vysvetlí, pýtajte sa ho na to čomu nerozumiete , ma osobne odpovedal na niekoľko otázok, hlavne som sa teda pýtal na overenie u Českej národnej banky, ktoré naozaj majú. Nasledne ho požiadajte o váš Demo účet.
-
-Ako si zriadim demo účet na binárne opcie?
-:   Väčšinou to funguje tak, že vám ponúkne určitý bonus k prvému vkladu a zriadi vám demo účet, prvý vklad obvykle 100 USD, tieto peniaze môžete vybrať kedykoľvek chcete. Vyber môžete vykonať až po potvrdení totožnosti, tj. Zaslanie skenu občianskeho preukazu (môžete začernit čo nie je nutné) a akéhokoľvek ďalšieho dokladu s vašou adresou, napr. Faktúrou za plyn / výpisu z banky, tiež môžete začernit, dôležité je hlavne potvrdenie adresy.
+Väčšinou to funguje tak, že vám ponúkne určitý bonus k prvému vkladu a zriadi vám demo účet, prvý vklad obvykle 100 USD, tieto peniaze môžete vybrať kedykoľvek chcete. Vyber môžete vykonať až po potvrdení totožnosti, tj. Zaslanie skenu občianskeho preukazu (môžete začernit čo nie je nutné) a akéhokoľvek ďalšieho dokladu s vašou adresou, napr. Faktúrou za plyn / výpisu z banky, tiež môžete začernit, dôležité je hlavne potvrdenie adresy.
 - - -
 
 Poďme si to trochu zhrnúť. Demo účet na binárne opcie, Vám ponúkne presne toto:
@@ -82,73 +67,18 @@ Poďme si to trochu zhrnúť. Demo účet na binárne opcie, Vám ponúkne presn
 
 5. Dojdete k osobnému sebapoznaniu
 
-*V našej [recenziu TopOption](http://www.forexsrovnavac.cz/sk/topoption) si môžete prečítať viac informácií o samotnom brokerovi*
 
 </div>
 <div class="col-md-3" markdown="10">
 
 - - -
 
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Hodnotenie brokerov na opcie</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="#"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnotenie: <b>97%</b>
-  </div>
-  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Čítať recenziu">Čítať recenziu</a>
-  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otvoriť účet">WEB</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnotenie: <b>95%</b>
- </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Čítať recenziu">Čítať recenziu</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otvoriť účet">WEB</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnotenie: <b>92%</b>
- </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Čítať recenziu">Čítať recenziu</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otvoriť účet">WEB</a>
-</div> 
+{{partial: Widget - Brokeri}}
 
 <hr />
 
-<a href="http://blog.forexsrovnavac.cz/topoption" alt="Demo účet"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/2015-02-17-22_43_03-Plus500-_-Akcie-Plus500_-Online-obchodování-s-akciemi-_-Obchodování-s-podíly_kme.png" width="" height=""/>
-</a>
 
-<hr />
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
-</a>
+
 
 </div>
 </div>

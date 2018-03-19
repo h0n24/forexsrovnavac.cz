@@ -3,11 +3,12 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "FxPro - recenze a zkušenosti",
+    "title": "FxPro - recenze a zkušenosti | Demo účet | Poplatky",
     "description": "",
     "keywords": "Fxpro, Fxpro recenze"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
 
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
@@ -22,51 +23,62 @@
 
 {{section}}
 
+{{start}} 
 # FxPro recenze
+
+Společnost FxPro byla založena v roce 2006. V současné době nabízí obchodování s Contracts for Difference (CFD) na aktiva tipu forex, akcie, indexy, futures, komodit a spotových energií.
+
+Kromě Forexu můžete u FxPro obchodovat také širokou řadu dalších instrumentů se špičkovými platformami, **konkurenceschopnými spready** a prvotřídním vykonáním příkazů.
+
+{{/start}} 
 <div class="row" style="width:92%">
 <div class="col-md-6" markdown="1">
-O FxPro
+<b><big>`O společnosti FxPro`</big></b>
 :    
-Společnost FxPro fungující ve více než 150 zemích patří ke světové špičce v oblasti obchodování Forex a makléřství, to dokazují nejen ohlasy spokojených zákazníků, ale také společnosti udělená ocenění, kterými se může FxPro pyšnit a která hrdě vystavuje ve své výkladní skříni. Pohodlně obchodovat můžete skrze 4 propracované nástroje – MetaTrader 4, MetaTrader 5, cTrader a jako poslední nástroj je dostupný  SuperTrader, který je však omezen jen pro klienty FxPro Financial Services Limited. 
+Společnost FxPro fungující ve více než 150 zemích patří ke světové špičce v oblasti obchodování Forex a makléřství, to dokazují nejen ohlasy spokojených zákazníků, ale také společnosti udělená ocenění, kterými se může FxPro pyšnit a která hrdě vystavuje ve své výkladní skříni. Pohodlně obchodovat můžete skrze 4 propracované nástroje – **MetaTrader 4, MetaTrader 5, cTrader**.
+
 
 </div>
 <div class="col-md-6" markdown="1">
-Fxpro recenze
+<b><big>`Regulace a platformy u FxPro`</big></b>
 :    
-FxPro si je vědoma moderní doby a proto vám nabízí správu vašich financí s nástroji MetaTrader a cTrader jak z vašeho stolního počítače či notebooku, tak i skrze mobilní aplikace pro váš chytrý telefon a tablet.
+FxPro si je vědoma moderní doby a proto vám nabízí správu vašich financí s nástroji MetaTrader a cTrader jak z vašeho stolního počítače či notebooku, tak i skrze **mobilní aplikace** pro váš chytrý telefon a tablet.
 
-Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro pod licencí CySEC může společnost zcela legálně poskytovat své služby v rámci celé EU. Přizpůsobeni jsou tomu i interně, proto poskytují poradenství a zákaznickou podporu ve velkém množství jazyků.
+Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro pod licencí CySEC může společnost zcela legálně poskytovat své služby v rámci celé EU. Přizpůsobeni jsou tomu i interně, proto poskytují zákaznickou podporu ve velkém množství jazyků.
 
 </div>
 </div>
+
+
+{{partial: fxpro}}
 
 
 {{/section}}
 
+<b><big>Proč obchodovat s FxPro?</big></b>
+  
+1. Pojem globální makléř nevznikl jen tak, protože společnost FxPro své služby poskytuje již ve **více než 150 zemích světa**, ve kterých se o své klienty stará s grácií.
 
-*Proč obchodovat s FxPro?*
-:    
-    1. Pojem globální makléř nevznikl jen tak, protože společnost FxPro své služby poskytuje již ve více než 150 zemích světa, ve kterých se o své klienty stará s grácií.
-
-    2. Společnost své nástroje (FxPro QUANT + Supertrader) vyvíjí přímo pro potřeby svých klientů a stále je zlepšuje - 99,9 % příkazů zpracovaných během 50 ms
+2. Společnost své nástroje (FxPro QUANT) vyvíjí přímo pro potřeby svých klientů a stále je zlepšuje - 99,9 % příkazů zpracovaných **během 50 ms**
     
-    3. K dispozici jsou veškeré platformy - Na Iphone, Ipad, Android nebo Webtrader - nemusíte nic stahovat
+3. K dispozici jsou veškeré platformy - Na Iphone, Ipad, Android nebo Webtrader - **nemusíte nic stahovat**
 
-    4. Regulace České národní banky (další regulace FSA, CySec, MiFID) - prověřený broker
+4. **Ochrana před záporným zůstatkem na všech platformách reálného obchodování**
 
-    5. **Ochrana před záporným zůstatkem na všech platformách reálného obchodování**
+
 
 {{section}}
-*Základní informace o Fxpro.cz*
+- - -
+*Základní informace o FxPro.cz*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.Fxpro.cz**](http://blog.forexsrovnavac.cz/fxpro) |
+| Web:     |   www.Fxpro.cz |
 | ---------------- | ------------- |
 | **Typ brokera:**   | NDD |
 | **Země původu**   | Velká Británie |
-| **Minimální velikost pozice:** | Mikro loty od 0,01 lotu - cca 100 Kč|
+| **Minimální velikost pozice:** | Mikro loty |
 | **Spread** | Variabilní nebo fixní|
-| **Podporované platformy:**  | MetaTrader 4, MetaTrader 5, Ctrader, Supertrader|
+| **Podporované platformy:**  | MetaTrader 4, MetaTrader 5, Ctrader,|
 | **Zákaznický servis:**  | Email, Chat, Telefon|
 
   </div>
@@ -74,19 +86,19 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 | **Regulace:**  | FCA, CySEC, FSB |
 | ---------------- | ------------- |
 | **Minimální vklad**  | 100 $ ( 2400 Kč) |
-| **Možnosti vkladu**  | bankovní převod, platební karty, Skrill (Moneybookers), Neteller, PayPal, UNetBanx, WebMoney, FasaPay |
+| **Možnosti vkladu**  | Bankovní převod, platební karty, Skrill (Moneybookers), Neteller, PayPal, UNetBanx, WebMoney, FasaPay |
 | **Páka**  |  až 1:500 |
 | **Zajímavost**  | [**FxPro Quant - algoritmické obchodování**](http://www.forexsrovnavac.cz/fxpro-quant) |
-| **Demo účet**  | Ano zdarma, více [zde](blog.forexsrovnavac.cz/fxpro) |
+| [**demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "Demo účty na forex")  | Ano zdarma, [více zde](https://direct.fxpro.com/register/demo?lang=cz/?utm_source=forexsrovnavac_cz&utm_medium=link&utm_term=link_cz&utm_content=homepage_cz&utm_campaign=DoubleClick_forexsrovnavac_cz) |
 | **Čeština**  | Kompletně v Češtině |
   
 </div>
 </div>
-  
 
-![Fxpro recenze](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/10/Fxpro-recenze.png) 
 
-[Více informací o Fxpro.cz](http://blog.forexsrovnavac.cz/fxpro "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+![FxPro recenze](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/10/Fxpro-recenze.png) 
+
+
 
 {{/section}}
 
@@ -95,17 +107,15 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 
 **Účty pro obchodování** – Nejpoužívanější typ účtu, který je dostupný v nejpopulárnějších světových měnách (USD, EUR, GBP, CHF, JPY, AUD a PLN). Ačkoliv je doporučený vklad 500 USD, tak není problém vložit mnohem méně.
 
-**Účet SuperTrader** – Tento typ účtu byl přímo stvořen pro investory, kteří chtějí spravovat svoje strategie a finance snadno a rychle. Minimálný vklad na Supertraderúčet je 2000 USD při zvolení multiplikátoru 4, což vytvoří kapitál dohromady za 10 000 USD.
-
-**Účet Pamm** – Pamm je ideálním nástrojem pro obchodníky, kteří chtějí spravovat více účtů svých klientů bez větších starostí.
-
-**Účet VIP** – Vybraní klienti, kteří disponují vysokým jměním a aktivním obchodováním mají možnost VIP možností – vklady bez poplatků, bezplatnou službu VPS, bezplatnou kartu FxPro od Mastercard, exkluzivní přehledy a spousty dalších vymožeností.
+**Účet VIP** – Vybraní klienti, kteří disponují vysokým jměním a aktivním obchodováním mají možnost VIP možností – vklady bez poplatků, bezplatnou službu VPS, exkluzivní přehledy a spousty dalších vymožeností.
 
 {{/section}}
 
 
 {{section}}
 ##S čím můžete obchodovat u FxPro.cz?
+
+6 tříd aktiv: CFD na forex, futures, spotove indexy, akcie, vzácne kovy, energie
 
 **Forex**– FxPro nabízí možnost obchodování s hlavním typem měnových párů jako jsou EUR/USD, GBP/USD, EUR/GBPa spousty dalších i exotických měn.
 
@@ -116,7 +126,6 @@ Díky svému velkému poli působnosti v tolika zemích jakým disponuje FxPro p
 **Spotové energie** – Se spotovými komoditami jako BRENT, NAT.GAS a WTI Oil lze obchodovat již od spreadu 0,04 s marží 0,5% za jeden lot.
 
 
-[Podívejte se co můžete obchodovat](http://blog.forexsrovnavac.cz/fxpro "Obchodní produkty") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 {{/section}}
 
@@ -131,9 +140,6 @@ FxPro cTrader
 
 :    O tomto nástroji společnost FxPro mluví jako o své vlajkové lodi. Pro náročnější obchodníky, kteří vyžadují vyšší úroveň možností je cTrader ideálním nástrojem.
 
-FxPro SuperTrader
-
-:    Je posledním typem obchodní platformy, která je však dostupná pouze pro klienty FxPro Financial Services Limited. Jedná se o kvalitní automatizovanou investiční platformu s individuálními prvky pro správu rizik. Patforma však na rozdíl od předchozí není dostupná pro mobilní telefony.
 
 ##Jak začít obchodovat s FXpro
 
@@ -141,7 +147,7 @@ Pokud si zcela nejste jisti svým jednáním a v obchodování patříte spíš 
 
 Demo je dostupné pro nástroje MT4, MT5 a také cTrader, avšak absence v SuperTrader. Maximální zůstatek na účtě se může vyšplhat až do neuvěřitelných 500 tisíc s možným obchodováním s měnami USD, EUR, GBP, CHF, JPY, AUD a PLN s pákovým efektem od 1:1 do 1:500.
 
-[Demo účet u Fxpro.cz](http://blog.forexsrovnavac.cz/fxpro "Demo") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
 
 Poté, co si budete zcela jisti svým jednáním můžete přejít k možnosti založení reálného obchodního účtu, jehož registrace vám zabere jen pár minut.
 
@@ -162,9 +168,9 @@ Společnost FxPro si uvědomuje, že mají klienty všech znalostních úrovní,
 <div class="well" markdown="1" style="margin-top: 2.5em">
   
 
-![FxPro.cz](http://www.forexsrovnavac.cz/assets/img/loga/fxpro150.png) 
+![FxPro.cz](http://blog.forexsrovnavac.cz/wp-content/uploads/2017/01/fxpro-logo.png) 
 
-[Otevřít účet](http://blog.forexsrovnavac.cz/fxpro "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/fxpro "Demo účet"){.btn .bnt-lg .btn-default}
+[Otevřít účet]() {.btn .bnt-lg .btn-primary} [Demo]( ){.btn .bnt-lg .btn-default}
 </div>
 <div class="container-fluid" markdown="1">
 - - -
@@ -179,44 +185,23 @@ Společnost FxPro si uvědomuje, že mají klienty všech znalostních úrovní,
 [Obchodní aplikace](http://forexsrovnavac.cz/fxpro#section-4)
 
 - - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Čeština
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     AOS nástroje
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Nizké spready - ECN broker
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Ctrader, Metatrader 4
-
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)   Vyšší minimální vklad  
-- - -
 
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 <div class="container-fluid" markdown="1">
 
 - - -
 
 <div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/fxpro" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
-</a>
 
 - - -
-Náš Tip:
-:    
-Fxpro.cz nabízí až 2000 USD bonus k vkladu [Více informací o Bonusu](http://blog.forexsrovnavac.cz/fxpro)
-- - -
+
 
 </div>
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

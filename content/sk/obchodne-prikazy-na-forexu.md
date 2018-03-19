@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Obchodné príkazy na forexu - Market Order, Limit order, Stop-Loss, Trailling stop",
+    "title": "Market Order, Limit order, Stop-Loss, Trailling stop - Obchodné príkazy na forexu",
     "description": "",
     "keywords": "Market Order, Limit order, Stop-Loss, Trailling stop"
   }
@@ -19,6 +19,8 @@
 Keď sa prihlásite do svojej obchodnej platformy vo forexu, ktorú vám poskytne váš broker, uvidíte dva hlavné stĺpce u príslušných menových párov. Sú to stĺpca BUY (kúpiť) a SELL (predať) .To sú smery, ktorými sa môžete vydať a každý z nich ponúka niektoré z príkazov.
 
 Drhy príkazov sú market order, entry stop, entry limit, ďalej potom trailing stop, close position, hedge position a close with hedge.
+
+{{partial: fxpro}}
 
 Market Order (nákup alebo predaj za cenu na trhu)
 
@@ -62,36 +64,8 @@ CLOSE WITH HEDGE - (uzavrie existujúci pozíciu za trh a otvorí za trh pozíci
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Bonusy na forexu:
-:    
 
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-[Demo účty](http://www.forexsrovnavac.cz/sk/demo-ucet "Demo účet")
-
-Binárne opcie:
-:    
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Optiontime recenzia](http://www.forexsrovnavac.cz/sk/optiontime "OptionTime recenzie")
-
-
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
+{{partial: menu-sk}}
 
 
 
@@ -99,11 +73,11 @@ Binárne opcie:
 <div class="container-fluid" markdown="1">
 
 
+{{partial: fxprobanner}}
 
 </div>
 <div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
+
 
 </a>
 

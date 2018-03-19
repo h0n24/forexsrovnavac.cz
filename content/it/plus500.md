@@ -3,7 +3,7 @@
   "template": 1,
   "header": "plus500",
   "meta" : {
-    "title": "Plus500 recensione - opinioni plus500.it 2015",
+    "title": "Plus500 recensione, demo • opinioni 2017",
     "description": "",
     "keywords": "plus500 opinioni,"
   }
@@ -16,23 +16,21 @@
 
 # Plus500 recensione
 
-*Propria piattaforma in italiano, broker completamente regolato, più di 1500 strumenti di investimento.*
+*Propria piattaforma in italiano, broker completamente regolato, più di 2000 strumenti di investimento.*
 
-Nell’articolo di oggi vi proponiamo una recensione dell’azienda **[**www.plus500.it**](http://blog.forexsrovnavac.cz/plus500.it), che è stata creata nel 2008** ed al momento è fra i primi commercianti e fornitori di contratti finanziari differenziati (CFD) nel nostro mercato. Così offre condizioni imbattibili non solo per negoziare il Forex, ma potete usufrirne anche per **commerciare le comodità come sono il petrolio, l’oro o l’argento**, indici del mondo stock e per esempio anche la moneta virtuale [Bitcoin](http://www.forexsrovnavac.cz/it/bitcoin/). 
+Nell’articolo di oggi vi proponiamo una recensione dell’azienda [**www.plus500.it**](http://blog.forexsrovnavac.cz/plus500.it), che è stata creata nel 2008** ed al momento è fra i primi commercianti e fornitori di contratti finanziari differenziati (CFD) nel nostro mercato. Così offre condizioni imbattibili non solo per negoziare il Forex, ma potete usufrirne anche per **commerciare le comodità come sono il petrolio, l’oro o l’argento**, indici del mondo stock e per esempio anche la moneta virtuale [Bitcoin](http://www.forexsrovnavac.cz/it/bitcoin/). 
 
 Plus500 ha sviluppato e svolge on-line una piattaforma commerciale per la clientela retail, grazie ad essa è possibile semplicemente negoziare il CFD a livello internazionale ed offre più di 1700 vari strumenti globali finanziari, che comprendono le azioni, ETF, il mercato delle valute, gli indici e le comodità. Il gruppo permette agli investori di commerciare in più di **50 paesi del mondo**. La piattaforma commerciale è accesibile dai vari sistemi operativi Windows, dagli smart phone **(iOS e Android) ed i tablet (iOS e Android)** ed inoltre permette di negoziare usando l’applicazione su internet.
 
-Plus500 offre 25€ al vostro conto reale al momento della registrazione. Provate come funziona negoziare dal vivo, senza dover sborsare la caparra.
 
-Questo bonus riguarda davvero tutti – senza furbizie, senza trucchi, senza truffe. Semplicemente, per la prima registrazione otterrete questa somma in modo completamente gratuito, senza nessuna condizione. Non c’è bisogno di nessuna spesa iniziale, il bonus lo otterrete per esservi iscritti. Potete semplicemente provare ed iniziare a commerciare nel giro di 5 minuti.
-Plus500 vuole essere la numero uno fra le piattaforme CFD e qui mostra le sue ragioni:
+[Guardate l'applicazione aziendale a plus500.it](http://blog.forexsrovnavac.cz/plus500.it "registrazione") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
-[Bonus 25 € - Non è richiesto alcun deposito!](http://blog.forexsrovnavac.cz/plus500.it "registrazione") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-
-
-**Plus500 opinioni**: [Riguardo a plus500](http://forexsrovnavac.cz/it/plus500#section-1) – [Come commerciare da plus500](http://forexsrovnavac.cz/it/plus500#section-2) – [Plus500 opinioni](http://forexsrovnavac.cz/it/plus500#section-3) - [Plus500 demo](http://forexsrovnavac.cz/it/plus500#section-4) - [Plus500 spese](http://forexsrovnavac.cz/it/plus500#section-5) - [Esperienza con plus500](http://forexsrovnavac.cz/it/plus500#section-6) - [Applicazione personale di plus500](http://forexsrovnavac.cz/it/plus500#section-8)
+<br>
+<br>
+<br>
 
 
+- - -
 *Informazioni di base riguardanti il Plus500*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
@@ -52,14 +50,12 @@ Plus500 vuole essere la numero uno fra le piattaforme CFD e qui mostra le sue ra
 | **Regolazioni:**  | MiFID, FCA, Banca Nazionale d’Italia|
 | **Deposito minimo**  | 100 $ ( 100€) |
 | **Modalità di deposizione**  | Bonifico bancario, Carta di credito o debito, Skrill, Paypal |
-| **Dimensione massima della leva**  | dal 1:5 al 1:200 |
-| **Interessante**  | 25€ di bonus (può essere rilasciato) [Maggiori info](http://blog.forexsrovnavac.cz/plus500.it) |
+| **Dimensione massima della leva**  | 1:300 |
 | **In italiano**  | Completamente in italiano |
 </div>
 </div>
 
-[25€ di bonus](http://blog.forexsrovnavac.cz/plus500.it "registrazione") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-
+[Guardate l'applicazione aziendale a plus500.it](http://blog.forexsrovnavac.cz/plus500.it "registrazione") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 - - -
 ![plus500 opinioni](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/09/PLUS500-OPINIONI.png)
@@ -81,9 +77,9 @@ Questa parte dovrebbe interessare ogni commerciante! Ci permettiamo di dire che 
 
 **CONSIGLIO 4:** Usate l’ordine **Stop Limit** e **Stop Loss** o in caso **Trailing Stop** per il vostro money-managment. In caso di estremo cambiamento del valore della comodità, azioni o coppia di valute, questi ordini vi possono salvare la somma che rimane sul conto, oppure assicurare il raggiungimento dell’obiettivo più alto.
 
-**CONSIGLIO 5:** se siete dei principianti, scaricate prima il [conto demo plus500](http://forexsrovnavac.cz/it/plus500#section-4), sul conto reale invece commerciate la somma minima di 100 – 200€, se siete all’inizio non vale la pena investire grosse somme, perchè potete cominciare a negoziare già da 5€ in sù. Se avrete successo, creerete il vostro capitale con le operazioni andate a buon fine.
+**CONSIGLIO 5:** se siete dei principianti, scaricate prima il [conto demo plus500* Il tuo capitale è a rischio.](http://forexsrovnavac.cz/it/plus500#section-4), sul conto reale invece commerciate la somma minima di 100 – 200€, se siete all’inizio non vale la pena investire grosse somme, perchè potete cominciare a negoziare già da 5€ in sù. Se avrete successo, creerete il vostro capitale con le operazioni andate a buon fine.
 
-<pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Tip 6:</strong> <a href="http://blog.forexsrovnavac.cz/plus500.it">Ricevete il bonus di benvenuto di 25€ per cominciare a commerciare</a> su plus500.cz</span></span></pre>
+
 - - -
 
 {{/section}}
@@ -91,11 +87,11 @@ Questa parte dovrebbe interessare ogni commerciante! Ci permettiamo di dire che 
 {{section}}
 ##Plus500 recensione del broker online e l’esperienza
 
-**Plus500.cz offre di commerciare on-line con fino** a 1300 vari strumenti finanziari. Si tratta di fornitori on-line di servizi per i cienti retail che permettono di negoziare CFD in molti mercati finanziari. Le azioni dell’azienda madre plus500.cz sono accettate per negoziare al mercato della borsa valori di Londra AIM. L’azienda è stata costituita da 5 laureati del Institute of Technology, con un investimento iniziale di 400.000 dollari, per il quale ha contribuito anche Alon Gonen, il direttore generale dell’imprea. Nel 2010 l’azienda ha lanciato propria versione della piattaforma per Mac OS e Linux. Nel 2011 è stata la lanciata prima applicazione per iPad ed iPhone. Il 40 % delle transazioni è stato eseguito usando smartphone o tablet.
+**Plus500 offre di commerciare on-line con fino** a 1300 vari strumenti finanziari. Si tratta di fornitori on-line di servizi per i cienti retail che permettono di negoziare CFD in molti mercati finanziari. Le azioni dell’azienda madre plus500.cz sono accettate per negoziare al mercato della borsa valori di Londra AIM. L’azienda è stata costituita da 5 laureati del Institute of Technology, con un investimento iniziale di 400.000 dollari, per il quale ha contribuito anche Alon Gonen, il direttore generale dell’imprea. Nel 2010 l’azienda ha lanciato propria versione della piattaforma per Mac OS e Linux. Nel 2011 è stata la lanciata prima applicazione per iPad ed iPhone. Il 40 % delle transazioni è stato eseguito usando smartphone o tablet.
 
 L’azienda offre **Contract for Difference** (CFD), servizi di vari strumenti finanziari. Il sito internet della piattaforma è disponibile in 31 lingue internazionali e su più di 30 vari domini. Initial Public Offering – l’azienda ha reso nota la prima offerta pubblica delle azioni per la prima settimana del luglio 2013 ed le sue azioni sono state commerciate pubblicamente al mercato della borsa valori di Londra AIM. La capitalizzazione di mercato della società è di $200 millioni di dollari.
 
-[Bonus di 25 € per le transazioni delle materie prime, non è richiesto alcun deposito.](http://blog.forexsrovnavac.cz/plus500.it "registrazione") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+[Guardate l'applicazione aziendale a plus500.it](http://blog.forexsrovnavac.cz/plus500.it "registrazione") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 
 
@@ -114,8 +110,7 @@ L’azienda offre **Contract for Difference** (CFD), servizi di vari strumenti f
 4. Impostazioni, controllo e simulazione delle strategie di commercio
 5. Aiuto on-line ed assistenza dal team di supporto
 
-[Scaricare un conto demo gratuito](http://blog.forexsrovnavac.cz/plus500.it "conto Demo"){.btn .bnt-lg .btn-primary}
-{{/section}}
+[Guardate l'applicazione aziendale a plus500.it](http://blog.forexsrovnavac.cz/plus500.it "registrazione") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
 - - -
 {{section}}
 
@@ -127,17 +122,12 @@ L’azienda **Plus500** è compensata per i suoi servizi attraverso lo "spread d
 
 ###Plus500 opinioni
 
-: Con plus500 ho iniziato a commerciare alla fine del 2013, non avevo nessuna esperienza precedente con questo broker, quindi ho deciso di provare almeno il conto demo, è stata una bella sorpresa che insieme al conto demo mi hanno consegnato anche 25€. Però per dire la verità, se uno vuole davvero guadagnare, ha bisogno di investire il proprio capitale, anche se un minimo di 100€, solo con il bonus sarebbe solo giocare con la fortuna.
-
-Stavo cercando un broker che offre sia le azioni, sia anche le comodità e le coppie di valute ed con la propria piattaforma, perchè essendo un speculatore dilettante di metatrader non capivo più di tanto e non volevo impiegare tantissimo tempo ad impararlo. In parole povere, cercavo un broker dove potessi eseguire l’ordine di commercio velocemente, senza perdere tempo.
-
-Siccome sono un speculante di piccola statura, commercio (speculo) soppratutto con le azioni delle varie aziende come sono Apple, Alibaba, Facebook. Seguo queste aziende a lungo termine, e soppratutto le aziende che si occupano di IT che sono fra quelle più volatili nei risultati, una cosa che per me come speculante vada bene. Per quanto riguarda il deposito, solitamente uso Skrill oppure un bonifico bancario per caricare soldi. E nello stesso modo funziona anche la riscossione dei soldi guadagnati da plus500, di solito arrivano fra 2 e 5 giorni. Un altro vantaggio è che ultimamente hanno scontato le spese (spread), per esempio la coppia eur/usd 1 pip, oppure l’indice della borsa Tedesca DAX 0,81 punti. Alla fine vorrei dire che se non sapete tanto come commerciare, provate per primo il conto demo, che è gratuito, e solo dopo negoziate usando i soldi veri.
 
 ###Plus500 Riscossioni
 : Per esperienza personale so che le riscossioni durano circa 4 giorni lavorativi e non ci sono mai problemi. Il pagamento può essere spedito sia al conto bancario, che a Paypal o Skrill.
 
 ###Plus500 Regolazioni
-In Italia, **Plus500.cz** agisce alla base della notifica all'interno del passaporto unico europeo con il permesso della banca nazionale d’Italia - Licenze e regolamenti globali: FCA | ASIC | CySEC
+In Italia, **Plus500** agisce alla base della notifica all'interno del passaporto unico europeo con il permesso della banca nazionale d’Italia - Licenze e regolamenti globali: FCA | ASIC | CySEC
 
 Plus500 osserva gli standard più elevati dei requisiti normativi mondiali per garantire l'esperienza di trading più sicura ai suoi clienti
 
@@ -171,53 +161,23 @@ Semplice e chiaro rimane anche l’uso stesso del vostro conto. **PLUS500** è c
 
 Piuttosto merita di essere lodato, perchè nella sua interfaccia non c’è niente di più facile che andare direttamente „al punto“, ed iniziare a commerciare nel modo più veloce possibile.
 
-
-![Ukázka obchodu](http://recenzeplus500.cz/wp-content/uploads/2014/05/2014-05-05-182649_1280x1024_scrot-1024x655.png){.img-responsive}
 - - -
 {{/section}}
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-![Ukázka obchodu](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
+![Plus500.it](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
 
 [Apri un conto](http://blog.forexsrovnavac.cz/plus500.it "Registrazione") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/plus500.it "conto Demo"){.btn .bnt-lg .btn-default}
+
+Il tuo capitale è a rischio.
+
+
 </div>
 <div class="container-fluid" markdown="1">
 - - -
-<a href="http://blog.forexsrovnavac.cz/plus500.it"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/Itplus500.png" width="" height=""/>
-</a> 
-- - -
 
-</div>
-<div class="container-fluid" markdown="1">
-
-#### Vantaggi
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Completamente in italiano
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     25€ di bonus
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Propria piattaforma
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     CFD Broker
-
-</div>
-<div class="container-fluid" markdown="1">
-#### Svantaggi
-
-![Ukázka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Per i professionisti l’applicazione potrebbe essere limitante
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-
-
-</a>
-
-####Nostro consiglio
-L’azienda plus500 offre il bonus di benvenuto di 25€ al conto reale per ogni nuovo cliente. Basta solo confermare il numero di telefono. Poi bisogna raccogliere almeno 60 punti commerciali ed il bonus + il vostro guadagno può essere riscosso. [Altri informazioni riguardanti il bonus](http://blog.forexsrovnavac.cz/plus500.it)
-- - -
 
 </div>
 </div>

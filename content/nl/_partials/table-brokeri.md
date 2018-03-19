@@ -78,7 +78,7 @@
 <tr>
   <th>Bonus</th>
   <td>-</td>
-  <td><strong>Welkomstbonus $25</strong></td>
+  <td><strong>/</strong></td>
   <td>-</td>
   <td>-</td>
   <td>-</td>
@@ -86,7 +86,7 @@
 <tr>
   <th></th>
   <td class="bot"><a href="https://www.hotforex.com/en/?refid=26283" class="btn btn-default">Demo Account</a></td>
-  <td class="bot"><a href="{{url}}plus500" class="btn btn-default">Plus500</a></td>
+  <td class="bot"><a href="http://blog.forexsrovnavac.cz/plus500cz" class="btn btn-default">Plus500</a></td>
   <td class="bot"></td>
   <td class="bot"></td>
   <td class="bot"></td>

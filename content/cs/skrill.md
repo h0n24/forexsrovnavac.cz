@@ -8,6 +8,7 @@
     "keywords": "Skrill, Moneybookers "
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
 
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
@@ -49,9 +50,6 @@ Proč používat skrill.com
 
 Online svět se v současnosti čím dál více prolíná naším skutečným světem. Nejenže se v dnešní době na internetu seznamujeme, komunikujeme, čteme zprávy, koukáme na filmy. Kromě toho v současnosti nakupujeme převážně právě prostřednictvím internetových obchodů. K online světu, internetovému nakupování či investování patří i internetové peněženky, jako je například Skrill/Moneybookers. 
 
-[Web společnosti skrill.com]( https://account.skrill.com/signup?rid=4578719) {.btn .btn-lg .btn-primary}
-
-
 
 </div>
 </div>
@@ -65,7 +63,6 @@ Založení vlastního účtu na internetové peněžence Skrill je zdarma. Bezpl
 
 Po **registraci dojde k rozdělení e-mailů na primární a sekundární**. Primární účet, který zadáváte při registraci, budete následně používat jako přihlašovací e-mail na osobní stránku Skrill. Často bývá peněženka Skrill využívána k sázení v online sázkových kancelářích, nebo u brokerů. Nedoporučuje se však používat jako primární e-mail stejný e-mail, který zadáváte na vašem hráčském účtu. Na druhou stranu by měl být e-mail používaný na stránkách stejný jako e-maily uvedené na vašem hráčském účtu. Veškeré tyto e-maily uveďte jako sekundární.
 
-[Založte si zdarma účet na skrill.com]( https://account.skrill.com/signup?rid=4578719) {.btn .btn-lg .btn-primary}
 
 
 ![skrill](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/05/skrill-recenze-e1431101852302.png)
@@ -155,48 +152,21 @@ Platby prostřednictvím peněženky Skrill jsou navíc velmi rychlé (peníze p
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Výdělek na forexu:
-:    
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-Binární opce:
-:    
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
 <div class="container-fluid" markdown="1">
 - - -
-
+{{partial: fxpro-widget}}
 
 </div>
+
 <div class="container-fluid" markdown="1">
 
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
-</a>
+{{partial: obrazek}}
 
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

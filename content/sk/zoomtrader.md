@@ -20,6 +20,9 @@ Zaujíma vás dianie okolo brokerov s binárnymi opciami, konkrétne zoomtrader?
 Najskôr vás uistíme, že binárne opcie sú úplne bežný finančný nástroj a podvod určite nie sú, ale treba ich začať obchodovať u [spoľahlivého brokera](http://www.forexsrovnavac.cz/sk/topoption), ktorý má potrebné regulácie. Teraz späť k brokerovi Zoomtraderu.
 
 
+{{partial: topoption}}
+
+
 ## 5 dôvodu prečo neodporúčame u Zoomtrader obchodovať
 
 V prvom rade musíme povedať, že žiadnu spoločnosť neobviňuje z podvodu, len predkladáme fakty, to či je zoomtrader dôveryhodný, to si musí posúdiť každý sám.
@@ -55,25 +58,16 @@ Základné informácie o zoomtrader:
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-Preverený broker
-![topoption](http://s21.postimg.org/www8bsipf/images.jpg)  
 
-[Otvoriť účet](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D "Demo účet"){.btn .bnt-lg .btn-default}
 
 </div>
 <div class="container-fluid" markdown="1">
 
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-
-![Ukážka obchodu](http://s16.postimg.org/kwlkxzd75/1402286495_2.png)     **Vyšší minimálny vklad**
+{{partial: Widget - Brokeri}}
 
 </div>
 <div class="container-fluid" markdown="1">
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzY5NDc4OSZsPTEzNjk0Nzg3JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 
 </a>
 
@@ -81,4 +75,4 @@ Preverený broker
 </div>
 </div>
 
-{{partial: ostatni-brokeri}}
+

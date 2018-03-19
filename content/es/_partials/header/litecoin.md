@@ -1,10 +1,10 @@
 <div class="jumbotron" markdown="1">
-
+<br>
 ![img]({{img-url}}litecoin.png)
+<br>
+# Cotizacion de Litecoin
 
-# Litecoin EURO
-
-Moneda virtual
+Grafico - EURO / DÓLAR
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -19,16 +19,19 @@ Moneda virtual
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Operar con Litecoins</a>
+          <a href="#top">Cotizacion de Litecoin (LTC)</a>
         </li>
         <li>
-          <a href="#section-1">¿Qué es?</a>
+          <a href="#section-1">Litecoin / Dólar</a>
         </li>
         <li>
-          <a href="#section-2">Cotización actual</a>
+          <a href="#section-2">Litecoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Donde el comercio?</a>
+          <a href="#section-3">¿Qué es? Litecoin</a>
+        </li>
+          <li>
+          <a href="http://blog.forexsrovnavac.cz/spain"><span style="color: red;">Trade Litecoin Online</span></a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

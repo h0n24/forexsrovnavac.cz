@@ -8,6 +8,7 @@
     "keywords": "Paypal"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
 
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
@@ -50,7 +51,7 @@ Co je to paypal.com
 
 Velmi oblíbeným způsobem provádění plateb představují v dnešní době bezhotovostní převody. Většina z nás si pod tímto pojmem představí bankovní převody a internetové bankovnictví. Včetně toho k online platbám patří i internetové peněženky, mezi které patří i peněženka PayPal. Pojďme se nyní společně podívat na vše, co o elektronické peněžence PayPal potřebujete vědět.
 
-[Web společnosti paypal.com]( https://www.paypal.com) {.btn .btn-lg .btn-primary}
+[Web společnosti paypal.com]( https://www.paypal.com) {.btn}
 
 
 </div>
@@ -152,48 +153,21 @@ PayPal je velmi oblíbená a praktická metoda placení, která je vhodná pro p
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Výdělek na forexu:
-:    
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-Binární opce:
-:    
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menu2}}
 
 </div>
-<div class="container-fluid" markdown="1">
+
+
 - - -
 
+{{partial: fxpro-widget}}
 
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
-
+- - -
+{{partial: obrazek}}
 
 
 </div>
-<div class="container-fluid" markdown="1">
-
-
-
 </div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 
-</a>
 
-</div>
-</div>
-</div>
+</div><!-- /itemreview -->

@@ -19,6 +19,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{url}}bitcoin/">Bitcoin</a></li>
+         <li><a href="{{url}}ethereum/">Ethereum</a></li>
         <li><a href="{{url}}litecoin/">Litecoin</a></li>
         <li class="dropdown">
           <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown"><img src="{{img-url}}flags/it.png" class="flag"></a>

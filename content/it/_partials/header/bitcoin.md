@@ -31,6 +31,9 @@ Valuta virtuale
         <li>
           <a href="#section-3">Dove al commercio?</a>
         </li>
+          <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmarketsall"><span style="color: white;">Trade Bitcoin Online</span></a>
+        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>

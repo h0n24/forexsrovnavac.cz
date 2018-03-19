@@ -12,34 +12,17 @@
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
-
+#Kontakt
 - - -
 Máte zájem o spolupráci s námi? Máte připomínky či náměty? Napište nám e-mail na **mbbdoltd@gmail.com**. Ozveme se vám zpátky 
 - - -
+Are you interested in working with us? Have you got comments or suggestions? Send us an e-mail to **mbbdoltd@gmail.com**. We will contact you.
+- - -
+
 
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
 
 
 </div>

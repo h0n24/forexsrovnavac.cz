@@ -20,21 +20,25 @@ aktuálny graf a vývoj ceny.
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Obchod s Bitcoinmi</a>
+          <a href="#top"> <span class="hidden-sm">Bitcoin Kurz</span></a>
         </li>
         <li>
-          <a href="#section-1">O čo ide</a>
+          <a href="#section-1">Bitcoin / Dolár</a>
         </li>
         <li>
-          <a href="#section-2">Aktuálny kurz</a>
+          <a href="#section-2">Bitcoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Kde obchodovať</a>
+          <a href="#section-3">Čo je to Bitcoin</a>
         </li>
-      </ul>
+          <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmarketsall"><span style="color: red;">Obchodovanie s Bitcoinom</span></a>
+        </li>
+        </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a href="{{url}}">Forex <i class="fa fa-bar-chart-o"></i> srovnávač</a>
+          <a href="{{url}}">Forex <i class="fa fa-bar-chart-o"></i> porovnávač</a>
+          </ul>
         </li>
       </ul>
     </nav>

@@ -14,8 +14,15 @@
 
 {{section}}
 
+{{start}} 
 
 # Highsky Brokers recenze
+
+HighSky Brokers nabízí svým klientům nejen maximální proklientský přístup, ale také inovativní platformy, přístupný a přátelský zákaznický servis a široké množství vzdělávacích materiálů. Jde o ryze českého brokera, který sídlí na Praze 1 ve Vodičkově ulici. 
+
+Jako český broker má tedy licenci k obchodování na českém trhu udělenou od České národní banky, jejíž regulaci podléhá. Peněžní prostředky klientů, které si uloží k brokerovi, jsou chráněny českým Garančním fondem.
+
+{{/start}} 
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
 O brokerovi Highsky Brokers
@@ -26,12 +33,11 @@ Roku 2011 se na českém trhu objevil první obchodník s cennými papíry, a t�
   <div class="col-md-6" markdown="1">
 Vhodný pro české obchodníky
 :    
-Čeští obchodníci tak mají možnost obchodovat s českým brokerem, jehož platforma je samozřejmě poskytováno v českém jazyce, stejně tak jako klientský servis či zákaznická podpora. Pro české obchodníky jsou čeští brokeři samozřejmě zajímaví z důvodu ústřední kanceláře, která se zrovna u HighSky Brokers nachází na Praze 1, a tak není pro českého obchodníka problém zjistit si potřebné informace osobně
+Čeští obchodníci tak mají možnost obchodovat s českým brokerem, jehož platforma je samozřejmě poskytováno v českém jazyce, stejně tak jako klientský servis či zákaznická podpora. Pro české obchodníky jsou čeští brokeři samozřejmě zajímaví z důvodu ústřední kanceláře, která se zrovna u HighSky Brokers nachází na Praze 1, a tak není pro českého obchodníka problém zjistit si potřebné informace osobně.
 </div>
 </div>
 {{/section}}
 
-HighSky Brokers nabízí svým klientům nejen maximální proklientský přístup, ale také inovativní platformy, přístupný a přátelský zákaznický servis a široké množství vzdělávacích materiálů. Jde o ryze českého brokera, který sídlí na Praze 1 ve Vodičkově ulici. Jako český broker má tedy licenci k obchodování na českém trhu udělenou od České národní banky, jejíž regulaci podléhá. Peněžní prostředky klientů, které si uloží k brokerovi, jsou chráněny českým Garančním fondem.
 
 
 *Proč obchodovat s Highsky.cz?*
@@ -64,7 +70,7 @@ HighSky Brokers nabízí svým klientům nejen maximální proklientský příst
 | **Možnosti vkladu**  | Kreditní karta, bankovní převod |
 | **Páka**  |  až 1:200 |
 | **Zajímavost**  | Čeští osobní manažeři + podpora |
-| **Demo účet**  | Ano |
+| [**demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "Demo účty na forex")  | Ano |
 | **Čeština**  | Kompletně v Češtině, Tel. linka v ČR zdarma: +420 222 767 108 |
 
 </div>
@@ -136,41 +142,17 @@ Jak již bylo naznačeno, můžete se po celou dobu obchodování vzdělávat pr
 <div class="well" markdown="1" style="margin-top: 2.5em">
   
 
-![highsky-brokers](http://www.forexsrovnavac.cz/assets/img/loga/hsky250.png) 
+{{partial: menu2}}
 
 </div>
 <div class="container-fluid" markdown="1">
 - - -
-#### Menu
 
-[HighSky Brokers recenze](http://forexsrovnavac.cz/highsky-brokers#section-1)
-
-[Základní informace](http://forexsrovnavac.cz/highsky-brokers#section-2)
-
-[S čím lze obchodovat](http://forexsrovnavac.cz/highsky-brokers#section-3)
-
-[Založení účtu](http://forexsrovnavac.cz/highsky-brokers#section-4)
-
-- - -
-#### Výhody
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Český broker
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Bonus ke vkladu
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vklady v České koruně
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Metatrader 4
-
-#### Nevýhody
-
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Nemá online webtrader
-- - -
-
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
+{{partial: obrazek}}
 
 
 </div>

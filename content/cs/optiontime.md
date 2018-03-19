@@ -8,6 +8,8 @@
     "keywords": "OptionTime, OptionTime recenze"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
   <meta itemprop="ratingValue" content="90"/>
@@ -35,8 +37,12 @@ Zázemí u  OptionTime pro české obchodníky
 OptionTime poskytuje profesionální podporu v mnoha jazycích. České obchodníky bude však zajisté zajímat informace ohledně regulace, licence a podpory na českém trhu. Poskytovatel OptionTime má licenci nejen od úřadu CySEC na Kypru, ale také od **britského úřadu FCA či od České národní banky**. Díky poslední uvedené licenci může broker obchodovat i na českém trhu. Kromě české licence je však broker přizpůsoben českému trhu i platformou poskytovanou v českém jazyce.
 
 
+
+
 </div>
 </div>
+
+{{partial: topoption}}
 {{/section}}
 
 **Binární platforma u Optiontime**
@@ -69,24 +75,21 @@ Broker OptionTime obchoduje na platformě OptionTime, která zvládá zobrazová
 | **Minimální obchod**  | 10 a 5 USD (krátkodobé opce)|
 | **Zákaznický servis:**  | Email, Chat, Telefon|
 
-
-
   </div>
   <div class="col-md-6" markdown="1">
-| **Regulace:**  | CySEC, FSA, ČNB|
 | ---------------- | ------------- |
-| **Druhy binárních opcí**  | Klasické (High/low), Dotykové ( One Touch, Touch in Time), Krátkodobé (Speed Trading), párové opce |
-| **Výnosy z binárních opcí**  | 80% měny, 80% komodity, 80% akcie, Minutové opce: 82% na vše - Párové opce: 82% fixed, 15%-200% floating |
-| **Zajímavost**  | Až 100% Bonus na vklad |
-| **Demo účet**  | Ano, k účtům od 200 USD |
-| **Čeština**  | Ano |
+| **Minimální vklad**  | MoneyBookers - 2000 Kč - Bankovní převod - 10 000 Kč - Karta - 2000 Kč
+- Paypal - 2000 Kč |
+| **Možnosti vkladu**  | Bankovní převod, Kreditní a debetní karty, Skrill, Paypal |
+| **Maximální velikost páky**  | od 1:5 do 1:200 |
+| [**Demo účet**](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce "Demo účet na binární opce")  | 
+| **Čeština**  | Kompletně v Češtině |
+
 
 </div>
 </div>
-{{/section}}
-- - -
-*Konkurenční brokeři:* [**TopOption**](http://www.forexsrovnavac.cz/topoption "TopOption recenze") - [**Stockpair**](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze") - [**ETX Capital**](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-- - -
+
+
 
 {{section}}
 
@@ -159,43 +162,18 @@ Broker vám nabízí i možnost vzdělávání, kterou ocení hlavně začínaj�
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-  
 
-![Optiontime.com](http://i.imgur.com/jgpu0dX.png) 
 
 
 </div>
 <div class="container-fluid" markdown="1">
 
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Zpětné odkoupení opce
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Regulace od ČNB
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Populární broker u obchodníků
-
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)   Vyšší minimální vklad
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
-</a>
+{{partial: Widget - Brokeri}}
 
 - - -
 
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

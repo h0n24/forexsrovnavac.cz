@@ -17,10 +17,7 @@
 #Binární opce vs Forex
 
 
-
-*[Binární opce](http://www.forexsrovnavac.cz/binarni-opce "binární opce") se v posledním období staly velmi populární. Hlavními důvody jsou, že nabízejí vysoké ziskové výnosy a na druhou stranu jdou obchodovat velice jednoduše, že i naprostý začátečník snadno pochopí jejich principy.* 
-
-V tomto článku se pokusím nastínit hlavní rozdíly mezi binárními opcemi a forexem, takže můžete posoudit, která obchodní metoda vám více vyhovuje. Dobrým způsobem, jak začít, je poskytnout definice obou, a podívat se na příklad obchodů. 
+V tomto článku se pokusíme nastínit hlavní rozdíly mezi binárními opcemi a forexem, takže můžete posoudit, která obchodní metoda vám více vyhovuje. Dobrým způsobem, jak začít, je poskytnout definice obou, a podívat se na příklad obchodů. 
 
 
 Definice Forexového obchodování (měnových párů)
@@ -31,8 +28,9 @@ Definice Binárních opcí
 
 : Při obchodování binárních opcí máte jen předvídat, že v případě, že cena aktiva (například měnového páru nebo komodity, akcie) se zvýší nebo sníží z aktuální ceny po určité časové období. Například: Aktuální cena EUR / USD 1,30850 a vy myslíte, že cena bude vyšší, v příští hodině. Takže jste si na tuto možnost vsadili "call" opce na EUR / USD a čekáte na výslednou cenu 1 hodinu od tohoto okamžiku. Pokud je vaše předpověď správná Můžete si vytvořit zisk ve výši až 85% z vaší investice. 
 
-##Finanční páka (margin)
+{{partial: topoption}}
 
+##Finanční páka (margin)
 
 Forex
 
@@ -59,9 +57,9 @@ Forex
 
 : Můžete si vybrat, kdy se jaká pozice uzavře. Můžete uzavřít svou pozici kdykoliv, kde je trh otevřený a makléř ji musí přijmout a provést objednávku. 
 
-Binární Možnosti
+Binární opce
 
-: Předtím, než si vytvoříte svůj obchod, tak si musíte vybrat, časové rozpětí obchodu (příklad: 1 hodina nebo 1 týden) - na "vypršení času" váš obchod bude automaticky zavřen. Makléř vám nabízí různé typy opcí s předem stanovenými časy vypršení. Někteří makléři vám umožní zavřít obchod dříve, ale zaplatíte nějaké procento z očekávaného výnosu. Volba "Předčasné uzavření" není nabízena všemi makléři, a nemusí být k dispozici po celou dobu obchodu. Dalším důležitým bodem je, že někteří makléři umožňují obchodníkům odložit dobu platnosti opce, k dalšímu časovému období. To se nazývá "Prodloužení opce", nicméně obchodník bude muset zvýšit své investice o určité procenta, někdy o cca 30%, aby bylo možné toto udělat. 
+: Předtím, než si vytvoříte svůj obchod, tak si musíte vybrat, časové rozpětí obchodu (příklad: 1 hodina nebo 1 týden) - na "vypršení času" váš obchod bude automaticky zavřen. Makléř vám nabízí různé typy opcí s předem stanovenými časy vypršení. Někteří makléři vám umožní zavřít obchod dříve, ale zaplatíte nějaké procento z očekávaného výnosu. Volba "Předčasné uzavření" není nabízena všemi makléři, a nemusí být k dispozici po celou dobu obchodu. Dalším důležitým bodem je, že někteří makléři umožňují obchodníkům odložit dobu platnosti [binární opce](http://www.forexsrovnavac.cz/binarni-opce), k dalšímu časovému období. To se nazývá "Prodloužení opce", nicméně obchodník bude muset zvýšit své investice o určité procenta, někdy o cca 30%, aby bylo možné toto udělat. 
 
 ##Typy obchodních objednávek
 
@@ -97,11 +95,11 @@ Binární opce
 
 Forex
 
-: Můžete začít na demo účtu u [plus500](http://www.forexsrovnavac.cz/plus500 "plus500"), navíc dostanete 500 Kč k registraci.
+: Můžete začít na demo účtu u [plus500](http://www.forexsrovnavac.cz/plus500 "plus500"), vlastní jednoduchá aplikace
 
 Binární opce
 
-: Zatím nejtransparentnější broker na binární opce je TopOption, více [recenzi TopOption](http://www.forexsrovnavac.cz/topoption "binární opce")
+: Broker IQ option nabízí demo účet zdarma s virtuálním vkladem 1000 USD [IQ option](http://www.forexsrovnavac.cz/iq "IQ demo")
 
 
 
@@ -112,64 +110,9 @@ Binární opce
 
 - - -
 
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Hodnocení brokerů na opce</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="#"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>97%</b>
-  </div>
-  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Číst recenzi">Číst recenzi</a>
-  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otevřít účet">WEB</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>95%</b>
- </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otevřít účet">WEB</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>92%</b>
- </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otevřít účet">WEB</a>
-</div> 
-
+{{partial: Widget - Brokeri}}
 <hr />
 
-<a href="http://blog.forexsrovnavac.cz/topoption" alt="Demo účet"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/2015-02-17-22_43_03-Plus500-_-Akcie-Plus500_-Online-obchodování-s-akciemi-_-Obchodování-s-podíly_kme.png" width="" height=""/>
-
-</a>
-
-<hr />
 
 </div>
 </div>

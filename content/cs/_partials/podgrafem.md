@@ -1,0 +1,1 @@
+>[**▶Podívejte se na obchodní aplikaci u XM.com (MT5)** ▶ Obchodování s CFD na **Forex, Komodity, Akcie** a další nástroje](http://blog.forexsrovnavac.cz/xm.com) * CFD kontrakty zahrnují vysokou míru rizika

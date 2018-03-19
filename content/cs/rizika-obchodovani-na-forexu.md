@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Rizika obchodování na forexu (měnovém trhu",
+    "title": "Rizika obchodování na forexu, chyby začátečníků",
     "description": "",
     "keywords": "Rizika obchodování na forexu"
   }
@@ -57,15 +57,13 @@ Jak začít obchodovat bez rizika?
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
 
-<!--
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+{{partial: obrazek}}
+
 -->
 
 </div>

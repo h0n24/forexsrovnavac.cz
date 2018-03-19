@@ -16,9 +16,11 @@
 
 #Čo je to Trend?
 
-Na chvíľu opustíme technické indikátory, a zameriame sa na základné veličinu [**technickej analýzy**] (http://www.forexsrovnavac.cz/sk/technicka-analyza) a to je rozpoznanie trendu. **Trend** by mal byť základom technickej analýzy, na ktorej vyhodnotenie sa ďalej používajú vybrané indikátory. Inými slovami, skôr ako začnete s indikátormi, stanovte si trend.
+Na chvíľu opustíme technické indikátory, a zameriame sa na základné veličinu [**technickej analýzy**](http://www.forexsrovnavac.cz/sk/technicka-analyza) a to je rozpoznanie trendu. **Trend** by mal byť základom technickej analýzy, na ktorej vyhodnotenie sa ďalej používajú vybrané indikátory. Inými slovami, skôr ako začnete s indikátormi, stanovte si trend.
 
 Ale ako to s tým trendom vlastne je. Rozoznávame niekoľko trendov v závislosti od časového obdobia a teda aj grafu. Trendy delíme na **hlavnej**, **strednodobý** a **krátkodobý**. Dôležité teda je, čo vlastne chceme obchodovať - ​​akým spôsobom. V praxi sa môže stať, že hlavný trend je vzrastajúci-býčie, v ňom je strednodobý trend klesajúci-medvedí a v ňom je momentálne aktuálna krátkodobý trend opäť býčie. Takže ide o to, ** ako dlho chcete držať pozície **. Ako sme už spomínali, môže sa jednať o trend v trende.
+
+{{partial: fxpro}}
 
 Základným pravidlom obchodníkov je trend je tvoj priateľ (Trend je rozbehnutý vlak a obzvlášť na Forexe má ohromnú silu - Preto sa vyhýbajte obchodovanie proti trendu). To znamená, že ak identifikujeme správny trend a sme v pozícii s trhom, nechávame zisky bežať do maxima a korigujeme prípadný obrat obchodným príkazom stop-loss. Naopak, keď sme proti trendu, snažíme sa vystúpiť, najlepšie s aspoň nejakým ziskom.
 
@@ -48,14 +50,10 @@ Trend-Less
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
 
+{{partial: fxprobanner}}
 - - -
-<!--
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
--->
+
 
 </div>
 </div>

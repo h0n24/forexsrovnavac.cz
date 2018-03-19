@@ -4,7 +4,7 @@
 
 # Litecoin kurs
 
-wirtualna waluta 
+Aktualny kurs - Euro / Dolar
 
 
 </div>
@@ -20,21 +20,24 @@ wirtualna waluta
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Wirtualną walutą Litecoin</a>
+          <a href="#top">Aktualny Litecoin kurs</a>
         </li>
         <li>
-          <a href="#section-1">O co chodzi?</a>
+          <a href="#section-1">Litecoin / Dolar</a>
         </li>
         <li>
-          <a href="#section-2">Litecoin kurs</a>
+          <a href="#section-2">Litecoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Gdzie handlować Litecoin</a>
+          <a href="#section-3">Co jest Litecoin</a>
+        </li>
+           <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmapl"><span style="color: red;">Trade Litecoin Online</span></a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a href="{{url}}">Forex <i class="fa fa-bar-chart-o"></i> srovnávač</a>
+          <a href="{{url}}">Forex <i class="fa fa-bar-chart-o"></i> Porównanie</a>
         </li>
       </ul>
     </nav>

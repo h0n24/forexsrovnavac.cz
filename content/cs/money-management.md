@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Money managment - správa kapitálu při obchodování na forexu",
+    "title": "Forex Money managment - správa peněz při obchodování na forexu",
     "description": "",
     "keywords": "Money managment, kapitál na forex"
   }
@@ -14,7 +14,7 @@
 
 {{section}}
 
-# Money management
+# Forex Money management
 
 Co je úkolem Money managementu
 
@@ -32,11 +32,11 @@ Samozřejmě, že asi nebudeme obchodovat systémem, který by nám nadělil 16 
 
     Neměli byste riskovat víc než 3-5% Vašeho účtu.!
 
-##Forex, binární opce a money management
+##Forex a money management
 
 Dalším úkolem MM je stabilizovat, popřípadě zvyšovat zisky. Zjednodušeně řečeno to jde tak, že obchodujete systém, kdy máte možnost vydělat např. 3x více než riskujete. Pak obchodujete s tzv. RRR (risk / zisk) 3:1. **Pokud váš risk je např. $ 500 a vaše zisky $ 1,500 stačí vám systém s úspěšností 50%, abyste solidně vydělávali**. Vidíme, že v tomto případě po 10 obchodech s úspěšností 50% můžeme dosáhnout zisk $ 5,000. Kdykoliv obchodujeme s dobrým poměrem RRR, jsou naše šance na zisk mnohem větší, i když máme nižší procento úspěšných obchodů.
 
-Je potřeba to mít neustále na zřeteli a logicky uvažovat. Základem je neriskovat více než si můžeme dovolit a zároveň se snažit mít systém s co největší úspěšností a co nejlepším RRR. Při tom všem si zachovat chladnou hlavu a selský rozum.
+Je potřeba to mít neustále na zřeteli a logicky uvažovat. Základem je neriskovat více než si můžeme dovolit a zároveň se snažit mít [forex strategii](http://www.forexsrovnavac.cz/forex-strategie) s co největší úspěšností a co nejlepším RRR. Při tom všem si zachovat chladnou hlavu a selský rozum.
 
     Chtějte bohatnout pomalu. Ztráty přicházejí rychle a ničí nás, ale zisky se kumulují pomalu.
 
@@ -54,7 +54,7 @@ To co děláte je trading, nebo hazardování? Obchodování na burze a Forex tr
   
 3. Trader nesmí vstoupit do obchodu, který by porušil to, co diktuje money management. Většina traderů riskuje na jednom obchodním případě podstatně více, než je zdrávo.
 
-Pokud píšu o největších chybách, kterých se můžete dopustit při obchodování na burze, binárních opcích, nebo Forexu, tak je nezbytné, abych zmínil money management. Správně aplikován money management je absolutně nezbytná součást úspěšného tradingu, úspěšného obchodování s binárními opcemi a na Forexu.
+Pokud píšu o největších chybách, kterých se můžete dopustit při obchodování na Forexu, tak je nezbytné, abych zmínil money management. Správně aplikován money management je absolutně nezbytná součást úspěšného tradingu, úspěšného obchodování na Forexu.
 
     Je až drtivě zarážející, jak je money management ignorován a přehlížen. Vzniká tu jakási představa, že money management je něco, čím se na začátku tradingová kariéry nemusíte zabývat. Že na to máte dost času. Že tím se přece budete zabývat, když už budete úspěšný a když budete vydělávat peníze. Dospět k tomuto přesvědčení a názoru vám může pomoci i různá reklama, případně i „marketing“ některých brokerů a jejich „našeptávače“.
 
@@ -81,7 +81,7 @@ Tečka! Pokud budete, tak jste hazardéři a ne tradeři, av tom případě se v
 
 Pokud nemámte obchodní kapitál tak neobchodujte „live“. Podle mě je toto nejzákladnější pravidlo obchodování na burze a Forexu. Jak jej získat? To už je jiná otázka. Ale rozhodně je lepší připravovat se nějaký čas na trading na demu a zároveň dávat „dohromady“ obchodní kapitál.
 
-Obchodování na burze a Forexu vám nikde neuteče. Ale ztracené peníze se získávají zpět strašně těžko. Hlavně úplně zbytečně ztracené peníze. Podobný problém pak vzniká znovu už při konkrétní aplikaci money managementu.
+[Obchodování na burze a Forexu](http://www.forexsrovnavac.cz/forex-obchodovavani) vám nikde neuteče. Ale ztracené peníze se získávají zpět strašně těžko. Hlavně úplně zbytečně ztracené peníze. Podobný problém pak vzniká znovu už při konkrétní aplikaci money managementu.
 
 Pokud používáte například% R a riskujete řekněme jedno procento svého obchodního kapitálu, tak víte, jakou maximální částku můžete riskovat na jeden obchodní případ.
 
@@ -89,7 +89,9 @@ Znovu, pokud by váš prvotní stop loss na daném obchodním případu převyš
 
 Všechny tyto zásady se musí stát přirozenou součástí vaší obchodní praxe. První věc, kterou si nastudujete je money management. Vyčleníte si obchodní kapitál, který si můžete dovolit ztratit.
 
-    Vámi používaný money management vám bude diktovat, kolik je možné riskovat na jeden konkrétní obchodní případ. Pokud by daný obchod v případě neúspěchu mohl ukousnout více z vašeho obchodního účtu, tak ho necháte na pokoji.
+>Vámi používaný money management vám bude diktovat, kolik je možné riskovat na jeden konkrétní obchodní případ. Pokud by daný obchod v případě neúspěchu mohl ukousnout více z vašeho obchodního účtu, tak ho necháte na pokoji.
+    
+{{partial: xmcom}}
 
 
 </div>
@@ -103,13 +105,11 @@ Všechny tyto zásady se musí stát přirozenou součástí vaší obchodní pr
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+{{partial: obrazek}}
 
 </div>
 </div>

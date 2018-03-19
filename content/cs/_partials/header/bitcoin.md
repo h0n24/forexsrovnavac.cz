@@ -1,12 +1,11 @@
-<div class="jumbotron" markdown="1">
+﻿<div class="jumbotron" markdown="1">
 
 ![img]({{img-url}}bitcoin.png)
 
 # Bitcoin kurz
 
-Začněte obchodovat s měnou, která mění svět.
+Aktuální graf - DOLAR / EURO
 
-Uvítací bonus 500 Kč pro každého.
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -20,33 +19,29 @@ Uvítací bonus 500 Kč pro každého.
     </div>
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
-        <li class="active">
-          <a href="#top">Obchodování<span class="hidden-sm"> s Bitcoiny</span></a>
+        <li>
+          <a href="#section-1">Bitcoin / DOLAR</a>
         </li>
         <li>
-          <a href="#section-1">O co jde</a>
+          <a href="#section-2">Bitcoin / EURO</a>
         </li>
-        <li>
-          <a href="#section-2">Aktuální kurz <span class="hidden-sm">Bitcoin</span></a>
+         <li>
+          <a href="#section-3">Bitcoin Kalkulačka</a>  
+  </li>
+           <li>
+                    <a href="http://blog.forexsrovnavac.cz/changelly"><span style="color: white;"><b>Bitcoin Směnárna</b></span></a> 
+  </li>
+          <li>
+          <a href="http://www.forexsrovnavac.cz/bitcoin-brokeri-obchodovani-kryptomen"><span style="color: ;">Bitcoin Brokeři</span></a>
         </li>
-        <li>
-          <a href="#section-3">Kde obchodovat</a>
+          <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmarketscz"><span style="color: white;"><b>Bitcoin Trading</b></span></a>
         </li>
-        <ul class="vlajky" role="menu" aria-labelledby="drop">
-		      <li role="presentation"><a role="menuitem" tabindex="-1" href="../cs/bitcoin/" href="{{base-url}}en/"><img src="{{img-url}}flags/cs.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../en/bitcoin/" href="{{base-url}}en/"><img src="{{img-url}}flags/en.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../pl/bitcoin/" href="{{base-url}}pl/"><img src="{{img-url}}flags/pl.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../de/bitcoin/" href="{{base-url}}de/"><img src="{{img-url}}flags/de.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../sk/bitcoin/" href="{{base-url}}sk/"><img src="{{img-url}}flags/sk.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../nl/bitcoin/" href="{{base-url}}nl/"><img src="{{img-url}}flags/nl.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../fr/bitcoin/" href="{{base-url}}fr/"><img src="{{img-url}}flags/fr.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../es/bitcoin/" href="{{base-url}}es/"><img src="{{img-url}}flags/es.png" class="flag"> </a></li>
-          <li role="presentation"><a role="menuitem" tabindex="-1" href="../it/bitcoin/" href="{{base-url}}it/"><img src="{{img-url}}flags/it.png" class="flag"> </a></li>
-        </ul>
-      </ul>
+        </ul>        
       <ul class="nav navbar-nav navbar-right">
         <li>
           <a href="{{url}}">Forex <i class="fa fa-bar-chart-o"></i> srovnávač</a>
+          </ul>
         </li>
       </ul>
     </nav>

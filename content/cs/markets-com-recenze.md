@@ -3,11 +3,13 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Markets.com - recenze a zkušenosti",
+    "title": "Markets.com - recenze a zkušenosti, demo účet",
     "description": "",
     "keywords": "Markets.com, Markets.com recenze"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
   <meta itemprop="ratingValue" content="85"/>
@@ -19,90 +21,88 @@
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
-{{section}}
 
+{{start}} 
 # Markets.com recenze
+
+V této recenzi vám představíme dalšího relativně dobrého brokera, kterého provozuje společnost Safecap Investments Ltd, a je známý jako [**Markets.com**](http://blog.forexsrovnavac.cz/markets.com "Registrace"). Společnost Safecap, která vlastní výhradní právo používat název obchodní značky Markets.com, je dceřinou společností Playtech PLC.
+
+Broker je řádně licencovaným brokerem podléhající regulaci Kyperské komisi pro cenné papíry (CySEC). **Broker působí ve více než 100 zemích světa.** U brokera Markets je k dispozici více než 2200 obchodních aktiv, které můžete obchodovat.
+{{/start}} 
+
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-O Markets.com
+<b><big>`O Markets.com`</b></big>
 :    
-V této recenzi vám představíme dalšího poměrně kvalitního brokera Markets.com. Broker Markets.com představuje jednoho z nejrychleji rostoucích brokerů. Zaměřují se na obchodování na devizovém trhu, přesněji řečeno na obchodování Forex a CFD. Markets.com se řadí pod skupinu Afecap Investments Limited sídlící na Kypru. Mezi obchodní instrumenty brokera patří CFD, Forex, komodity, indexy a akcie. 
+Zaměřují se na obchodování na devizovém trhu, přesněji řečeno na obchodování Forex a CFD. Markets.com se řadí pod skupinu Safecap Investments Limited sídlící na Kypru. Mezi obchodní instrumenty brokera patří CFD, Forex, komodity, indexy a akcie.
 
-Při svém obchodování můžete používat až čtyři různé platformy nabízené Markets.com. Jednou z platforem je dokonce celosvětově velmi oblíbená platforma MetaTrader4, která má celosvětově nejlepší reference.
-[Získejte 25 USD bonus zdarma od Markets.com](http://blog.forexsrovnavac.cz/markets.com "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-  
+Při svém obchodování lze používat různé platformy nabízené u Markets.com. Jednou z platforem je dokonce celosvětově velmi oblíbená platforma MetaTrader4, která má celosvětově nejlepší reference.
 
+  <br>
+[Podívejte se na obchodní aplikaci u Markets.com](http://blog.forexsrovnavac.cz/sk/markets.com "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+  <br>
 </div>
   <div class="col-md-6" markdown="1">
-Markets.com recenze
+<b><big>`Markets.com recenze`</b></big>
 :    
-Provozovatelem brokera [www.markets.com](http://blog.forexsrovnavac.cz/markets.com) je společnost Afecap Investments Limited sídlící jako většina brokerských společností na Kypru. Broker je řádně licencovaným makléřem podléhající regulaci Kyperské komisi pro cenné papíry (CySEC). Markets.com také podléhá regulaci úřadu FSA (Financial Conduct Authority) a MiFID. 
+Markets má skvělou zákaznickou popdporu, pokud byste cokoliv potřebovali, jednoduše vše vyřešíte se svým manažerem. Zákaznická podpora je velmi ochotná a odpoví na vaše dotazy včas. K dispozici jsou všechny platformy i mobilní platformy - Na Iphone, Ipad, Android nebo Webtrader - nemusíte tedy nic stahovat.
 
-Povolení k obchodování má i od dalších evropských úřadů, například Banque De France, BaFIN a dalších. Broker působí ve více než 100 zemích světa.
-[Podívejte se na obchodní aplikaci Markets.com](http://blog.forexsrovnavac.cz/markets.com "Registrace")
+Broker Markets.com je tak skvělou alternativou pro obchodování online, který je rychle rostoucím odborníkem na obchodování CFD.
+
 
 </div>
 </div>
 
 
-{{/section}}
 
+<b><big>`Proč obchodovat s markets?`</b></big>
+:   1. Markets má skvělou **Českou podporu**, pokud byste cokoliv potřebovali, jednoduše vše vyřešíte se svým českým manažerem. 
 
-*Proč obchodovat s markets?*
-:    
-    1. Markets má skvělou Českou popdporu, pokud byste cokoliv potřebovali, jednoduše vše vyřešíte se svým českým manažerem. 
-
-    2. Zákaznická podpora je velmi ochotná a odpovídá na vaše dotazy včas.
+    2. **Obchodování kryptoměn i o víkendu** - Bitcoin.
     
-    3. K dispozici jsou veškeré platformy - Na Iphone, Ipad, Android nebo Webtrader - nemusíte nic stahovat
+    3. K dispozici jsou platformy Metatrader - Iphone, Ipad, Android, Windows Webtrader - nemusíte nic stahovat
+    
+- - -
 
-    4. Regulace České národní banky (další regulace FSA, CySec, MiFID) - prověřený broker - [ČNB licence](https://apl.cnb.cz/apljerrsdad/JERRS.WEB10.VIZITKA?p_lang=cz&p_SEQ_ID=373603&p_VER_ID=1000&p_DATUM=22.12.2011&p_ROL_KOD=35) je už samozřejmostí
-
-{{section}}
 *Základní informace o Markets.com*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [www.markets.com](http://blog.forexsrovnavac.cz/markets.com) |
+| Web:     |   [www.markets.com](http://blog.forexsrovnavac.cz/sk/markets.com) |
 | ---------------- | ------------- |
 | **Typ brokera:**   | STP  |
 | **Země původu**   | Safecap Investments Limited, Kypr  |
 | **Minimální velikost pozice:** | Mikro loty od 0,01 lotu - cca 100 Kč|
 | **Spread** | Variabilní nebo fixní|
-| **Podporované platformy:**  | Meta Trader 4, Sirix Web trader, Mobilní verze|
-| **Zákaznický servis:**  | Email, Chat, Telefon|
+| **Podporované platformy:**  | Meta Trader 4, Mobilní verze|
+| **Zákaznický servis:**  | Email, Chat,|
   </div>
   <div class="col-md-6" markdown="1">
-| **Regulace:**  | (FSA), CySec, MiFID|
+| **Regulace:**  | CySec |
 | ---------------- | ------------- |
 | **Minimální vklad**  | 100 $ ( 2000 Kč) |
 | **Možnosti vkladu**  | Bankovní převod, Kreditní a debetní karty, Skrill, Paypal |
-| **Páka**  |  1:15 až 1:200 |
+| **Páka**  |  1:50 |
 | **Zajímavost**  | Čeští osobní manažeři |
 | **Demo účet**  | Ano, na 1 měsíc |
 | **Čeština**  | Kompletně v Češtině |
 
 </div>
 </div>
-{{/section}}
+- - -
 
-{{section}}
 ##Jak začít obchodovat u Markets.com?
-[Demo účet Markets.com](http://blog.forexsrovnavac.cz/markets.com "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-Broker [Markets](http://blog.forexsrovnavac.cz/markets.com) nabízí možnost obchodovat pomocí 4 různých platforem. Založit si můžete buď cvičný, či reálný účet. Účet je přístupný i bez vkladu a za jeho založení získáte bonus až do výše 2000 dolarů. Demo účet pak můžete získat pouze na 1 měsíc. Z druhé strany si jen můžete založit několikrát po sobě. Markets.com při obchodování využívá několik metod vkladů a výběrů. Podporuje platby kreditními kartami, bankovní převody a Moneybookers. 
 
-Markets.com umožňuje spekulovat s velmi nízkým kapitálem, a to díky možnosti obchodovat s vysokou pákou, která pro hlavní měnové páry představuje poměr 200:1. Minimální vklad činí 100 USD a za vklad můžete získat bonus ve výši 10% vkladu, a to až do výše 2 500 dolarů. 
+[**Markets.com**](http://blog.forexsrovnavac.cz/sk/markets.com) nabízí možnost obchodovat pomocí různých platforem. Založit si můžete buď cvičný, či reálný účet. Demo účet pak můžete získat pouze na 1 měsíc. Z druhé strany si jen můžete založit několikrát po sobě. Markets.com při obchodování využívá několik metod vkladů a výběrů. Podporuje platby kreditními kartami, bankovní převody a skrill. 
 
-Movitější klienti mají na účtech Standard a VIP Markets.com mnoho různých výhod. Zajímavými službami jsou Auto Trading, s kterým můžete využívat automatické obchodní strategie, a Social Trading, díky kterému můžete kopírovat obchody úspěšných Forex obchodníků.
-{{/section}}
+Markets.com umožňuje spekulovat s velmi nízkým kapitálem, a to díky možnosti obchodovat s vysokou pákou, která pro hlavní měnové páry představuje poměr až 300:1. Minimální vklad činí 100 USD.
 
-{{section}}
+
 ##S čím lze obchodovat u Markets.com
-[Podívejte se na obchodní aplikaci Markets.com](http://blog.forexsrovnavac.cz/markets.com "Registrace") {.btn .bnt-lg .btn-primary .pull-left .btn-index}
-Markets.com nabízí obchodování CFD a Forex. Obchodovat můžete s komoditami (ropa, zlato, stříbro, kukuřice, pšenice, káva, cukr, sójové boby, bavlna, zemní plyn, rýže, měď, palladium, platina či kakao), tržní indexy s pákou 100:1, akciemi (několik 10 akcií z celého světa, například Apple, eBay, Twitter a mnoho dalších) nebo dluhopisy.
-S Forexem můžete nakupovat a prodávat jednu zahraniční měnu za druhou, přičemž nabídka Forexového obchodování Markets.com zahrnuje na 50 měnových párů.
-{{/section}}
 
-{{section}}
+ {.btn .bnt-lg .btn-primary .pull-left .btn-index}
+Markets.com nabízí obchodování CFD a Forex. Obchodovat můžete s komoditami (ropa, zlato, stříbro, kukuřice, pšenice, káva, cukr, sójové boby, bavlna, zemní plyn, rýže, měď, palladium, platina či kakao), tržní indexy s pákou 100:1, akciemi (několik 10 akcií z celého světa, například Apple, eBay, Twitter a mnoho dalších) nebo dluhopisy.
+S Forexem můžete nakupovat a prodávat jednu zahraniční měnu za druhou, přičemž nabídka Forexového 
+
 Jendotlivé Platformy u Markets
 :   
 Broker Markets.com nabízí na výběr z nejširší nabídky obchodních platforem. Vybírat můžete ze čtyř uživatelsky přívětivých a lehce ovladatelných platforem, mezi které patří i uživateli velmi oblíbená, celosvětově užívaná platforma MetaTrade4.
@@ -113,20 +113,10 @@ MetaTrader4
 Market Mobile Trader
 :    webová aplikace vyvinutá pomocí jazyka HTML 5, podpora všech smartphonů (iPhone, Android, Blackberry verze 6),
 
-Sirix Web Trader
-:   poskytuje sociální obchodování nabízející online přístup k obchodům jiných obchodníků v reálném čase, přístup k aktuálním tržním trendům,
-
-Market MultiTerminal
-:   možnost spravovat více účtů, provádí vícenásobné typy příkazů. 
-
 
 Českého obchodníka bude jistě zajímat, že web i platforma Markets.com jsou poskytovány i v českém jazyce, stejně tak jako široká zákaznická podpora. Komunikace s českými obchodníky je zajišťována česky mluvícím manažerem po telefonu či prostřednictvím e-mailu.
 
 
-##Vzdělávání a nástroje
-
-Markets.com nabízí i možnost vzdělávání v obchodování. Díky tomu je tento broker vhodný i pro začínající obchodníky. Broker poskytuje školu obchodování CFD, školu obchodování na Forexu i kurz základů obchodování.
-Broker Markets.com je skvělou alternativou brokera s českou podporou, který je rychle rostoucím odborníkem na obchodování CFD.
 {{/section}}
 
 {{/section}}
@@ -138,61 +128,40 @@ Broker Markets.com je skvělou alternativou brokera s českou podporou, který j
 <div class="well" markdown="1" style="margin-top: 2.5em">
   
 
-![Markets.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/markets-logo.jpg) 
-
-[Otevřít účet](http://blog.forexsrovnavac.cz/markets.com "Registrace") {.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/markets.com "Demo účet"){.btn .bnt-lg .btn-default}
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-#### Menu
-
-[Markets recenze](http://forexsrovnavac.cz/markets-com-recenze#section-1)
-
-[Základní informace](http://forexsrovnavac.cz/markets-com-recenze#section-2)
-
-[Investiční nástroje u markets](http://forexsrovnavac.cz/markets-com-recenze#section-3)
-
-[Obchodní aplikace](http://forexsrovnavac.cz/markets-com-recenze#section-4)
-
-- - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vlastní český manažer
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Až 2500 USD bonus ke vkladu
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Webtrader - nemusíte nic stahovat
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     CFD Broker, Metatrader 4
+![Markets.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2017/01/markets-logo.png) 
 
 </div>
 <div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Demo účet není neomezenený
-- - -
+
+
 
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
-
-<div class="container-fluid" markdown="1">
-
-- - -
-
-<div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/markets.com" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
+ <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2017/11/markets-obchodovani-forex-recenze.png" width="280" height=""/>
+
+
+
+
+
+
+
+- - -
+
+
+
+
 
 </a>
 
-- - -
-Náš Tip:
-:    
-Markets nabízí až 2500 USD bonus k novému vkladu [Více informací o Bonusu](http://blog.forexsrovnavac.cz/markets.com)
-- - -
+<div class="container-fluid" markdown="1">
+
+
+
 
 </div>
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

@@ -1,4 +1,4 @@
-{{settings}}
+﻿{{settings}}
   "language": "cs",
   "template": 1,
   "header": "main",
@@ -12,26 +12,73 @@
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
-{{section}}
+{{start}}
 
 # Jak vydělat peníze na internetu?
 
-*Od dob rozkvětu internetu si snad každý z nás někdy položil otázku, jak asi vydělat peníze na internetu, rychle a bez nějakého velkého rizika. Odpověď na tuto otázku, stejně jako peníze, které chceme vydělat, většinou hledáme na internetu na různých portálech. Informace jsou však často kusé a naši zvídavou mysl, tak neuspokojí. Což je dobře, protože pokud chceme jít do něčeho nového, nemůžeme se do toho vrhat zcela bezhlavě a bez informací, proto se pokusíme sepsat konkrétní příklady možností jak vydělat peníze na internetu bez velkých investic a časové náročnosti.*
+Od dob rozkvětu internetu si snad každý z nás někdy položil otázku, **jak asi vydělat peníze na internetu**, rychle a bez nějakého velkého rizika. Odpověď na tuto otázku, stejně jako peníze, které chceme vydělat, většinou hledáme na internetu na různých portálech. Informace jsou však často kusé a naši zvídavou mysl, tak neuspokojí.
+
+Což je dobře, protože pokud chceme jít do něčeho nového, nemůžeme se do toho vrhat zcela bezhlavě a bez informací, proto se pokusíme sepsat konkrétní příklady možností jak vydělat peníze na internetu bez velkých investic a časové náročnosti.
+
+{{/start}}
+
 ## Výdělku na internetu je celá řada
 Popravdě řečeno, existuje množství možností, jak na internetu vydělat. Tyto způsoby bychom stejně jako jiné způsoby vydělávání a investování mohli rozdělovat na rizikové a ty bez rizika, způsoby přinášející rychlý či naopak pomalý výdělek a hlavně způsoby bezpečné a podvodné. Ony se ale tyto způsoby výdělku peněz na internetu neliší pouze objektivními hledisky, ale také našimi subjektivními možnostmi a schopnostmi. Některé ze způsobů totiž vyžadují znalosti a hlavně hodně úsilí a práce. Naopak jiné způsoby nevyžadují skoro žádné úsilí.
 
 V našem článku se proto podíváme na co nejširší škálu možností a způsobů, **jak na internetu vydělávat peníze**, nebo získat nějakou občasnou práci, která by vám mohla zajistit pasivní příjem, počínaje klasickým klikáním a e-maily, přes založení vlastního webu a konče hraním her v online kasinech.
 
-{{/section}}
+
+
+
+<div class="row" style="width:92%">
+  <div class="col-md-6" markdown="1">
+- - -
+
+*Typy výdělků na internetu*
+
+[1. Výdělek na internetu pomocí **tvorby webových stránek**](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu#section-1)
+
+[2. **P2P půjčky**](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu#section-2)
+
+[3. Nejjednodušší výdělek - **Klikání v klikačkách** (PTC)](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu#section-3)
+
+[4. Vydělávání na internetu skrze **placené e-maily**](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu#section-4)
+
+[5. Nabízení **produktů a služeb po internetu**](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu#section-5)
+
+[6. Výdělek prostřednictvím **hraní online her**](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu#section-6)
+
+[7. MLM - **Přeprodej infoproduktů, seminářu a e-knih**](http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu#section-7)
+
+
+
+- - -
+
+
+</div>
+  <div class="col-md-6" markdown="1">
+- - -
+**Demo účty na forex**
+
+[u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
+
+[ u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
+
+[u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
+- - -
+
+</div>
+</div>
+
+
+{{section}}
 
 ##1. Výdělek na internetu pomocí tvorby webových stránek
 
 Další možností, jak vydělávat na internetu, je využívání vlastních webových stránek. Využít samozřejmě můžete svoje stávající stránky, či si za tímto účelem založit stránky nové. Vždy je samozřejmě lepší mít nějakou tu návštěvnost, a čím víc lidí na váš web chodí, tím lépe pro vás. Nezáleží však jen na množství návštěvníků, ale také na jejich věku, pohlaví a mnohých dalších aspektech.
 
-<a href="http://www.plus500.com/cs/Promotions/Bonus.aspx?id=66349&tags=Vydélek&pl=2" target="_blank" title="Plus500"><img src="http://cdn.plus500.com/Media/Banners/728x90/12921.gif" width="728" height="90" border="0" alt="Plus500" /></a>
 
-
-##Výdělek pomocí webových stránek
+###Výdělek pomocí webových stránek
 
 tento rychlý výdělek je samozřejmě založen na umístění reklamy, tedy pokud nevlastníte e-shop. Reklamu, která by byla umístěná na váš web, si samozřejmě můžete shánět mnohými způsoby. Asi nejtěžší způsob je shánět si inzerenty sám, pak jde v podstatě o běžné obchodování a hledání někoho, kdo by měl zájem u vás inzerovat. Existují však i jednodušší způsoby, jak si sehnat inzerenty.
 
@@ -46,25 +93,20 @@ Jako každá reklama vydělává i reklama umístěná na webu přes prokliky. Z
 Úkolem člověka, který vydělává skrze reklamu s Google AdSense, je zajištění co největší návštěvnosti. Tu si zajistíte psaním kvalitních článků na žádaná témata a propagováním vašich stránek. Pozor byste si tedy měli dát za prvé na obsah stránek a za druhé na vlastní prokliky. Pravidlo totiž zní: „Nikdy neklikejte na vlastní reklamu.“ Pokud to uděláte, bude vám u Google AdSense zrušen účet. Nechcete-li, aby vám byl účet zrušen, pak rychle informujte Google o svém překliknutí a omluvte se. K získání návštěvníků nesmíte využívat Googlem zakázané PPC systémy. 
 
 Využívat můžete i jiné systémy, například [Etarget](http://www.etarget.cz/) AdFox či TheAdNetwork.
+{{/section}}
 
-##Binární opce a obchodování 
-
-Binární opce v principu fungují stejně jako sázka na výsledek sportovního zápasu u sázkové společnosti. Jediným zásadním rozdílem je skutečnost, že u [binárních opcí](https://www.google.com/adsense) nespekulujete zda vyhraje tým A, nebo B, ale na to, zda cena podkladového aktiva (například naší ropy) stoupne, nebo klesne v určitém časovém úseku. Pokud se tedy vrátíme k našemu příkladu, můžeme nakoupit CALL binární opci s týdenní dobou expirace za 100 USD, což znamená, že spekulujeme na to, že cena ropy bude za týden vyšší, než ve chvíli, kdy opci kupujeme. 
-
-Pokud bude náš odhad správný, tak dostaneme naši vsazenou částku 100 USD (tzv. Opční prémie) a zisk podle výnosu, který nabízí broker (například 80 USD při výnosu 80%). Celkově tedy 180 USD. Nicméně, pokud jste se zmýlili a cena ropy naopak klesla, přijdete o celou vaši vsazenou částku a tedy 100 USD.
-
-
-##P2P půjčky
+{{section}}
+##2. P2P půjčky
 
 V čechách tento typ **půjčování** a investování peněz zatím není velmi rozšířený. Může za to skutečnost, že se systém rozvíjel v Británii (ZOPA - vůbec první platforma pro P2P půjčování), a postupně si ho oblíbili v Americe (společnosti PROSPER a Lending CLUB). Později se rozšířil i do zbytku Evropy. Jednotlivé společnosti původně odmítali poskytovat finance nebo možnost investiční spolupráce zahraničním klientům. Některé ze společností se tohoto omezení drží až do dnešní doby. Záleží však na individuálním posouzení, protože pokud oslovíte společnost a prokážete se několika miliony euro na účtu, s jistotou Vás jako přínosného investora neodmítnou.
 
 P2P **půjčky** jsou unikátní v tom, že analytici každému žadateli o úvěr přiřadí hodnocení a ratingovou skupinu podle ověření finanční bonity a schopnosti splácet úvěr. Právě na základě ratingové skupiny a rizikové třídy se liší úvěrové podmínky pro žadatele, přičemž nejlepší ratingy mají průměrný úrok 7 až 8 procent, zatímco rizikovější žadatelé od 15 do 20 procent. Takové podmínky platí pro **bezúčelové půjčky**.
+{/section}}
 
 
+{{section}}
 
-
-
-##2. Nejjednodušší výdělek - Klikání v klikačkách (PTC)
+##3. Nejjednodušší výdělek - Klikání v klikačkách (PTC)
 
 Klikání je snad nejznámější způsob, jak vydělávat peníze na internetu, s prací se to moc srovnávat nedá, jde spíše o příležitostnou činnost. A stejně tak, jak jde o nejznámější způsob, tak jde také o jeden z nejméně úspěšných způsobů. Ptáte se, jak že se pomocí klikání vydělává? Je to jednoduché, jde o reklamní systémy, přes které získáváte peníze za klikání na reklamní sdělení. Inzerenti samozřejmě stojí o návštěvu lidí, kteří u nich sice nic neutratí, ale aspoň kliknou na jejich reklamu. 
 
@@ -87,7 +129,9 @@ Práce, výdělek pomocí Klikání:
 
 {{/section}}
 
-##3. Vydělávání na internetu skrze placené e-maily
+{{section}}
+
+##4. Vydělávání na internetu skrze placené e-maily
 
 Dalším podobným výdělkem jako klikání je vydělávání pomocí e-mailů. Opět vám bude stačit pouhé zaregistrování se do reklamního systému, od kterého budete každý den dostávat reklamní e-maily, které vám budou chodit do vaší e-mailové schránky. Zde je právě jeden z podstatných rozdílů mezi klikáním a e-maily, neboť v rámci klikání si, zdali v daný den nepřibyl nový inzerent, zjišťujete přímo v reklamním systému.
 ### Výhody a nevýhody výdělku pomocí klikání
@@ -101,10 +145,7 @@ Práce, výdělek pomocí placených emailů:
 **Výdělek:** 5 Kč/1 měsíc
 **Čas:** 1 hodiny/1 měsíc
 **Vyplacení:** S výdělkem 200 Kč
-
-
-
-{{section}}
+{{/section}}
 
 ###Kombinace e-mailů a klikání
 
@@ -112,22 +153,23 @@ O stupeň propracovanějším systémem je kombinace e-mailů a klikaní. Vše p
 
 V okamžiku, kdy na odkaz kliknete, dostanete svých 10 haléřů za kliknutí. Takže si můžete vydělat i dvojnásobně více, než u pouhého klikání či pouhých mailů.
 
-Nejznámější klikačkou je v současnosti [neobux.com ](https://www.neobux.com )
 
 {{/section}}
 
 
 {{section}}
-##4. Nabízení produktů a služeb po internetu
+##5. Nabízení produktů a služeb po internetu
 
 Další možností výdělku na internetu je nabízení špičkových produktů a služeb mimo vlastní e-shop. To znamená, že nemusíte mít vlastí e-shop, abyste mohli vydělávat nabízením zboží. Existuje totiž řádka mezinárodních společností, od kterých zdarma získáte vlastní internetové stránky. Stačí vaší mateřské společnosti zaplatit vstupní poplatek a ona vám skrze „darované stránky“ umožní prodávat její služby a produkty. Prodávat můžete v podstatě cokoli, neboť tyto služby nabízejí společnosti prodávající jak kosmetiku, tak i komunikační systémy.
+
 ### Co je vaše hlavní práce?
 Vy v podstatě investujete jen výše uvedený vstupní poplatek, který se pohybuje v řádu tisíců, někdy až deseti tisíců. Na druhou stranu peníze nebudete získávat jen z provizního systému a prodeje zboží, které je špičkové a často velmi populární. S nadnárodní společností budete mít možnost přijímat do systému i nové členy. Vznikne v podstatě letadlo či pyramida, kdy získáte část peněz z jejich vstupního poplatku a z jejich prodejů budete získávat provizi.
 
 {{/section}}
 
 {{section}}
-##5.Vydělek prostřednictvím hraní online her
+
+##6.Vydělek prostřednictvím hraní online her
 
 Na internetu můžete vydělávat i prostřednictvím hraní her. Na hraní her a vydělávání hraním online her však existují různé názory. Někteří říkají, že bychom s online hraním neměli ani začínat, neboť jde o velmi rizikový způsob vydělávání peněz na internetu. Jiní naopak říkají, že jde o zaručený způsob, jak si na internetu vydělat velké množství peněz. Pokud se nad tím zamyslíme a vytáhneme z obou názorů podstatné informace, pak musíme zkonstatovat, že jsou oba částečně pravdivé.
 
@@ -151,54 +193,33 @@ Určitě se vyhněte všem systémům, které vám zaručují výhry. V takovýc
 Na internetu si můžete vydělávat i hraním pokeru online.
 {{/section}}
 
-
-##6. MLM - Přeprodej infoproduktů, seminářu a brožur
+{{section}}
+##7. MLM - Přeprodej infoproduktů, seminářu a brožur
 Chcete-li se zaručeně naučit vydělávat na internetu, můžete si pořídit některou z rozsáhlých publikací, které množství odborníků nabízí na internetu. Včetně knihy si můžete objednat i CD s brožurkou. Samozřejmě vás oboje bude něco stát, na druhou stranu se dozvíte mnoho informací o tom, jak vydělávat na internetu. Mezi tyto rady patří i rada, že vámi zakoupenou publikaci můžete CS nakopírovat na další CD, a to pak prodat za stejnou sumu, za kterou jste koupili vy svoji publikaci. Prodáte-li jednou, vrátí se vám investice. Prodáte-li dvakrát, vyděláte. A o tom to celé je.
 
 Každý z nás by si měl hlavně zapamatovat, že štěstí přeje připraveným, ale risk je zisk. Stejně tak se říká, že žádný učený z nebe nespadl. Z toho vyplývá, že je dobré si tyto informace nastudovat. 
 
 *Pokud chcete na internetu skutečně vydělávat, pak to musíte risknout a jít do toho. Zároveň si však pamatujte, že pokud se vám poprvé nezadaří, pak neklesejte na mysli.*
 
-
+{{partial: xmcom}}
 
 {{/section}}
+
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
 
 </div>
 
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+{{partial: obrazek}}
 
 </div>
 </div>

@@ -26,11 +26,12 @@ Page content: [Review of binary options](http://forexsrovnavac.cz/binarni-opce#s
 
 **Binary options** offer yet another opportunity to appreciate your capital. Experiences from foreign countries show that practically anyone can trade binary options. There is also a large community of Czech and Slovak traders. Hence, the software and websites for binary brokers are also available in Czech, making the profit through binary options accessible to the general public. **The minimum initial deposits start at 100 USD (circa 2000 CZK), depending on the chosen binary options broker**.
 
-[Check out the binary options platform](http://blog.forexsrovnavac.cz/topoption){.btn .btn-lg .pull-left .btn-primary .btn-index} If you are thinking about creating a stream of passive income, or just making some extra money without investing large sums, the binary options may be the right way to go, as they give you an option to create a stable stream of passive income, or some extra money, with an investment of only a few hundred CZK. 
+ If you are thinking about creating a stream of passive income, or just making some extra money without investing large sums, the binary options may be the right way to go, as they give you an option to create a stable stream of passive income, or some extra money, with an investment of only a few hundred CZK. 
 
     If you are thinking about investing, yet you don’t have the hundreds of thousands to go for shares or real estates, you still don’t need to worry. You can start with binary options, as these are so specific that you only need a capital of a few hundred CZK to buy your first binary option. 
 
 *You only need to get over the 56 % success ratio = Almost a half of your trades may go wrong and you still profit!*
+
 
 
 
@@ -65,8 +66,7 @@ You don’t need to download anything
 
 :   Binary options can be traded online with the individual brokers via WebTrader app (or even on mobile devices as Iphone, Android, Ipad). You are then in constant control of your trades without the necessity of running complicated applications such as Metatrader 4.
 
-Binary options are further divided into several types – UP/CALL, Minute options, etc. We have reviewed all these types in our article [Types of binary options](http://forexsrovnavac.cz/druhy-binarnich-opci "Druhy binárních opcí")
-
+Binary options are further divided into several types – UP/CALL, Minute options, etc.
 
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
@@ -90,9 +90,7 @@ Let’s suppose that in our model case the 15:00 price closed at 1.2695. The tra
 </div>
 </div>
 
-[Try out a binary option demo account at the broker TopOption](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 
-![Binární opce](http://i.imgur.com/YV4yWi6.png)
 - - -
 
 {{/section}}
@@ -117,7 +115,7 @@ Hence, if you are thinking about possibilities for passive income, make sure to 
 
 What can I trade through binary options?
 
-[Summary of all financial instruments](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+
 
 :    Binary options allow you to speculate on the growth of the stocks of your favourite brands such as Apple, Facebook or VisaCard. You can also speculate on the growth or drawdown of the individual currencies such as USD, EUR or JPY. If you prefer commodities, don’t worry, you can also easily speculate on the growth or drawdown of silver, gold, crude oil and other commodities.
 
@@ -139,10 +137,6 @@ What can I trade through binary options?
 
 {{section}}
 
-
-*Examples of binary options trades* <pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Tip 1:</strong> <a href="http://blog.forexsrovnavac.cz/topoption">Check out the trading app</a> at TopOption</span></span></pre>
- 
-![Příklady obchodů](http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/p%C5%99%C3%ADkladyobchd%C5%AF.png)
 
 {{/section}}
 
@@ -175,7 +169,7 @@ Pavel
 {{section}}
 ## A free binary options demo account
 
-[Download a free Demo account](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+
 
 **A demo account** comes in handy to beginners in binary options. Firstly, it helps you to get familiar with the trading app. The demo account operates like a live account for the most part, the main difference being that it does not use real money, any gains or losses thus remain purely fictional. 
 
@@ -191,7 +185,7 @@ Getting familiar with binary options, markets, charts, data and diagrams
 
 :    Another aim of training on the demo account is to get a chance to become thoroughly acquainted with the markets themselves. I would call it “getting to the right wave” of the particular market first before switching to live trading. The advantage of such “tuning” is that it gives one the time to decide which market best suits their style and which, on the other hand, they are going to either  completely avoid, or leave for later. Vivid personalities tend to prefer more volatile markets, while discreet people may have different preferences.
 
-Find out more about demo accounts in our article  [Binary options – demo accounts](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce)
+
 
 {{/section}}
 
@@ -199,20 +193,20 @@ Find out more about demo accounts in our article  [Binary options – demo accou
 
 ## Where to trade binary options
 
-:   We can definitely recommend  [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption"), a broker well proven within a narrow group of Czech traders. It is a reliable broker regulated by CNB (ČNB). TopOption, a broker regulated within EU (including a licence of ČNB and SNB – Slovak National Bank), offers a trading platform fully in Czech and also a Czech manager.
+:   We can definitely recommend  TopOption, a broker well proven within a narrow group of Czech traders. It is a reliable broker regulated by CNB (ČNB). TopOption, a broker regulated within EU (including a licence of ČNB and SNB – Slovak National Bank), offers a trading platform fully in Czech and also a Czech manager.
 
 TopOption is the most complex company so far 
 
 :    This has one important implication – your deposits are insured up to 20,000 Eur in case of the company’s insolvency. The web platform is fully in Czech and the representatives communicate in Czech language by email or by phone. TopOption offers demo accounts to test your skills on, and live account from 100 $ with options starting at 10 $. This broker also offers a free training academy.
 
-[TopOption – review of the broker -->>](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
+
 {{/section}}
 
 - - -
 
 Beware of fraudulent binary option systems!
 
-:   *Binary options surely pose an attractive possibility for subsidiary income, yet precisely because of this attractiveness there is a number of fraudulent platforms that offer paid services such as “100 % accurate signals”, “infallible entry indicators” etc. In other words, these “platforms” offer gains without any work or education. This is surely not the right path for a beginner to take. Two examples of such frauds are [BinaryBotPro](http://www.forexsrovnavac.cz/binary-bot-pro) and [Optionavigator](http://www.forexsrovnavac.cz/optionavigator-recenze)*
+:   *Binary options surely pose an attractive possibility for subsidiary income, yet precisely because of this attractiveness there is a number of fraudulent platforms that offer paid services such as “100 % accurate signals”, “infallible entry indicators” etc. In other words, these “platforms” offer gains without any work or education. This is surely not the right path for a beginner to take. 
 
 
 </div>
@@ -220,59 +214,8 @@ Beware of fraudulent binary option systems!
 
 - - -
 
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Evaluation of options</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="#"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Rating: <b>97%</b>
-  </div>
-  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Read review">Read review</a>
-  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Check website">Web</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Rating: <b>95%</b>
- </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Read review">Read review</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Check website">Web</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Rating: <b>92%</b>
- </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Read review">Read review</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Check website">Web</a>
-</div> 
+<a href="http://www.plus500.com/?id=66349&pl=2" target="_blank" title="+500"><img src="http://cdn.plus500.com/Media/Banners/300x600/24268.gif?set=Brexit Swing Banner_CYSEC" width="265" height="600" border="0" alt="+500" /></a>
 
-<hr />
-<a href="http://blog.forexsrovnavac.cz/stockpair" Target="_Top"><img border="0" src="http://stockpair.ck-cdn.com/tn/serve/?cid=1162633"  width="300" height="600"></a>
-</a>
 
 </div>
 </div>

@@ -8,6 +8,7 @@
     "keywords": "Skrill, Moneybookers "
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
 
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
@@ -49,7 +50,7 @@ Prečo používať skrill.com
 
 Online svet sa v súčasnosti čím ďalej viac prelína naším skutočným svetom. Nielenže sa v dnešnej dobe na internete zoznamujeme, komunikujeme, čítame správy, pozeráme filmy. Okrem toho v súčasnosti nakupujeme prevažne práve prostredníctvom internetových obchodov. K online svetu, internetovému nakupovanie či investovania patrí aj internetové peňaženky, ako je napríklad Skrill / Moneybookers.
 
-[Web spoločnosti skrill.com]( https://account.skrill.com/signup?rid=4578719){.btn .btn-lg .btn-primary}
+[Web spoločnosti skrill.com](http://blog.forexsrovnavac.cz/skrill){.btn .btn-lg .btn-primary}
 
 
 
@@ -65,7 +66,7 @@ Založenie vlastného účtu na internetovej peňaženke Skrill je zadarmo. Bezp
 
 Po **registrácii dôjde k rozdeleniu e-mailov na primárnu a sekundárnu**. Primárny účet, ktorý zadávate pri registrácii, budete následne používať ako prihlasovacie e-mail na osobnú stránku Skrill. Často býva peňaženka Skrill využívaná na stávkovanie v online stávkových kanceláriách, alebo u brokerov. Neodporúča sa však používať ako primárny e-mail rovnaký e-mail, ktorý zadávate na vašom hráčskom účte. Na druhej strane by mal byť e-mail používaný na stránkach rovnaký ako e-maily uvedené na vašom hráčskom účte. Všetky tieto e-maily uveďte ako sekundárny.
 
-[Založte si zadarmo účet na skrill.com]( https://account.skrill.com/signup?rid=4578719){.btn .btn-lg .btn-primary}
+[Založte si zadarmo účet na skrill.com](http://blog.forexsrovnavac.cz/skrill){.btn .btn-lg .btn-primary}
 
 
 ![skrill](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/05/skrill-recenze-e1431101852302.png)
@@ -155,50 +156,19 @@ Platby prostredníctvom peňaženky Skrill sú navyše veľmi rýchle (peniaze p
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-
-Zárobok na forexu:
-:    
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-Binárne opcie:
-:    
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Onlyoption recenzia](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption recenzia")
-
-
+{{partial: menu-sk}}
 
 </div>
 <div class="container-fluid" markdown="1">
 - - -
 
+{{partial: Widget - Brokeri}}
 
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/sk/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 
 </a>
 
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

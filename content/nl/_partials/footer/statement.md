@@ -1,1 +1,3 @@
+
+
 <span class="badge">Waarschuwing</span> Alle informatie, aangeboden op de server Forexsrovnávač.cz, zijn uitsluitend bedoeld voor studiedoeleinden van de betrokken handel op de financiële markten thema's en absoluut niet te dienen, zoals beton beleggingsaanbeveling of zakelijk advies. Noch de gebruiker van de server Forexsrovnávač.cz, noch enkele auteurs zijn geregistreerde makelaars of beleggingsadviseurs.

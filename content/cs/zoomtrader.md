@@ -19,6 +19,8 @@ Zajímá vás dění okolo brokerů s binárními opcemi, konkrétně **zoomtrad
 
 Nejdříve vás ujístíme, že binární opce jsou zcela běžný finanční nástroj a podvod určitě nejsou, ale je třeba je začít obchodovat u [spolehlivého brokera](http://www.forexsrovnavac.cz/topoption), který má potřebné regulace. Nyní zpět k brokerovi Zoomtraderu.
 
+{{partial: topoption}}
+
 
 ## 5 důvodu proč nedoporučujeme u Zoomtrader obchodovat
 
@@ -38,15 +40,9 @@ V prvé řadě musíme říct, že žádnou společnost neobviňujeme z podvodu,
 
 Zkušenosti s brokerem Zoomtrader jsou tudíž velice rozporuplné, proto nemůžeme považovat recenze, které tohoto brokera pouze vychvalují za nestranné, jedna se pravděpodobně ve velké míře o PR články právě na tuto společnost.
 
-Varování na Zoomtrader zde: [Zoomtrader varování](http://www.cnb.cz/cs/spotrebitel/ochrana_spotrebitele/upozorneni/upozorneni_zoompartners.html)
 
 Kterého brokera vybrat na binární opce?
 :   Určitě vyzkoušejte [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption"), [ETX Capital](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital") nebo [Stockpair](http://www.forexsrovnavac.cz/stockpair "Stockpair")
-
-
-
-
-
 
 
 {{/section}}
@@ -54,44 +50,10 @@ Kterého brokera vybrat na binární opce?
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Bonusy na forexu:
-:    
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[Demo účty](http://www.forexsrovnavac.cz/demo-ucet "Demo účet")
-
-Binární opce:
-:    
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
-
+{{partial: menuopce}}
 
 </div>
-<div class="container-fluid" markdown="1">
-- - -
 
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-
-
-</div>
 <div class="container-fluid" markdown="1">
 <a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
  <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>

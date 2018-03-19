@@ -8,16 +8,52 @@
       </button>
       <a href="{{url}}" class="navbar-brand">Comparez avec le  <i class="fa fa-bar-chart-o"></i> Forex</a>
     </div>
-    <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
+    <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">    
+    
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{url}}#section-1">Liste des courtiers</a></li>
-          <li><a href="{{url}}plus500">Avis plus500</a>
+          <a href="{{url}}liste-des-crypto-monnaies-cours">List des Crypto-Monnaie</a>
         </li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{url}}bitcoin/">Bitcoin</a></li>
-        <li><a href="{{url}}litecoin/">Litecoin</a></li>
+       
+       <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
+            <span class="hidden-sm hidden-md">Crypto-Monnaie<b class="caret"></b></span><span class="visible-sm visible-md">Crypto-Monnaie</span>
+          </a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color:blue; rgba(0, 0, 0, 0.3);">Courant Cours</strong></li>  
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitcoin">Bitcoin</a></li>  
+                                                                                                      <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitcoin-cash">Bitcoin cash</a></li>  
+                                                                                                         <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitcoin-gold">Bitcoin Gold</a></li> 
+            
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}litecoin">Litecoin</a></li> 
+                                                               <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ethereum">Ethereum</a></li>      
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ripple">Ripple</a></li>
+                                                                        <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}dash">Dash</a></li>  
+                                                                                                                                                <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}nem">Nem</a></li>  
+                                                                                                                                                                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ethereum-classic">Ethereum Classic</a></li>  
+                                                                                                      <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}monero">Monero</a></li>  
+            
+                  </ul>
+         </li>
+         
+                <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
+            <span class="hidden-sm hidden-md">Forex <b class="caret"></b></span><span class="visible-sm visible-md">Forex</span>
+          </a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+            <li role="presentation"><strong style="margin: 2px 0 0;padding: 5px 20px;color:blue; rgba(0, 0, 0, 0.3);">Courant Cours</strong></li>  
+                                                <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}eur-usd">EUR/USD</a></li>      
+            
+            
+                  </ul>
+         </li>
+ 
+
+       
+        
         <li class="dropdown">
           <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown"><img src="{{img-url}}flags/fr.png" class="flag"></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="drop">

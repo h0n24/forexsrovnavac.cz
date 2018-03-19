@@ -1,4 +1,4 @@
-﻿{{settings}}
+{{settings}}
   "language": "cs",
   "template": 1,
   "header": "main",
@@ -34,13 +34,16 @@ Recenze 24winner.com
 :    
 Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo společnosti je umístěno na Kypru a broker tak podléhá regulaci kyperského úřadu CySEC. 24 Winner se zaměřuje na obchodování binárních opcí na měnové páry, akcie i komodity.
 
+{{partial: topoption}}
+
 </div>
 </div>
+
 {{/section}}
 
 **Obsah recenze 24winner**: [24winner recenze](http://forexsrovnavac.cz/24winner#section-1) - [Základní informace](http://forexsrovnavac.cz/24winner#section-2) - [Zkušenosti s 24winner](http://forexsrovnavac.cz/24winner#section-3) - [Obchodování u 24winner](http://forexsrovnavac.cz/24winner#section-4)
 - - -
-![24winner.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/2015-04-30-16_00_25-24Winner-%E2%80%93-Option-%E2%80%93-Your-Winning-Option-for-Trading-Binary-Options.png) 
+
 {{section}}
 
 *Proč obchodovat binární opce s 24winner.com*
@@ -50,8 +53,6 @@ Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo
     1. Až 90% profit na oblíbené obchodní instrumenty
     
     2. Rozdělení účtů - podle vkladů - Silver až VIP klienti
-
-    3. Regulace České národní banky (další regulace FCA, CySEC) - **řadíme tedy mezi prověřené brokery** - [ČNB licence](https://apl.cnb.cz/apljerrsdad/JERRS.WEB10.VIZITKA?p_lang=cz&p_SEQ_ID=373603&p_VER_ID=1000&p_DATUM=22.12.2011&p_ROL_KOD=35)
 
 
 *Základní informace o www.24winner.com*
@@ -74,12 +75,17 @@ Tato společnost vlastnící i další brokery (TopOption a Markets.com). Sídlo
 | **Druhy binárních opcí**  | Hihg / Low, One Touch / No Touch, 60 sekundové opce |
 | **Výnosy z binárních opcí**  | až 85%|
 | **Zajímavost**  | 100% Bonus na vklad |
-| **Demo účet**  | Ano, k účtům od 1000 USD |
+| [**Demo účet**](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce "Demo účet na binární opce") | Ano, k účtům od 1000 USD |
 | **Čeština**  | Zatím jen EN |
 
 </div>
 </div>
+
+![24winner.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/2015-04-30-16_00_25-24Winner-%E2%80%93-Option-%E2%80%93-Your-Winning-Option-for-Trading-Binary-Options.png) 
+
 {{/section}}
+
+{{partial: topoption}}
 
 {{section}}
 
@@ -140,7 +146,7 @@ Vzdělávání v obchodování
 
 *Konkurenční brokeři na binární opce*
 
-[**Topoption – Nejlepší broker na binární opce? (CZ)**](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
+[**IQ option – Nejlepší broker na binární opce?**](http://www.forexsrovnavac.cz/iqoption "iqoption  recenze")
 
 [**ETX capital – Největší výnosy na trhu  (CZ)**](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenze")
 
@@ -152,37 +158,20 @@ Vzdělávání v obchodování
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
   
-
 ![24winner.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/24Winner.png) 
 
 </div>
 <div class="container-fluid" markdown="1">
 
+{{partial: Widget - Brokeri}}
 
 </div>
 <div class="container-fluid" markdown="1">
 
 </div>
 <div class="container-fluid" markdown="1">
+
 - - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Až 90% profit
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Regulace od ČNB
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Populární broker u obchodníků
-
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Angličtina + vyšší vklad
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
 
 </a>
 

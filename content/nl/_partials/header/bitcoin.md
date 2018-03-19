@@ -19,16 +19,19 @@ virtuele valuta
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Handel met Bitcoins</a>
+          <a href="#top">Bitcoins koers</a>
         </li>
         <li>
-          <a href="#section-1">Waar gaat het over?</a>
+          <a href="#section-1">Bitcoin / Dolar</a>
         </li>
         <li>
-          <a href="#section-2">Bitcoin koers</a>
+          <a href="#section-2">Bitcoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Waar kan je handelen?</a>
+          <a href="#section-3">Bitcoin</a>
+        </li>
+                        <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmarketsall">Starten met handelen Bitcoin</a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

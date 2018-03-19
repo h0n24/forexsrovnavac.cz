@@ -18,18 +18,31 @@
 <h1>Obchodní hodiny na burze</h1>
 Jelikož ceny na měnových trzích jsou tvořeny nabídkami bank a finančních institucí, kteří vystupují jako tvůrci trhu, mohou se skutečné obchodní hodiny od oficiálních časů mírně lišit. Pokud je trh uzavřený, není možné zadávat žádné obchodní pokyny.
 <div>
-<div>* Všechny zobrazené časové údaje jsou uvedeny v GMT, což je čas v Londýně. (V ČR a SR používaný SEČ je o hodinu více, se zohledněním další hodiny v případě letního času).</div>
+<div> 
+
+Všechny zobrazené časové údaje jsou uvedeny v GMT, což je čas v Londýně. (V ČR a SR používaný SEČ je o hodinu více, se zohledněním další hodiny v případě letního času).</div>
 
 <h2>FOREX</h2>
  
 <div markdown="1">
-SYDNEY – otevírá 23:00 SEČ a zavírá 8:00 SEČ
 
-TOKIO – otevírá 1:00 SEČ a zavírá 10:00 SEČ
+Měnový trh je otevřen 24 hodin denně nicméně je důležité vědět, které intervaly jsou obchodně nejaktivnější.
 
-LONDON – otevírá 9:00 SEČ a zavírá 18:00 SEČ
+**SYDNEY** – otevírá 23:00 SEČ a zavírá 8:00 SEČ
 
-NEW YORK – otevírá 14:00 SEČ a zavírá 23:00 SEČ
+**TOKIO** – otevírá 1:00 SEČ a zavírá 10:00 SEČ
+
+**LONDON** – otevírá 9:00 SEČ a zavírá 18:00 SEČ
+
+**NEW YORK** – otevírá 14:00 SEČ a zavírá 23:00 SEČ
+
+Tyto časy tak umožňují obchodníkům po celém světě obchodovat online 24 hodin denně za účastí centrálních bank ze všech kontinentů.
+
+**LONDÝNSKÁ RELACE** – otevřeno mezi 9:00 SEČ – 18:00 SEČ; EUR, GBP, USD jsou nejaktivnější měny;
+
+**US RELACE** – otevřeno mezi 2:00 SEČ – 11:00 SEČ; USD, EUR, GBP, AUD, JPY jsou nejaktivnější měny;
+
+**ASIJSKÁ RELACE** – otevírá okolo 23:00 v neděli odpoledne a přechází do evropské obchodní relace okolo 10:00 SEČ; není tedy příliš vhodná pro denní obchodování.
 
 </div>
 
@@ -66,7 +79,7 @@ Obchodní hodiny i přestávky se pro každý index liší:
 </tr>
 <tr>
 <td><strong>SPX500</strong></td>
-<td>S&amp;P Index Mini Futures</td>
+<td>S&P Index Mini Futures</td>
 <td>Ne 22:00 – Pá 20:15</td>
 <td>Denně 20:15 – 20:30</td>
 </tr>
@@ -90,7 +103,7 @@ Obchodní hodiny i přestávky se pro každý index liší:
 </tr>
 <tr>
 <td><strong>ITA40</strong></td>
-<td>S&amp;P/MIB/Index</td>
+<td>S&P/MIB/Index</td>
 <td>Denně 07:00 – 15:40</td>
 <td>Ne</td>
 </tr>
@@ -132,7 +145,7 @@ Obchodní hodiny i přestávky se pro každý index liší:
 </tr>
 <tr>
 <td><strong>AUS200</strong></td>
-<td>S&amp;P ASX 200 Index Futures</td>
+<td>S&P ASX 200 Index Futures</td>
 <td>Denně 23:50 – 20:00</td>
 <td>06:30 – 07:10</td>
 </tr>
@@ -144,11 +157,11 @@ Obchodní hodiny i přestávky se pro každý index liší:
 </tr>
 </tbody>
 </table>
-&nbsp;
 
-</div>
+
 <div>
 <div>*Všechny zobrazené časové údaje jsou uvedeny v GMT, což je čas v Londýně. (V ČR a SR používaný SEČ je o hodinu více, se zohledněním další hodiny v případě letního času).</div>
+
 <h2>Komodity</h2>
 </div>
 </div>
@@ -260,25 +273,30 @@ Obchodní hodiny, včetně přestávky:
 </div>
 </div>
 
+{{partial: xmcom}}
+
 {{/section}}
+
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
+
 
 {{partial: menu2}}
 
 </div>
 
+{{partial: hodiny}}
+
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+{{partial: obrazek}}
 
+</div>
 </div>
 </div>

@@ -11,13 +11,12 @@
 
 {{section}}
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
 
 ## Scambiare la valuta virtuale Bitcoin
 
 Sicuramente molti di voi avranno notato negli ultimi mesi un aumento dell'interesse per quanto riguarda la valuta virtuale Bitcoin. Lo scopo di questo articolo non è descrivere il funzionamento di questa valuta virtuale, non vi annoieremo con la storia o con il “Bitcoin mining”, non vi regaleremo Bitcoin gratis. Questo articolo si concentra di più sulle possibilità del suo trading sul mercato azionario, come prodotto per investimenti, che momento è in pieno boom e il suo trading offre opportunità di investimenti interessanti ogni giorno.
+
+
 
 ### Cos'è in breve Bitcoin.
 
@@ -39,13 +38,7 @@ Un'intera gamma di esperti naturalmente discute da molto tempo su questo argomen
 <a href="http://www.plus500.com/it/StartTrading.aspx?id=66349&tags=Bitcoin&pl=2"></a>
 <iframe src="http://marketools.plus500.com/Widgets/InstrumentChartContainer?hl=it&cty=IT&id=66349&tags=widg+chart+litecoin&pl=2&instSymb=BTCUSD"></iframe>
 </div>
-- - -
 
-<a href="http://serv.markets.com/promoRedirect?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xMzgwNDQ1OCZsPTEzODA0NDA3JnA9MTAxNjA%3D" width="728" height="90"/>
-</a>
-
-- - -
 
 ##  l’attuale tasso di cambio BITCOIN EURO- (BTC/EUR)
 
@@ -53,9 +46,9 @@ Un'intera gamma di esperti naturalmente discute da molto tempo su questo argomen
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
 <script type="text/javascript">
 new TradingView.widget({
-  "width": 1150,
+  "width": '100%',
   "height": 400,
-  "symbol": "BTCE:BTCEUR",
+  "symbol": "BITSTAMP:BTCEUR",
   "interval": "D",
   "timezone": "Etc/UTC",
   "theme": "White",
@@ -77,27 +70,10 @@ new TradingView.widget({
 
 ## Dove fare trading con Bitcoin
 
-Proprio come sta crescendo la richiesta per questa valuta, così che riesce anche l'interesse fra il pubblico nel trading diretto su questa valuta, in maniera simile alle altre valute. Quindi se state pensando di fare trading con Bitcoin, una delle prime aziende che lo permette è la compagnia [plus500](http://www.forexsrovnavac.cz/it/plus500). Con questo broker relativamente ben conosciuto poter fare trading e speculare sulla crescita o sulla decrescita di questa valuta in qualsiasi momento. Inoltre come nuovo cliente quando vi registrerete avrete diritto ad un bonus di 500 CZK. Come utilizzare questo bonus sta soltanto a voi. Il servizio è CFD. Plus500UK Limited è autorizzata e regolamentata dalla British Financial Conduct Authority.
-
-[Scarica conto Demo](http://www.plus500.com/it/StartTrading.aspx?id=66349&pl=2){.btn .btn-lg .btn-primary}
-
-### Trading con Bitcoin
-Servizio CFD
-
- * Acquista o vendi
- * Scambia con leva
- * Bonus di registrazione di 25 EURO
- * Il tuo capitale è il pericolo
+Proprio come sta crescendo la richiesta per questa valuta, così che riesce anche l'interesse fra il pubblico nel trading diretto su questa valuta, in maniera simile alle altre valute. Quindi se state pensando di fare trading con Bitcoin, una delle prime aziende che lo permette è la compagnia [plus500](http://www.forexsrovnavac.cz/it/plus500). Con questo broker relativamente ben conosciuto poter fare trading e speculare sulla crescita o sulla decrescita di questa valuta in qualsiasi momento. Il servizio è CFD. Plus500UK Limited è autorizzata e regolamentata dalla British Financial Conduct Authority.
 
 
-### Come ottenere il tuo primo bonus deposito 
 
- 1. Scarica il software per trading Plus500.
- 2. Fai clic su “really trade”
- 3. Fai clic su “open new account”
- 4. Fai clic su “administration of the financial means” in the left lower corner
- 5. Seleziona il metodo di deposito
- 6. Inserisci il codice del bonus nel campo del deposito
- 1. L’ammontare del deposito sarà aggiunto al tuo account non appena avrai accumulato l'ammontare richiesto di punti trade
+
 
 {{/section}}

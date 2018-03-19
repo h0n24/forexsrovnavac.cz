@@ -1,0 +1,50 @@
+{{settings}}
+"language": "cs",
+"templateFile": "kurzyDetailLayout",
+"header": "kurzyNew",
+"footer_left": "kurzyLeft",
+"pageTitle": "Akcie Philip Morris (PM)",
+"detail" : {
+    "ticker": "TABAK:PSE",
+    "burza": "BURZA CENNÝCH PAPÍRŮ PRAHA (PSE)",
+    "odvetvi": "SPOTŘEBA/TABÁKOVÉ VÝROBKY"
+},
+"meta" : {
+    "title": "Akcie Philip Morris (PM) ~ aktuální cena a vývoj akcií online, diskuze",
+    "description": "Podívejte se na Aktuální graf a vývoj ceny akcií Philip Morris obchodováných na přažské burze cenných papírů",
+    "keywords": "TABAK:PSE, akcie, Akcie Philip Morris (PM)"
+}
+{{/settings}}
+
+<h2>Philip Morris CR as - aktuální graf a vývoj ceny</h2>
+
+Výrobce, prodejce či distributor tabákových výrobků se sídlem v Kutné Hoře se skrývá za cigaretami značek Marlboro, L&M, Petra a Sparta. Philip Morris má pobočku také na Slovensku a je součástí nadnárodního Philip Morris International. Kromě České a Slovenské republiky působí také v ostatních státech Evropy, kde své výrobky prodává.
+
+**Philip Morris** je z hlediska akciového trhu atraktivní díky své dividenodové politice. Dividenda této společnost se každoročně pohybuje kolem 8%.
+        
+<div id="mainBox">
+    <div>
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Graf vývoje</a></li>
+            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Další akcie</a></li>            
+            <li role="presentation"><a href="#discussion" aria-controls="discussion" role="tab" data-toggle="tab">Diskuze</a></li>            
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="home">
+                <iframe src="http://markets.ft.com/research/InteractiveChart?symbol=264804&options={"StartDate":null,"EndDate":null,"LowerIndicator":[{"Args":[{"Type":0,"Value":14}],"Code":21,"UID":1313857793}],"UpperIndicator":[],"Overlay":[],"ChartStyle":3,"ChartScale":1,"CursorStyle":0,"Interval":3,"Duration":1,"Comparison":[],"PortfolioName":null,"Width":950,"Height":400,"ActiveTool":null}" width="100%" height="880px" marginheight="0px" frameborder="0" style="border:none; padding-top:0px; " scrolling="no" style="height: 1000px;" scrolling="no"></iframe>
+                {{partial: kurzy/detail-alert}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="profile">
+                {{partial: kurzy/ceske-akcie}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="discussion">
+                {{discussion}}
+            </div>
+        </div>
+
+    </div>
+</div>

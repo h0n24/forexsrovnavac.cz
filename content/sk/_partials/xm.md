@@ -1,0 +1,1 @@
+<a href="http://blog.forexsrovnavac.cz/xm.skcz"><img src="http://ads.pipaffiliates.com/i/7828?c=46271" width="265" height="600" /></a>

@@ -1,6 +1,502 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
+
+
+
+
+
+
+
+
+
+RewriteCond %{QUERY_STRING} ^utm_(.*)?$
+
+RewriteRule ^(.*)$ %{REQUEST_URI}#%{QUERY_STRING}? [R=301,NE,NC,L]
+
+
+
+Redirect 301 /web/20170702204536/http://www.forexsrovnavac.cz/kurzy/komodity http://www.forexsrovnavac.cz/
+Redirect 301 /products/aligator/ http://www.forexsrovnavac.cz/
+Redirect 301 /news/technicka-analyza-cenove-formace-dil-4-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /obchodni-systemy/testovani-s-tradestation/ http://www.forexsrovnavac.cz/
+
+
+Redirect 301 /news/obchodni-myslenka-korelace-menovych-paru-dil-3-/ http://www.forexsrovnavac.cz/
+Redirect 301 /navbar/ http://www.forexsrovnavac.cz/
+Redirect 301 /coinbase http://www.forexsrovnavac.cz/
+
+
+
+
+Redirect 301 /kurzycs/currency/converter-CZK-PLN http://www.forexsrovnavac.cz/
+Redirect 301 /bitcoinMor http://www.forexsrovnavac.cz/bitcoin
+Redirect 301 /web/20170929225224/http://www.forexsrovnavac.cz/kurzy/komodity http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/porovnani-forexovych-slevomatu/ http://www.forexsrovnavac.cz
+Redirect 301 /news/tvorba-obchodnich-systemu-pro-forex-dil-10-/ http://www.forexsrovnavac.cz/forex-roboti-aos
+Redirect 301 /news/vytvarime-aos-prvotni-obchodni-myslenka-dil-2-/ http://www.forexsrovnavac.cz/forex-roboti-aos
+Redirect 301 /news/zaklady-mql4-aneb-mimimum-pro-zahajeni-programovani-dil-2-/ http://www.forexsrovnavac.cz/forex-roboti-aos
+Redirect 301 /news/overeni-funkcnosti-ea-dil-5-/   http://www.forexsrovnavac.cz/forex-roboti-aos
+Redirect 301 /kurzycs/currency/converter-EUR-SCR http://www.forexsrovnavac.cz/kurzy
+Redirect 301 /productscbm_724306/22/ http://www.forexsrovnavac.cz
+Redirect 301 /www.forex-pro-zacatecniky.cz/news/obchodni-myslenka-pattern-harami-dil-2-/index.html http://www.forexsrovnavac.cz
+Redirect 301 /news/porovnani-forexovych-slevomatu/ http://www.forexsrovnavac.cz
+Redirect 301 /forex-nastroje/relativni-sila-men/ http://www.forexsrovnavac.cz
+Redirect 301 /forex-nastroje/online-forex-grafy/ http://www.forexsrovnavac.cz/kurzy
+Redirect 301 /forex-nastroje/relativni-sila-men/ http://www.forexsrovnavac.cz
+Redirect 301 /news/ta-historie-technicke-analyzy-dil-2-/ http://www.forexsrovnavac.cz/urceni-trendu
+
+
+
+Redirect 301 /kurzy/us-akcie/news/warren-buffett-nadale-nakupuje-akcie-v-navrat-recese-neveri-/ http://www.forexsrovnavac.cz/kurzy/us-akcie/
+
+Redirect 301 /4-5-forexacademy-.aspx http://www.forexsrovnavac.cz
+
+Redirect 301 /4-90-forexacademy-.aspx http://www.forexsrovnavac.cz
+
+Redirect 301 /4-forex-.aspx http://www.forexsrovnavac.cz
+
+Redirect 301 /5-45-forexacademy-.aspx http://www.forexsrovnavac.cz
+
+Redirect 301 /pravni-informace-o-nas http://www.forexsrovnavac.cz
+
+Redirect 301 /200000458-a5174a70b7/MQL_19.png http://www.forexsrovnavac.cz
+
+Redirect 301 /200000473-69f526aefc/MQL_32.png http://www.forexsrovnavac.cz
+
+
+Redirect 301 /se http://www.forexsrovnavac.cz
+
+Redirect 301 /kurzy/akcie/index http://www.forexsrovnavac.cz/kurzy/akcie
+
+Redirect 301 /kurzy-men http://www.forexsrovnavac.cz/kurzy
+
+Redirect 301 /pl/xm-xemarkets-com http://www.forexsrovnavac.cz/pl/xm-com
+
+Redirect 301 /sk/xm-xemarkets-com http://www.forexsrovnavac.cz/sk/xm-com
+
+Redirect 301 /news/typy-objednavek-na-forexu-dil-7-/ http://www.forexsrovnavac.cz/technicka-analyza
+
+Redirect 301 /news/ta-historie-technicke-analyzy-dil-2-/ http://www.forexsrovnavac.cz/technicka-analyza
+
+Redirect 301 /kurzycs/currency/converter-GBP-CZK http://www.forexsrovnavac.cz/kurzy/forex/gbpczk
+
+Redirect 301 /news/money-management-ukazka-realneho-portfolia-dil-13-/ http://www.forexsrovnavac.cz/money-management
+
+Redirect 301 /kurzycs/currency/converter-UAH-EUR http://www.forexsrovnavac.cz/kurzy
+
+Redirect 301 /kurzycs/tools/02-01-volatility http://www.forexsrovnavac.cz/kurzy
+
+Redirect 301 /kurzycs/currency/converter-TWD-EUR http://www.forexsrovnavac.cz/kurzy
+
+Redirect 301 /xm-xemarkets-com http://www.forexsrovnavac.cz/xm-com
+
+Redirect 301 /iqoption http://blog.forexsrovnavac.cz/iq
+
+Redirect 301 /forex-pro-zacatecniky http://www.forexsrovnavac.cz/co-je-to-forex-uvod
+
+Redirect 301 /7-forex-.aspx http://www.forexsrovnavac.cz/pl
+
+
+Redirect 301 /#utm_source=copy&utm_medium=paste&utm_campaign=copypaste&utm_content=http://www.forex-pro-zacatecniky.cz/news/weby-o-tradingu-na-forexu-v-cestine-a-jejich-kvalita/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /#utm_source=mapy.cz&utm_medium=ppd&utm_campaign=firmy.cz-12848525 http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/obchodni-myslenka-obchodovani-gapu-dil-1-/ http://www.forexsrovnavac.cz/gap-obchodni-strategie-forex
+
+
+
+Redirect 301 /news/jak-poznat-dobry-obchodni-system-pro-forex-dil-12-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /kurzy/us-akcie/200000785-10d0211c9f/warren_buffet_motorcycle.jpg http://www.forexsrovnavac.cz/kurzy/us-akcie/
+
+
+Redirect 301 /4-102-191-pruvodce-.aspx http://www.forexsrovnavac.cz/hu/plus500
+
+Redirect 301 /kurzy/komodity/news/where-to-invest-history-serves-as-a-guide/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-90-145-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /5-94-forexacademy-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /5-46-forexacademy-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-90-141-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-90-142-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-90-143-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-90-144-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/forex-brokeri-a-jejich-podvody/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /uploads/Definice_a_rozdeleni_trendu_3.png http://www.forexsrovnavac.cz/
+
+Redirect 301 /web/20170226224203im_/http://www.forexsrovnavac.cz/200000505-054d406475/MM_3.png http://www.forexsrovnavac.cz/
+
+Redirect 301 /www.forex-pro-zacatecniky.cz/news/zaciname-s-mql4-dil-1-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zaciname-na-demo-a-live-uctu-na-forexu-dil-9-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /rss/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /search/?text=ASI+indi http://www.forexsrovnavac.cz/
+
+Redirect 301 /sk/binarne-opcienode/146 http://www.forexsrovnavac.cz/sk/
+
+Redirect 301 /news/ea-analyzer-aneb-jak-na-analyzu-obchodnich-vysledku/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/kdo-je-to-broker-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/money-management-a-profit-factor-10-dil-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/testovani-obchodnich-systemu-na-forexu-dil-11-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /200000501-35572374a5/Prog_2.png http://www.forexsrovnavac.cz/
+
+Redirect 301 /kurzy/ceske-akcie/prslu http://www.forexsrovnavac.cz/
+
+Redirect 301 /pl/**** http://www.forexsrovnavac.cz/pl/
+
+Redirect 301 /m/sk/bitcoin http://www.forexsrovnavac.cz/sk/bitcoin
+
+Redirect 301 /news/spusteni-vice-ea-najednou-dil-10-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/tajemstvi-svicek-dil-7-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/obchodni-myslenka-pattern-harami-dil-2-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zadani-podminek-pro-vstup-a-posunuti-na-break-even-dil-7-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zakladni-struktura-ea-dil-3-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/fibonacci/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/spusteni-vice-ea-najednou-dil-10-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/tajemstvi-svicek-dil-7-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/obchodni-myslenka-pattern-harami-dil-2-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zadani-podminek-pro-vstup-a-posunuti-na-break-even-dil-7-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zakladni-struktura-ea-dil-3-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/weby-o-tradingu-na-forexu-v-cestine-a-jejich-kvalita/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/tajemstvi-svicek-dil-7-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/spusteni-vice-ea-najednou-dil-10-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/obchodni-myslenka-pattern-harami-dil-2-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/definice-zadani-pokynu-a-omezovac-vstupu-do-ea-dil-4-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-roboti-aosindex.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/volatilita-paru/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /zaklady-mm/ http://www.forexsrovnavac.cz/money-management
+
+Redirect 301 /forex-nastroje/forex-news/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /productscbm_661596/81/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /zaklady-mql4/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /zaklady-forexu/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zadani-podminek-pro-vstup-a-posunuti-na-break-even-dil-7-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /obchodni-systemy/tvorba-aos/ http://www.forexsrovnavac.cz/forex-roboti-aos
+
+Redirect 301 /obchodni-systemy/obchodni-myslenky/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zadavame-pozici-short-dil-6-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zadani-podminek-pro-vstup-a-posunuti-na-break-even-dil-7-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/programujeme-trailing-stop-v-mql4-dil-8-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/obchodni-myslenka-pattern-harami-dil-2-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/obchodni-myslenka-korelace-menovych-paru-dil-3-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/svickove-formace/productscbm_724306/11/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/svickove-formace/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/pip-kalkulacka/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/indikatory-do-mt4/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-lab/mirror-trading/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /default.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /clanky-o-forexu/vzdelavaci-strom/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/programovani-indikatoru-do-mt4-dil-13-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/indikatory-do-mt4/productscbm_661596/81/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zaciname-s-mql4-dil-1-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /forex-nastroje/pivot-points/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zaciname-s-mql4-dil-1-/ http://www.forexsrovnavac.cz/
+
+Redirect 301 /news/zadani-podminek-pro-vstup-a-posunuti-na-break-even-dil-7-/index.html http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-59-108-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-43-249-pruvodce-.aspx http://www.forexsrovnavac.cz/
+Redirect 301 /4-134-320-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-107-forexacademy-.aspx http://www.forexsrovnavac.cz/
+Redirect 301 /3-27-74-pruvodce-.aspx http://www.forexsrovnavac.cz/
+Redirect 301 /4-107-forexacademy-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /3-26-forexacademy-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-90-140-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /5-123-forexacademy-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /7-131-312-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-5-39-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /uploads/Definice_a_rozdeleni_trendu_4.png http://www.forexsrovnavac.cz/
+
+Redirect 301 /uploads/Definice_a_rozdeleni_trendu_1.png http://www.forexsrovnavac.cz/
+
+Redirect 301 /5-23-forexacademy-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /kurzy/komodityFOREX-BURZA-MENY/Forex-burza-Meny.html http://www.forexsrovnavac.cz/kurzy/forex
+
+Redirect 301 /kurzy/news/kdo-se-muze-v-cr-stat-klientem-hedge-fondu-/ http://www.forexsrovnavac.cz
+
+Redirect 301 /kurzy/ceske-akcie/novinky-burza/ http://www.forexsrovnavac.cz/kurzy/ceske-akcie
+
+Redirect 301 /kurzy/ceske-akcie/news/dluhopisy-vyhody-a-nevyhody-majitele-dluhopisu/ http://www.forexsrovnavac.cz/kurzy/ceske-akcie
+
+Redirect 301 /kurzy/ceske-akcie/news/dluhopisy-doporuceni-pri-obchodovani-s-dluhopisy/ http://www.forexsrovnavac.cz/kurzy/ceske-akcie
+
+Redirect 301 /binarni-opceaffiliates/signup.php?a_aid=7656b674 http://www.forexsrovnavac.cz/binarni-opce
+
+Redirect 301 /5-21-forexacademy-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-59-108-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-43-249-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /4-134-320-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /3-33-255-pruvodce-.aspx http://www.forexsrovnavac.cz/
+
+Redirect 301 /kurzy/news/kdo-se-muze-v-cr-stat-klientem-hedge-fondu-/ http://www.forexsrovnavac.cz/kurzy/komodity/
+
+Redirect 301 /kurzy/us-akcie/zivotopis-warrena-buffetta/ http://www.forexsrovnavac.cz/kurzy/komodity/
+
+Redirect 301 /kurzy/komodity/rss/all.xml http://www.forexsrovnavac.cz/kurzy/komodity/
+
+Redirect 301 /kurzy/komodity/news/how-to-invest-peaks-and-valleys/ http://www.forexsrovnavac.cz/kurzy/komodity/
+
+Redirect 301 /forex-signalyaboutus.aspx http://www.forexsrovnavac.cz/forex-signaly
+
+Redirect 301 /kurzy/komodity/crude-oil http://www.forexsrovnavac.cz/kurzy/komodity/ropa-crude-oil
+
+Redirect 301 /kurzy/komodity/gold http://www.forexsrovnavac.cz/kurzy/komodity/zlato
+
+Redirect 301 /kurzy/komodity/silver http://www.forexsrovnavac.cz/kurzy/komodity/stribro
+
+Redirect 301 /obchodni-prikazy-na-forexu http://www.forexsrovnavac.cz/market-order-limit-order-stop-loss-trailling-stop
+
+
+Redirect 301 /kurzy/nemecke-akcie/dbk http://www.forexsrovnavac.cz/kurzy/nemecke-akcie/deutsche-bank
+	
+Redirect 301 /fed-dolar-hillary-trump-volby-usa http://www.forexsrovnavac.cz/
+
+Redirect 301 /sk/binarne-opcienode/160 http://www.forexsrovnavac.cz/sk/binarne-opcie
+
+Redirect 301 /plus500zajimave-odkazy/ http://www.forexsrovnavac.cz/plus500
+
+Redirect 301 /de/plus500impressum.doc.pdf http://www.forexsrovnavac.cz/de/plus500
+
+Redirect 301 /kurzy/komodityDULEZITE-AKCIOVE-INDEXY/Dulezite-akciove-indexy.html http://www.forexsrovnavac.cz/kurzy/komodity
+
+Redirect 301 /binarni-opceNEJVYZNAMNEJSI-SVETOVE-AKCIE/Akcie-SAP-AG.html http://www.forexsrovnavac.cz/kurzy/us-akcie
+
+Redirect 301 /binarni-opceDULEZITE-AKCIOVE-INDEXY/Dulezite-akciove-indexy.html http://www.forexsrovnavac.cz/kurzy/us-akcie
+
+Redirect 301 /kurzy?tvwidgetsymbol=BABA http://www.forexsrovnavac.cz/kurzy/us-akcie/alibaba
+
+Redirect 301 /kurzy?tvwidgetsymbol=BABA http://www.forexsrovnavac.cz/kurzy/us-akcie/alibaba
+
+Redirect 301 /kurzy/indexy/jpn225 http://www.forexsrovnavac.cz/kurzy/indexy/nikkei-225
+
+Redirect 301 /kurzy/indexy/dji http://www.forexsrovnavac.cz/kurzy/indexy/dow-jones-industrial-average
+
+Redirect 301 /kurzy/indexy/ndx http://www.forexsrovnavac.cz/kurzy/indexy/nasdaq
+
+Redirect 301 /kurzy/indexy/spx http://www.forexsrovnavac.cz/kurzy/indexy/sp-500
+
+Redirect 301 /binarni-opceNEJVYZNAMNEJSI-SVETOVE-AKCIE/Akcie-SAP-AG.html http://www.forexsrovnavac.cz/binarne-opcie
+
+Redirect 301 /sk/binarne-opcienode/160 http://www.forexsrovnavac.cz/sk/binarne-opcie
+
+Redirect 301 /sk/binarne-opcienode/160 http://www.forexsrovnavac.cz/sk/binarne-opcie
+
+Redirect 301 /plus500zajimave-odkazy/ http://www.forexsrovnavac.cz/plus500
+
+Redirect 301 /jak-vybrat-forex-brokera#utm_source=Viber&utm_medium=Chat&utm_campaign=Private http://www.forexsrovnavac.cz/jak-vybrat-forex-brokera
+
+Redirect 301 /hu/bitcoin http://www.forexsrovnavac.cz/hu/plus500
+
+Redirect 301 /fr/plus500broker-cfd/ http://www.forexsrovnavac.cz/fr/plus500
+
+Redirect 301 /sk/plus500products/nakup-zlato1/ http://www.forexsrovnavac.cz/sk/plus500
+
+	
+
+
+
+
+
+
+
+Redirect 301 /de/plus500referent.htm http://www.forexsrovnavac.cz/de/plus500
+
+Redirect 301 /sk/binarne-opciecisty-zisk-tatra-banky-v-prvom-stvrtroku-vo-vyske-4072-mil-eur/ http://www.forexsrovnavac.cz/sk/binarne-opcie
+
+Redirect 301 /sk/plus500news/upozornenie-a-rizika/ http://www.forexsrovnavac.cz/sk/plus500
+
+Redirect 301 /forex-signalysitemap.xml http://www.forexsrovnavac.cz/forex-signaly
+
+Redirect 301 /forex-signalyPerformance/Default.aspx http://www.forexsrovnavac.cz/forex-signaly
+
+Redirect 301 /forex-signalyDefault.aspx http://www.forexsrovnavac.cz/forex-signaly
+
+Redirect 301 /nl/Bitcoin http://www.forexsrovnavac.cz/nl/bitcoin
+
+Redirect 301 /sk/Bitcoin http://www.forexsrovnavac.cz/sk/bitcoin
+
+Redirect 301 /uvod-do-forexu http://www.forexsrovnavac.cz/forex-pro-zacatecniky
+
+
+
+Redirect 301 /binarni-opc http://www.forexsrovnavac.cz/binarni-opce
+
+Redirect 301 /sk/Bitcoin http://www.forexsrovnavac.cz/sk/bitcoin
+
+Redirect 301 /Ironfx http://www.forexsrovnavac.cz/ironfx
+
+
+Redirect 301 /penize-prachy/ http://www.forexsrovnavac.cz/
+Redirect 301 /pt/bitcoin http://www.forexsrovnavac.cz/
+Redirect 301 /sk//pozicka-uver-pozicky-uvery/ http://www.forexsrovnavac.cz/sk/
+Redirect 301 /sk//uzrozumenie.html http://www.forexsrovnavac.cz/sk/
+Redirect 301 /sk/obchodne-hodiny-na-burze-a-forexu http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /sk/plus500news/technicka-analyza-eurchf-ropa-brent-striebro/ http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /sk/plus500news/technicka-analyza-usdjpy/ http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /blog.forexsrovnavac.cz/fxpro http://www.forexsrovnavac.cz/
+Redirect 301 /topoptionnews/investicni-doporuceni-ma-smysl-sledovat-investicni-doporuceni-/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcepujčky-a-uvěry-6400-000/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/04/15/krátkodobá-rychlá-půjčka-pred-vyplatou/ http://www.forexsrovnavac.cz/
+Redirect 301 /sk/binarne-opciegarantovany-vklad-vub-opat-na-trhu/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/04/5/np-nebankovní-půjčka/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcepůjčka-i-s-exekucí/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcepujcka-pardubice-tydenni-i-mesicni-splatky/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opce2014/03/29/hotovostni-pujcka-bez-registru/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcepujcim-penize-az-domu-plzen/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcepujcim-penize-az-domu-plzen/ http://www.forexsrovnavac.cz/
+Redirect 301 /pl/demo-ucet-na-binarni-opce http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /topoptiontags/cena%20obligace/ http://www.forexsrovnavac.cz/topoption
+Redirect 301 /sk//sk.html http://www.forexsrovnavac.cz/sk/
+Redirect 301 /InsideOutside%20opce http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /jak-vydelat-penize-na-internetuporadte-nam/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /sk/binarne-opcienode/57 http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /skbitcoin/ http://www.forexsrovnavac.cz/sk/bitcoin/
+Redirect 301 /sk//clanky/ http://www.forexsrovnavac.cz/sk/
+Redirect 301 /pl/binarni-opce http://www.forexsrovnavac.cz/pl/opcje-binarne
+Redirect 301 /HighLowopce http://www.forexsrovnavac.cz/High-Low-opce
+Redirect 301 /jak-vydelat-penize-na-internetunews/minieshop-zadarmo/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /10-pravidel-pro-uspesne-obchodovani-na-forexu http://www.forexsrovnavac.cz/jak-obchodovat-na-forexu
+Redirect 301 /binarni-opcepůjčka-4000-ihned/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcepůjčím/své-peníze-2013-pardubice/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcenonstop/půjčky-před-výplatou/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcenews/minieshop-zadarmo/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcenebankovní/půjčky-před-vánocemi/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcemerchants/login.php http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcekvalitní-pújčka/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcejak/si-převést-peníze-na-paypal/ http://www.forexsrovnavac.cz/paypal
+Redirect 301 /binarni-opcehavířov/pujčky-do-výplaty/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opceesox/předčasné-splacení-pujcky/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcealbum/pro-kluky/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcenews/par-napadu-pro-zacinajici-sitare-a-prodejce/ http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opceaffiliates/login.php http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opceNEJVYZNAMNEJSI-SVETOVE-AKCIE/Nejvyznamnejsi-svetove-akcie.html http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opceMENY-A-MENOVE-PARY/Meny-na-Forex-trzich.html http://www.forexsrovnavac.cz/
+Redirect 301 /binarni-opcepujcka-pred-vyplatou-na-ucet-ihned/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcepujcka/pro-slovaky/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcepujcky-prokazdeho-v-registru-na-ucet/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opceregistrace-partnera.html http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /binarni-opcerychlá/půjčka-před-výplatou-ještě-dnes-na-účet/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opces/bazar-pujcka-prostejov/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opceuložit/peníze-do-světových-bank/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opcevydělat-rychle-peníze/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opceztp-a-bezůročná-půjčka/ http://www..forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /de/plus500blog/ http://www.forexsrovnavac.cz/de/plus500
+Redirect 301 /de/plus500seminar.jpg http://www.forexsrovnavac.cz/de/plus500
+Redirect 301 /fr/plus500forex-5-conseils-pour-trader-comme-un-pro/ http://www.forexsrovnavac.cz/fr/plus500
+Redirect 301 /sk/binarne-opciebankovy-sektor-na-slovensku-v-roku-2011/ http://www.forexsrovnavac.cz/sk
+Redirect 301 /sk/binarne-opciedalsia-financna-pomoc-zadlzenemu-grecku/ http://www.forexsrovnavac.cz/sk
+Redirect 301 /sk/binarne-opcienode/264 http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /sk/binarne-opciezmena-v-100-nom-ruceni-za-vklady-v-bankach/ http://www.forexsrovnavac.cz/sk
+Redirect 301 /sk/binarni-opce http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /sk/category/investovanie/ http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /sk/cfd-contract-for-difference http://www.forexsrovnavac.cz/sk/cfd-obchodovanie
+Redirect 301 /sk/investovanie/investicie-do-novej-komodity-carbon-credit/ http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /sk/plus500discussion/ http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /sk/plus500rss/trhove-informacie.xml http://www.forexsrovnavac.cz/sk/plus500
+Redirect 301 /binarni-opce2014/04/5/ustí-nad-labem-pujčky-na-smenku/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/6/banky-půjčky/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/6/domov-quick-půjčka/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/6/malá-půjčka-obratem/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/6/nebankovní-půjčka-úroky/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/6/půjčky-plzeň-pro-cizince-ihned/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/6/pujčka-česká-lípa-na-op/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/11/nebankovni-pujčky-do-5000/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/11/nebankovni-pujcka-ihned-na-ucet/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/18/půjčka-najisto/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/11/půjčky-ihned-bez-poplatku/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/11/presto-půjčka-zkušenosti/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/11/pujčka-na-směnku-ostrava-ihned/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/11/recenze-na-sluneční-pujčka/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/5/půjčím-peníze-zoufalcům/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/05/8/půjčky-pro-nezaměstnané-do-30000/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opceAKCIOVE-INDEXY/Akciove-indexy.html http://www.forexsrovnavac.cz/forex-obchodovavani
+Redirect 301 /binarni-opceKOMODITNI-BURZY/Komoditni-burzy.html http://www.forexsrovnavac.cz/forex-obchodovavani
+Redirect 301 /binarni-opceKOMODITNI-MANUAL-ZDARMA!/Leverage-financni-paka.html http://www.forexsrovnavac.cz/forex-obchodovavani
+Redirect 301 /binarni-opceKOMODITY-FUTURES/Komodity-Futures.html http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /binarni-opceKOMODITNI-BURZY/Komoditni-burzy.html http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /binarni-opceKOMODITNI-MANUAL-ZDARMA!/Dlouhe-a-kratke-pozice.html http://www.forexsrovnavac.cz/forex-obchodovavani
+Redirect 301 /binarni-opce2014/04/26/hotovostni-pujcky-do-domu-spoluprace/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/24/pujcky-online-zadost-na-smenku-na-mesicni-splatky/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/24/půjčka-na-fotovoltaickou-elektrárnu/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/20/půjčka-s-neúměrně-vysokým-úrokem/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/19/affiliate-programy-moje-půjčka/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/18/pujcky-radim-zahrada/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/18/pujcky-ihned-liberecky-kraj/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/18/půjčka-najisto/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/18/nebankovní-půjčky-na-směnku-1-5-ml/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/16/půjčka-na-ruku-kolín/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/13/do-hodiny-peníze-na-ruku-chomutov/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/11/pujcky-na-hned-od-18let/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
 Redirect 301 /plus500.htm http://www.forexsrovnavac.cz/plus500
 Redirect 301 /binarni-opceVZDELAVANI-SEMINARE-MANUALY/Vzdelavaci-Seminare-a-Manualy-o-obchodovani.html http://www.forexsrovnavac.cz/binarni-opce
 Redirect 301 /mayzus.htm  http://www.forexsrovnavac.cz/mayzus
@@ -72,11 +568,9 @@ Redirect 301 /binarni-opceAKCIOVE-BURZY/Akciove-burzy.html http://www.forexsrovn
 Redirect 301 /binarni-opceinvesticni-zprostredkovatel http://www.forexsrovnavac.cz/binarni-opce
 Redirect 301 /sk/binarne-opciehospodarske-vysledky-bank-za-rok-2011/ http://www.forexsrovnavac.cz/sk/binarne-opcie
 Redirect 301 /sk/plus500broker-plus500/navod-na-plus500/ http://www.forexsrovnavac.cz/sk/plus500
-
 Redirect 301 /demo-ucet http://www.forexsrovnavac.cz/forex-demo-ucet
 Redirect 301 /forex-bonus-no-deposit-bez-vkladu.php http://www.forexsrovnavac.cz/forex-bonus-no-deposit-bez-vkladu
 Redirect 301 /jak-vydelat-penize-na-internetunews/trocha-praktickeho-hermetismu/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
-
 Redirect 301 /Binarni-opce/ http://www.forexsrovnavac.cz/binarni-opce
 Redirect 301 /Binarni-opce http://www.forexsrovnavac.cz/binarni-opce
 Redirect 301 /sk/binarne-opcienode/21 http://www.forexsrovnavac.cz/sk/binarne-opcie
@@ -102,9 +596,6 @@ Redirect 301 /binarni-opce2014/04/25/nevracena-pujcka/ http://www.forexsrovnavac
 Redirect 301 /binarni-opce2014/04/11/peníze-hned-na-ruku-bez-zamestnani/ http://www.forexsrovnavac.cz/
 Redirect 301 /sk/Stockpair http://www.forexsrovnavac.cz/sk/stockpair
 Redirect 301 /binarni-opce2014/03/17/20000-hotovostní-půjčka-na-op/ http://www.forexsrovnavac.cz/
-Redirect 301 /binarni-opce2014/03/17/20000-hotovostn%C3%AD-p%C5%AFj%C4%8Dka-na-op/ http://www.forexsrovnavac.cz/
-Redirect 301 /binarni-opce2014/03/18/rizika-rychl%C3%A9-p%C5%AFj%C4%8Dky/ http://www.forexsrovnavac.cz/
-Redirect 301 /binarni-opce2014/03/17/www.domaci-puj%C4%8Dky.cz/ http://www.forexsrovnavac.cz/
 Redirect 301 /binarni-opceetuje-500-g/?pg=kosik&ref=produkty&k=1&p=4&z=1&seradit= http://www.forexsrovnavac.cz/
 Redirect 301 /binarni-opce2014/03/17/www.domaci-pujčky.cz/ http://www.forexsrovnavac.cz/
 Redirect 301 /binarni-opce2014/03/18/rizika-rychlé-půjčky/ http://www.forexsrovnavac.cz/
@@ -112,17 +603,23 @@ Redirect 301 /binarni-opce2014/03/18/the-sims-3-kód-na-peníze/ http://www.fore
 Redirect 301 /binarni-opce2014/03/18/pujcky-na-smenku-ostrava/ http://www.forexsrovnavac.cz/
 Redirect 301 /binarni-opce2014/04/11/firemní-půjčky-nebankovní/ http://www.forexsrovnavac.cz/
 Redirect 301 /binarni-opcedokumenty/schema_provizi.png http://www.forexsrovnavac.cz/
-Redirect 301 /binarni-opceetuje-500-g/?pg=kosik&ref=produkty&k=1&p=4&z=1&seradit= http://www.forexsrovnavac.cz/
 Redirect 301 /de/plus500cgi-bin/weblog_basic/index.php?feed=rss2 http://www.forexsrovnavac.cz/de/plus500
-
-
-
-
-
-
-
-
-
+Redirect 301 /sk/binarne-opcieglobal-finance-ocenil-vub-ako-najbezpecnejsiu-banku/ http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /sk/ako-obchodovat-binarne-opcie http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /binarni-opceINFO-K-WEBU-ARDEUS/info-k-webu-Ardeus.html http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /binarne-opcie http://www.forexsrovnavac.cz/binarni-opce
+Redirect 301 /sk/stockpair-recenzia http://www.forexsrovnavac.cz/sk/stockpair
+Redirect 301 /etx-capital-skusenosti http://www.forexsrovnavac.cz/etx-capital-zkusenosti
+Redirect 301 /binarni-opce2014/03/19/okamzita-pujcka-online-pred-vyplatou/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/03/31/www.pujcky-kuryr.cz/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/11/euro-penize/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/11/firemní-půjčky-nebankovní/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/11/nebankovní-půjčky-expres-cash/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /binarni-opce2014/04/11/peníze-hned-na-ruku-bez-zamestnani/ http://www.forexsrovnavac.cz/jak-vydelat-penize-na-internetu
+Redirect 301 /sk/binarne-opcienode/40 http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /menove-pary/kurz-euro-czk/ http://www.forexsrovnavac.cz
+Redirect 301 /sk/binarne-opciehospodarske-vysledky-bank-v-roku-2010-2-diel-–-na-com-banky-zarabaju-najviac/ http://www.forexsrovnavac.cz/sk/binarne-opcie
+Redirect 301 /sk/binarne-opcietaxonomy/term/12 http://www.forexsrovnavac.cz/sk/binarne-opcie
 
 
 

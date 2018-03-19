@@ -8,6 +8,9 @@
     "keywords": "Onlyoption, Onlyoption recenze"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
   <meta itemprop="ratingValue" content="88"/>
@@ -27,6 +30,8 @@
 O onlyoption.com
 :    
 Na konci roku 2014 byl představen nový broker nesoucí název OnlyOption, jehož provozovatelem je Safecap Investments Ltd., který včetně OnlyOption vede i několik dalších makléřských společností (Finexo, Markets.com, TopOption, OptionTime, 24winner a další). Broker OnlyOption podléhá regulaci kyperského úřadu CySEC, anglického úřadu FCA i České národní banky. 
+
+{{partial: topoption}}
 
 </div>
   <div class="col-md-6" markdown="1">
@@ -76,13 +81,18 @@ OnlyOption se na základě uvedených informací velmi podobá brokerovi [TopOpt
 | **Druhy binárních opcí**  | Klasické binární (minutové i dlouhodobé) |
 | **Výnosy z binárních opcí**  | až 85% na High/Low opcích |
 | **Zajímavost**  | 100% Bonus na vklad |
-| **Demo účet**  | Ano |
+| [**Demo účet**](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce "Demo účet na binární opce")  | Ano |
 | **Čeština**  | Ano |
 
 
 
+
 </div>
 </div>
+
+{{partial: topoption}}
+
+
 {{/section}}
 ![topoption](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/trades-onlyoption.png) 
 {{section}}
@@ -144,34 +154,13 @@ Broker poskytuje svým obchodníkům možnost vzdělávání a neustálého růs
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-  
-
-![onlyoption.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/onlyoption-logo.jpg) 
 
 
 </div>
 <div class="container-fluid" markdown="1">
 
+{{partial: Widget - Brokeri}}
 
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Pokročilé nástroje
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Regulace od ČNB
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Populární broker u obchodníků
-
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Nevhodné pro začátečníky
 - - -
 </div>
 <div class="container-fluid" markdown="1">
@@ -181,7 +170,9 @@ Nevýhody
 
 - - -
 
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
+
+</div><!-- /itemreview -->

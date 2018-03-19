@@ -1,12 +1,11 @@
-<div class="jumbotron" markdown="1">
+﻿<div class="jumbotron" markdown="1">
 
 ![img]({{img-url}}litecoin.png)
 
-# Litecoin
+# Litecoin kurz
 
-Začnite obchodovať s menou, ktorá zmení svet.
+aktuálny graf - Euro / Dolár
 
-Uvítací bonus 25 €.
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -21,21 +20,25 @@ Uvítací bonus 25 €.
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Obchod s Litecoinmi</a>
+          <a href="#top"> <span class="hidden-sm">Litecoin Kurz</span></a>
         </li>
         <li>
-          <a href="#section-1">O čo ide</a>
+          <a href="#section-1">Litecoin / Dolár</a>
         </li>
         <li>
-          <a href="#section-2">Aktuálny kurz</a>
+          <a href="#section-2">Litecoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Kde obchodovať</a>
+          <a href="#section-3">Čo je to Litecoin</a>
         </li>
-      </ul>
+          <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmacz"><span style="color: red;">Obchodovanie s Litecoinom</span></a>
+        </li>
+        </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a href="{{url}}">Forex <i class="fa fa-bar-chart-o"></i> srovnávač</a>
+          <a href="{{url}}">Forex <i class="fa fa-bar-chart-o"></i> porovnávač</a>
+          </ul>
         </li>
       </ul>
     </nav>

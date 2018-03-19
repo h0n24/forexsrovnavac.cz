@@ -1,3 +1,3 @@
-[Demo účet na Forex](http://www.forexsrovnavac.cz/sk/demo-ucet){.btn .bnt-lg .btn-primary}
+[Demo účet na Forex](http://www.forexsrovnavac.cz/sk/demo-ucet#section-1){.btn .bnt-lg .btn .btn-success}
 
-[Čo sú Binárne opcie?](http://www.forexsrovnavac.cz/sk/binarne-opcie){.btn .bnt-lg .btn-primary}
+[Forex bonus bez vkladu](http://www.forexsrovnavac.cz/sk/forex-bonus-no-deposit-bez-vkladu){.btn .bnt-lg .btn-primary}

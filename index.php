@@ -22,6 +22,10 @@ define('BASE_URL', core::base_url(basename(__DIR__)));
 // Get request url and script url
 $url = '';
 $request_url = (isset($_SERVER['REQUEST_URI'])) ? $_SERVER['REQUEST_URI'] : '';
+if (strpos($request_url, '?') !== FALSE) { 
+    $request_url = explode("?", $request_url); //odebere GET parametry
+    $request_url = $request_url[0];
+}
 $base_url  = (isset($_SERVER['PHP_SELF'])) ? $_SERVER['PHP_SELF'] : '';
 	
 // Get our url path and trim the / of the left and the right
@@ -93,6 +97,8 @@ $content = MarkdownExtra::defaultTransform($content);
 $settings = core::settings($content);
 $content = $settings[1];
 $settings = $settings[0];
+/*var_dump($settings);
+exit();*/
 
 $content = core::partials($content, $settings);
 
@@ -110,7 +116,20 @@ $content = layout::layout($content);
 
 $footer_left = layout::footer_left();
 $footer_statement = layout::footer_statement($settings);
+
 $footer_right = layout::footer_right($settings, $url);
 
-require(ROOT_DIR . 'assets/php/template/main.php');
+/* Currency */
+$bitcoin = layout::currency();
+
+
+if (
+    isset($settings['templateFile']) 
+    && file_exists(ROOT_DIR . 'assets/php/template/'.$settings['templateFile'].'.php')
+) {
+    require(ROOT_DIR . 'assets/php/template/'.$settings['templateFile'].'.php');
+} else {
+    require(ROOT_DIR . 'assets/php/template/main.php');
+}
+
 ?>

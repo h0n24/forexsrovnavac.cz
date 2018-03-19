@@ -18,13 +18,13 @@
 
 Říká se,že technická analýza je nejpřesnější způsob odhadování vývoje cen forex trhů. Je ideální ji kombinovat s přihlédnutím na analýzu fundamentální. Které tři body bychom měli znát dříve, než vstoupíme do trhů:
 
-*historie se opakuje (bariéry na grafech odrážejí shodné vzory)*
+**historie se opakuje (bariéry na grafech odrážejí shodné vzory)**
 
-*ceny se pohybují v trendech*
+**ceny se pohybují v trendech**
 
-*jakákoliv převratná zpráva již je obsažena v ceně kontraktu na trhu*
+**jakákoliv převratná zpráva již je obsažena v ceně kontraktu na trhu**
 
-    Netvrdíme vám, že když budete důkladně používat technickou analýzu, stanete se milionáři, ale statistika říká, že úspěšní obchodníci na Forexu používají technickou analýzu. A proč mají takový úspěch? Věří ve tři zmíněné body. Takže jak vám může technický rozbor pomoci určovat trend, pohyb a předpokládanou cenu. Jak zjistíte, že máte obchodovat s trendem, nebo proti trendu. To je složitější.
+>Netvrdíme vám, že když budete důkladně používat technickou analýzu, stanete se milionáři, ale statistika říká, že úspěšní obchodníci na Forexu používají technickou analýzu. A proč mají takový úspěch? Věří ve tři zmíněné body. Takže jak vám může technický rozbor pomoci určovat trend, pohyb a předpokládanou cenu. Jak zjistíte, že máte obchodovat s trendem, nebo proti trendu? To je složitější.
 
 Záleží to na mnoha faktorech. Jedním z nich může být fakt, **jestli jste obchodník krátkodobý nebo dlouhodobý**. Protože se můžete dívat na kontrakt, který je z dlouhodobého pohledu v růstu – takže jde o jasný trend vzestupu, ale krátkodobě (třeba na pětiminutovém grafu je trend opačný). Prostě je to trend v trendu. Pak si mimo jiné musíte uvědomit, jaký je vlastně styl vašeho obchodování a jaké jsou vaše cíle.
 
@@ -86,7 +86,7 @@ U tohoto indikátoru můžeme zvolit periodu - interval. ten se pohybuje obvykle
 Vhodnou kombinaci těchto signálů si musíte odzkoušet sami na základě zkušeností. Jako vždy ,nic není jisté a často se objevují falešné signály, kdy scalpeři vidí stopp losy umístěné v trhu a záměrně pošlou trh na chvíli na druhou stranu.
 
 
-
+{{partial: xmcom}}
 
 
 
@@ -107,14 +107,9 @@ Vhodnou kombinaci těchto signálů si musíte odzkoušet sami na základě zku�
 
 
 - - -
-
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
-
+{{partial: fxpro-widget}}
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
 
 </div>
 </div>

@@ -1,0 +1,1 @@
+[{"name":"Kamila","text":"kurz mena z 50 dolaru na ceskou menu kolik by to mohlo delat na nase ceske ","ip":"93.185.10.1","timestamp":1511392455}]

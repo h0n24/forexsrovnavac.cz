@@ -3,14 +3,11 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Czym są Opcje binarne - Poradnik",
+    "title": " Opcje binarne - Poradnik 2017, Polska",
     "description": "",
     "keywords": "Opcje binarne"
   }
 {{/settings}}
-
-<div class="row">
-<div class="col-md-9" role="main" markdown="1">
 
 
 # Opcje binarne
@@ -19,11 +16,13 @@
 
 - - -
 
-Treść strony: [Opcje binarne - recenzje](http://forexsrovnavac.cz/pl/opcje-binarne#section-1) - [Jakie są opcje binarne](http://forexsrovnavac.cz/pl/opcje-binarne#section-2) - [Demo konto](http://forexsrovnavac.cz/pl/opcje-binarne#section-6) - [Jak handlować opcjami binarnymi ](http://forexsrovnavac.cz/pl/opcje-binarne#section-3)  - [Gdzie handlować z opcjami binarnymi](http://forexsrovnavac.cz/pl/opcje-binarne#section-5)
+Treść strony: [Opcje binarne - recenzje](http://forexsrovnavac.cz/pl/opcje-binarne#section-1) - [Jakie są opcje binarne](http://forexsrovnavac.cz/pl/opcje-binarne#section-2) - [Demo konto](http://forexsrovnavac.cz/pl/opcje-binarne#section-6) - [Jak handlować opcjami binarnymi ](http://forexsrovnavac.cz/pl/opcje-binarne#section-3) 
 
 **Opcje binarne są jedną z wielu możliwości, jak zlepszyć swoje finanse**. Z zagranicznych doświadczeń wynika, że handlować opcjami binarnymi może naprawdę każdy. Z opcjami binarnymi handluje również liczna polska i słowacka wspólnota, więc z tego powodu brokerzy binarni mają swoje aplikacje i strony internetowe w języku polskim. Zarobek za pomocą opcji binarnych jest dzięki temu dostępny ogromnej masie ludzi. **Minimalna wartość inwestycji u opcji binarnych wynosi ok. 100 USD (377 PLN)**.
 
-[Oglądaj platformę opcji binarnych](http://blog.forexsrovnavac.cz/topoption.pl){.btn .btn-lg .pull-left .btn-primary .btn-index} Jeśli więc rozmyślasz o wytworzeniu sobie jakiegoś pasywnego dochodu lub o zarobku jednorazowym i nie chcesz inwestować ogromnej sumy, opcje binarne są dla Ciebie rozwiązaniem, bowiem ze stosunkowo małej inwestycji w rzędzie setek złotych możesz zyskać regularny pasywny dochód i dodatkowo zarobić.
+ Jeśli więc rozmyślasz o wytworzeniu sobie jakiegoś pasywnego dochodu lub o zarobku jednorazowym i nie chcesz inwestować ogromnej sumy, opcje binarne są dla Ciebie rozwiązaniem, bowiem ze stosunkowo małej inwestycji w rzędzie setek złotych możesz zyskać regularny pasywny dochód i dodatkowo zarobić.
+
+
 
 Jeśli myślisz o handlowaniu akcjami lub towarami,  ale nie posiiadasz tysięcy aby je zakupić, nie rozpaczaj. Możesz rozpocząć handlować opcjami binarnymi, ponieważ opcje te są tak bardzo specyficzne, że do zakupu twojej pierwszej opcji binarnej wystarczy Ci kapitał mieszczący się w rzędzie setek złotych.
 
@@ -38,23 +37,17 @@ Przewodnik opcji binarnych, jak zacząć?
 
 
 
-[Plus500 - CFD broker z premią 100 zl](http://www.forexsrovnavac.cz/pl/plus500 "plus 500 opinie")
-
-
   </div>
   <div class="col-md-6" markdown="1">
 Wybierz sobie odpowiedniego brokera
 
 :      Na naszych stronach internetowych recenzujemy tylko brokerów, którzy są należycie sprawdzani i regulowani NBP. Handluj tylko u jakościowych i sprawdzonych brokerów z największym możliwym stopniem zysku.
 
-[Topoption - (PL)](http://blog.forexsrovnavac.cz/topoption.pl "TopOption")
-
-
-[Sprawdź konto demo dla opcji binarnych](http://blog.forexsrovnavac.cz/topoption.pl "Konto demo"){.btn .bnt-lg .btn-default}
-
 </a>
 </div>
 </div>
+
+<a href="http://blog.forexsrovnavac.cz/plus500.pl" target="_blank" title="+"><img src="http://cdn.plus500.com/Media/Banners/970x90/28633.gif?set=Cryptocurrencies_CySec" width="970" height="90" border="0" alt="+" /></a>
 
 
 
@@ -115,8 +108,6 @@ W naszym przypadku o godz. 15:00 para walutowa wzrosła na 1,2695. Transakcja  b
 </div>
 </div>
 
-[Spróbuj konto demo z opcji binarnych TopOption brokera](http://blog.forexsrovnavac.cz/topoption.pl){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
-
 ![Opcje binarne](http://i.imgur.com/BSPnbNN.png)
 - - -
 
@@ -142,7 +133,7 @@ Mówi się "Nawet z małym kacperem można zagrać duży teatr" i właśnie ten 
 
 Czym mogę handlować za pomocą opcji binarnych?
 
-[Przegląd wszystkich narzędzi biznesowych](http://blog.forexsrovnavac.cz/topoption.pl){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+
 
 :   Za pomocą opcji binarnych można spekulować wzrost twoich ulubionych marek takich jak akcje Apple, akcje Facebook lub Visacard. Dalej możesz też spekulować spadek czy wzrost poszczególnych walut światowych np. Dolar amerykański, Euro europejskie lub Yuan chiński. Jeśli wolisz towary, nie rozpaczaj, za pomocą opcji binarnych możesz w prosty sposób spekulować spadek lub wzrost towarów takich jak złoto, strebro, ropa lub inne.
 
@@ -160,13 +151,6 @@ Czym mogę handlować za pomocą opcji binarnych?
 - - -
 
 
-{{/section}}
-*Przykłady handlu z opcjami binarnymi* <pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Wskazówka 1:</strong> <a href="http://blog.forexsrovnavac.cz/topoption.pl">Wskazówka 1: Spójrz na aplikację handlową</a> u TopOption</span></span></pre>
- 
-![Příklady obchodů](http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/p%C5%99%C3%ADkladyobchd%C5%AF.png)
-
-{{/section}}
-
 
 {{section}}
 ## Doświadczenia czytelnika z opcjami binarnymi
@@ -175,7 +159,7 @@ Z opcjami binarnymi zacząłem jakieś sześć miesięcy temu. Najpierw powiedzi
 
 Niezmiernie ważny jest wybór brokera
 
-:     Najpierw przede wszystkim zacząłem poszukiwać naprawdę jakościowego brokera, z którym podczas handlu nie miałbym żadnych kłopotów. Po przeczytaniu artykułów w internecie i po doświadczeniach kolegi, skupiłem uwagę przede wszystkim na regulację niezależnego brokera, na bezproblemowe działanie jego aplikacji i w końcu na zyskowność opcji binarnych, która u poszczególnych brokerów znajduje się w przedziale od 70 – 85 %. Najbardziej mi odpowiadał TopOption lub Stockpair - Świetnie oceniany broker (EN).
+:     Najpierw przede wszystkim zacząłem poszukiwać naprawdę jakościowego brokera, z którym podczas handlu nie miałbym żadnych kłopotów. Po przeczytaniu artykułów w internecie i po doświadczeniach kolegi, skupiłem uwagę przede wszystkim na regulację niezależnego brokera, na bezproblemowe działanie jego aplikacji i w końcu na zyskowność opcji binarnych, która u poszczególnych brokerów znajduje się w przedziale od 70 – 85 %. 
 
 Pierwsza inwestycja ok. 100 USD
 
@@ -196,8 +180,6 @@ Wybór odpowiedniej strategii opcji binarnych
 {{section}}
 ## Demo konto opcji binarnych, darmowe
 
-
-[Darmowe konto demo do pobrania](http://blog.forexsrovnavac.cz/topoption.pl){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 Demo konto jest niezmiernie ważne przede wszystkim dla początkujących biznesmenów opcji binarnych. Służy przede wszystkim do orientacji w aplikacji handlowej. Demo konto w dużej mierze działa jak konto realne, podstawową różnicą jest to, że za pomocą konta demo handlujesz tylko pieniędzmi wirtualnymi, więc ewentualne zyski lub straty są tylko wirtualne.
 
 Demo konto odpowiednie jest przede wszystkim dla początkujących
@@ -212,19 +194,14 @@ Zapoznanie się z opcjami binarnymi i rynkami, jak również z danymi i wykresam
 
 :    Kolejnym celem i rolą treningu na koncie demo jest możliwość naprawdę dobrego zapoznania się z rynkami jako takimi. Tutaj nazwałbym to swego rodzaju „dostrojeniem się” na falę rynku jeszcze przed wejściem do prawdziwego świata. Zaletą tego dostrojenia się jest to, że człowiek stwierdzi, który rynek najbardziej mu odpowiada i odwrotnie, na którym nie będzie handlować lub ewentualnie na którym  będzie najpierw handlować i który zostawi sobie jako rezerwę. Biznesmeni temperamentni wolą rynki żywe, bardziej ostrożni wybierają inne rynki.
 
-Więcej informacji na temat kont demo w naszym artykule [Opcje binarne – wersja demo konto](http://blog.forexsrovnavac.cz/topoption.pl){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+
 
 {{/section}}
 
 {{section}}
 
-##Gdzie handlować opcjami binarnymi?
 
-:   Na pewno polecamy brokera [TopOption](http://blog.forexsrovnavac.cz/topoption.pl "TopOption"), który jest sprawdzonym brokerem w ramach wąskiej grupy polskich biznesmenów. Chodzi bowiem o niezawodnego brokera opcji binarnych z regulacją NBP. TopOption, który ma regulację UE (łącznie z licencją Narodowego Banku Polskiego i Czeskiego Banku Narodowego), ma platformę handlową w języku polskim, jak również polskiego menedżera.
-
-TopOption jest do tej pory najbardziej kompleksową spółką
-:       Z tego wynika jeden podstawowy fakt, że twoje inwestycje na koncie handlowym są zabezpieczone do wysokości 20 tysięcy Euro, w przypadku że spółka znajdzie się w bankructwie. Platforma internetowa jest w języku polskim i również zastępcy brokera komunikują w jezyku polskim i to za pośrednictwem wiadomości e-mail lub telefonu. Swoje umiejętności sprawdzisz sobie u TopOption za pośrednictwem konta demo i na realnym  koncie  od 100$ z opcjami od 10$. Ten broker również oferuje darmowy program edukacyjny.
-[TopOption - nasze recenzje brokera -->>](http://blog.forexsrovnavac.cz/topoption.pl "TopOption").
+.
 {{/section}}
 - - -
 Strzeż się fałszywych programów opcji binarnych
@@ -232,75 +209,3 @@ Strzeż się fałszywych programów opcji binarnych
 :   *Opcje binarne są na pewno ciekawą możliwością pasywnych zarobków, jednakże w odniesieniu do ich wzrastającej popularności powstaje duża ilość fałszywych systemów obiecujących opłacalne 100% sygnały lub niezawodne indykatory wstępu do pozycji i zarobek tzw. bez pracy i edukacji. To naprawdę nie jest odpowiedni sposób, jakim powinien początkujący biznesmen rozpocząć. Należy wymienić przede wszystkim BinaryBotPro lub Optionavigator*
 
 
-</div>
-<div class="col-md-3" markdown="10">
-
-- - -
-
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Ranking Brokerów</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="#"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption.pl" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Ocena: <b>97%</b>
-  </div>
-  <a class="recenze" target="_parent" href="http://blog.forexsrovnavac.cz/topoption.pl" title"Przeczytaj recenzję">Przeczytaj</a>
-  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption.pl" title"Otvoriť účet">WEB</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://blog.forexsrovnavac.cz/etxbinary" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-    Ocena: <b>95%</b>
- </div>
- <a class="recenze" target="_parent" href="http://blog.forexsrovnavac.cz/etxbinary" title"Przeczytaj recenzję">Przeczytaj</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otvoriť účet">WEB</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-    Ocena: <b>92%</b>
- </div>
- <a class="recenze" href="http://blog.forexsrovnavac.cz/stockpair" title"Przeczytaj recenzję">Przeczytaj</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otvoriť účet">WEB</a>
-</div> 
-
-<hr />
-
-<a href="http://blog.forexsrovnavac.cz/topoption.pl" alt="Demo konto"  target="_blank">
- <img src="http://i.imgur.com/01W748W.png" width="" height=""/>
-</a>
-
-<hr />
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDY0MjA1OSZsPTE0NjQxNzQ0JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDY0MjA1OSZsPTE0NjQxNzQ0JnA9MTAxNjA%3D" width="300" height="600"/>
-</a>
-</a>
-
-
-
-</div>
-</div>
-</div>

@@ -8,6 +8,7 @@
     "keywords": "Paypal"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
 
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
@@ -152,30 +153,13 @@ PayPal je veľmi obľúbená a praktická metóda platenia, ktorá je vhodná pr
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Zárobok na forexu:
-:    
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-Binárne opcie:
-:    
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Onlyoption recenzia](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption recenzia")
-
+{{partial: menu-sk}}
 
 </div>
 <div class="container-fluid" markdown="1">
 - - -
 
 
-</div>
-<div class="container-fluid" markdown="1">
 
 </div>
 <div class="container-fluid" markdown="1">
@@ -184,16 +168,12 @@ Binárne opcie:
 
 </div>
 <div class="container-fluid" markdown="1">
-
-
-
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/sk/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
+{{partial: Widget - Brokeri}}
 
 </a>
 
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

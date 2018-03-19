@@ -4,9 +4,9 @@
 
 # Bitcoin Kurs
 
-Bitcoin - mit virtueller Währung.
+Kurs in - Euro / Dollar 
 
-Begrüßungsbonus 25 €
+
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -21,16 +21,19 @@ Begrüßungsbonus 25 €
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Handel mit Bitecoins</a>
+          <a href="#top">Bitcoin kurs</a>
         </li>
         <li>
-          <a href="#section-1">Worum es geht?</a>
+          <a href="#section-1">Bitcoin / Dollar</a>
         </li>
         <li>
-          <a href="#section-2">Bitcoin Kurs</a>
+          <a href="#section-2">Bitcoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Wo kann man handeln?</a>
+          <a href="#section-3">Was ist Bitcoin</a>
+        </li>
+        <li>
+          <a href="http://blog.forexsrovnavac.cz/btcmarketsall"><span style="color: white;">Jetzt mit Bitcoin Handeln</span></a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

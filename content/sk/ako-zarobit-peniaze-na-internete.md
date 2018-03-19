@@ -22,6 +22,19 @@ Popravde povedané, existuje množstvo možností, ako na internete zarobiť. Ti
 
 V našom článku sa preto pozrieme na čo najširšiu škálu možností a spôsobov, **ako na internete zarábať peniaze**, alebo získať nejakú občasnú prácu, ktorá by vám mohla zaistiť pasívny príjem, počnúc klasickým klikaním a e-maily, cez založenie vlastného webu a končiac hraním hier v online kasínach.
 
+
+## Recenzie Forex brokerov
+- - -
+
+[Plus500](http://www.forexsrovnavac.cz/sk/plus500 "Plus500 recenzia")
+
+[XM Group](http://www.forexsrovnavac.cz/sk/xm--com "XM Group recenzia")
+
+[Markets](http://www.forexsrovnavac.cz/sk/markets-com-recenzia "Markets.com recenzia")
+
+- - -
+
+
 {{/section}}
 
 ##1. Zárobok na internete pomocou tvorby webových stránok
@@ -145,45 +158,18 @@ Každý z nás by si mal hlavne zapamätať, že šťastie praje pripraveným, a
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-Zárobok na forexu:
-:    
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-Binárne opcie:
-:    
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Onlyoption recenzia](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption recenzia")
-
-
-</div>
-<div class="container-fluid" markdown="1">
+{{partial: menu-sk}}
 - - -
 
-
 </div>
-<div class="container-fluid" markdown="1">
 
-</div>
-<div class="container-fluid" markdown="1">
-
-
+<a href="http://blog.forexsrovnavac.cz/plus500cz" target="_blank" title="+500"><img src="http://cdn.plus500.com/Media/Banners/300x600/24179.gif?set=banner_cnbc_cysec" width="265" height="600" border="0" alt="+500" /></a>
 
 </div>
 <div class="container-fluid" markdown="1">
 
 
 
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/sk/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
 
 </a>
 

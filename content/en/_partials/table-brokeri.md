@@ -78,7 +78,7 @@
 <tr>
   <th>Bonus</th>
   <td>-</td>
-  <td><strong>Welcoming bonus 500 CZK</strong></td>
+  <td><strong>/</strong></td>
   <td>-</td>
   <td>-</td>
   <td>-</td>

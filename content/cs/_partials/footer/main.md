@@ -1,14 +1,14 @@
 <div class="pull-center">
-<a href="http://www.forexsrovnavac.cz/kontakt">Kontaktujte nás</a> 
- &raquo;&nbsp <a href="https://www.facebook.com/pages/Forexsrovnavaccz/1415896768627764" target="_blank"><img src="{{base-url}}assets/img/social/fb.jpg" alt="Facebook" width="32" height="32" /></a>
+<a href="http://www.forexsrovnavac.cz/kontakt">Contact us</a> 
+ »  <a href="https://www.facebook.com/pages/Forexsrovnavaccz/1415896768627764" target="_blank"><img src="{{base-url}}assets/img/social/fb.jpg" alt="Facebook" width="32" height="32" /></a>
 	<a href="https://plus.google.com/b/102399851706317478440/102399851706317478440/about" target="_blank"><img src="{{base-url}}assets/img/social/gplus.png" alt="Google+" width="32" height="32" /></a>
 	<a href="https://www.youtube.com/channel/UC7QDVYExySk78S41Gg0Pc6A/feed" target="_blank"><img src="{{base-url}}assets/img/social/youtube.png" alt="Youtube" width="32" height="32" /></a>
 </div>
 
-<script src="http://c1.navrcholu.cz/code?site=142784;t=lb14" type="text/javascript"></script><noscript><div><a href="http://navrcholu.cz/"><img src="http://c1.navrcholu.cz/hit?site=142784;t=lb14;ref=;jss=0" width="14" height="14" alt="NAVRCHOLU.cz" style="border:none" /></a></div></noscript>
+
 
 <i class="fa fa-language"></i>
- &nbsp; <a href="{{base-url}}en/">en</a>
+   <a href="{{base-url}}en/">en</a>
  · <a href="{{base-url}}de/">de</a>
  · <a href="{{base-url}}pl/">pl</a>
  · <a href="{{base-url}}nl/">nl</a>
@@ -19,11 +19,5 @@
  · <a href="{{base-url}}it/">it</a>
  · <a href="{{base-url}}sk/">sk</a>
  · <a href="{{base-url}}">cs</a>
+ 
 
-<!-- Pocitadlo.cz  pocitadlo:91485  uzivatel:60890 -->
-<script language="JavaScript" type="text/javascript">
-<!--
-Tmp=Math.floor(1000000 * Math.random());
-document.write("<scr" + "ipt src=\"http://cnt2.pocitadlo.cz/counter.php?poc=91485&amp;ref="+escape(top.document.referrer)+"&amp;depth="+screen.colorDepth+"&amp;width="+screen.width+"&amp;height="+screen.height+"&amp;tmp="+Tmp+"\" language=\"JavaScript\" type=\"text/javascript\"></scr" + "ipt>");
-// -->
-</script>

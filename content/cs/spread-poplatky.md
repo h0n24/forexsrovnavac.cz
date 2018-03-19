@@ -12,19 +12,19 @@
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
-{{section}}
 
+{{start}} 
 # Co je to Spread? 
 
-Spread je velmi důležitou součástí obchodování a neměli byste ho přehlížet. Zájmem každého obchodníka by měl být co nejnižší spread u kvalitního brokera. Dalo by se říci, že velikost spreadu je více podstatná pro krátkodobější obchodníky, než u swingových obchodníků, kteří udělají pár dlouhodobých obchodů měsíčně / ročně. Faktem je, že je jen málo obchodníků, kteří otevřou pozici pouze jednou čas. 
+**Spread je velmi důležitou součástí obchodování a neměli byste ho přehlížet.** Zájmem každého obchodníka by měl být co nejnižší spread u kvalitního brokera. Dalo by se říci, že velikost spreadu je více podstatná pro krátkodobější obchodníky, než u swingových obchodníků, kteří udělají pár dlouhodobých obchodů měsíčně / ročně. Faktem je, že je jen málo obchodníků, kteří otevřou pozici pouze jednou čas. 
+{{/start}} 
 
-Při denním obchodování, tak obchodník ušetří na spreadu nezanedbatelné částky. Je rozdíl obchodovat s EUR / USD při spreadu 2 bodů a 8 bodů. 6 bodový rozdíl tak pro obchodníka znamená 6 bodů, které by si mohl připsat k zisku při každém obchodě.  I jednobodový rozdíl jde poznat, pokud uděláte 30 obchodů měsíčně, máte tak 30 bodů k dobru.
+Při denním obchodování, **tak obchodník ušetří na spreadu nezanedbatelné částky**. Je rozdíl obchodovat s EUR / USD při spreadu 2 bodů a 8 bodů. 6 bodový rozdíl tak pro obchodníka znamená 6 bodů, které by si mohl připsat k zisku při každém obchodě.  I jednobodový rozdíl jde poznat, pokud uděláte 30 obchodů měsíčně, máte tak 30 bodů k dobru.
 
 V této době skoro každý broker tvrdí, že má nejužší spread v tomto průmyslu. Marketingové řeči však mohou být někdy zavádějící. Předmět spreadů na forexovém spotovém trhu je překvapivě komplexní a mnozí ho často pochopí nesprávné. Nic však neovlivňuje Vaše zisky z obchodování více, než spread. Pokusíme se tak do celé záležitosti přinést trochu světla.
 
-Za prvé, **spread je rozdíl mezi cenou ask (cena, za kterou nakupujete) a cenou bid (cena, za kterou prodáváte)**, která je kotována v pips. Pokud je rozdíl mezi EUR / USD v dané chvíli 1.2102 / 4, pak je spread 2 body. Pokud je rozdíl 1.2104 / 9, pak je spread 5 pips. 
+>**Spread** je rozdíl mezi cenou ask (cena, za kterou nakupujeme) a cenou bid (cena, za kterou prodáváme), která je kotována v **pips**. Pokud je rozdíl mezi EUR / USD v dané chvíli 1.2102 / 4, pak je spread 2 body. Pokud je rozdíl 1.2104 / 9, pak je spread 5 pips. Širší spready mají za následek vyšší cenu ask a nižší cenu bid. Důsledkem je, že platíte vždy víc, když nakupujete a dostanete méně když prodáváte, je těžší pak vydělat.
 
-Širší spready mají za následek vyšší cenu ask a nižší cenu bid. Důsledkem je, že platíte vždy víc, když nakupujete a dostanete méně když prodáváte, je těžší pak vydělat.
 
 Brokeři obvykle nevydělávají celý spread, obzvláště když [**Hedgují**](http://www.forexsrovnavac.cz/hedging "Hedging") pozice klientů. Spread kompenzuje tvůrce trhu za risk od času, kdy klient vykoná obchod do chvíle, kdy je celková expozice brokera zahedgovaná (dost možná, že za odlišnou cenu).
 
@@ -53,7 +53,7 @@ Změna brokera za brokera s lepšími spread podmínkami může být velkým př
 
 ##Kolik Vás spready ve skutečnosti stojí
 
-Jak by nižší spready zlepšily Vaši návratnost? Tyto otázky ohledně spreadu pro Vaše brokerů Vám pomohou správně začít. rozumět kvalitě provádění obchodů při Vašem obchodním stylu. Nejlepším způsobem jak to zjistit je otevřít si účet u několika brokerů a vyzkoušet je, stačí [**demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "forex demo účet"). Odměnou za tuto práci budou ušetřené peníze. Alternativně, zjistěte si co říkají jejich stávající klienti – ptejte se na reference, nebo konzultujte brokera, market makera s někým zkušeným. Nakonec vyzkoušejte různé demo platformy brokerů. Mějte se však na pozoru: demo platformy často provádějí objednávky lépe než skutečné.
+Jak by nižší spready zlepšily Vaši návratnost? Tyto otázky ohledně spreadu pro Vaše brokerů Vám pomohou správně začít. rozumět kvalitě provádění obchodů při Vašem obchodním stylu. Nejlepším způsobem jak to zjistit je otevřít si účet u několika brokerů a vyzkoušet je, stačí [**demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "demo účty na forex"). Odměnou za tuto práci budou ušetřené peníze. Alternativně, zjistěte si co říkají jejich stávající klienti – ptejte se na reference, nebo konzultujte brokera, market makera s někým zkušeným. Nakonec vyzkoušejte různé demo platformy brokerů. Mějte se však na pozoru: demo platformy často provádějí objednávky lépe než skutečné.
 
 Forexové ceny diktuje forexový mezibankovní trh, kde jsou spready variabilní a závisí na momentální likviditě a velikosti lístku. Někteří brokeři se pokoušejí zjednodušit věci tím, že nabídnou konstantní spready a garantují žádnou slippage. To je v pořádku. Neexistuje však něco takového jako oběd zdarma. S trochou zkoumání můžete zjistit, kdo za tuto záruku platí.
 
@@ -63,8 +63,10 @@ Forexové ceny diktuje forexový mezibankovní trh, kde jsou spready variabilní
 
 Někteří brokeři propagují úzké spready, ale to je někdy psychologickým magnetem pro zájemce. Často jsou s obchodováním spjaty další poplatky, které zpočátku obchodníci většinou přehlédnou. Jednou z forem může být **transaction fee**, což je vlastně poplatek za transakci. Např. market maker proklamuje spread na EUR / USD 2 body. Broker si však za každý mini-lot, transakci $ 10,000 účtuje $ 1.25. Pokud byste daný poplatek přenesli do spreadu, ten by vlastně nebyl 2 pips, ale 3.25, což je méně výhodné než u většiny brokerů.
 
-Dalším možným poplatkem je **commission** tedy poplatek, který platíte při každém otevření pozice. Většina Introducing Broker a brokerských společností si navyšují spread, nebo účtují poplatky jako kompenzaci za jejich služby. Mnohým obchodníkům s jistými strategiemi znemožňují zisk. V mnoha případech přijdou o počáteční vklad a nadobro zanevřou na obchodování. Je tedy důležité, abyste neplatili zbytečné nebo předražené poplatky za obchodování.
-{{/section}}
+>Dalším možným poplatkem je **commission** tedy poplatek, který platíte při každém otevření pozice. Většina Introducing Broker a brokerských společností si navyšují spread, nebo účtují poplatky jako kompenzaci za jejich služby. Mnohým obchodníkům s jistými strategiemi znemožňují zisk. V mnoha případech přijdou o počáteční vklad a nadobro zanevřou na obchodování. Je tedy důležité, abyste neplatili zbytečné nebo předražené poplatky za obchodování.
+
+{{partial: xmcom}}
+
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
@@ -76,13 +78,12 @@ Dalším možným poplatkem je **commission** tedy poplatek, který platíte př
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+
+{{partial: obrazek}}
 
 </div>
 </div>

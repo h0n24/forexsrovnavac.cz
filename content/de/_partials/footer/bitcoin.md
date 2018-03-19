@@ -1,5 +1,5 @@
 <i class="fa fa-language"></i>
- &nbsp; <a href="{{base-url}}en/bitcoin/">en</a>
+   <a href="{{base-url}}en/bitcoin/">en</a>
  · <a href="{{base-url}}de/bitcoin/">de</a>
  · <a href="{{base-url}}pl/bitcoin/">pl</a>
  · <a href="{{base-url}}nl/bitcoin/">nl</a>

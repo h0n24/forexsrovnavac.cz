@@ -8,9 +8,34 @@
       </button>
       <a href="{{url}}" class="navbar-brand">Forex <i class="fa fa-bar-chart-o"></i> compare</a>
     </div>
+   
+    
+    
+    
+    
+    
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
-        <li><a href="{{url}}index#section-1">Brokers list</a></li>
+      
+              <li class="dropdown">
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
+            <span class="hidden-sm hidden-md">Crypto Charts<b class="caret"></b></span><span class="visible-sm visible-md">Crypto Charts</span>
+          </a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                 <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitcoin-cash">Bitcoin cash</a></li>  
+                                                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitcoin-gold">Bitcoin Gold</a></li> 
+                                                                                                                                        <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitconnect-coin">BitConnect</a></li>   
+                                                                    
+                                  <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}dash">Dash</a></li> 
+                                                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ethereum">Ethereum</a></li>                                                                                                                                        <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}monero">Monero</a></li>        
+                                                                           <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}nem">Nem</a></li>                 
+                                                                           <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ripple">Ripple</a></li> 
+                                                                                                                                                      <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}tenx">TenX</a></li>   
+                                  
+          </ul>
+        </li>    
+    
+    
         <li><a href="{{url}}binary-options">Binary options</a></li>
         <li><a href="{{url}}plus500">Plus500 review</a></li>
       </ul>

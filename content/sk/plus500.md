@@ -3,40 +3,65 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Plus500 recenzia a skúsenosti - Forex 500",
+    "title": "Plus500 recenzia a skúsenosti • 2017, demo účet, poplatky",
     "description": "",
     "keywords": "Plus500 recenzia, Plus 500, Plus500, Plus500 Skúsenosti"
   }
 {{/settings}}
+
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  <meta itemprop="worstRating" content="1"/>
+  <meta itemprop="ratingValue" content="90"/>
+  <meta itemprop="bestRating" content="100"/>
+</span>
+<meta itemprop="itemreviewed" content="Plus500">
+<meta itemprop="author" content="ForexSrovnávač.cz">
 
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
 {{section}}
 
+{{start}} 
 # Plus500 recenzia
 
-*Vlastná platforma v slovenčine, plne regulovaný broker Českou národnou bankou, viac ako 1 500 investičných nástrojov.*
+V dnešnom článku vám prinášame **recenziu spoločnosti Plus500**. Podľa našich skúsenosti je Plus500 spoľahlivá platforma. Bola založená v roku 2008. V súčasnosti je Plus500 popredným obchodníkom a poskytovateľom zmlúv o rozdiele (CFD) na našom trhu. 
 
-V dnešnom článku vám prinášame **recenziu spoločnosti Plus500**. Podľa našich skúsenosti je Plus500 spoľahlivá platforma. Bola založená v roku 2008. V súčasnosti je Plus500 popredným obchodníkom a poskytovateľom zmlúv o rozdiele (CFD) na našom trhu. Ponúka bezkonkurenčné podmienky nielen pri obchodovaní na Forexe, ale môžete ju využiť aj pri **obchodovaní s komoditami, ako sú ropa, zlato alebo striebro, indexmi svetových búrz a napríklad aj virtuálnou menou  [Bitcoin](http://www.forexsrovnavac.cz/sk/bitcoin/). 
+Ponúka bezkonkurenčné podmienky nielen pri obchodovaní na Forexe, ale môžete ju využiť aj pri obchodovaní s komoditami, ako sú ropa, zlato alebo striebro, indexmi svetových búrz a napríklad aj virtuálnou menou  [Bitcoin](http://www.forexsrovnavac.cz/sk/bitcoin/). Plus500 aplikácie obsahuje viac ako **2000 obchodných inštrumentov**. 
+{{/start}} 
 
-Plus500 vyvinula a prevádzkuje on-line obchodnú platformu pre maloobchodných zákazníkov, vďaka ktorej tak môžu jednoducho obchodovať prostredníctvom CFD na medzinárodnej úrovni, a ponúka im viac ako 1 700 rôznych podkladových globálnych finančných nástrojov zahrňujúcich akcie, ETF, devízový trh, indexy a komodity. Skupina umožňuje investorom obchodovať vo viac ako 50 krajinách sveta. Obchodná platforma je prístupná z viacerých operačných systémov Windows, chytrých telefónov (iOS a Android) a tabletov (iOS a Android) a taktiež umožňuje obchodovať pomocou internetovej aplikácie.
 
-Plus500 ponúka **25 €** na váš reálny účet, iba za registráciu. [**Vyskúšajte si reálne obchodovanie**](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2), bez nutnosti vkladu.
+<div class="row" style="width:92%">
+<div class="col-md-6" markdown="1">
 
-Tento bonus sa týka naozaj každého – žiadny háčik, žiadny chyták, žiadne podvody. K svojej prvej registrácii jednoducho získate túto sumu úplne zadarmo a bez akýchkoľvek podmienok. Nie je nutný žiadny prvotný vklad, bonus získate naozaj len za registráciu. Všetko si môžete jednoducho vyskúšať a môžete začať obchodovať už za 5 minút. [**Celý návod vám prikladáme tu!**](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2)
+<b><big>`O spoločnosti Plus500`</big></b>
+:    Plus500 vyvinula a prevádzkuje on-line obchodnú platformu pre maloobchodných zákazníkov, vďaka ktorej tak môžu jednoducho obchodovať prostredníctvom CFD na medzinárodnej úrovni.
 
-Plus500 chce byť jednotkou medzi platformami CFD a tu uvádza svoje dôvody:
-[Pozrite sa na obchodnú aplikáciu Plus500](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrace"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
-trhové rozpätie (spread) nástrojov, ako sú : Nemecko 30 - 0,81 bodu - Ropa - 3 body - EUR/USD - 1 bod - zemný plyn - 3 body - UK 100 - 0,88 bodu - GBP/USD - 1 bod
+Plus500 umožňuje investorom obchodovať vo **viac ako 50 krajinách sveta**. Obchodná platforma je prístupná z viacerých operačných systémov Windows, chytrých telefónov (iOS a Android) a tabletov (iOS a Android) a taktiež umožňuje obchodovať pomocou internetovej aplikácie.
 
-1. Plus500 garantuje stop loss
+</div>
+<div class="col-md-6" markdown="1">
 
+<b><big>`Obchodná aplikácia u Plus500?`</big></b>
+:    Plus500 vyvinula vlastnú obchodnú aplikáciu s dôrazom na zrozumiteľnosť a prehľadnosť. Pretože na Plus500 môžete obchodovať až s **2000 inštrumentmi**, sú tieto dve vlastnosti veľmi dôležité. 
+
+Aplikácia je intuitívna a môžete si ju vyskúšať na neobmedzenom demo účte s virtuálnymi peniazmi. V aplikácii si môžete nastaviť sledovanie kurzov, tie vám potom prídu vo forme SMS správy do vášho mobilu.
+
+
+</div>
+</div>
+
+<br>
+[Pozrite sa na obchodnú aplikáciu u plus500](http://blog.forexsrovnavac.cz/sk/plus500cz){.btn .btn- .btn-primary}
+
+- - -
 
 *Základné informácie o Plus500*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.plus500.sk**](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2) |
+| Web:     |   [**www.plus500.sk**](http://blog.forexsrovnavac.cz/plus500cz) |
 | ---------------- | ------------- |
 | **Typ brokera:**   | STP  |
 | **Krajina pôvodu**   | Anglicko  |
@@ -53,12 +78,10 @@ trhové rozpätie (spread) nástrojov, ako sú : Nemecko 30 - 0,81 bodu - Ropa -
 | **Minimálny vklad**  | 100 €|
 | **Možnosti vkladu**  | Bankový prevod, kreditné a debetné karty, Skrill, Paypal |
 | **Maximálna veľkosť páky**  | od 1:5 do 1:200 |
-| **Zajímavost**  | 25 € Bonus (je ho možné vyplatiť) [Viac informácií o Bonuse](http://www.plus500.com/sk/Promotions/Bonus.aspx?id=66349&pl=2) |
-| **Čeština**  | Kompletne v češtine |
+| **Zajímavost**  | Vlastná aplikace  |
+| **Slovenština**  | Ano |
 </div>
 </div>
-
-[25 € Bonus k účtu](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 - - -
 
 {{section}}
@@ -79,17 +102,21 @@ Tipy a triky
 
 **TIP 4:** Využívajte príkazy **Stop Limit** a **Stop Loss**, prípadne **Trailing Stop** na váš Money-managment. V prípade extrémnej zmeny hodnoty komodity, akcie či menového páru vám môžu tieto príkazy zachrániť zostávajúcu sumu na účte alebo zabezpečiť dosiahnutie najvyššieho, cieleného zisku.
 
-**Tip 5:** Pokiaľ ste začiatočníci, prevezmite si najskôr plus500 demo účet](http://forexsrovnavac.cz/sk/plus500#section-4), na reálnom účte budete potom obchodovať s minimálnym vkladom 2 000 – 4 000 Kč, pokiaľ začínate, nemá cenu investovať viac, pretože môžete obchodovať už od 100 korún aj s viacerými obchodmi. Pokiaľ budete úspešní, kapitál si vytvoríte úspešnými obchodmi.
+**Tip 5:** Pokiaľ ste začiatočníci, prevezmite si najskôr plus500 demo účet, na reálnom účte budete potom obchodovať s minimálnym vkladom 2 000 – 4 000 Kč, pokiaľ začínate, nemá cenu investovať viac, pretože môžete obchodovať už od 100 korún aj s viacerými obchodmi. Pokiaľ budete úspešní, kapitál si vytvoríte úspešnými obchodmi.
 
-<pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Tip 6:</strong> <a href="http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2">Uvítací bonus, získajte 500 Kč bonus na reálne obchodovanie</a> u plus500.cz</span></span></pre>
 - - -
-![plus500](http://recenzeplus500.cz/wp-content/uploads/2014/08/plsssss5001.png)
+
+<br>
+[Pozrite sa na obchodnú aplikáciu u plus500](http://blog.forexsrovnavac.cz/sk/plus500cz){.btn .btn- .btn-primary}
+
+
+
 {{/section}}
 
 {{section}}
 ##Plus500 recenzia on-line brokera a skúsenosti
 
-**Plus500.cz ponúka on-line obchodovanie** až s 1 300 rôznymi finančnými nástrojmi. Ide o on-line poskytovateľa služieb pre maloobchodných zákazníkov umožňujúceho obchodovať prostredníctvom CFD na mnohých finančných trhoch. Akcie materskej spoločnosti plus500.cz sú prijaté na obchodovanie na AIM trhu Londýnskej burzy cenných papierov. Spoločnosť bola založená 5 absolventmi Institute of Technology s počiatočnou investíciou vo výške 400 000 dolárov, na ktorú prispel aj Alon Gonen, generálny riaditeľ spoločnosti. V roku 2010 spoločnosť spustila svoju verziu platformy pre Mac OS a Linux. V roku 2011 spustila svoju prvú aplikáciu pre iPad a iPhone. 40 % transakcií bolo uskutočnených buď pomocou smartfónu alebo tabletu.
+**Plus500.cz ponúka on-line obchodovanie** až s 2000 rôznymi finančnými nástrojmi. Ide o on-line poskytovateľa služieb pre maloobchodných zákazníkov umožňujúceho obchodovať prostredníctvom CFD na mnohých finančných trhoch. Akcie materskej spoločnosti plus500.cz sú prijaté na obchodovanie na AIM trhu Londýnskej burzy cenných papierov. Spoločnosť bola založená 5 absolventmi Institute of Technology s počiatočnou investíciou vo výške 400 000 dolárov, na ktorú prispel aj Alon Gonen, generálny riaditeľ spoločnosti. V roku 2010 spoločnosť spustila svoju verziu platformy pre Mac OS a Linux. V roku 2011 spustila svoju prvú aplikáciu pre iPad a iPhone. 40 % transakcií bolo uskutočnených buď pomocou smartfónu alebo tabletu.
 
 Firma ponúka **Contract for Difference** (CFD), služby rôznych finančných nástrojov. Webové stránky platformy sú k dispozícii v 31 rôznych jazykoch na viac ako 30 rôznych doménach. Initial Public Offering – Spoločnosť oznámila počiatočnú verejnú ponuku akcií na prvý týždeň v júli 2013 a s jej akciami sa začalo verejne obchodovať na AIM trhu Londýnskej burzy cenných papierov. Trhová kapitalizácia spoločnosti je 200 $ miliónov dolárov. 
 
@@ -109,7 +136,9 @@ Charakteristiky bezplatného demo účtu:
 5.	on-line pomoc a asistencia podporného tímu.
 
 
-[Prevezmite si demo účet zadarmo](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Demo účet"){.btn .bnt-lg .btn-primary}
+<br>
+[Získajte Plus500 Demo účet](http://blog.forexsrovnavac.cz/sk/plus500cz){.btn .btn-lg .btn-primary}
+<br>
 {{/section}}
 - - -
 {{section}}
@@ -121,30 +150,13 @@ Spoločnosť **Plus500** je kompenzovaná za svoje služby prostredníctvom „t
 {{section}}
 ## Skúsenosti s Plus500
 
-Recenzia nášho čitateľa
-:    Na Plus500 som začínal obchodovať ku koncu roka 2013. Skúsenosti s týmto brokerom som predtým nemal, tak som si povedal, že vyskúšam minimálne demo účet. Príjemným prekvapením bolo, že som k demo účtu dostal ten ich bonus v hodnote 500 Kč. Ale úprimne, kto chce napríklad aj dlhodobo zarábať, ten si musí určite vložiť svoj vlastný kapitál, napríklad aj minimálny vklad 2 000 Kč. S tým bonusom je to skôr len o šťastí.
-
-Ja som teda hľadal hlavne brokera, ktorý ponúka tak akcie, ako aj komodity či menové páry a má vlastnú platformu, pretože v metatraderi som sa ako špekulant – amatér – veľmi nevyznal a ani som sa to nechcel zdĺhavo učiť. Hľadal som jednoducho brokera, kde zadám obchodný pokyn rýchlo a bez zbytočných prieťahov.
-
-Pretože sa považujem za takého malého špekulanta, obchodujem (špekulujem) prevažne s jednotlivými výsledkami firiem, ako sú Apple, Alibaba, Facebook. Tieto firmy sledujem dlhodobo a práve IT firmy sú na výsledky firiem najviac volatilné, čo mi ako špekulantovi vyhovuje. Čo sa týka vkladov, vkladám peniaze prevažne prostredníctvom Skrillu alebo bankového účtu. To isté je aj s výbermi peňazí od Plus500. Väčšinou ich posielajú v rozmedzí 2 – 5 dní. Ďalšou výhodou je to, že v súčasnosti zlacnili poplatky (spread) napríklad pár EUR/USD 1 pip alebo index nemeckej burzy DAX 0,81 bodu. Na záver by som chcel len povedať, že pokiaľ obchodovaniu nerozumiete, vyskúšajte prvý demo účet, ktorý je zadarmo, a až potom obchodujte za reálne peniaze.
-
 ###Výplaty
 
 : Z vlastnej skúsenosti viem, že výplaty trvajú cca 4 pracovné dni a nie sú s nimi žiadne problémy. Vyplatiť sa môžete nechať tak na bankový účet, ako aj na Paypal alebo Skrill.
 
-###Regulácia
-
-: V ČR pôsobí **Plus500.cz** na základe notifikácie v rámci jednotného európskeho pasu s plným povolením Českej národnej banky, [pozrite Plus500 ČNB povolenie](https://apl.cnb.cz/apljerrsdad/JERRS.WEB10.VIZITKA?p_lang=cz&p_SEQ_ID=666900&p_VER_ID=1000&p_DATUM=02.12.2013&p_ROL_KOD=) a povolené činnosti.  
-
-
-###Obchodná aplikácia
-: Plus500 vyvinula vlastnú obchodnú aplikáciu s dôrazom na zrozumiteľnosť a prehľadnosť. Pretože na Plus500 môžete obchodovať až s 1 500 inštrumentmi, sú tieto dve vlastnosti veľmi dôležité. Aplikácia je intuitívna a môžete si ju vyskúšať na neobmedzenom demo účte s virtuálnymi peniazmi. V aplikácii si môžete nastaviť sledovanie kurzov, tie vám potom prídu vo forme SMS správy do vášho mobilu.
 
 ###Zákaznícka podpora
 : Podpora odpovedá na konkrétne otázky do 30 minút. Nemusíte sa báť, že by vám z Plus500 niekto volal a ponúkal vám akékoľvek ponuky. Toto Plus500 ako jeden z mála on-line brokerov nerobí.
-
-Nech sa darí.
-Pavel H.
 
 
 - - -
@@ -172,68 +184,26 @@ Jednoduché a prehľadné zostáva aj samotné ovládanie vášho účtu. **PLUS
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-![Ukázka obchodu](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
+![LOGO](http://www.forexsrovnavac.cz/assets/img/loga/plu150.png) 
 
-[Otvoriť účet](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2 "Demo účet"){.btn .bnt-lg .btn-default}
-</div>
-<div class="container-fluid" markdown="1">
+[Otvoriť účet](http://blog.forexsrovnavac.cz/plus500cz "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/plus500cz "Demo účet"){.btn .bnt-lg .btn-default}
 
-<a href="http://www.plus500.com/sk/?id=66349&pl=2" target="_blank" title="Plus500"><img src="http://cdn.plus500.com/Media/Banners/250x250/11542.gif" width="250" height="250" border="0" alt="Plus500" /></a>
-- - -
-#### Menu
-
-<a href="http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/skplus5001.png" width="" height=""/>
-- - -
-[O plus500](http://forexsrovnavac.cz/sk/plus500#section-1)
-
-[Ako obchodovať v Plus500](http://forexsrovnavac.cz/sk/plus500#section-2)
-
-[Recenzia Plus500](http://forexsrovnavac.cz/sk/plus500#section-3)
-
-[Plus500 demo](http://forexsrovnavac.cz/sk/plus500#section-4)
-
-[Plus500 poplatky](http://forexsrovnavac.cz/sk/plus500#section-5)
-
-[Skúsenosti s plus500](http://forexsrovnavac.cz/sk/plus500#section-6)
-
-[Základné informácie](http://forexsrovnavac.cz/sk/plus500#section-1)
-
-[Obchodná aplikácia Plus500](http://forexsrovnavac.cz/sk/plus500#section-8)
+Váš kapitál je ohrozený!
 
 </div>
-<div class="container-fluid" markdown="1">
 
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-#### Výhody
 
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Kompletne v češtine
 
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     500Kč Bonus
 
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vlastná platforma
-
-![Ukázka obchodu](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     CFD Broker
-
-</div>
-<div class="container-fluid" markdown="1">
-#### Nevýhody
-
-![Ukázka obchodu](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)      Pre profesionálov môže byť aplikácia limitujúca
-- - -
-</div>
-
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxprobanner}}
 
 <div class="container-fluid" markdown="1">
 - - -
 
-#### Náš Tip
-Spoločnosť Plus500 ponúka uvítací bonus 500 Kč  na reálny účet každého nového klienta. Stačí iba telefonické potvrdenie. Potom je potrebné nazbierať aspoň 60 obchodných bodov a bonus + váš zárobok si môžete nechať vyplatiť. [Viac informácií o Bonuse](http://www.plus500.com/sk/StartTrading.aspx?id=66349&pl=2)
-- - -
 
 </div>
 </div>
 </div>
+</div>
+
+</div><!-- /itemreview -->

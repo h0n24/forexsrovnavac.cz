@@ -17,9 +17,13 @@ Encuentra el mejor Broker de Forex, ya que le ahorrará dinero.
 
 Permítanos ayudarle con su elección. Compare con nosotros los corredores de divisas de forma rápida y sencilla.
 
+
 {{/start}}
 
+
 {{section}}
+
+
 
 ## Lista de Brokers
 

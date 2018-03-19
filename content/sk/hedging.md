@@ -14,11 +14,14 @@
 
 {{section}}
 
-# Hedging
+# Co je toHedging
 
 V dnešnom dieli si budeme rozprávať o jednej z techník obchodovania na burze. Čo to vlastne znamená? Jedná sa o otvorenie opačnej pozície v rovnakom kontraktu. Máte potrebné nakúpené Euro a ak použijete hedgeeovou pozíciu, tak v určitom okamihu Euro taky predáte. U futures musíte použiť rovnaký kontraktné mesiac. Hedge sa niekedy používa na ochránenie svojich pozic- to robia potrebné nákupca.
 
+{{partial: fxpro}}
+
 Predstavte si, že ako rafinérie potrebujete nakúpiť za tri mesiace väčšie množstvo ropy. Vaším cieľom je nakúpiť čo najlacnejšie. To môžete urobiť napríklad opcií, ale o tom dnes reč nebude.Takže keď je cena relatívne nízko, chceli by ste nakupovať, ale zatiaľ nemôžete-kontrakt ešte nekončí. Takže vstúpite na burze do dlhej pozície-nakúpite (špekulatívne). To znamená, že keď pôjde cena hore, zarobíte na burze, ale nakúpite drahšie (máte svoju pôvodnú cenu). Keď pôjde cena dole, ste na tom rovnako. Proste si zaistíte svoju požadovanú cenu. V praxi je to trochu inak, ale ako príklad to snáď bude stačiť.
+
 
 **A ako sa dá využiť hedgeování pozícií v našom obchodovanie?** Rôznymi spôsobmi. Najprv je Poreba povedať, že do takej techniky by sa mal púšťať len človek, ktorý má skúsenosti a vie, čo robí.
 
@@ -57,34 +60,14 @@ Keď viete, čo robíte, môžete zarobiť oveľa viac peňazí. Broker vám neb
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/sk/markets-com-recenzia "markets.com")
-
-<br>
-
-#### Binárne opcie
-
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Optiontime recenzia](http://www.forexsrovnavac.cz/sk/optiontime "OptionTime recenzie")
-
+{{partial: menu-sk}}
 
 </div>
 
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
-
+{{partial: fxprobanner}}
 - - -
 
 <a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">

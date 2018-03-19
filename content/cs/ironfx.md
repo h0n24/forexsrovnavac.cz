@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Ironfx recenze a zkušenosti",
+    "title": "Ironfx recenze a zkušenosti | Demo účet | Poplatky",
     "description": "",
     "keywords": "Ironfx"
   }
@@ -69,7 +69,7 @@ www.ironfx.com má množství licencí, které tomuto brokerovi umožňují obch
 | **Možnosti vkladu**  | Kreditní karta, Skrill(Moneybookers), Neteller, WebMoney, bankovní převod |
 | **Páka**  |  až 1:500 |
 | **Zajímavost**  | Čeští osobní manažeři |
-| **Demo účet**  | Ano, další pomocné nástroje zdarma |
+| [**demo účet**](http://www.forexsrovnavac.cz/forex-demo-ucet "Demo účet na forex")  | Ano, další pomocné nástroje zdarma |
 | **Čeština**  | Kompletně v Češtině, Tel. linka v ČR zdarma: 800 500 374|
 
 </div>
@@ -130,6 +130,8 @@ Sirix Social WebTrader – obchodování FOREX a CFD, PC platforma, mobilní apl
 
 MetaTrader 4 a 5 – uživatelsky velmi oblíbené platformy, k dispozici v následujících variantách pro PC, telefony i tablety (MT4 Standard, MT4 Platform, MT4 For Mac, MT5, PMAM, WebTrader, MultiTrader, Blackberry Trader, Iphone Trader, Android Trader, Mobile Trader, SmartPhone Trader, IpadTrader, atd.).
 
+{{partial: xmcom}}
+
 
 ##Vzdělávání a nástroje
 Jako velmi zajímavý nástroj je poskytován nástroj sociálního obchodování, díky kterému můžete o svém obchodování v reálném čase komunikovat a diskutovat s ostatními obchodníky.
@@ -147,65 +149,22 @@ Pro všechny obchodníky je k dispozici i vzdělávání v podobě akademie, sem
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-  
-
-![Ironfx.com](http://media.ironaffiliates.com/uploads/IronFX_logo99.jpg) 
-
-[Otevřít účet](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Registrace") {.btn .bnt-lg .btn-primary} [Demo](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Demo účet"){.btn .bnt-lg .btn-default}
-
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-#### Menu
-
-[Ironfx.com recenze](http://forexsrovnavac.cz/Ironfx#section-1)
-
-[Základní informace o Ironfx.com](http://forexsrovnavac.cz/Ironfx#section-2)
-
-[Investiční nástroje](http://forexsrovnavac.cz/Ironfx#section-3)
-
-[Obchodní aplikace](http://forexsrovnavac.cz/Ironfx#section-4)
-
+ 
+ {{partial: menu2}}
 
 </div>
 <div class="container-fluid" markdown="1">
 
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vlastní český manažer
 
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Až 3000 USD bonus ke vkladu
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Webtrader - nemusíte nic stahovat
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     CFD Broker, Metatrader 4
 
 </div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Vhondý spíše pro profesionály
-- - -
-</div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 <div class="container-fluid" markdown="1">
 
 - - -
-<a href="" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
-</a>
-
-- - -
-Náš Tip:
-:    
-Ironfx.com nabízí až 3000 USD bonus k novému vkladu [Více informací o Bonusu]
-- - -
+{{partial: obrazek}}
 
 </div>
 </div>

@@ -19,6 +19,8 @@
 
 FxPro Quant je revoluční program pro algoritmické obchodování. Naprogramujte si své vlastní obchodní algoritmy a strategie pro MT4 a cTrader. Nyní si můžete vytvořit obchodní systémy, které obchodují podle vašich vlastních pravidel a to bez znalosti programování.
 
+{{partial: fxpro}}
+
 ###Výhody FxPro Quant
 
 Identifikování vice obchodních příležitostí
@@ -52,7 +54,7 @@ Méně stresu
  
 Použití FxPro Quant Strategy Builder je zdarma pro každého, kdo se zaregistruje u FxPro, bez ohledu na to, zda má financovaný obchodní účet. Kromě toho, Quant je webovou aplikací, takže ji můžete použít z libovolného prohlížeče bez nutnosti instalování.
 
-Navštivte [**quant.fxpro.co.uk**]( http://quant.fxpro.co.uk/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) nebo [**www.fxpro.cz**](http://www.fxpro.cz/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) pro přístup k FxPro Quant a objevte výhody algoritmického obchodování.
+{{partial: fxpro}}
 
 - - -
 ![Fxpro quant](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/11/Quant-Screenshot-1024x542.png)
@@ -61,25 +63,7 @@ Navštivte [**quant.fxpro.co.uk**]( http://quant.fxpro.co.uk/?source=193&utm_sou
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/plus500 "plus500")
-
-[30 USD u xm.com](http://www.forexsrovnavac.cz/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/markets-com-recenze "markets.com")
-
-<br>
-
-#### Binární opce
-
-[Topoption recenze](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
-
-[Stockpair recenze](http://www.forexsrovnavac.cz/stockpair "Stockapair recenze")
-
-[ETX Capital recenze](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX Capital recenze")
-
-[Optiontime recenze](http://www.forexsrovnavac.cz/optiontime "OptionTime recenze")
+{{partial: menu2}}
 
 
 </div>
@@ -87,13 +71,11 @@ Navštivte [**quant.fxpro.co.uk**]( http://quant.fxpro.co.uk/?source=193&utm_sou
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+{{partial: obrazek}}
 
 </div>
 </div>

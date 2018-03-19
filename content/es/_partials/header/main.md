@@ -11,7 +11,28 @@
     <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{url}}#section-1">Lista de Brokers</a>
+       
+       
+          <li class="dropdown">
+          <a href="#" id="drop1" role="button" class="dropdown-toggle" data-toggle="dropdown">
+            <span class="hidden-sm hidden-md">Crypto-Monedas <b class="caret"></b></span><span class="visible-sm visible-md">Crypto-Monedas</span>
+          </a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                                                           <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}Bitcoin">Bitcoin</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitcoin-gold">Bitcoin Gold</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}bitcoin-cash">Bitcoin Cash</a></li>
+           <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ethereum">Ethereum</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}monero">Monero</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}ripple">Ripple</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}litecoin">Litecoin</a></li>
+                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}zcash">Zcash</a></li>
+                                                                        <li role="presentation"><a role="menuitem" tabindex="-1" href="{{url}}dash">Dash</a></li>
+       
+       
+           </ul>
+        </li>
+       
+       
 <li><a href="{{url}}plus500">Plus500 opiniones</a>
         </li>
         </li>

@@ -4,9 +4,9 @@
 
 # Litecoin kurs
 
-Beginnen Sie mit virtueller Währung, die die Welt ändert.
+Kurs in - Euro / Dollar / Bitcoin
 
-Begrüßungsbonus 25 €
+
 
 </div>
 <header class="navbar navbar-static-top navbar-inverse navbar-sticky" id="top" role="banner">
@@ -21,16 +21,19 @@ Begrüßungsbonus 25 €
     <nav class="navbar-collapse collapse" role="navigation" style="height: 1px;" id="scrollpsy">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="#top">Handel mit Litecoins</a>
+          <a href="#top">Litecoin kurs</a>
         </li>
         <li>
-          <a href="#section-1">Worum es geht?</a>
+          <a href="#section-1">Litecoin / Dollar</a>
         </li>
         <li>
-          <a href="#section-2">Litecoin Kurs</a>
+          <a href="#section-2">Litecoin / Euro</a>
         </li>
         <li>
-          <a href="#section-3">Wo kann man handeln?</a>
+          <a href="#section-3">Litecoin / Bitcoin</a>
+        </li>
+        <li>
+          <a href="http://blog.forexsrovnavac.cz/cryptode"><span style="color: red;">Jetzt mit Litecoin Handeln</span></a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

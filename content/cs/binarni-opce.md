@@ -1,84 +1,130 @@
-﻿{{settings}}
+{{settings}}
   "language": "cs",
   "template": 1,
   "header": "main", 
   "meta" : {
-    "title": "Binární opce | Obchodování s binárními opcemi",
-    "description": "Víte, že Binární opce jsou poměrně novým a populárním obchodním nástrojem. Samotný princip obchodování binárních opcí, je však velmi jednoduchý na pochopení",
+    "title": "Co je to Binární opce - jak na binární obchodování",
+    "description": "",
     "keywords": "Binární opce, Binární opce recenze, Binární opce obchodování, Binarni opce"
   }
 {{/settings}}
 
-<div class="row">
-<div class="col-md-9" role="main" markdown="1">
+
+# Binární opce
+
+<div class="row" style="width:92%">
+  <div class="col-md-6" markdown="1">
+Obsah stránky
+
+ >[Principy obchodování binárních opcí](http://forexsrovnavac.cz/binarni-opce#section-2) 
+ 
+ >[Demo účet na binární opce](http://forexsrovnavac.cz/binarni-opce#section-4) 
+ 
+ >[Jak se obchodují binární opce?](http://forexsrovnavac.cz/binarni-opce#section-3) 
+ 
+ >[Průvodce binárními opcemi](http://forexsrovnavac.cz/binarni-opce#section-1)
+ 
+
+
+</div>
+  <div class="col-md-6" markdown="1">
+<b><big>`Co je to binární opce?`</big></b>
+:    
+Binární opce se řadí mezi několik druhů finančních opcí. Slovo „binární“ se používá proto, že při expiraci opce obchodník buď-to nedostane nic, nebo dosáhne zisku, který obchodník zná, již před uzavřením obchodu. V angličtině se požívají výrazy **Binary options**, Digital options. 
+
+Pomocí binárních opcí můžete obchodovat [**komodity**](http://www.forexsrovnavac.cz/kurzy/komodity "komodity") (zlato, ropa), [**akcie**](http://www.forexsrovnavac.cz/kurzy/ceske-akcie "akcie") (Apple, Facebook), [**forex**](http://www.forexsrovnavac.cz/kurzy/forex "forex") (dolar, euro), [**indexy**](http://www.forexsrovnavac.cz/kurzy/forex "indexy") (SP500), ale i například **virtuální měny** jako je Bitcoin. Tento druh finančních opcí, je v poslední době velmi populární, proto jsme sepsali základní informace, abyste se dozvěděli vše důležité, co vás zajímá.
+
+
+</div>
+</div>
+
 
 
 
 {{section}}
 
-# Binární opce
 
-*Binární opce (v angličtině výraz Binary options, digital options), jsou v poslední době velmi populární, proto jsme sepsali základní informace, abyste se dozvěděli vše důležité, co vás zajímá. Pomocí binárních opcí můžete vydělávat na obchodování komodit (zlato, ropa), akcií (Apple, Facebook), forexu (dolar, euro) (měnové páry), ale i virtuální měny jako například [**Bitcoin**](http://www.forexsrovnavac.cz/bitcoin).*
+<div class="row">
+<div class="col-md-8 hidden-sm hidden-xs">
+<a href="http://blog.forexsrovnavac.cz/plus500cz" target="_blank" title="+500"><img src="http://cdn.plus500.com/Media/Banners/1024x66/28447.gif?set=Cryptocurrencies_CySec" width="1135" height="66" border="0" alt="+500" /></a>
+</div>
+<div class="col-sm-6 col-xs-12 hidden-md hidden-lg">
+ <a href="http://blog.forexsrovnavac.cz/plus500cz" target="_blank" title="+500"><img src="http://cdn.plus500.com/Media/Banners/300x250/28436.gif?set=Cryptocurrencies_CySec" width="300" height="250" border="0" alt="+500" /></a>
+</div>
+</div>
 - - -
-Obsah stránky: [Binární opce recenze](http://forexsrovnavac.cz/binarni-opce#section-1) – [Co jsou to binární opce](http://forexsrovnavac.cz/binarni-opce#section-4) – [Demo účet](http://forexsrovnavac.cz/binarni-opce#section-4) – [Jak obchodovat binární opce](http://forexsrovnavac.cz/binarni-opce#section-3) – [Kde obchodovat binární opce?](http://forexsrovnavac.cz/binarni-opce#section-5)
+
+**Binární opce** jsou další z mnoha možností, jak obchodovat různé obchodní instrumenty přes on-line obchodní aplikace. Binární opce může obchodovat každý od hranice věku 18 let. S binárními opcemi obchoduje i početná česká a slovenská komunita, proto i brokeři mají  své obchodní aplikace a webové stránky v češtině a slovenštině. Výdělek pomocí těchto opcí je díky tomu přístupný širokému spektru klientů, kteří nejsou tak dobře jazykově vybaveni, odpadá tedy i jazyková bariéra. **Minimální vklad  na binární opce** se u jednotlivých binárních brokerů liší. Pohybuje v rozmezí **10 až 100 USD (cca 2 400 Kč)**.
+
+Pokud tedy přemýšlíte o vytváření nějakhoé typu pasivního příjmu nebo jednorázové přivýdělku a nechcete a nebo nemáte chuť investovat velké částky, jsou pro Vás binární opce možností, jak z poměrně malé investice v řádu stovek až tísíců korun, vytvořit pravidelný pasivní příjem a vydělat nějaké finance navíc. Pokud ovšem chcete na binárních opcích dlouhodobě vydělávat, musíte vědět, že to není pro každého. Obchodování není o náhodných tipech.
 
 
+>Pokud přemýšlíte o obchodování na forexu, nebo komoditami atd, ale nemáte tedy zrovna statisíce k , nemusíte zoufat. Začít můžete i s binárními opcemi, jelikož tyto opce jsou  natolik specifické, že k nakoupení vaší první binární opce, vám vystačí kapitál v řádech stokorun.
 
-**Binární opce** jsou další z mnoha možností, jak zhodnotit své finance. Ze zkušeností ze zahraničí se ukazuje, že binární opce může obchodovat každý od hranice věku 18 let. S binárními opcemi obchoduje i početná česká a slovenská komunita, proto i binární brokeři mají  své obchodní aplikace a webové stránky v češtině a slovenštině. Výdělek pomocí binárních opcí je díky tomu přístupný širokému spektru klientů, kteří nejsou tak dobře jazykově vybaveni, odpadá tedy i jazyková bariéra. **Minimální vklad  na binární opce** se u jednotlivých binárních brokerů liší. Pohybuje v rozmezí **10 až 100 USD (cca 2 400 Kč)**.
+*U **binárních opcí** vám postačí úspěšnost pouze 56 % = Téměř polovina obchodů se nemusí podařit a pořád jste v mírném zisku!*
 
-[Podívejte se na platformu na binární opce](http://blog.forexsrovnavac.cz/topoption){.btn .btn-lg .pull-left .btn-primary .btn-index} Pokud tedy přemýšlíte o vytváření nějaké typu pasivního příjmu nebo jednorázové přivýdělku a nechcete investovat velké částky, jsou pro Vás binární opce možností, jak z poměrně malé investice v řádu stovek korun, vytvořit pravidelný pasivní příjem a vydělat nějaké finance navíc. 
 
-    Pokud přemýšlíte o obchodování s akciemi, nebo komoditami, ale nemáte tedy zrovna statisíce k jejich nakoupení, nemusíte zoufat. Začít můžete i s binárními opcemi, jelikož tyto opce jsou  natolik specifické, že k nakoupení vaší první binární opce, vám vystačí kapitál v řádech stokorun.
-
-*U **binárních opcí** vám postačí úspěšnost pouze 56 % = Téměř polovina obchodů se nemusí podařit a pořád jste v zisku!*
-
-{{/section}}
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-Průvodce binárními opcemi, jak začít?
+##Průvodce binárními opcemi
 
 :   
-[Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci)
 
-[Jak vybrat brokera na binární opce](http://www.forexsrovnavac.cz/jak-vybrat-binarniho-brokera) 
+[Co jsou to binární opce](http://www.forexsrovnavac.cz/co-jsou-to-binarni-opce)
+
+[Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci "Druhy binárních opcí")
   
-[High/Low Binární opce](http://forexsrovnavac.cz/High-Low-opce)  
+[High/Low binární opce](http://forexsrovnavac.cz/High-Low-opce "High Low opce")  
 
-[Minutové opce](http://www.forexsrovnavac.cz/minutove-opce) 
+[Minutové opce](http://www.forexsrovnavac.cz/minutove-opce "Minutové opce") 
 
-[Demo účty pro binární opce](http://forexsrovnavac.cz/demo-ucet-na-binarni-opce)
+<br>
 
-[Forex vs. Binární opce](http://www.forexsrovnavac.cz/forex-vs-binarni-opce)
+[Demo účty na binární opce](http://forexsrovnavac.cz/demo-ucet-na-binarni-opce "Binární opce demo účet")
 
-[Binární opce a daně](http://www.forexsrovnavac.cz/binarni-opce-a-dane) 
+[Kolik lze vydělat na binárních opcích](http://www.forexsrovnavac.cz/jak-lze-vydelat-na-binarnich-opcich "výdělek u opcí")
+
+[Platforma na binární opce](http://www.forexsrovnavac.cz/obchodni-platforma "Obchodní platforma na binární opce")
+
+[Srovnání binárních brokerů](http://www.forexsrovnavac.cz/srovnani-brokeru-na-binarni-opce "Srovnání binárních brokerů")
+
+<br>
+
+[Obchodování o víkendu](http://www.forexsrovnavac.cz/obchodovani-o-vikendu "obchodování o víkendu")
+
+[Forex vs Binární opce](http://www.forexsrovnavac.cz/forex-vs-binarni-opce "Forex vs binární opce")
+
+[Binární opce a daně](http://www.forexsrovnavac.cz/binarni-opce-a-dane "binární opce a daně")
+
+[Binární opce - strategie](http://www.forexsrovnavac.cz/binarni-opce-strategie "binární opce strategie")
+
+
 
   </div>
   <div class="col-md-6" markdown="1">
-Vyberte si toho správného brokera
+##Vyberte si toho správného brokera
 
-:  Na našich stránkách recenzujeme pouze brokery, kteří jsou řádně kontrolováni a regulováni [ČNB](http://www.cnb.cz/cs/dohled_financni_trh/). Obchodujte pouze u kvalitních a prověřených binárních brokerů s největší možnou mírou výnosů.
+:  Obchody s binárními opcemi zprostředkovávají zejména licencovaní brokeři. Tyto společnosti nabízejí svoji obchodní platformu a také zákaznický servis v **klientově jazyce**. 
 
-[**TopOption** – Nejlepší broker na binární opce? (CZ)](http://www.forexsrovnavac.cz/topoption "TopOption recenze")
+Najdete dnes již desítky různých brokerů, ne však na každého brokera se dá spolehnout, a proto je důležité obchodovat jen u takových společností, které mají  všechny potřebné licence od důvěryhodného úřadu v EU. Nejčastěji se můžete s britskou **FCA** (Financial Conduct Authority), nebo s kyperskou komisí cenných papírů - **CySec**. Rozhodné bychom se vyhnuli brokerům, kteří nemají regulaci v Evropské Unii. Např velká řada brokerů má licence na ostrovech typu "Isle of man" apod.
 
-[**ETX capital** – Největší výnosy na trhu  (CZ)](http://www.forexsrovnavac.cz/etx-capital-zkusenosti "ETX capital recenze")
+Na našich stránkách recenzujeme pouze brokery, kteří jsou řádně **regulováni v rámci EU**. Obchodujte pouze u kvalitních a prověřených binárních brokerů s největší možnou mírou výnosů.
 
-[**Stockpair** – kvalitní reference](http://www.forexsrovnavac.cz/stockpair "Stockpair recenze")
-
-[Srovnání brokerů na binární opce](http://www.forexsrovnavac.cz/srovnani-brokeru-na-binarni-opce){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+- - -
+[Jak vybrat binárního brokera](http://www.forexsrovnavac.cz/jak-vybrat-binarniho-brokera) {.btn .btn-lg  .btn-success}
 
 
 </a>
 </div>
 </div>
 
-
+{{/section}}
 
 {{section}}
 
+##Principy obchodování binárních opcí
 
-##Co to jsou binární opce
-
-Základním principem **binárního obchodování** je předpověď, zda stoupne nebo klesne cena. Binární opce mají vysoké potencionální zhodnocení, a to okolo **80–85** % z investované částky na jednu opci. Rozhodujete pouze o 2 variantách, a to o tom, jestli akcie či komodita v daném čase poroste (CALL), nebo bude klesat (PUT) tak. Toto pochopí opravdu každý!. Obchod s binárními opcemi může dopadnout třemi způsoby:
+Základním principem **binárního obchodování** je předpověď, zda stoupne nebo klesne cena. Binární opce mají vysoké potencionální zhodnocení, a to okolo **80–85** % z investované částky na jednu opci. Rozhodujete pouze o 2 variantách, a to o tom, jestli akcie či komodita v daném čase poroste (CALL), nebo bude klesat (PUT). Toto pochopí opravdu každý. Obchod s binárními opcemi může dopadnout třemi způsoby:
 
 **In the money** – byla splněna podmínka opce a kupující obdrží nominální hodnotu, má zisk
 
@@ -93,7 +139,7 @@ Výhody binárních opcí oproti klasickému obchodování na akciovém trhu.
 
 Investor, který obchoduje – dopředu zná výši maximálního zisku či maximální ztráty.
 
-:   To je jedna z největších výhod pro samotného obchodníka. Binární obchodník má vždy více informací o tom, kolik přesně na daném obchodu vydělá, a naopak si sám určí částku, kterou je ochoten při svém obchodování riskovat. Může se jednat o 100 Kč nebo 1000 Kč, to záleží na každém obchodníkovi.
+:   To je jedna z největších výhod pro samotného obchodníka. Binární obchodník má vždy více informací o tom, kolik přesně na daném obchodu vydělá, a naopak si sám určí částku, kterou je ochoten při svém obchodování riskovat. Může se jednat o 250 Kč nebo 1000 Kč, to záleží na každém obchodníkovi.
 
 Nemusíte se omezovat pouze na vybrané druhy investičních nástrojů
 
@@ -105,36 +151,16 @@ Nemusíte čekat na dividendy nebo na připsání vašich zisků jako u klasick�
 
 Stačí vám kapitál v řádů stovek až tisíců korun.
 
-:   Obchodovat jednu opci můžete u většiny brokerů již od 100 korun, nemusíte riskovat žádné velké částky a přece si můžete slušně vydělat.
+:   Obchodovat jednu opci můžete u **většiny brokerů již od 250 korun (cca 10 USD)**, nemusíte riskovat žádné velké částky a přece si můžete slušně vydělat.
 
 Nemusíte nic stahovat
 
-:   Binární opce můžete obchodovat online u jednotlivých brokerů pomocí aplikace Webtrader (případně i na mobilních zařízeních Iphone, Android, Ipad). Vaše obchody tak máte neustále pod kontrolou. Nemusíte instalovat složité aplikace typu Metatrader 4.
+:   Binární opce můžete obchodovat online u jednotlivých brokerů pomocí aplikace Webtrader (případně i na mobilních zařízeních Iphone, Android, Ipad). Vaše obchody tak máte neustále pod kontrolou. Nemusíte instalovat složité aplikace typu Metatrader.
 
-[Vyzkoušejte demo účet na binární opce u brokera TopOption](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
-
-Binární opce se dále rozdělují na několik druhů: UP/CALL, minutové opce a další. Všechny druhy jsme pro vás recenzovali v našem článku [**Druhy binárních opcí**](http://forexsrovnavac.cz/druhy-binarnich-opci)
-
-
-
-##Příklad obchodů s binárními opcemi
-  
-Příklad obchodů na páru EUR/USD: aktuální cena je 1,2600 v čase 14:00, chceme koupit **hodinovou binární opci**. Obchodník, který si myslí, že pár měn EUR/USD uzavře v 15:00 na ceně kolem 1,2600, koupí call opci (spekulace na růst). Obchodník, který si myslí, že pár EUR/USD uzavře v 15:00 pod 1,2600, může prodat smlouvu o kupní opci – put opci (spekulace na pokles).
-
-V 14:30 EUR/USD cena je 1,2690. První obchodník věří, že se cena bude zvyšovat, a tak si koupí dalších 10 binárních opcí v ceně 40 dolarů za kus, obchodník číslo 2 čeká na zvrat, nebo může odstoupit z investice a část peněz dostane zpět.
-
-
-##Riziko vs. potencionální výdělek u binárních opcí
-
-Riziko spojené s tímto obchodem je známé. Obchodníkův hrubý zisk/ztráta vychází z principu „všechno nebo nic“. On může přijít o všechny peníze, které investoval, což v tomto případě je 40 x 10 = 400 dolarů, nebo si připíše hrubý zisk 100 x 10 = 1000 dolarů. Jestliže EUR/USD cena se uzavře na nebo nad 1,26900 v 15:00, čistým ziskem obchodníka bude odměna při skončení platnosti minus náklady na vklad pro vstup do pozice: To jest 1000 – 400 dolarů = 600 dolarů.
-
-V našem případě se v 15:00 pár zvýšil na 1,2695. Obchodník číslo 1 skončil v penězích a hrubá odměna je 1.000 dolarů. Čistý zisk obchodníka je 600 dolarů. Obchodník číslo dvě ztratil vklad na tuto opci.
-
+Binární opce se dále rozdělují na několik druhů: UP/CALL, minutové opce a další. Všechny druhy jsme pro vás recenzovali v našem článku [Druhy binárních opcí](http://forexsrovnavac.cz/druhy-binarnich-opci)
 
 - - -
-TIP: Podívejte se jak vypadá obchodní platforma na binární opce u brokera [**TopOption**](http://www.blog.forexsrovnavac.cz/topoption)
-- - -
-![Binární opce](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/Binarni-opce-platforma.png)
+![Platforma na binarni opce](http://blog.forexsrovnavac.cz/wp-content/uploads/2016/09/Topoption-recenze-demo-ucet-1.png)
 - - -
 
 {{/section}}
@@ -158,7 +184,6 @@ Pokud tedy přemýšlíte o možnosti nějakého pasivního výdělku, určitě 
      Jak se říká: „I s malým kašpárkem se dá hrát velké divadlo“. Přesně tento citát platí i pro binární opce.
 
 Co mohu pomocí binárních opcí obchodovat?
-[Přehled všech obchodních nástrojů](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 
 :    Pomocí binárních opcí můžete spekulovat na růst vašich oblíbených značek, jako jsou akcie Apple, akcie Facebook nebo Visacard. Dále můžete spekulovat na pokles či růst jednotlivých světových měn, jako jsou americký dolar, evropské euro nebo čínský yen. Pokud preferujete komodity, nemusíte zoufat, pomocí binárních opcí můžete jednoduše spekulovat na pokles či růst komodit, jako jsou zlato, stříbro, ropa a další.
 - - -
@@ -170,24 +195,13 @@ Co mohu pomocí binárních opcí obchodovat?
 | **Komodity:**   | zlato, ropa, platina, stříbro, cukr, káva, pšenice  |
 | **Forex (Měnové páry):**   | EUR/USD, GBP/USD, USD/JPY, USD/CAD, EUR/GBP  |
 
-
-
 - - -
 
-
 {{/section}}
-*Příklady obchodů s binárními opcemi* <pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Tip 1:</strong> <a href="http://blog.forexsrovnavac.cz/topoption">Podívejte se na obchodní aplikaci</a> u TopOption</span></span></pre>
-- - -
-![Příklady obchodů na binární opce](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/12/priklady-obchodu-na-binarni-opce.png)
-
-{{/section}}
-
 
 {{section}}
 ##Demo účet na binární opce zdarma
 
-
-[Stáhněte si Demo účet zdarma](http://blog.forexsrovnavac.cz/topoption){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 **Demo účet** je důležitý hlavně pro nováčky v obchodování binárních opcí. Slouží v prvé řadě k zorientování se v obchodní aplikaci. Demo účet z větší část funguje jako reálný účet, hlavní rozdíl je v tom, že pomocí demo účtu obchodujete pouze za virtuální peníze, tedy případné zisky nebo ztráty jsou pouze virtuální. 
 
 Demo účet je vhodný hlavně pro začátečníky
@@ -200,95 +214,30 @@ Proč využít nejdříve demo účet?
 
 Seznámení s binárními opcemi a trhy, daty, grafy
 
-:    Dalším cílem a rolí tréninku na demo účtech je možnost opravdu se dobře seznámit s trhy jako takovými. Tady bych to nazval jakýmsi „naladěním se“ na vlnu toho kterého trhu ještě před vstupem do reálného světa. Výhodou tohoto naladění se je to, že člověk zjistí, který trh mu sedí lépe a který naopak obchodovat nebude, případně který bude obchodovat nejdříve a který si nechá do zálohy. Temperamentní dají přednost živým trhům, rozvážnější zase jiným trhům.
-
-Více o demo účtech v našem článku [**Binární opce demo**](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce)
+:    Dalším cílem a rolí tréninku na [**demo účetech**](http://www.forexsrovnavac.cz/demo-ucet-na-binarni-opce) je možnost opravdu se dobře seznámit s trhy jako takovými. Tady bych to nazval jakýmsi „naladěním se“ na vlnu toho kterého trhu ještě před vstupem do reálného světa. Výhodou tohoto naladění se je to, že člověk zjistí, který trh mu sedí lépe a který naopak obchodovat nebude, případně který bude obchodovat nejdříve a který si nechá do zálohy. Temperamentní dají přednost živým trhům, rozvážnější zase jiným trhům.
 
 {{/section}}
 
 {{section}}
 
-##Kde obchodovat binární opce?
-:   Určitě doporučujeme brokera [TopOption](http://blog.forexsrovnavac.cz/topoption "TopOption"), který je ověřený v rámci úzké skupiny českých obchodníků a má kladné reference. Je to spolehlivý binární broker s regulací ČNB. TopOption, který je regulovaný v EU (včetně licencí České národní banky a Slovenské národní banky), má obchodní platformu v češtině a také českého manažera. 
 
-TopOption je zatím nejkomplexnější společnost
-:    Z toho vyplývá jedna zásadní skutečnost – vaše vklady na obchodní účet jsou pojištěny do výše 20 tisíc eur, kdyby společnost spadla do úpadku. Webová platforma je v českém jazyku a zástupci brokera komunikují v českém jazyce mailem i po telefonu. Své obchodní dovednosti si u TopOption prověříte na demo účtu i na reálném účtu od 100 dolarů s opcemi od 10 dolarů. Tento broker také nabízí výukovou akademii zdarma.
-
-[TopOption - naše recenze brokera -->>](http://www.forexsrovnavac.cz/topoption "TopOption - recenze brokera").
 {{/section}}
 - - -
 Dejte si pozor na podvodné systémy na binární opce
 
-:   *Binární opce jsou určitě **zajímavou možností vedlejšího výdělku**, nicméně v návaznosti na jejich popularitu vzniká mnoho podvodných systémů, které slibují placené 100% signály, nebo neomylné indikátory vstupů do pozice a výdělek tzv. bez práce a jakéhokoliv vzdělávání. Tohle určitě není správný směr, čím by měl začátečník začít. Za všechny bych uvedl například [BinaryBotPro](http://www.forexsrovnavac.cz/binary-bot-pro), nebo [Optionavigator](http://www.forexsrovnavac.cz/optionavigator-recenze)*
-
-
-</div>
-<div class="col-md-3" markdown="10">
+:   Binární opce jsou určitě **zajímavou možností vedlejšího výdělku**, nicméně v návaznosti na jejich popularitu vzniká mnoho podvodných systémů, které slibují placené 100% signály, nebo neomylné indikátory vstupů do pozice a výdělek tzv. bez práce a jakéhokoliv vzdělávání. Tohle určitě není správný směr, čím by měl začátečník začít. Za všechny bych uvedl například [BinaryBotPro](http://www.forexsrovnavac.cz/binary-bot-pro).
 
 - - -
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Hodnocení brokerů na opce</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="#"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>97%</b>
-  </div>
-  <a class="recenze" target="_parent" href="http://forexsrovnavac.cz/topoption" title"Číst recenzi">Číst recenzi</a>
-  <a class="ucet" target="_parent" href="http://blog.forexsrovnavac.cz/topoption" title"Otevřít účet">WEB</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}brokeri/cz.png" alt="cz">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>95%</b>
- </div>
- <a class="recenze" target="_parent" href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/etxbinary" title"Otevřít účet">WEB</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="#" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Hodnocení: <b>92%</b>
- </div>
- <a class="recenze" href="http://www.forexsrovnavac.cz/stockpair-recenze" title"Číst recenzi">Číst recenzi</a>
- <a class="ucet" href="http://blog.forexsrovnavac.cz/stockpair" title"Otevřít účet">WEB</a>
-</div> 
 
-<hr />
+##Příklad obchodů s binárními opcemi 
+  
+Příklad obchodů na páru EUR/USD: aktuální cena je 1,2600 v čase 14:00, chceme koupit **hodinovou binární opci**. Obchodník, který si myslí, že pár měn EUR/USD uzavře v 15:00 na ceně kolem 1,2600, koupí call opci (spekulace na růst). Obchodník, který si myslí, že pár EUR/USD uzavře v 15:00 pod 1,2600, může prodat smlouvu o kupní opci – put opci (spekulace na pokles).
 
-<a href="http://blog.forexsrovnavac.cz/topoption" alt="Demo účet"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2015/02/2015-02-17-22_43_03-Plus500-_-Akcie-Plus500_-Online-obchodování-s-akciemi-_-Obchodování-s-podíly_kme.png" width="" height=""/>
+V 14:30 EUR/USD cena je 1,2690. První obchodník věří, že se cena bude zvyšovat, a tak si koupí dalších 10 binárních opcí v ceně 40 dolarů za kus, obchodník číslo 2 čeká na zvrat, nebo může odstoupit z investice a část peněz dostane zpět.
 
-</a>
 
-<hr />
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDEzOTk1NiZsPTE0MTI2MzE5JnA9MTAxNjA%3D" width="300" height="600"/>
-</a>
-</a>
+##Riziko vs. potencionální výdělek u binárních opcí
 
-</div>
-</div>
-</div>
+Riziko spojené s tímto obchodem je známé. Obchodníkův hrubý zisk/ztráta vychází z principu „všechno nebo nic“. On může přijít o všechny peníze, které investoval, což v tomto případě je 40 x 10 = 400 dolarů, nebo si připíše hrubý zisk 100 x 10 = 1000 dolarů. Jestliže EUR/USD cena se uzavře na nebo nad 1,26900 v 15:00, čistým ziskem obchodníka bude odměna při skončení platnosti minus náklady na vklad pro vstup do pozice: To jest 1000 – 400 dolarů = 600 dolarů.
+
+V našem případě se v 15:00 pár zvýšil na 1,2695. Obchodník číslo 1 skončil v penězích a hrubá odměna je 1.000 dolarů. Čistý zisk obchodníka je 600 dolarů. Obchodník číslo dvě ztratil vklad na tuto opci.

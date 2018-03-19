@@ -23,6 +23,7 @@ O brokerovi ironfx.com
 Jedným z najznámejších a užívateľsky najobľúbenejších brokerov na svete je spoločnosti Ironfx, ktorá je držiteľom mnohých ocenení, ktoré dosvedčujú kvalitu tohto obchodníka. Broker ponúka neskutočné množstvo 15 platforiem, prostredníctvom ktorých môžete obchodovať FOREX, spotové kovy, akcie a futures. Každý obchodník môže u Ironfx využívať vyše 200 finančných inštrumentov.
 Ironfx sa pohybuje na retailovom a inštitucionálnom trhu.
 
+
 Svoje služby poskytuje vo viac ako 180 krajinách celej Európy, Ázie, Stredného východu, Afriky a Latinskej Ameriky. Broker má po celom svete a 180 krajinách, v ktorých pôsobí, 60 vlastných kancelárií a svoje služby poskytuje v 45 svetových jazykoch. 
   </div>
   <div class="col-md-6" markdown="1">
@@ -36,6 +37,8 @@ www.ironfx.com má množstvo licencií, ktoré tomuto brokerovi umožňujú obch
 </div>
 </div>
 {{/section}}
+
+{{partial: fxpro}}
 
 *Prečo obchodovať s Ironfx.com?*
 :    
@@ -145,16 +148,13 @@ Pre všetkých obchodníkov je k dispozícii aj vzdelávanie v podobe akadémie,
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
-  
 
-![Ironfx.com](http://media.ironaffiliates.com/uploads/IronFX_logo99.jpg) 
-
-[Otvoriť účet](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Registrace"){.btn .bnt-lg .btn-primary} [Demo](https://record.ironaffiliates.com/_N42kyjjNyOliHMh1Fo8vcmNd7ZgqdRLk/1/ "Demo účet"){.btn .bnt-lg .btn-default}
+{{partial: menu-sk}}
 
 </div>
 <div class="container-fluid" markdown="1">
 - - -
-#### Menu
+Menu
 
 [Ironfx.com recenzia](http://forexsrovnavac.cz/sk/Ironfx#section-1)
 
@@ -165,38 +165,13 @@ Pre všetkých obchodníkov je k dispozícii aj vzdelávanie v podobe akadémie,
 [Obchodné aplikácie](http://forexsrovnavac.cz/sk/Ironfx#section-4)
 
 - - -
-#### Výhody
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Vlastné český manažér
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Až 3000 USD bonus ku vkladu
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Webtrader - nemusíte nič sťahovať
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     CFD Broker, Metatrader 4
-
-#### Nevýhody
-
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Vhondý skôr pre profesionálov
-- - -
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
-
+{{partial: fxprobanner}}
 
 <div class="container-fluid" markdown="1">
 - - -
 
-<a href="" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
-</a>
-
-- - -
-Náš Tip:
-:    
-Ironfx.com ponúka až 3000 USD bonus na nový vklad [Viac informácií o Bonusu]
-- - -
 
 </div>
 </div>

@@ -30,6 +30,8 @@ Bude do CFD investovať iba desatinu prostriedkov, ktoré by investoval do akci�
 
 Na rozdiel od obchodovania s akciami, nie je u CFD nutné skladať celú hodnotu akcií. Namiesto toho Vám stačí záloha (tzv. Margin), zvyčajne vo výške 1% hodnoty obchodovaných akcií. Hoci je investovaný kapitál u CFD menší ako v prípade akcií, je investor vystavený potenciálnym ziskom plynúcim z celého objemu obchodovaných akcií. Páka potom spôsobuje, že každá zmena kurzu akcie vedie k väčšiemu percentuálnemu zhodnoteniu investovaných prostriedkov (marginu).
 
+{{partial: fxpro}}
+
 Ak bude chcieť investor kúpiť 1000 akcií po 50 USD, bude mu u CFD stačiť iba 500 EUR (margin 1%) namiesto 50000 USD, ktoré musí zaplatiť v prípade priamej investície do akcií.
 
 Margin = 50 EUR * 1000 ks / akcií * 1% = 500 EUR
@@ -72,37 +74,16 @@ V porovnaní s akciami má investor zisk v otvorenej pozícii k dispozícii a m�
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/sk/markets-com-recenzia "markets.com")
-
-<br>
-
-#### Binárne opcie
-
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Onlyoption recenzia](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption recenzia")
+{{partial: menu-sk}}
 
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxprobanner}}
 
 <div class="container-fluid" markdown="1">
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
 
 </div>
 </div>

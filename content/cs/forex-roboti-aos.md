@@ -12,39 +12,34 @@
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
-{{section}}
+{{start}}
 
 #Forex roboti zkušenosti - Automatické obchodní systémy (AOS)
 
- 
+Automatické obchodní systémy (aos) na forex - tak se **Forex roboti** označují. Je vůbec reálné vytvořit robota, který by fungoval plně automaticky a obchodoval plně automaticky za vás? Na tuto otázku půjdeme takzvaně od lesa. 
 
-Automatické obchodní systémy (aos) na forex - tak se Forex roboti označují. Je vůbec reálné vytvořit robota, který by fungoval plně automaticky a obchodoval plně automaticky za vás? Na tuto otázku půjdeme takzvaně od lesa. Mluvíme o robotech používaných ve Forexu, o softwaru schopného obchodovat místo Vás, softwaru s umělou inteligencí, který je schopný se sám od sebe učit.     
+Mluvíme o robotech používaných ve Forexu, o softwaru schopného obchodovat místo Vás, softwaru s umělou inteligencí, který je schopný se sám od sebe učit.     
 
-    Tento software umožňuje mimo jiné i nezávislé programování a tím i tvorbu různých obchodních strategií, které se potom dále dají samostatně testovat. 
+Tento software umožňuje mimo jiné i nezávislé programování a tím i tvorbu různých obchodních strategií, které se potom dále dají samostatně testovat. 
 
+{{/start}}
 Jestliže tedy budeme vycházet z předpokladu, že máme obchodní systém, který je ziskový a dokážeme jej manuálně na LIVE Forex účtu obchodovat a přitom existuje i software, který nám umožní převést tento obchodní systém do určitého programu, pak není jediný důvod se domnívat, že nelze vytvořit **Forex ROBOTA**, který by za vás plně obchodoval.
-- - - 
-## FxPro Quant - Vytváření vlastních obchodních systémů
 
-FxPro Quant je revoluční nástroj, který umožňuje vytváření vlastních EAs (Expert Advisors). Na rozdíl od jiných nástrojů na budování strategii, Quant nevyžaduje znalosti kódovacího jazyka. Vše se provádí prostřednictvím intuitivního drag and drop rozhraní. Obchodníci můžou stavět na přizpůsobitelných šablonách nebo vytvořit zcela nové automatizované strategie od základů.
-
-Více o informací na webu [**FXpro Quant**](http://quant.fxpro.co.uk/?source=193&utm_source=ForexsrovnavacCZ+com&utm_medium=Article&utm_term=Brand&utm_content=CZ&utm_campaign=Article+on+ForexsrovnavacCZ+HQ) a [**FxPro Quant recenze**](http://www.forexsrovnavac.cz/fxpro-quant)
-- - - 
 {{partial: fxpro}}
 
-###Co je tedy Forex robot doopravdy?
+##Co je tedy Forex robot doopravdy?
 
-    Automatický obchodní systém (AOS), neboli Forex robot je "jakákoli strategie, která se vykonává nezávisle na vašem rozhodnutí", nicméně podle vámi zadaných pravidel. Výhodou automatických obchodních systémů na Forex je to, že není nutné sledovat celý den trh a čekat na signál, AOS to udělá za vás.
+Automatický obchodní systém (AOS), neboli Forex robot je "jakákoli strategie, která se vykonává nezávisle na vašem rozhodnutí", nicméně podle vámi zadaných pravidel. Výhodou automatických obchodních systémů na Forex je to, že není nutné sledovat celý den trh a čekat na signál, AOS to udělá za vás.
 
 ##Jak Forex robot AOS funguje?
 
 AOS je ve své podstatě shluk pravidel, která definují vstupy a výstupy z trhu a program poté sám zadává příkazy na trh. Takovýto Forex systém může být postaven prakticky na čemkoliv, co vám funguje. Například systém, který vstupuje a vystupuje na základě křížení klouzavých průměrů, svíčkových formací, arbitráže, korelace apod.
 
-Jak získat forex robota  a je Forex robot pro každého?
+<b><big>`Jak získat forex robota  a je Forex robot pro každého?`</big></b>
 
 :    V principu jsou dvě cesty. První je mít vlastní ziskovou strategii, kterou si necháte od nějakého programátora naprogramovat.  Připravte si pár set tisíc, protože nechat si naprogramovat vlastního Forex robota není doopravdy levná záležitost. A pozor ještě na jednu věc, ne všechny [**Forex strategie**](http://www.forexsrovnavac.cz/forex-strategie) jsou vhodné pro použití v automatickém obchodním systému.
  
-Koupit nebo pronajmout si Forex robota?
+<b><big>`Koupit nebo pronajmout si Forex robota?`</big></b>
 
 :    Druhou možností je koupě nebo pronájem již hotového robota. Existuje jich velké množství a prakticky všechny se dají koupit online přes internet. Nemělo by být ani těžké zjistit, který z nich je ziskový a který ne. Trhy se stále mění a ne všechny automatické softwary se těmto změnám dokážou přizpůsobit. Je proto dobré si ověřit vybraného robota v recenzích a na diskusních fórech dříve, než se rozhodnete k nákupu.
  
@@ -58,7 +53,7 @@ I přes tyto výhody někteří stejně nedoporučují roboty používat. Jedná
 Jednou z nevýhod je to, že forex roboti nejdou použít například na binární opce, které jsou dnes populární
  
 
-Existuje AI Forex robot?
+<b><big>`Existuje AI Forex robot?`</big></b>
 
 :    Nazveme ho prémiový robot, který se jako první umí poučit z vlastních chyb a neúspěšných obchodů. Takovýto AI Forex robot sleduje a vyhodnocuje dění i na dalších trzích (bondy, akcie, futures…) a u dalších brokerů sám řídí měnu, kterou bude obchodovat, sám řídí objem obchodu a sám si dynamicky určuje strategii, na základě které obchoduje. 
 
@@ -70,9 +65,19 @@ Forex robot průběžně sám optimalizuje a upravuje své nastavení tak, aby d
 
 Jedna skupina lidí vůbec nevěří, že by něco takového mohlo existovat, natožpak fungovat. Je to pro ně sci-fi, fx-utopie, atp. AI – Umělá inteligence Forex robot. Tohle je první co mě v souvislosti s Forex robotem napadne. A je to vcelku vzato správně. Dnešní doba sebou nese nedůvěru v cokoliv a kohokoliv, což dvojnásob platí v oblasti financí a zhodnocování peněz. A tak se vlastně není čemu divit, pokud někdo o této možnosti obchodování pochybuje. 
 
+{{partial: xmcom}}
+
 Druhá skupina, zřejmě početně menší, ví, že lze sestavit takový software, který umožní automatické obchodování a věří, že je teoreticky možné, aby takový software, třeba i na Forex obchodování - přinášel svému uživateli zisk.
  
 *Obchodní Forex robot, který se učí z vlastních chyb a svou práci si řídí, vyhodnocuje a nastavuje sám. Takového robota můžeme považovat i za „superobchodníka“, který stojí nad všemi trhy a dosahuje díky tomu vynikajících výsledku. Zní to tak trochu jako sci-fi, nemyslíte? Je to ale realita. Ne každý broker umožňuje používat forex roboty. Mezi ty kteří to umožňují patří například hotforex, nadruhou stranu třeba u plus500 jsou roboti zakázaní*
+
+- - - 
+## FxPro Quant - Vytváření vlastních obchodních systémů
+
+FxPro Quant je revoluční nástroj, který umožňuje vytváření vlastních EAs (Expert Advisors). Na rozdíl od jiných nástrojů na budování strategii, Quant nevyžaduje znalosti kódovacího jazyka. Vše se provádí prostřednictvím intuitivního drag and drop rozhraní. Obchodníci můžou stavět na přizpůsobitelných šablonách nebo vytvořit zcela nové automatizované strategie od základů.
+
+Více o informací na webu [**FxPro.cz**](http://blog.forexsrovnavac.cz/fxpro)
+
  
 
 
@@ -88,13 +93,11 @@ Druhá skupina, zřejmě početně menší, ví, že lze sestavit takový softwa
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+{{partial: obrazek}}
 
 </div>
 </div>

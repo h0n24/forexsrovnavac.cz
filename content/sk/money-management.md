@@ -14,7 +14,7 @@
 
 {{section}}
 
-# Money management
+# Forex Money management
 
 Čo je úlohou Money managementu
 
@@ -27,6 +27,8 @@
 Prežitie na trhu zabezpečíme jednoducho tak, že **nebudeme riskovať celý kapitál na jeden obchod**, ešte lepšie, určíme si, že budeme riskovať iba určité percento kapitálu, tak, aby nás neohrozila ani "hrôzostrašná" séria strát idúcich za sebou (drawdown ). Záleží len na vás, aké percento kapitálu si určíte pre svoje stratové obchody. Profesionáli hovoria o tom, že riskujú na jeden obchod 2-3% celkového kapitálu.
 
 Všimnite si, že ak riskujeme 10% z účtu, tak už po sérii siedmich stratových obchodov sme na 50% pôvodnej výšky nášho účtu a po 16ti stratách idúcich za sebou sme de facto na nule. Ak riskujeme 2% kapitálu na každý obchod, tak aj po 16tich stratách budeme na 75% pôvodnej výšky účtu.
+
+{{partial: fxpro}}
 
 Samozrejme, že asi nebudeme obchodovať systémom, ktorý by nám nadelil 16 strát idúcich za sebou. Ale pre ilustráciu je to veľmi vhodný príklad. Tragédie nižšie uvedenej tabuľky nespočíva v samotnej skutočnosti straty účtu po 16ti stratách, ale v tom, že s každou ďalšou stratou je ťažšie a ťažšie zhodnotiť zvyšok kapitálu na pôvodných 100%. V prípade, že stratíme 50% kapitálu, musíme zhodnotiť zvyšok o 100%, aby sme sa dostali na pôvodnú výšku kapitálu. **V prípade, že stratíme 90% kapitálu, musíme zvyšný kapitál zhodnotiť o 900% (!)**, Aby sme sa dostali na pôvodnú výšku kapitálu. Je to jednoduchá matematika. .
 
@@ -94,30 +96,12 @@ Všetky tieto zásady sa musia stať prirodzenou súčasťou vašej obchodnej pr
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
 
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/sk/markets-com-recenzia "markets.com")
-
-<br>
-
-#### Binárne opcie
-
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Onlyoption recenzia](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption recenzia")
+{{partial: menu-sk}}
 
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
-
+{{partial: fxprobanner}}
 <div class="container-fluid" markdown="1">
 
 - - -

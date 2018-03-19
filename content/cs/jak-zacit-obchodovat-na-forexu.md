@@ -3,57 +3,67 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Jak začít obchodovat na forexu",
+    "title": "Jak začít obchodovat na Forexu",
     "description": "",
-    "keywords": "Jak začít obchodovat na forexu"
+    "keywords": "Jak začít obchodovat na Forexu"
   }
 {{/settings}}
 
 <div class="row">
 <div class="col-md-9" role="main" markdown="1">
 
-{{section}}
 
+{{start}} 
+# Jak začít na forexu? 
 
-#Jak začít na forexu?
+Forex trading je těžká profese. Příprava vyžaduje spoustu času, trpělivosti, praxi a vzdělávání. Existuje spousta překážek a každý, kdo se rozhodne vstoupit na FOREX by si měli uvědomit, že vzdělání je nejdůležitějším krokem k úspěchu. Je velmi důležité znát základy forex obchodování, nicméně základy obchodování nestačí k tomu abychom začali vydělávat peníze.
 
-Cesta k tradingu mi přijde dosti těžká a složitá než se zdálo z počátku. Z počátku jsem nevěděl ani jak analyzovat trh ani co to jsou oscilátory a indikátory a jak se používají, četl jsem tenkrát několik hodin denně, abych se dozvěděl co nejvíce o forexu, přečetl jsem různé články na internetu, je to hodin a hodin a taky dost knih jsem přečetl a shlédl spousty videí od různých brokerů a taky z počátku koukal do grafu několik hodin denně a ještě teď si něco přečtu, ale už to není tak intenzivní a motivující jak to bylo od začátku to nadšení.
+{{/start}} 
 
-Vyzkoušejte si nejdříve demo účet
-
-:   Nejdříve [**demo účet**](http://www.forexsrovnavac.cz/demo-ucet "forex demo"). Toto je nejzákladnější řada jakou vám mohu dát. Pokud je trader nepřipravený, tak " živé " obchodování je zcela nesmyslné. Je to jen obyčejné vyhazování peněz oknem. Nic víc. Důležité je poznamenat, že to je nutná , nikoliv postačující podmínka . I malé dítě ví , že pokud víte létat na simulátoru, to ještě neznamená, že víte létat i na skutečném letadle. Ale to samé malé dítě také ví, že pokud nevíte létat ani jen na simulátoru, tak na skutečném letadle to docela určitě nedokážete.
-
-
-##Jak se obchoduje na forexu?
-
-Obchodníci mohou **vytvářet zisky, ať měna stoupá nebo klesá,** nákupem jedné měny (u které se předpokládá nárůst hodnoty) za jinou měnu, nebo prodejem jedné měny (u které se předpokládá ztráta hodnoty) za jinou měnu. Zaujetí dlouhé pozice je, když obchodník nakupuje určitou měnu za určitou cenu a snaží se prodat ji později za vyšší cenu. Naopak zaujetí krátké pozice je, když obchodník prodá určitou měnu, u které předpokládá znehodnocení, a snaží se tuto měnu později nakoupit za nižší cenu. 
-
-Nákupy a prodeje měn coby odezva na ekonomické a politické události, které nastávají, jsou reakční, zatímco nákupy a prodeje měn coby odezva na předpokládané události jsou spekulativní. Velikost měnové aktivity je vytvářena účastníky trhu, předvídajícími směr cen měny. Obecně je hodnota měny vůči jiným měnám odrazem stavu hospodářství dané země vzhledem k ostatním velkým ekonomikám.
-
-Zahraniční měny jsou souvislým globálním trhem, poskytujícím **účastníkům přístup na trh 24 hodin denně**. K jediným přerušením obchodování dochází nakrátko přes víkendy. I když jsou zahraniční měny nejvíce likvidní ze všech trhů, skutečnost, že jde o mezinárodní trh a obchodování 24 hodin denně, znamená, že denní doba může mít přímý dopad na likviditu, která je k dispozici, pro obchodování s určitou měnou. Hlavními dealerskými centry a časovými zónami jsou Sydney, Tokio, Londýn a New York. Takže obchodníci musejí brát v úvahu, kteří hráči jsou na trhu, protože v moderním vzájemně propojeném finančním světě mohou události, ke kterým dojde v kterékoli hodině v kterékoli části zeměkoule, mít vliv na některé nebo všechny části investiční komunity.
+**S čím začít?** To znamená - číst e-knihy, mluvit s ostatními obchodníky, zúčastnit se on-line webových seminářů, obchodních kurzů a případně i získat profesionálního forex učitele. Celkově je vše možné udělat tzv. na vlastní pěst, ale tento způsob vyžaduje mnohem více času, trpělivosti a porozumění vůči vlastním chybám, které mnohdy nejsme sto odhalit, což je nebezpečné pro náš další obchodní vývoj a zejména pro naše peníze.
 
 {{partial: fxpro}}
 
-##Naučte se řídit vaše finance (money-management)
+Mimochodem, asi nikdo z vás si nedovede představit, že by se sám učil bez toho, aniž by chodil na školu základní, střední a případně vysokou školu.
 
-Peníze, které byste vyhodili na různých mikro a mini účtech raději odkládejte a vytvářejte si obchodní kapitál. Ve chvíli, kdy začnete obchodovat "live" používejte extrémně konzervativní money management. Riskujte například jen 0.5 % svého obchodního kapitálu na jeden obchod.
+## 15 tipů, které není radno podcenit
 
-Opravdu se nemáte kam spěchat. Výsledky obchodování vám ukáží, že už nastal čas zvýšit riziko. V žádném případě by to však nemělo být více než 1.5 % obchodního kapitálu. Podle mého názoru, začínající trader by v prvních měsících svého obchodování neměl riskovat více než 5%.
+Jakmile budete znát alespoň obecné základy obchodování, můžete přejít k dalším úrovním. Zde uvádíme některé další atributy, které vám pomohou rozšiřovat vaše znalosti a dovednosti:
 
-Pokud po přechodu z demo obchodování na reálný účet ztratíte více než 30 % obchodního kapitálu, tak se musíte bezpodmínečně vrátit na demo a zjistit příčinu. Znovu musíte obchodovat na demu byť i další týden, měsíc a samozřejmě takto ušetřenými penězi zvyšovat svůj obchodní kapitál.
+<br>
 
-Forex bonusy
+Naučte se pokud možno co nejvíce o [**technické**](http://www.forexsrovnavac.cz/technicka-analyza) a [**fundamentální analýze.**](http://www.forexsrovnavac.cz/fundamentalni-analyza)
+- - -
+Nikdy neinvestujte více, než si můžete dovolit ztratit.
+- - -
+Rozvíjejte forex strategii, a vlastní obchodní styl prostřednictví [**demo účtu**](http://www.forexsrovnavac.cz/forex-demo-ucet).
+- - -
+Pokud se vaše strategie ukázala jako úspěšná na demo účtu, můžete se pokusit obchodovat na reálném účtu s mini loty.
+- - -
+Udržujte svůj obchodní deník formou přehledných zápisů, včetně emocí provázející vaše obchodování. Aby bylo možné ovládat emoce, je důležité identifikovat své emocionální napětí, např. pomocí zápisů do obchodního deníku.
+- - -
+Nepočítejte každý obchod. Některé obchody jsou ziskové a některé ztrátové. I mozaika se skládá z malých částí. Teprve po delším čase můžete z většího vzorku obchodů hodnotit svůj obchodní systém a jeho výsledky.
+- - -
+Vždy používejte Stop loss, případně [**Trailing stop.**](http://www.forexsrovnavac.cz/market-order-limit-order-stop-loss-trailling-stop)
+- - -
+Dejte si čas na hledání správného forex brokera a dobrou platformou pro obchodování. Pokud chcete uspět na forexu, je důležité najít spolehlivou obchodní platformu. Na tom, jakou platformu a brokera si vyberete, závisí do značné míry na vašem obchodním stylu. Nejdříve si je dobré stanovit, jaký druh obchodníka jste, jaký je váš investiční kapitál a jaké jsou vaše cíle na forexu a poté stanovit platformu, na které budete obchodovat.
+- - -
+Nikdy nevstupujte do obchodu se strachem nebo chamtivostí. Pokud si nejste jisti konkrétním obchodem, nezadávejte jej. Dalších příležitostí bude vždy dostatek.
+- - -
+Držte se dále od overtradingu, chamtivosti a nedbalého obchodování.
+- - -
+Překontrolujte vše před provedením objednávky. Mnohdy se stává, že zadáme jiné nebo opačné údaje do objednávky, než jsme původně chtěli.
+- - -
+Buďte velmi opatrní, pokud jde o [**pákový efek**](http://www.forexsrovnavac.cz/pakovy-efekt). Musíte dokonale pochopit důsledky používání vysokého pákového efektu i s malým účtem.
+- - -
+Pokud jste začátečník, vyhněte se obchodování zpráv. Trh je velmi nepředvídatelný, můžete získat zajímavý výdělek, ale také můžete „vyčistit“ část svého účtu během několika minut.
+- - -
+Buďte vždy disciplinovaní. Držte se svého obchodního systému, bez ohledu na to co se děje.
+- - -
+Neskákejte od jednoho nápadu k druhému jen proto, že vaše strategie nevytváří zisky dle vašich představ. To rozhodně není důvod k ukončení jedné strategie a přechodu ke druhé. Držet se jedné, pokud možno „odzkoušené“ obchodní strategii a naučte se s ní obchodovat.
 
-:   Pokud vás láká reálný účet, ale stále si myslíte, že je obchodování na forexu velké riziko, není nic jednoduššího než využít forex bonus bez nutnosti vkladu. Celá řada brokerů nabízí jak demo účet zdarma, tak bonus v podobě pár desítek dolarů na vyzkoušení reálného účtu, je to určitá forma marketingu daného brokera. Tento bonus může využít každý, podmínkou je 18 let. Více informací o [**forex bonusech**](http://www.forexsrovnavac.cz/forex-bonus-no-deposit-bez-vkladu "Forex bonus")
+{{partial: xmcom}}
 
-
-
-
-
-
-
-
-{{/section}}
 </div>
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
@@ -65,16 +75,11 @@ Forex bonusy
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<!--
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
--->
-
+{{partial: obrazek}}
 
 </div>
 </div>

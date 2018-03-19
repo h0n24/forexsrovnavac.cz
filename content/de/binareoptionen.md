@@ -3,7 +3,7 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Binäre Optionen - Erfahrungen Optionen richtig handeln - demokonto",
+    "title": "Binäre Optionen - Erfahrungen Optionen richtig handeln - demokonto 2016",
     "description": "",
     "keywords": "Binäre Optionen, binäre Optionen Berichts Demo Konto binären Optionen Binäre Handel"
   }
@@ -26,7 +26,7 @@ Inhalt der Seite: [Binäroptionen Rezension](http://forexsrovnavac.cz/de/binareo
 
 **Binäroptionen** sind eine der vielen Möglichkeiten, wie man seine Finanzen aufwerten kann, die Auslandserfahrung zeigt, dass jeder Mensch fähig ist, mit den Binäroptionen  zu handeln. Mit den Binäroptionen handelt auch zahlreiche tschechische und slowakische Kommunität, deshalb haben Binärbroker ihre Applikationen und Webseiten im Tschechischen.  Der Verdienst, der mithilfe von den binären Optionen erworben werden kann, ist dank dessen auch der breiten Öffentlichkeit zugänglich. **Minimaleinlage  beim Broker der Binäroption bewegt sich nämlich von 100 US-Dollars  (etwa 74 Euro).**.
 
-[Sehen Sie eine Plattform auf Binäroptionen an](http://blog.forexsrovnavac.cz/topoption.de){.btn .btn-lg .pull-left .btn-primary .btn-index} Im Falle, dass Sie also über die Schaffung einer Art passiven Einkommens  oder über eine Art einmaligen Zuverdienstes nachdenken und Sie wollen es nicht, große Summen investieren, sind die binären Optionen für Sie eine Möglichkeit, wie Sie aus einer kleinen Investition etwa ein paar hunderte Kronen, ein regelmäßiges passives Einkommen schaffen können, indem Sie einige Finanzen zusätzlich verdienen werden. 
+ Im Falle, dass Sie also über die Schaffung einer Art passiven Einkommens  oder über eine Art einmaligen Zuverdienstes nachdenken und Sie wollen es nicht, große Summen investieren, sind die binären Optionen für Sie eine Möglichkeit, wie Sie aus einer kleinen Investition etwa ein paar hunderte Kronen, ein regelmäßiges passives Einkommen schaffen können, indem Sie einige Finanzen zusätzlich verdienen werden. 
 
     Wenn Sie über Investieren nachdenken, aber Sie haben gerade keine hunderttausende Kronen zum Einkauf der Aktionen oder der Immobilien, brauchen Sie nicht zu verzweifeln, Sie können auch mit den binären Optionen beginnen, denn diese Optionen sind derart spezifisch, dass ein Kapital ungefähr ein paar hundert Kronen zum Einkaufen Ihrer ersten binären Option genügt. 
 
@@ -46,7 +46,6 @@ Wählen Sie sich richtigen Broker aus
 :  Auf unseren Webseiten werden nur diejenigen Broker rezensiert, die ordnungsgemäß kontrolliert und durch die global reguliert werden. Handeln Sie nur bei hochwertigen und überprüften Brokern mit dem höchsten Maß der Erträge.  
 
 
-[Sehen Sie Demokonto auf die Binäroptionen hier an](http://blog.forexsrovnavac.cz/topoption.de "Demo účet"){.btn .bnt-lg .btn-default}
 
 
 </a>
@@ -57,6 +56,21 @@ Wählen Sie sich richtigen Broker aus
 
 {{section}}
 
+- - -
+<div class="row">
+<div class="col-md-8 hidden-sm hidden-xs">
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNTY2MDc2OSZsPTE1NjYwMjE2JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNTY2MDc2OSZsPTE1NjYwMjE2JnA9MTAxNjA%3D" width="956" height="90"/>
+</a>
+</div>
+<div class="col-sm-6 col-xs-12 hidden-md hidden-lg">
+<a href="http://serv.markets.com/promoRedirect?key=ej0xNTY2MDc1NyZsPTE1NjYwMjE3JnA9MTAxNjA%3D"  target="_blank">
+ <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNTY2MDc1NyZsPTE1NjYwMjE3JnA9MTAxNjA%3D" width="300" height="250"/>
+</a>
+</div>
+</div>
+
+- - -
 
 ## Was sind binäre Optionen
 
@@ -111,9 +125,7 @@ In unserem Falle war das so, dass das Paar sich um 15:00 auf 1,2695 erhöhte. De
 </div>
 </div>
 
-[                         Vyzkoušejte demo účet na binární opce u brokera TopOption                      ](http://blog.forexsrovnavac.cz/topoption.de){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
 
-![Binäroptionen](http://i.imgur.com/YV4yWi6.png)
 - - -
 
 {{/section}}
@@ -135,7 +147,7 @@ Minimale Einlage für Handel
      Wie man sagt: „ Auch mit dem kleinen Kasper kann man ein großes Theater spielen”,   genau dieses Zitat gilt auch für die Binäroptionen.
 
 Was kann ich mithilfe von den binären Optionen handeln? 
-[Überblick von allen Geschäftsmitteln](http://blog.forexsrovnavac.cz/topoption.de){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+
 
 :    Mithilfe der Binäroptionen können Sie Wachstum Ihrer Lieblingsmarken spekulieren, wie es Appel  Aktien,  Facebook Aktien oder Visa Card sind. Weiterhin können Sie  das Sinken, oder Wachstum der einzelnen Währungen  spekulieren, wie der US-Dollar, das europäische Euro oder der chinesische Yen sind. Falls Sie die Handelsartikel bevorzugen, brauchen Sie nicht zu verzweifeln, mithilfe von den Binäroptionen können Sie einfach ein Sinken oder ein Wachstum  der Handelsartikel spekulieren, wie Gold, Silber oder Öl und so weiter sind. 
 - - -
@@ -151,10 +163,6 @@ Was kann ich mithilfe von den binären Optionen handeln?
 - - -
 
 
-{{/section}}
-*Beispiele der Händel mit den binären Optionen* <pre><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;"><strong>Tipp 1:</strong> <a href="http://blog.forexsrovnavac.cz/topoption.de">Sehen Sie Geschäftsapplikation</a> bei TopOption an</span></span></pre>
- 
-![Příklady obchodů](http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/p%C5%99%C3%ADkladyobchd%C5%AF.png)
 
 {{/section}}
 
@@ -166,7 +174,7 @@ Mit den binären Optionen  begann ich etwa vor einem halben Jahr. Zuerst sagte m
 
 Auswahl des Brokers ist wichtig 
 
-:     Zuerst begann ich mich nach einem wirklich guten Broker umzusehen, mit dem ich während des Handels keine Probleme hätte. Aufgrund dessen, was ich im Internet anlas und nach den Erfahrungen eines Freundes, orientierte ich mich vor allem auf die Regulation des Brokers selbst, auf den problemlosen Gang seiner Applikation und nicht in der letzten Reihe auf **Rentabilität der Binäroptionen**, die sich bei einzelnen Brokern in Größenordnung von 70 bis 85 % bewegen.  Am besten waren meiner Meinung nach [TopOption](http://blog.forexsrovnavac.cz/topoption.de "TopOption") oder Stockpair.
+:     Zuerst begann ich mich nach einem wirklich guten Broker umzusehen, mit dem ich während des Handels keine Probleme hätte. Aufgrund dessen, was ich im Internet anlas und nach den Erfahrungen eines Freundes, orientierte ich mich vor allem auf die Regulation des Brokers selbst, auf den problemlosen Gang seiner Applikation und nicht in der letzten Reihe auf **Rentabilität der Binäroptionen**, die sich bei einzelnen Brokern in Größenordnung von 70 bis 85 % bewegen.
 .
 
 Erste Investition etwa 100 US-Dollars
@@ -187,7 +195,7 @@ Viel Erfolg, Pavel
 ## Demokonto auf die binären Optionen, kostenlos 
 
 
-[Herunterladen Sie ein Demokonto kostenlos](http://blog.forexsrovnavac.cz/topoption.de){.btn .bnt-lg .btn-primary .pull-left .btn-index} 
+
 **Demokonto** je ist vor allem für Anfänger des Handels mit den binären Optionen wichtig.  Es dient in der ersten Reihe zur Zurechtfindung in der Geschäftsapplikation. Ein Demokonto funktioniert aus größerem Teil als Live-Konto, der Hauptunterschied besteht darin, dass mithilfe des Demokontos nur mit Demo-Geld gehandelt wird, also die möglichen Gewinne, oder Verluste sind nur virtuell. 
 
 Demokonto ist hauptsächlich für Anfänger passend  
@@ -203,20 +211,11 @@ Bekanntmachung mit den binären Optionen und Märkten, Daten und Graphen
 :    Ein weiteres Ziel und eine weitere Rolle des Trainings auf den Demokonten ist eine Möglichkeit, sich mit Märkten als solchen gut bekannt zu machen.  Da könnte hier eine  gewisse „Einstellung”  von Ihnen in die Welle des Marktes noch vor einem Einstieg in die reale Welt genannt werden.  Vorteil dieser Einstellung ist das, dass Mensch feststellt, welcher Markt ihm am besten passt, und umgekehrt, auf  welchem Markt er nicht handeln wird, beziehungsweise auf welchem Markt er zuerst handeln wird und welchen er sich in Reserve behält. Temperamente geben lebensvollen Märkten Vorzug, die Besonneneren wiederum anderen Märkten. Über Demokonten erfahren Sie mehr in unserem binäre Optionen – Demoversionen der Konten. 
 {{/section}}
 
-{{section}}
-
-##Wo soll man mit den binären Optionen handeln? 
-:   Auf jeden Fall empfehlen wir den Broker [TopOption](http://blog.forexsrovnavac.cz/topoption.de "TopOption"), der im Rahmen einer engen Gruppe der tschechischen Geschäftsmänner überprüft ist. Er ist ein zuverlässiger Binärbroker mit der Regulation der Tschechischen Nationalbank. TopOption,  der in der Europäischen Union reguliert wird (einschließlich der Lizenzen Tschechischer Nationalbank und Slowakischer Nationalbank), hat Handelsplattform im Tschechischen und tschechischen Manager. 
-
-Topoption ist die komplexeste Gesellschaft, die bisher gegründet wurde
-:    Daraus folgt die grundsätzliche Tatsache, Ihre Einlagen auf das Handelskonto sind bis zur Höhe von 20 tausend Euro versichert, und zwar für den Fall, dass die Gesellschaft Pleite machen würde.  Die  Webplattform ist im Tschechischen und die Vertreter des Brokers kommunizieren in der tschechischen Sprache per E-Mail, sowie per Telefon.  Ihre Handelsfertigkeiten prüfen Sie  bei TopOption auf einem Demokonto, sowie auf einem realen Konto von 100$ mit den Optionen von 10$ nach.  Dieser Broker bietet auch Unterrichtsakademie kostenlos. 
-
-
-{{/section}}
 - - -
 Geben Sie Acht auf betrügerische Systeme für die binären Optionen
 
 :   *Die Binäroptionen sind bestimmt interessante Möglichkeit des Nebenverdienstes, trotzdem entstehen  im Anschluss an ihre Beliebtheit viele betrügerische Systeme, die bezahlte  100% Signale versprechen, oder unfehlbare Indikatoren der Einstiege in die Position und den Erwerb sogenannt ohne Arbeit und ohne jede Ausbildung.  Das ist bestimmt keine richtige Richtung, mit deren ein Anfänger beginnen sollte. Für alle wurde ich zum Beispiel BinaryBotPro oder Optionavigator erwähnen.*
+
 
 
 </div>
@@ -224,58 +223,9 @@ Geben Sie Acht auf betrügerische Systeme für die binären Optionen
 
 - - -
 
-<div id="brokeri-box">
-<H3 class="brokeri-nadpis">Rating Makler für Optionen</H3>
-<div class="broker">
-  <div class="broker-top">
-  <a href="http://blog.forexsrovnavac.cz/topoption.de"  title="TopOption">
-    <img src="{{img-url}}brokeri/topoption-logo.png" alt="logo TopOption">
-  </a>
-  <a class="broker-top-odkaz" target="_parent" href="http://blog.forexsrovnavac.cz/topoption.de" title="TopOption">TopOption</a>
-  <img class="ikona" src="{{img-url}}flags/de.png" alt="de" style="width: 22px;padding-top: 1px;">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
-  </div>
-  <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Bewertungen: <b>97%</b>
-  </div>
-  <a class="btn btn-success btn-sm" href="http://blog.forexsrovnavac.cz/topoption.de" title"Erfahren Sie mehr Informationen" style="margin:auto;display:block;max-width: 230px;">Erfahren Sie mehr Informationen</a>
-</div>
-<div class="broker">
- <div class="broker-top">
-  <a href="http://blog.forexsrovnavac.cz/etxbinary" title="ETX Binary">
-    <img src="{{img-url}}brokeri/etxcapital-logo.png" alt="logo ETX Capital">
-  </a>
-   <a class="broker-top-odkaz" target="_parent"  href="http://www.forexsrovnavac.cz/etx-capital-zkusenosti" title="ETX Binary">ETX Binary</a>
-  <img class="ikona" src="{{img-url}}flags/de.png" alt="de" style="width: 22px;padding-top: 1px;">
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Bewertungen: <b>95%</b>
- </div>
- <a class="btn btn-success btn-sm" href="http://blog.forexsrovnavac.cz/etxbinary" title"Erfahren Sie mehr Informationen" style="margin:auto;display:block;max-width: 230px;">Erfahren Sie mehr Informationen</a>
-</div> 
-<div class="broker">
- <div class="broker-top">
-  <a href="http://blog.forexsrovnavac.cz/stockpair" title="Stockpair">
-    <img src="{{img-url}}brokeri/stockpair-logo.png" alt="logo StockPair">
-  </a>
-  <a class="broker-top-odkaz" href="#" title="StockPair">StockPair</a>
-  <img class="ikona" src="{{img-url}}brokeri/cnb.png" alt="ČNB">
- </div>
- <div class="hodnoceni">
-  <img src="{{img-url}}brokeri/hodnoceni.png" alt="hodnoceni">
-  Bewertungen: <b>92%</b>
- </div>
- <a class="btn btn-success btn-sm" href="http://blog.forexsrovnavac.cz/stockpair" title"Erfahren Sie mehr Informationen" style="margin:auto;display:block;max-width: 230px;">Erfahren Sie mehr Informationen</a>
-</div> 
+<a href="http://www.plus500.com/de/?id=66349&pl=2" target="_blank" title="+500"><img src="http://cdn.plus500.com/Media/Banners/300x600/24038.gif?set=Brexit Flag Banner_CYSEC" width="265" height="600" border="0" alt="+500" /></a>
 
-<hr />
-<a href="http://serv.markets.com/promoRedirect?key=ej0xNDY0MTkwNiZsPTE0NjQxNzQ4JnA9MTAxNjA%3D"  target="_blank">
- <img src="http://serv.markets.com/promoLoadDisplay?key=ej0xNDY0MTkwNiZsPTE0NjQxNzQ4JnA9MTAxNjA%3D" width="300" height="600"/>
-</a>
-</a>
+
 
 </div>
 </div>

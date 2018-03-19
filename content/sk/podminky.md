@@ -1,7 +1,7 @@
 Všeobecné podmienky pre používanie webu http://www.forexsrovnavac.cz/
 
 
-**1. Základné ustanovenia**
+#**1. Základné ustanovenia**
 
 1) Vlastníkom a prevádzkovateľom internetových stránok http://www.forexsrovnavac.cz/ (ďalej len "Portál") je [Martin Krpenský] so sídlom [Vrbětice 133], IČ: [03561488], neplatca DPH, ktorý je v súlade s právnym poriadkom České republiky podnikateľom.
 

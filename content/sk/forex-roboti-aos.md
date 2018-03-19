@@ -27,6 +27,8 @@ Ak teda budeme vychádzať z predpokladu, že máme obchodný systém, ktorý je
 
 Jedna skupina ľudí vôbec neverí, že by niečo také mohlo existovať, nie to ešte fungovať. Je to pre nich sci-fi, fx-utópia, atp. AI - Umelá inteligencia Forex robot. Toto je prvé čo ma v súvislosti s Forex robotom napadne. A je to vcelku vzaté správne. Dnešná doba sebou nesie nedôveru v čokoľvek a kohokoľvek, čo dvojnásobne platí v oblasti financií a zhodnocovanie peňazí. A tak sa vlastne nie je čomu diviť, ak niekto o tejto možnosti obchodovania pochybuje.
 
+{{partial: fxpro}}
+
 Druhá skupina, zrejme početne menšie, vie, že je možné zostaviť taký softvér, ktorý umožní automatické obchodovanie a verí, že je teoreticky možné, aby takýto softvér, napríklad aj na Forex obchodovanie - prinášal svojmu užívateľovi zisk.
  
     Obchodné Forex robot, ktorý sa učí z vlastných chýb a svoju prácu si riadi, vyhodnocuje a nastavuje sám. Takého robota môžeme považovať aj za "superobchodníka", ktorý stojí nad všetkými trhmi a dosahuje vďaka tomu vynikajúcich výsledku. Znie to tak trochu ako sci-fi, nemyslíte? Je to ale realita. Nie každý broker umožňuje používať forex roboty. Medzi tie ktorí to umožňujú patrí napríklad HotForex, druhú stranu treba u Plus500 sú roboti zakázaní
@@ -72,37 +74,16 @@ Forex robot priebežne sám optimalizuje a upravuje svoje nastavenie tak, aby do
 <div class="col-md-3" markdown="1">
 <div class="well" markdown="1" style="margin-top: 2.5em">
 
-#### Bonusy na forexu
-
-[500 Kč u plus500](http://www.forexsrovnavac.cz/sk/plus500 "plus500")
-
-[30 USD u XM.com](http://www.forexsrovnavac.cz/sk/xm-xemarkets-com "XM.com")
-
-[25 USD u markets.com](http://www.forexsrovnavac.cz/sk/markets-com-recenzia "markets.com")
-
-<br>
-
-#### Binárne opcie
-
-[Topoption recenzia](http://www.forexsrovnavac.cz/sk/topoption "TopOption recenzia")
-
-[Stockpair recenzia](http://www.forexsrovnavac.cz/sk/stockpair "Stockapair recenzia")
-
-[ETX Capital recenzia](http://www.forexsrovnavac.cz/sk/etx-capital-skusenosti "ETX Capital recenzia")
-
-[Onlyoption recenzia](http://www.forexsrovnavac.cz/sk/onlyoption "Onlyoption recenzia")
+{{partial: menu-sk}}
 
 </div>
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxprobanner}}
 
 <div class="container-fluid" markdown="1">
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
 
 </div>
 </div>

@@ -8,6 +8,8 @@
     "keywords": "Onlyoption, Onlyoption recenzie"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
   <meta itemprop="ratingValue" content="94"/>
@@ -28,7 +30,8 @@ O onlyoption.com
 :    
 Na konci roka 2014 bol predstavený nový broker nesúci názov OnlyOption, ktorého prevádzkovateľom je Safecap Investments Ltd., ktorý vrátane OnlyOption vedie aj niekoľko ďalších maklérskych spoločností (FINEX, Markets.com, TopOption, OptionTime, 24winner a ďalšie). Broker OnlyOption podlieha regulácii cyperského úradu CySEC, anglického úradu FCA aj Českej národnej banky.
 
-[Pozrite sa na obchodnú aplikáciu OnlyOption](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
+
+{{partial: topoption}}
 
 </div>
   <div class="col-md-6" markdown="1">
@@ -55,13 +58,13 @@ OnlyOption sa na základe uvedených informácií veľmi podobá brokerovi [TopO
     
     2. pokročilé nástroje riadenia rizika a kontroly, vďaka ktorým si nastavíte percento návratnosti vášho obchodu
 
-    3. Regulácia Českej národnej banky (ďalšie regulácie FCA, CySEC) - [ČNB](https://apl.cnb.cz/apljerrsdad/JERRS.WEB10.VIZITKA?p_lang=cz&p_SEQ_ID=373603&p_VER_ID=1000&p_DATUM=22.12.2011&p_ROL_KOD=35 "CNB").
+    3. Regulácia Českej národnej banky (ďalšie regulácie FCA, CySEC) 
 
 {{section}}
 *Základné informácie o www.OnlyOption.com*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.OnlyOption.com**](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia") |
+| Web:     |   [**www.OnlyOption.com**] |
 | ---------------- | ------------- |
 | **Typ brokera:**   | Binary broker  |
 | **Krajina pôvodu**   | Cyprus / 2014  |
@@ -81,7 +84,6 @@ OnlyOption sa na základe uvedených informácií veľmi podobá brokerovi [TopO
 | **Demo účet**  | Áno |
 | **Čeština**  | Áno |
 
-[www.OnlyOption.com](http://blog.forexsrovnavac.cz/sk/onlyoption "registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 </div>
 </div>
@@ -127,7 +129,6 @@ Broker OnlyOption ponúka možnosť využiť demo účet, ktorý je však časov
 Presne povedané je demo účet možné založiť pri vklade 250 dolárov, a to na dobu 3 až 4 dní. Ak budete mať záujem, môžete si demo účet predĺžiť.
 
 
-[Pozrite sa na demo účet u OnlyOption](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 
 {{/section}}
@@ -151,46 +152,24 @@ Broker poskytuje svojim obchodníkom možnosť vzdelávania a neustáleho rastu.
 <div class="well" markdown="1" style="margin-top: 2.5em">
   
 
-![onlyoption.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/onlyoption-logo.jpg) 
+</div>
+<div class="container-fluid" markdown="1">
 
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/onlyoption "Registrácia"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/onlyoption "Demo účet"){.btn .bnt-lg .btn-default}
+{{partial: Widget - Brokeri}}
+
+
 </div>
 <div class="container-fluid" markdown="1">
 
 
 </div>
-<div class="container-fluid" markdown="1">
 
-</div>
-<div class="container-fluid" markdown="1">
-- - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Pokročilé nástroje
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Regulácia od ČNB
-
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Populárna broker u obchodníkov
-
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Nevhodné pre začiatočníkov
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/sk/onlyoption" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-
-</a>
 
 - - -
-Náš Tip:
-:    
-Onlyoption ponúka 100% bonus k prvému vkladu [Viac informácií o Bonusu](http://blog.forexsrovnavac.cz/sk/onlyoption)
-- - -
+
 
 </div>
 </div>
 </div>
+
+</div><!-- /itemreview -->

@@ -3,8 +3,8 @@
   "template": 1,
   "header": "main",
   "meta" : {
-    "title": "Obchodní Forex strategie - jak obchodovat forex",
-    "description": "",
+    "title": "Forex strategie - jaký je váš obchodní styl?",
+    "description": "Existují dvě základní Forex strategie. Ptáte se která strategie na forex je ta nejlepší?",
     "keywords": "Forex strategie"
   }
 {{/settings}}
@@ -67,7 +67,7 @@ Scalping – minutové obchody
 
 ##Money management na forexu
 
-Money management rozložíme na dvě části:
+[Money management](http://www.forexsrovnavac.cz/money-management) rozložíme na dvě části:
 
 **1. Řízení rizik**
 
@@ -76,6 +76,8 @@ Money management rozložíme na dvě části:
 Řízení rizik spočívá ve vhodně umístěných stop-loss, které chrání Váš kapitál před prudkými cenovými výkyvy neočekávaným směrem. Každý chce dosahovat velké zisky, avšak málokdo si uvědomuje, že obchody s vysokým výnosem jsou často více rizikové než obchody s menším výnosem.
 
 *Diverzifikace portfolia nebo rozložení kapitálu je stejně důležitou součástí money managementu jako řízení rizik. Ochranný mechanismus spočívá v tom, že kapitál investujeme do více trhů, čímž zůstane chráněni případě rapidní změny cen na jednom trhu. Investor by měl diverzifikovat svůj kapitál iz časového hlediska – otevírat krátkodobé, střednědobé i dlouhodobé pozice.*
+
+{{partial: xmcom}}
 
 {{/section}}
 </div>
@@ -89,13 +91,11 @@ Money management rozložíme na dvě části:
 
 - - -
 
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"></SCRIPT><NOSCRIPT><A HREF="https://ad.doubleclick.net/ddm/jump/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/N8017.2070109FOREXSROVNAVAC.CZ/B9072665.122768029;sz=300x600;ord={{@timestamp}}?" BORDER=0 WIDTH=300 HEIGHT=600 ALT="Advertisement"></A></NOSCRIPT>
+{{partial: fxpro-widget}}
 
 - - -
 
-<a href="http://blog.forexsrovnavac.cz/plus500cz"  target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
-</a>
+{{partial: obrazek}}
 
 </div>
 </div>

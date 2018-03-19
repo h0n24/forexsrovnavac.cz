@@ -8,6 +8,8 @@
     "keywords": "24winner, 24winner recenzie"
   }
 {{/settings}}
+<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content="1"/>
   <meta itemprop="ratingValue" content="87"/>
@@ -28,6 +30,7 @@ O 24winner.com
 :    
 V dnešnej recenzii si predstavíme úspešného brokera 24winner. Ako nástupca užívateľsky veľmi obľúbeného brokera TopOption prichádza na trh nový broker s názvom 24 Winner. Hoci meno 24 Winner je vcelku novým menom, skrýva sa pod ním broker, ktorý na trhu pôsobí už dlhšiu dobu, Winner Option. Prevádzkovateľom brokera 24 Winner je spoločnosť Safecap Investments Ltd
 
+{{partial: topoption}}
 
 </div>
   <div class="col-md-6" markdown="1">
@@ -35,7 +38,6 @@ Recenzie 24winner.com
 :    
 Táto spoločnosť vlastniaca aj ďalšie brokermi (TopOption a Markets.com). Sídlo spoločnosti je umiestnené na Cypre a broker tak podlieha regulácii cyperského úradu CySEC. 24 Winner sa zameriava na obchodovanie binárnych opcií na menové páry, akcie aj komodity.
 
-[Pozrite sa na obchodnú aplikáciu 24winner](http://blog.forexsrovnavac.cz/sk/24winner "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 </div>
 </div>
@@ -43,7 +45,7 @@ Táto spoločnosť vlastniaca aj ďalšie brokermi (TopOption a Markets.com). S�
 
 **Obsah recenzie 24winner**: [24winner recenzie](http://forexsrovnavac.cz/sk/24winner#section-1) - [Základné informácie](http://forexsrovnavac.cz/sk/24winner#section-2) - [Skúsenosti s 24winner](http://forexsrovnavac.cz/sk/24winner#section-3) - [Obchodovanie u 24winner](http://forexsrovnavac.cz/sk/24winner#section-4)
 - - -
-![24winner.com](http://blog.forexsrovnavac.cz/sk/wp-content/uploads/2015/04/2015-04-30-16_00_25-24Winner-%E2%80%93-Option-%E2%80%93-Your-Winning-Option-for-Trading-Binary-Options.png) 
+
 {{section}}
 *Prečo obchodovať binárne opcie s 24winner.com*
 :    
@@ -57,7 +59,7 @@ Táto spoločnosť vlastniaca aj ďalšie brokermi (TopOption a Markets.com). S�
 *Základné informácie o www.24winner.com*
 <div class="row" style="width:92%">
   <div class="col-md-6" markdown="1">
-| Web:     |   [**www.24winner.com**](http://blog.forexsrovnavac.cz/24winner) |
+| Web:     |   [**www.24winner.com**] |
 | ---------------- | ------------- |
 | **Typ brokera:**   | Binary broker  |
 | **Krajina pôvodu**   | Safecap Investments Ltd (Kypr)  |
@@ -66,7 +68,6 @@ Táto spoločnosť vlastniaca aj ďalšie brokermi (TopOption a Markets.com). S�
 | **Minimálna obchod**  | 10|
 | **Zákaznícky servis: **  | Email, Chat, Telefón|
 
-[www.24winner.com](http://blog.forexsrovnavac.cz/sk/stockpair "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
   </div>
   <div class="col-md-6" markdown="1">
@@ -86,7 +87,7 @@ Táto spoločnosť vlastniaca aj ďalšie brokermi (TopOption a Markets.com). S�
 
 ##Skúsenosti čitateľa s 24winner
 
-Broker 24 Winner má rovnakého prevádzkovateľa ako broker [Topoption](http://blog.forexsrovnavac.cz/sk/24winner "Topoption recenzie") či broker Markets.com. S ohľadom na to, že je 24 Winner odvodený od existencie TopOption, prevzal od neho aj potrebné licencie úradov v Európskej únii. Rovnako ako TopOption má samozrejme aj licenciu od ČNB na obchodovanie na slovenskom trhu.
+Broker 24 Winner má rovnakého prevádzkovateľa ako broker [Topoption](http://blog.forexsrovnavac.cz/sk/topoption "Topoption recenzie") či broker Markets.com. S ohľadom na to, že je 24 Winner odvodený od existencie TopOption, prevzal od neho aj potrebné licencie úradov v Európskej únii. Rovnako ako TopOption má samozrejme aj licenciu od ČNB na obchodovanie na slovenskom trhu.
 
 Porovnanie s ďalšími brokermi
 :    24 Winner sa od TopOption predsa len líši, a to vo forme platformy. Oproti TopOption ponúka úplne novú a modernizovanú obchodnú platformu, ktorá sa môže pýšiť radom atraktívnych funkcií. Svojou prepracovanosťou sa môže porovnávať aj veľmi úspešnou platformou MetaTrader. Pre českého obchodníka je snáď jedinou nevýhodou platformy to, že nie je poskytovaná v českom jazyku.
@@ -102,7 +103,6 @@ S akými opciami môžeme u 24 Winner obchodovať?
 Výnosy z binárnych opcií
 
 :    Ako už bolo povedané, broker 24 Winner toho má veľa podobného s brokerom TopOption. A jedna z ich podobností sa vidí vo výnosoch. Výnosy 24 Winner sa tak radí k jedným z najvyšších výnosov na trhu. U mien sa stretnete s výnosom 82% au komodít aj akcií s 80%. Výnosy pri minútových opcií činí 70% au Touch opcií 400 až 550%.
-[Pozrite sa na obchodnú aplikáciu 24winner](http://blog.forexsrovnavac.cz/sk/24winner "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
 
 
 {{/section}}
@@ -134,57 +134,23 @@ Vzdelávanie v obchodovaní
 :     Broker 24 Winner poskytuje aj vzdelávacie materiály v podobe E-knihy, ktorú môžete získať zadarmo, a to aj bez vloženia vkladu. E-kniha je rozsiahla, dozviete sa v nej teda o obchodovanie všetko, čo potrebujete zistiť. Problémom však môže byť, že je zatiaľ k dispozícii len v anglickom jazyku.
 
 *Broker 24 Winner je kvalitná ponukou v oblasti obchodovania binárnych opcií. Svojou prepracovanou platformou sa vyrovná aj úspešné obchodnej platforme MetaTrader a vďaka svojim profesionálnym službám ho môžeme radiť medzi najlepšie brokerov na trhu.*
-[Pozrite sa na obchodnú aplikáciu 24winne](http://blog.forexsrovnavac.cz/sk/24winner "Registrácia"){.btn .bnt-lg .btn-primary .pull-left .btn-index}
-
 
 {{/section}}
 
 
 
 </div>
-<div class="col-md-3" markdown="1">
-<div class="well" markdown="1" style="margin-top: 2.5em">
-  
+<div class="col-md-3" markdown="10">
 
-![24winner.com](http://blog.forexsrovnavac.cz/wp-content/uploads/2015/04/24Winner.png) 
-
-[Otvoriť účet](http://blog.forexsrovnavac.cz/sk/24winner "Reálný účet"){.btn .bnt-lg .btn-primary} [Demo](http://blog.forexsrovnavac.cz/sk/24winner "Demo účet"){.btn .bnt-lg .btn-default}
-</div>
-<div class="container-fluid" markdown="1">
-
-
-</div>
-<div class="container-fluid" markdown="1">
-
-</div>
-<div class="container-fluid" markdown="1">
 - - -
-Výhody
-:   
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Až 90% profit
 
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Regulácia od ČNB
+{{partial: Widget - Brokeri}}
 
-![Výhody](http://s28.postimg.org/lj87xfcyh/1402286470_1.png)     Populárna broker u obchodníkov
-
-</div>
-<div class="container-fluid" markdown="1">
-Nevýhody
-:   
-![Nevýhody](http://s23.postimg.org/e1m43sfrr/1402286495_2.png)     Angličtina + vyšší vklad
-- - -
-</div>
-<div class="container-fluid" markdown="1">
-<a href="http://blog.forexsrovnavac.cz/sk/stockpair" alt="Demo účet" target="_blank">
- <img src="http://blog.forexsrovnavac.cz/wp-content/uploads/2014/10/informace.png" width="" height=""/>
+<hr />
 
 </a>
 
-- - -
-Náš Tip:
-:    
-24winner ponúka 100% bonus na nový vklad [Viac informácií o Bonusu](http://blog.forexsrovnavac.cz/sk/24winner)
-- - -
+</a>
 
 </div>
 </div>
